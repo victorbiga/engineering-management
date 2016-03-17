@@ -3,6 +3,7 @@
 # Table of Contents
 
 - [Engineering Management Resources](#engineering-management-resources)
+  - [Concepts](#concepts)
   - [Team vision](#team-vision)
   - [Team culture](#team-culture)
   - [Strategy](#strategy)
@@ -12,6 +13,11 @@
 # Engineering Management Resources
 
 This is a list of inspiring articles related to engineering management. Those are usually short and concise articles that are packed with inspiring and concrete ideas. They have shaped my own management practice, and I hope they will inspire you as well.
+
+## Concepts
+
+* [Learned helplessness](https://en.wikipedia.org/wiki/Learned_helplessness)
+* [Broken window theory](https://en.wikipedia.org/wiki/Broken_windows_theory)
 
 ## Team vision
 
