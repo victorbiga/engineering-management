@@ -4,6 +4,7 @@
 
 - [Engineering Management Resources](#engineering-management-resources)
   - [Concepts](#concepts)
+  - [Project management methodologies](#project-management-methodologies)
   - [Team vision](#team-vision)
   - [Team culture](#team-culture)
   - [Strategy](#strategy)
@@ -18,6 +19,10 @@ This is a list of inspiring articles related to engineering management. Those ar
 
 * [Learned helplessness](https://en.wikipedia.org/wiki/Learned_helplessness)
 * [Broken window theory](https://en.wikipedia.org/wiki/Broken_windows_theory)
+
+## Project management methodologies
+
+* Jason Yip, [It's Not Just Standing Up: Patterns for Daily Standup Meetings](http://martinfowler.com/articles/itsNotJustStandingUp.html): standup are a pretty controversial topics. This article on Martin Fowler's blog provides a good list of patterns and anti-patterns to ensure they're a good productive use of everybody's time.
 
 ## Team vision
 
