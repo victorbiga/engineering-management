@@ -17,6 +17,7 @@ This is a list of inspiring articles related to engineering management. Those ar
 
 ## Concepts
 
+* [Conway's law](https://en.wikipedia.org/wiki/Conway%27s_law): "organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations".
 * [Learned helplessness](https://en.wikipedia.org/wiki/Learned_helplessness)
 * [Broken window theory](https://en.wikipedia.org/wiki/Broken_windows_theory)
 
