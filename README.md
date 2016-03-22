@@ -34,6 +34,7 @@ Those are considered classics:
 
 * [Valve Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
 * [Netflix Culture Deck](http://www.slideshare.net/reed2001/culture-1798664)
+* [The HubSpot Culture Code: Creating a Company We Love](http://blog.hubspot.com/blog/tabid/6307/bid/34234/The-HubSpot-Culture-Code-Creating-a-Company-We-Love.aspx)
 
 ## Strategy
 
