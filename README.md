@@ -21,6 +21,10 @@ This is a list of inspiring articles related to engineering management. Those ar
 * [Learned helplessness](https://en.wikipedia.org/wiki/Learned_helplessness)
 * [Broken window theory](https://en.wikipedia.org/wiki/Broken_windows_theory)
 
+## Feedback & performance
+
+* [Radical Candor — The Surprising Secret to Being a Good Boss](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)
+
 ## Project management methodologies
 
 * Jason Yip, [It's Not Just Standing Up: Patterns for Daily Standup Meetings](http://martinfowler.com/articles/itsNotJustStandingUp.html): standup are a pretty controversial topics. This article on Martin Fowler's blog provides a good list of patterns and anti-patterns to ensure they're a good productive use of everybody's time.
