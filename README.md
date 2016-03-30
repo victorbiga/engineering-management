@@ -25,6 +25,10 @@ This is a list of inspiring articles related to engineering management. Those ar
 
 * [Radical Candor — The Surprising Secret to Being a Good Boss](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)
 
+## Learning & retro & postmortem
+
+* [This is How Effective Leaders Move Beyond Blame](http://firstround.com/review/this-is-how-effective-leaders-move-beyond-blame/)
+
 ## Project management methodologies
 
 * Jason Yip, [It's Not Just Standing Up: Patterns for Daily Standup Meetings](http://martinfowler.com/articles/itsNotJustStandingUp.html): standup are a pretty controversial topics. This article on Martin Fowler's blog provides a good list of patterns and anti-patterns to ensure they're a good productive use of everybody's time.
