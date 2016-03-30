@@ -4,6 +4,8 @@
 
 - [Engineering Management Resources](#engineering-management-resources)
   - [Concepts](#concepts)
+  - [Feedback & performance](#feedback-&-performance)
+  - [Learning & retro & postmortem](#learning-&-retro-&-postmortem)
   - [Project management methodologies](#project-management-methodologies)
   - [Team vision](#team-vision)
   - [Team culture](#team-culture)
@@ -17,9 +19,13 @@ This is a list of inspiring articles related to engineering management. Those ar
 
 ## Concepts
 
+* [Availability heuristic](https://en.wikipedia.org/wiki/Availability_heuristic): "a mental shortcut that relies on immediate examples that come to a given person's mind when evaluating a specific topic, concept, method or decision" (Wikipedia).
 * [Conway's law](https://en.wikipedia.org/wiki/Conway%27s_law): "organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations".
+* [Fundamental attribution error](https://en.wikipedia.org/wiki/Fundamental_attribution_error): "the tendency for people to place an undue emphasis on internal characteristics (personality) to explain someone else's behavior in a given situation rather than considering the situation's external factors" (Wikipedia).
 * [Learned helplessness](https://en.wikipedia.org/wiki/Learned_helplessness)
 * [Broken window theory](https://en.wikipedia.org/wiki/Broken_windows_theory)
+* [Hindsight bias](https://en.wikipedia.org/wiki/Hindsight_bias): "the inclination, after an event has occurred, to see the event as having been predictable, despite there having been little or no objective basis for predicting it" (Wikipedia).
+* [Outcome bias](https://en.wikipedia.org/wiki/Outcome_bias): "an error made in evaluating the quality of a decision when the outcome of that decision is already known" (Wikipedia).
 
 ## Feedback & performance
 
