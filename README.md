@@ -5,6 +5,7 @@
 - [Engineering Management Resources](#engineering-management-resources)
   - [Concepts](#concepts)
   - [Feedback & performance](#feedback-&-performance)
+  - [Hiring](#hiring)
   - [Learning & retro & postmortem](#learning-&-retro-&-postmortem)
   - [Project management methodologies](#project-management-methodologies)
   - [Team vision](#team-vision)
@@ -30,6 +31,10 @@ This is a list of inspiring articles related to engineering management. Those ar
 ## Feedback & performance
 
 * [Radical Candor — The Surprising Secret to Being a Good Boss](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)
+
+## Hiring
+
+* [Good Intentions Fail at Scale](http://www.fancybeans.com/blog/2016/02/05/good-intentions-fail-at-scale/): great article about why you can't rely on good intentions to increase diversity.
 
 ## Learning & retro & postmortem
 
