@@ -9,6 +9,7 @@
   - [Learning & retro & postmortem](#learning-&-retro-&-postmortem)
   - [Project management methodologies](#project-management-methodologies)
   - [Team vision](#team-vision)
+  - [Technical strategy](#technical-strategy)
   - [Team culture](#team-culture)
   - [Strategy](#strategy)
 
@@ -17,6 +18,8 @@
 # Engineering Management Resources
 
 This is a list of inspiring articles related to engineering management. Those are usually short and concise articles that are packed with inspiring and concrete ideas. They have shaped my own management practice, and I hope they will inspire you as well.
+
+I don't necessarily agree with everything listed here. But I do believe those thought-provoking resources will help you in your manager journey.
 
 ## Concepts
 
@@ -47,6 +50,10 @@ This is a list of inspiring articles related to engineering management. Those ar
 ## Team vision
 
 * Seth Godin, [A manifesto for small teams doing important work](http://sethgodin.typepad.com/seths_blog/2016/02/a-manifesto-for-small-teams-doing-important-work.html): really inspiring list of short cultural values for a team. Craft your own!
+
+## Technical strategy
+
+* Joel Spolsky, [Things You Should Never Do, Part I](http://www.joelonsoftware.com/articles/fog0000000069.html): Joel explains why (according to him) you should never rewrite a codebase.
 
 ## Team culture
 
