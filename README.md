@@ -38,6 +38,7 @@ I don't necessarily agree with everything listed here. But I do believe those th
 ## Hiring
 
 * [Good Intentions Fail at Scale](http://www.fancybeans.com/blog/2016/02/05/good-intentions-fail-at-scale/): great article about why you can't rely on good intentions to increase diversity.
+* A good example of [offer letter](https://medium.com/@henrysward/a-better-offer-letter-4e9bf61a7365#.md4rm1zlp) from eShares.
 
 ## Learning & retro & postmortem
 
