@@ -24,7 +24,7 @@ I don't necessarily agree with everything listed here. But I do believe those th
 ## Concepts
 
 * [Availability heuristic](https://en.wikipedia.org/wiki/Availability_heuristic): "a mental shortcut that relies on immediate examples that come to a given person's mind when evaluating a specific topic, concept, method or decision" (Wikipedia).
-* [Conway's law](https://en.wikipedia.org/wiki/Conway%27s_law): "organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations".
+* [Conway's law](https://en.wikipedia.org/wiki/Conway%27s_law): "organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations". [Read the original paper](http://www.melconway.com/Home/Committees_Paper.html)
 * [Fundamental attribution error](https://en.wikipedia.org/wiki/Fundamental_attribution_error): "the tendency for people to place an undue emphasis on internal characteristics (personality) to explain someone else's behavior in a given situation rather than considering the situation's external factors" (Wikipedia).
 * [Learned helplessness](https://en.wikipedia.org/wiki/Learned_helplessness)
 * [Broken window theory](https://en.wikipedia.org/wiki/Broken_windows_theory)
