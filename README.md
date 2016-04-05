@@ -3,6 +3,7 @@
 # Table of Contents
 
 - [Engineering Management Resources](#engineering-management-resources)
+  - [Code reviews](#code-reviews)
   - [Concepts](#concepts)
   - [Feedback & performance](#feedback-&-performance)
   - [Hiring](#hiring)
@@ -21,15 +22,26 @@ This is a list of inspiring articles related to engineering management. Those ar
 
 I don't necessarily agree with everything listed here. But I do believe those thought-provoking resources will help you in your manager journey.
 
+## Code reviews
+
+* [Ask HN: How do you review code?](https://news.ycombinator.com/item?id=11416746): great discussion on HackerNews, full of interesting ideas.
+* [Maslow's pyramid of code reviews](http://blog.d3in.org/post/111338685456/maslows-pyramid-of-code-review)
+
 ## Concepts
 
 * [Availability heuristic](https://en.wikipedia.org/wiki/Availability_heuristic): "a mental shortcut that relies on immediate examples that come to a given person's mind when evaluating a specific topic, concept, method or decision" (Wikipedia).
+* [Broken window theory](https://en.wikipedia.org/wiki/Broken_windows_theory)
+* [Bystander effect](https://en.wikipedia.org/wiki/Bystander_effect): "cases in which individuals do not offer any means of help to a victim when other people are present. The probability of help is inversely related to the number of bystanders."
 * [Conway's law](https://en.wikipedia.org/wiki/Conway%27s_law): "organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations". [Read the original paper](http://www.melconway.com/Home/Committees_Paper.html)
 * [Fundamental attribution error](https://en.wikipedia.org/wiki/Fundamental_attribution_error): "the tendency for people to place an undue emphasis on internal characteristics (personality) to explain someone else's behavior in a given situation rather than considering the situation's external factors" (Wikipedia).
-* [Learned helplessness](https://en.wikipedia.org/wiki/Learned_helplessness)
-* [Broken window theory](https://en.wikipedia.org/wiki/Broken_windows_theory)
 * [Hindsight bias](https://en.wikipedia.org/wiki/Hindsight_bias): "the inclination, after an event has occurred, to see the event as having been predictable, despite there having been little or no objective basis for predicting it" (Wikipedia).
+* [Learned helplessness](https://en.wikipedia.org/wiki/Learned_helplessness)
+* Maslow's Pyramid
 * [Outcome bias](https://en.wikipedia.org/wiki/Outcome_bias): "an error made in evaluating the quality of a decision when the outcome of that decision is already known" (Wikipedia).
+* [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle): "for many events, roughly 80% of the effects come from 20% of the causes".
+* [Prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma): "a standard example of a game analyzed in game theory that shows why two completely "rational" individuals might not cooperate, even if it appears that it is in their best interests to do so."
+* [Tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): "a situation within a shared-resource system where individual users acting independently and rationally according to their own self-interest behave contrary to the common good of all users by depleting that resource."
+* [Volunteer's Dilemma](https://en.wikipedia.org/wiki/Volunteer%27s_dilemma): "a situation in which each of X players faces the decision of either making a small sacrifice from which all will benefit, or freeriding."
 
 ## Feedback & performance
 
