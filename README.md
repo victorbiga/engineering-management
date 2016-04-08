@@ -25,7 +25,7 @@ More than any other field, management is full of fluffy books that could be summ
 
 ## Turn the Ship Around!: A True Story of Turning Followers into Leaders
 
-[Turn the Ship Around!: A True Story of Turning Followers into Leaders}(http://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404) is hands down my preferred management book.
+[Turn the Ship Around!: A True Story of Turning Followers into Leaders](http://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404) is hands down my preferred management book.
 
 This book made me truly understand what empowering local decision means. In particular, I liked how the author explains that the usual chain of command requires information to go up the chain, and decision to go down, which is insanely inefficient.
 
