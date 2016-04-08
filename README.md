@@ -2,6 +2,9 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 # Table of Contents
 
+- [Books](#books)
+  - [Turn the Ship Around!: A True Story of Turning Followers into Leaders](#turn-the-ship-around-a-true-story-of-turning-followers-into-leaders)
+  - [Other books](#other-books)
 - [Engineering Management Resources](#engineering-management-resources)
   - [Code reviews](#code-reviews)
   - [Concepts](#concepts)
@@ -15,6 +18,26 @@
   - [Strategy](#strategy)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+# Books
+
+More than any other field, management is full of fluffy books that could be summarized in one 100-word article. That being said, there's a number of excellent books, listed below.
+
+## Turn the Ship Around!: A True Story of Turning Followers into Leaders
+
+[Turn the Ship Around!: A True Story of Turning Followers into Leaders}(http://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404) is hands down my preferred management book.
+
+This book made me truly understand what empowering local decision means. In particular, I liked how the author explains that the usual chain of command requires information to go up the chain, and decision to go down, which is insanely inefficient.
+
+It provides great tools for managers to help their team members come up with their own decisions, in particular the notion of **deliberate action**. There's a also [a presentation](http://www.slideshare.net/micrimson/turn-the-ship-around-041614) that talks about the main concepts the author developed.
+
+There are numerous cheesy management books and this is not one of them. The narration is great as well and the explanations are short, and to the point.
+
+You can find a short summary in video [here](https://www.youtube.com/watch?v=psAXMqxwol8).
+
+## Other books
+
+* [The Advantage, Enhanced Edition: Why Organizational Health Trumps Everything Else In Business](http://www.amazon.com/gp/product/B006ORWT3Y/ref=dp-kindle-redirect?ie=UTF8&btkr=1).
 
 # Engineering Management Resources
 
@@ -32,6 +55,7 @@ I don't necessarily agree with everything listed here. But I do believe those th
 * [Availability heuristic](https://en.wikipedia.org/wiki/Availability_heuristic): "a mental shortcut that relies on immediate examples that come to a given person's mind when evaluating a specific topic, concept, method or decision" (Wikipedia).
 * [Broken window theory](https://en.wikipedia.org/wiki/Broken_windows_theory)
 * [Bystander effect](https://en.wikipedia.org/wiki/Bystander_effect): "cases in which individuals do not offer any means of help to a victim when other people are present. The probability of help is inversely related to the number of bystanders."
+* [Cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance): "discomfort experienced by an individual who holds two or more contradictory beliefs, ideas, or values at the same time".
 * [Conway's law](https://en.wikipedia.org/wiki/Conway%27s_law): "organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations". [Read the original paper](http://www.melconway.com/Home/Committees_Paper.html)
 * [Fundamental attribution error](https://en.wikipedia.org/wiki/Fundamental_attribution_error): "the tendency for people to place an undue emphasis on internal characteristics (personality) to explain someone else's behavior in a given situation rather than considering the situation's external factors" (Wikipedia).
 * [Hindsight bias](https://en.wikipedia.org/wiki/Hindsight_bias): "the inclination, after an event has occurred, to see the event as having been predictable, despite there having been little or no objective basis for predicting it" (Wikipedia).
