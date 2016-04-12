@@ -39,6 +39,10 @@ You can find a short summary in video [here](https://www.youtube.com/watch?v=psA
 
 * [The Advantage, Enhanced Edition: Why Organizational Health Trumps Everything Else In Business](http://www.amazon.com/gp/product/B006ORWT3Y/ref=dp-kindle-redirect?ie=UTF8&btkr=1).
 
+# What is engineering management?
+
+* [Unintuitive Things I’ve Learned about Management](https://medium.com/the-year-of-the-looking-glass/unintuitive-things-i-ve-learned-about-management-f2c42d68604b#.2z9av4pzs)
+
 # Engineering Management Resources
 
 This is a list of inspiring articles related to engineering management. Those are usually short and concise articles that are packed with inspiring and concrete ideas. They have shaped my own management practice, and I hope they will inspire you as well.
@@ -76,6 +80,10 @@ I don't necessarily agree with everything listed here. But I do believe those th
 
 * [Good Intentions Fail at Scale](http://www.fancybeans.com/blog/2016/02/05/good-intentions-fail-at-scale/): great article about why you can't rely on good intentions to increase diversity.
 * A good example of [offer letter](https://medium.com/@henrysward/a-better-offer-letter-4e9bf61a7365#.md4rm1zlp) from eShares.
+
+### Interviews
+
+* [Vanquish whiteboard interview puzzles with test-driven development](http://www.codewithoutrules.com/2016/04/04/interview-puzzles/)
 
 ## Learning & retro & postmortem
 
