@@ -69,6 +69,7 @@ I don't necessarily agree with everything listed here. But I do believe those th
 * Maslow's Pyramid
 * [Outcome bias](https://en.wikipedia.org/wiki/Outcome_bias): "an error made in evaluating the quality of a decision when the outcome of that decision is already known" (Wikipedia).
 * [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle): "for many events, roughly 80% of the effects come from 20% of the causes".
+* [Principle of least astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment): "component of a system should behave in a manner consistent with how users of that component are likely to expect it to behave" (Wikipedia).
 * [Prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma): "a standard example of a game analyzed in game theory that shows why two completely "rational" individuals might not cooperate, even if it appears that it is in their best interests to do so."
 * [Tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): "a situation within a shared-resource system where individual users acting independently and rationally according to their own self-interest behave contrary to the common good of all users by depleting that resource."
 * [Volunteer's Dilemma](https://en.wikipedia.org/wiki/Volunteer%27s_dilemma): "a situation in which each of X players faces the decision of either making a small sacrifice from which all will benefit, or freeriding."
