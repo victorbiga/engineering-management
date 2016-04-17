@@ -63,6 +63,7 @@ I don't necessarily agree with everything listed here. But I do believe those th
 
 * [Availability heuristic](https://en.wikipedia.org/wiki/Availability_heuristic): "a mental shortcut that relies on immediate examples that come to a given person's mind when evaluating a specific topic, concept, method or decision" (Wikipedia).
 * [Broken window theory](https://en.wikipedia.org/wiki/Broken_windows_theory)
+* [Brooks' law](https://en.wikipedia.org/wiki/Brooks%E2%80%99_law): "adding manpower to a late software project makes it later"
 * [Bystander effect](https://en.wikipedia.org/wiki/Bystander_effect): "cases in which individuals do not offer any means of help to a victim when other people are present. The probability of help is inversely related to the number of bystanders."
 * [Cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance): "discomfort experienced by an individual who holds two or more contradictory beliefs, ideas, or values at the same time".
 * [Conway's law](https://en.wikipedia.org/wiki/Conway%27s_law): "organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations". [Read the original paper](http://www.melconway.com/Home/Committees_Paper.html)
