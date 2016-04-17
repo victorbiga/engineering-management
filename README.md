@@ -43,7 +43,10 @@ You can find a short summary in video [here](https://www.youtube.com/watch?v=psA
 
 # What is engineering management?
 
+Here are some generic resources:
+
 * [Unintuitive Things I’ve Learned about Management](https://medium.com/the-year-of-the-looking-glass/unintuitive-things-i-ve-learned-about-management-f2c42d68604b#.2z9av4pzs)
+* [Thoughts on Building Weatherproof Companies](http://a16z.com/2016/03/25/building-weatherproof-companies/): while originally aimed at startups CEOs, this article from Andreessen Horowitz's blog is a very inspiring read on what it takes to scale your team.
 
 # Engineering Management Resources
 
@@ -118,3 +121,12 @@ Shameless plug here, two presentations I contributed to:
 
 * [Amazon: the hidden empire](http://www.slideshare.net/faberNovel/amazoncom-the-hidden-empire)
 * [Apple: 8 easy steps to beat Microsoft](http://www.slideshare.net/faberNovel/apple-study-8-easy-steps-to-beat-microsoft-and-google)
+
+## Writing
+
+* [The 7 Emails You Need to Know How to Write](http://unreasonable.is/the-7-emails-you-need-to-know-how-to-write/)
+
+# Movies
+
+* [Moneyball](https://en.wikipedia.org/wiki/Moneyball_(film)). [What's the problem?](https://www.youtube.com/watch?v=HiB9L3dG-Aw)
+* [Office Space](https://en.wikipedia.org/wiki/Office_Space)
