@@ -6,18 +6,24 @@
   - [Turn the Ship Around!: A True Story of Turning Followers into Leaders](#turn-the-ship-around-a-true-story-of-turning-followers-into-leaders)
   - [Other books](#other-books)
 - [What is engineering management?](#what-is-engineering-management)
+- [General management resources](#general-management-resources)
 - [Engineering Management Resources](#engineering-management-resources)
+  - [Antipatterns](#antipatterns)
   - [Code reviews](#code-reviews)
   - [Concepts](#concepts)
   - [Feedback & performance](#feedback-&-performance)
   - [Hiring](#hiring)
-    - [Interviews](#interviews)
+    - [Hiring: diversity](#hiring-diversity)
+    - [Hiring: interviews](#hiring-interviews)
+    - [Hiring: sourcing](#hiring-sourcing)
   - [Learning & retro & postmortem](#learning-&-retro-&-postmortem)
   - [Project management methodologies](#project-management-methodologies)
   - [Team vision](#team-vision)
   - [Technical strategy](#technical-strategy)
   - [Team culture](#team-culture)
   - [Strategy](#strategy)
+  - [Writing](#writing)
+- [Movies](#movies)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -51,12 +57,13 @@ Here are some generic resources:
 # General management resources
 
 * [14 Points for Management](https://www.deming.org/theman/theories/fourteenpoints) by W. Edwards Deming.
+* [Keith Rabois on the Role of a COO, How to Hire and Why Transparency Matters](http://firstround.com/review/Keith-Rabois-on-the-role-of-a-COO-how-to-hire-and-why-transparency-matters/) includes some nice management nuggets.
 
 # Engineering Management Resources
 
 This is a list of inspiring articles related to engineering management. Those are usually short and concise articles that are packed with inspiring and concrete ideas. They have shaped my own management practice, and I hope they will inspire you as well.
 
-I don't necessarily agree with everything listed here. But I do believe those thought-provoking resources will help you in your manager journey.
+I don't necessarily agree with everything listed here. Actually, you'll see that some of those articles have diametrically opposed opinions. I do believe those thought-provoking resources will help you in your manager journey.
 
 ## Antipatterns
 
@@ -81,6 +88,7 @@ I don't necessarily agree with everything listed here. But I do believe those th
 * [Learned helplessness](https://en.wikipedia.org/wiki/Learned_helplessness)
 * Maslow's Pyramid
 * [Outcome bias](https://en.wikipedia.org/wiki/Outcome_bias): "an error made in evaluating the quality of a decision when the outcome of that decision is already known" (Wikipedia).
+* [Overconfidence effect](https://en.wikipedia.org/wiki/Overconfidence_effect): "a well-established bias in which a person's subjective *confidence* in his or her judgments is reliably greater than the objective *accuracy* of those judgments" (Wikipedia).
 * [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle): "for many events, roughly 80% of the effects come from 20% of the causes".
 * [Principle of least astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment): "component of a system should behave in a manner consistent with how users of that component are likely to expect it to behave" (Wikipedia).
 * [Prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma): "a standard example of a game analyzed in game theory that shows why two completely "rational" individuals might not cooperate, even if it appears that it is in their best interests to do so."
@@ -94,12 +102,28 @@ I don't necessarily agree with everything listed here. But I do believe those th
 
 ## Hiring
 
-* [Good Intentions Fail at Scale](http://www.fancybeans.com/blog/2016/02/05/good-intentions-fail-at-scale/): great article about why you can't rely on good intentions to increase diversity.
 * A good example of [offer letter](https://medium.com/@henrysward/a-better-offer-letter-4e9bf61a7365#.md4rm1zlp) from eShares.
+* [We Hire the Best, Just Like Everyone Else](http://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/), Jeff Atwood.
+* [How to Hire](https://medium.com/swlh/how-to-hire-34f4ded5f176#.jxkz3wrs3): one of the best articles about hiring.
+* [The hiring post](http://sockpuppet.org/blog/2015/03/06/the-hiring-post/): another truly awesome post about hiring by Thomas Ptacek.
+* [This is why you never end up hiring good developers](http://qz.com/258066/this-is-why-you-dont-hire-good-developers/)
+* [The Single Most Sure-Fire Hiring Decision You Will Ever Make](http://behindthescenesrecruiter.com/post/82005145232/the-single-most-sure-fire-hiring-decision-you-will#.VxntfpN94UE) is about establishing an intern program.
+* [Engineering Management - Hiring](http://algeri-wong.com/yishan/engineering-management-hiring.html) explains why hiring should be your top priority.
 
-## Interviews
+### Hiring: diversity
 
-* [Vanquish whiteboard interview puzzles with test-driven development](http://www.codewithoutrules.com/2016/04/04/interview-puzzles/)
+* [Guess Who Doesn’t Fit In at Work](http://www.nytimes.com/2015/05/31/opinion/sunday/guess-who-doesnt-fit-in-at-work.html)
+* [Why Hiring for "Culture Fit" Hurts Your Culture](http://www.paperplanes.de/2015/6/11/why-hiring-for-culture-fit-hurts-your-culture.html)
+* [Good Intentions Fail at Scale](http://www.fancybeans.com/blog/2016/02/05/good-intentions-fail-at-scale/): great article about why you can't rely on good intentions to increase diversity.
+
+### Hiring: interviews
+
+* [Vanquish whiteboard interview puzzles with test-driven development](http://www.codewithoutrules.com/2016/04/04/interview-puzzles/), Jocelyn Goldfein.
+* [The Phone Screen](http://www.joelonsoftware.com/articles/ThePhoneScreen.html)
+
+### Hiring: sourcing
+
+* [How To Hire Engineers: Step 1, Sourcing](https://medium.com/@jocelyngoldfein/how-to-hire-engineers-step-1-sourcing-f388fddc63fd#.fwtgweq0e)
 
 ## Learning & retro & postmortem
 
