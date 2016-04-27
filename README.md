@@ -77,16 +77,20 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 ## Concepts
 
 * [Availability heuristic](https://en.wikipedia.org/wiki/Availability_heuristic): "a mental shortcut that relies on immediate examples that come to a given person's mind when evaluating a specific topic, concept, method or decision" (Wikipedia).
+* [Bias blind spot](https://en.wikipedia.org/wiki/Bias_blind_spot): "recognizing the impact of biases on the judgement of others, while failing to see the impact of biases on one's own judgement" (Wikipedia).
 * [Broken window theory](https://en.wikipedia.org/wiki/Broken_windows_theory)
 * [Brooks' law](https://en.wikipedia.org/wiki/Brooks%E2%80%99_law): "adding manpower to a late software project makes it later" (Wikipedia).
 * [Bystander effect](https://en.wikipedia.org/wiki/Bystander_effect): "cases in which individuals do not offer any means of help to a victim when other people are present. The probability of help is inversely related to the number of bystanders." (Wikipedia).
 * [Cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance): "discomfort experienced by an individual who holds two or more contradictory beliefs, ideas, or values at the same time" (Wikipedia).
 * [Confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias): "the tendency to search for, interpret, favor, and recall information in a way that confirms one's preexisting beliefs or hypotheses, while giving disproportionately less consideration to alternative possibilities" (Wikipedia).
 * [Conway's law](https://en.wikipedia.org/wiki/Conway%27s_law): "organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations". [Read the original paper](http://www.melconway.com/Home/Committees_Paper.html)
+* [Déformation professionnelle](https://en.wikipedia.org/wiki/D%C3Tuesday9formation_professionnelle): "tendency to look at things from the point of view of one's own profession rather than from a broader perspective" (Wikipedia).
 * [Fundamental attribution error](https://en.wikipedia.org/wiki/Fundamental_attribution_error): "the tendency for people to place an undue emphasis on internal characteristics (personality) to explain someone else's behavior in a given situation rather than considering the situation's external factors" (Wikipedia).
+* [Halo effect](https://en.wikipedia.org/wiki/Halo_effect): "an observer's overall impression of a person, company, brand, or product influences the observer's feelings and thoughts about that entity's character or properties" (Wikipedia).
 * [Hindsight bias](https://en.wikipedia.org/wiki/Hindsight_bias): "the inclination, after an event has occurred, to see the event as having been predictable, despite there having been little or no objective basis for predicting it" (Wikipedia).
 * [Learned helplessness](https://en.wikipedia.org/wiki/Learned_helplessness)
 * Maslow's Pyramid
+* [Mere-exposure effect](https://en.wikipedia.org/wiki/Mere-exposure_effect): "to develop a preference for things merely because they are familiar with them" (Wikipedia).
 * [Outcome bias](https://en.wikipedia.org/wiki/Outcome_bias): "an error made in evaluating the quality of a decision when the outcome of that decision is already known" (Wikipedia).
 * [Overconfidence effect](https://en.wikipedia.org/wiki/Overconfidence_effect): "a well-established bias in which a person's subjective *confidence* in his or her judgments is reliably greater than the objective *accuracy* of those judgments" (Wikipedia).
 * [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle): "for many events, roughly 80% of the effects come from 20% of the causes".
@@ -115,6 +119,8 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 * [Guess Who Doesn’t Fit In at Work](http://www.nytimes.com/2015/05/31/opinion/sunday/guess-who-doesnt-fit-in-at-work.html)
 * [Why Hiring for "Culture Fit" Hurts Your Culture](http://www.paperplanes.de/2015/6/11/why-hiring-for-culture-fit-hurts-your-culture.html)
 * [Good Intentions Fail at Scale](http://www.fancybeans.com/blog/2016/02/05/good-intentions-fail-at-scale/): great article about why you can't rely on good intentions to increase diversity.
+* [List of cognitive biases on Wikipedia](http://rationalwiki.org/wiki/List_of_cognitive_biases)
+* [Making the Unconscious Conscious](https://www.youtube.com/watch?v=NW5s_-Nl3JE) (Google Video)
 
 ### Hiring: interviews
 
