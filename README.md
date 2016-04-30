@@ -142,6 +142,7 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 ## Team vision
 
 * Seth Godin, [A manifesto for small teams doing important work](http://sethgodin.typepad.com/seths_blog/2016/02/a-manifesto-for-small-teams-doing-important-work.html): really inspiring list of short cultural values for a team. Craft your own!
+* Seth Godin, [Big questions before little ones](http://sethgodin.typepad.com/seths_blog/2016/03/big-questions-before-little-ones.html)
 
 ## Technical strategy
 
