@@ -126,6 +126,7 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 
 * [Vanquish whiteboard interview puzzles with test-driven development](http://www.codewithoutrules.com/2016/04/04/interview-puzzles/), Jocelyn Goldfein.
 * [The Phone Screen](http://www.joelonsoftware.com/articles/ThePhoneScreen.html)
+* [The pursuit of happyness' interview scene](https://www.youtube.com/watch?v=gHXKitKAT1E) (video)
 
 ### Hiring: sourcing
 
@@ -171,3 +172,4 @@ Shameless plug here, two presentations I contributed to:
 
 * [Moneyball](https://en.wikipedia.org/wiki/Moneyball_(film)). [What's the problem?](https://www.youtube.com/watch?v=HiB9L3dG-Aw)
 * [Office Space](https://en.wikipedia.org/wiki/Office_Space)
+* [The Pursuit of Happyness](https://en.wikipedia.org/wiki/The_Pursuit_of_Happyness) contains some great lessons about hustle. [Watch the interview scene](https://www.youtube.com/watch?v=gHXKitKAT1E).
