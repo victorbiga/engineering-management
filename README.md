@@ -156,10 +156,13 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 
 ## Team vision
 
+"Starting with the why" is one of The 7 Habits of Highly Effective People's best chapters.
+
 * Seth Godin, [A manifesto for small teams doing important work](http://sethgodin.typepad.com/seths_blog/2016/02/a-manifesto-for-small-teams-doing-important-work.html): really inspiring list of short cultural values for a team. Craft your own!
 * Seth Godin, [Big questions before little ones](http://sethgodin.typepad.com/seths_blog/2016/03/big-questions-before-little-ones.html)
-* [Focusing is about saying no](https://www.youtube.com/watch?v=H8eP99neOVs)
-* Bryan Cantrill (Joyent VP of Eng) about the [importance of why](https://youtu.be/bGkVM1B5NuI?t=1210)
+* [Focusing is about saying no](https://www.youtube.com/watch?v=H8eP99neOVs) (Steve Jobs)
+* [Vision is about perseverance](https://www.youtube.com/watch?v=gFE-Tdz24hM) (Steve Jobs)
+* Bryan Cantrill (Joyent VP of Eng) about the [importance of why](https://youtu.be/bGkVM1B5NuI?t=1210). Steve Jobs on the [same topic](https://www.youtube.com/watch?v=GY5bn0flEmc).
 
 ## Technical strategy
 
