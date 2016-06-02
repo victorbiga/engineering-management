@@ -189,3 +189,15 @@ Shameless plug here, two presentations I contributed to:
 * [Moneyball](https://en.wikipedia.org/wiki/Moneyball_(film)). [What's the problem?](https://www.youtube.com/watch?v=HiB9L3dG-Aw)
 * [Office Space](https://en.wikipedia.org/wiki/Office_Space)
 * [The Pursuit of Happyness](https://en.wikipedia.org/wiki/The_Pursuit_of_Happyness) contains some great lessons about hustle. [Watch the interview scene](https://www.youtube.com/watch?v=gHXKitKAT1E).
+
+# Keeping up-to-date: blogs and newsletters
+
+Here are some blogs and newsletter I follow.
+
+## Newsletter
+
+* [Software Lead Weekly](http://softwareleadweekly.com/) (Oren Ellenbogen): a short curation of great management articles. Also include some videos, and some less serious, funny material. A lot of the links founds in this repo appeared in Oren's weekly email.
+
+## Blogs
+
+* [Hacker News](https://news.ycombinator.com/): mandatory if you want to stay abreast of what's going in tech. There are some good management articles from time to time as well. Since it can be a pretty huge time sink, I subscribe to a curation of the top articles instead ([RSS feed here](http://www.daemonology.net/hn-daily/index.rss)).
