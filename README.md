@@ -24,6 +24,9 @@
   - [Strategy](#strategy)
   - [Writing](#writing)
 - [Movies](#movies)
+- [Keeping up-to-date: blogs and newsletters](#keeping-up-to-date-blogs-and-newsletters)
+  - [Newsletter](#newsletter)
+  - [Blogs](#blogs)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
