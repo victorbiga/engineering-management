@@ -17,6 +17,7 @@
     - [Hiring: interviews](#hiring-interviews)
     - [Hiring: sourcing](#hiring-sourcing)
   - [Learning & retro & postmortem](#learning-&-retro-&-postmortem)
+  - [Programming languages](#programming-languages)
   - [Project management methodologies](#project-management-methodologies)
   - [Team vision](#team-vision)
   - [Technical strategy](#technical-strategy)
@@ -24,6 +25,7 @@
   - [Strategy](#strategy)
   - [Writing](#writing)
 - [Movies](#movies)
+  - [TV Shows](#tv-shows)
 - [Keeping up-to-date: blogs and newsletters](#keeping-up-to-date-blogs-and-newsletters)
   - [Newsletter](#newsletter)
   - [Blogs](#blogs)
@@ -152,6 +154,10 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 
 * [This is How Effective Leaders Move Beyond Blame](http://firstround.com/review/this-is-how-effective-leaders-move-beyond-blame/)
 
+## Programming languages
+
+* [Static vs. dynamic languages: a literature review](http://danluu.com/empirical-pl/)
+
 ## Project management methodologies
 
 * Jason Yip, [It's Not Just Standing Up: Patterns for Daily Standup Meetings](http://martinfowler.com/articles/itsNotJustStandingUp.html): standup are a pretty controversial topics. This article on Martin Fowler's blog provides a good list of patterns and anti-patterns to ensure they're a good productive use of everybody's time.
@@ -196,6 +202,13 @@ Shameless plug here, two presentations I contributed to:
 * [Moneyball](https://en.wikipedia.org/wiki/Moneyball_(film)). [What's the problem?](https://www.youtube.com/watch?v=HiB9L3dG-Aw)
 * [Office Space](https://en.wikipedia.org/wiki/Office_Space)
 * [The Pursuit of Happyness](https://en.wikipedia.org/wiki/The_Pursuit_of_Happyness) contains some great lessons about hustle. [Watch the interview scene](https://www.youtube.com/watch?v=gHXKitKAT1E).
+
+## TV Shows
+
+Netflix's [Chef's table](https://en.wikipedia.org/wiki/Chef%27s_Table) profiles a couple world-renown chef. The kitchen world bears a lot of similarities with management. In the season two, I especially recommend episode 1 and 3:
+
+* [Alex Atala](https://en.wikipedia.org/wiki/Alex_Atala)'s story shows that you need to constantly reinvent and disrupt yourself.
+* [Dominique Crenn](http://www.ateliercrenn.com/) explains how she was given ownership over her work in her first kitchen experience (where she was basically given just a dish name, a list of ingredients, and was expected to invent the recipe with no kitchen training). She replicated that in her own kitchen.
 
 # Keeping up-to-date: blogs and newsletters
 
