@@ -119,7 +119,7 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 
 ## First-time manager
 
-* [How to Ensure a New Manager Succeeds}(https://getlighthouse.com/blog/new-manager-how-to-help-succeed/)
+* [How to Ensure a New Manager Succeeds](https://getlighthouse.com/blog/new-manager-how-to-help-succeed/)
 
 ## Feedback & performance
 
@@ -143,13 +143,13 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 * [Why Hiring for "Culture Fit" Hurts Your Culture](http://www.paperplanes.de/2015/6/11/why-hiring-for-culture-fit-hurts-your-culture.html)
 * [Good Intentions Fail at Scale](http://www.fancybeans.com/blog/2016/02/05/good-intentions-fail-at-scale/): great article about why you can't rely on good intentions to increase diversity.
 * [List of cognitive biases on Wikipedia](http://rationalwiki.org/wiki/List_of_cognitive_biases)
-* [Making the Unconscious Conscious](https://www.youtube.com/watch?v=NW5s_-Nl3JE) (Google Video)
+* [Making the Unconscious Conscious](https://www.youtube.com/watch?v=NW5s_-Nl3JE) (Google Video) :clapper:
 
 ### Hiring: interviews
 
 * [Vanquish whiteboard interview puzzles with test-driven development](http://www.codewithoutrules.com/2016/04/04/interview-puzzles/), Jocelyn Goldfein.
 * [The Phone Screen](http://www.joelonsoftware.com/articles/ThePhoneScreen.html)
-* [The pursuit of happyness' interview scene](https://www.youtube.com/watch?v=gHXKitKAT1E) (video)
+* [The pursuit of happyness' interview scene](https://www.youtube.com/watch?v=gHXKitKAT1E) :clapper:
 
 ### Hiring: sourcing
 
