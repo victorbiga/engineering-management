@@ -117,10 +117,15 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 * [Tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): "a situation within a shared-resource system where individual users acting independently and rationally according to their own self-interest behave contrary to the common good of all users by depleting that resource."
 * [Volunteer's Dilemma](https://en.wikipedia.org/wiki/Volunteer%27s_dilemma): "a situation in which each of X players faces the decision of either making a small sacrifice from which all will benefit, or freeriding."
 
+## First-time manager
+
+* [How to Ensure a New Manager Succeeds}(https://getlighthouse.com/blog/new-manager-how-to-help-succeed/)
+
 ## Feedback & performance
 
 * [Radical Candor — The Surprising Secret to Being a Good Boss](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)
 * [Firing people](https://zachholman.com/talk/firing-people): Zach Holman's talk about his experience being fired from Github offers some great insights into a process that is rarely talked about.
+* [A Primer on Giving Critical Feedback](http://www.tombartel.de//2016/05/21/a-primer-on-giving-critical-feedback/)
 
 ## Hiring
 
@@ -153,6 +158,14 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 ## Learning & retro & postmortem
 
 * [This is How Effective Leaders Move Beyond Blame](http://firstround.com/review/this-is-how-effective-leaders-move-beyond-blame/)
+
+Quotes:
+
+* "Excellence is achieved by the mastery of fundamentals", Vince Lombardi, considered to be one of the best coaches in NFL history.
+
+## Onboarding new team members
+
+* [5 Onboarding Fiascos From the Movies](https://business.linkedin.com/talent-solutions/blog/recruiting-humor-and-fun/2016/the-worst-new-hire-first-days-in-movies-that-you-should-never-let-happen-in-your-company) :clapper:
 
 ## Programming languages
 
