@@ -11,12 +11,14 @@
   - [Antipatterns](#antipatterns)
   - [Code reviews](#code-reviews)
   - [Concepts](#concepts)
+  - [First-time manager](#first-time-manager)
   - [Feedback & performance](#feedback-&-performance)
   - [Hiring](#hiring)
-    - [Hiring: diversity](#hiring-diversity)
+    - [Hiring: diversity & bias](#hiring-diversity-&-bias)
     - [Hiring: interviews](#hiring-interviews)
     - [Hiring: sourcing](#hiring-sourcing)
   - [Learning & retro & postmortem](#learning-&-retro-&-postmortem)
+  - [Onboarding new team members](#onboarding-new-team-members)
   - [Programming languages](#programming-languages)
   - [Project management methodologies](#project-management-methodologies)
   - [Team vision](#team-vision)
@@ -137,13 +139,14 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 * [The Single Most Sure-Fire Hiring Decision You Will Ever Make](http://behindthescenesrecruiter.com/post/82005145232/the-single-most-sure-fire-hiring-decision-you-will#.VxntfpN94UE) is about establishing an intern program.
 * [Engineering Management - Hiring](http://algeri-wong.com/yishan/engineering-management-hiring.html) explains why hiring should be your top priority.
 
-### Hiring: diversity
+### Hiring: diversity & bias
 
 * [Guess Who Doesn’t Fit In at Work](http://www.nytimes.com/2015/05/31/opinion/sunday/guess-who-doesnt-fit-in-at-work.html)
 * [Why Hiring for "Culture Fit" Hurts Your Culture](http://www.paperplanes.de/2015/6/11/why-hiring-for-culture-fit-hurts-your-culture.html)
 * [Good Intentions Fail at Scale](http://www.fancybeans.com/blog/2016/02/05/good-intentions-fail-at-scale/): great article about why you can't rely on good intentions to increase diversity.
 * [List of cognitive biases on Wikipedia](http://rationalwiki.org/wiki/List_of_cognitive_biases)
 * [Making the Unconscious Conscious](https://www.youtube.com/watch?v=NW5s_-Nl3JE) (Google Video) :clapper:
+* [Xavier Niel explains 42: the coding university without teachers, books, or tuition](http://venturebeat.com/2016/06/16/xavier-niel-explains-42-the-coding-university-without-teachers-books-or-tuition/): a thought-provoking take on CS diplomas.
 
 ### Hiring: interviews
 
