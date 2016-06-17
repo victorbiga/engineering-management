@@ -81,6 +81,10 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 * [Ask HN: How do you review code?](https://news.ycombinator.com/item?id=11416746): great discussion on HackerNews, full of interesting ideas.
 * [Maslow's pyramid of code reviews](http://blog.d3in.org/post/111338685456/maslows-pyramid-of-code-review)
 
+## Communication
+
+* [Tough News: We’ve Made 10 Layoffs. How We Got Here, the Financial Details and How We’re Moving Forward](https://open.buffer.com/layoffs-and-moving-forward/): a great post by Joel Gascoigne (CEO & Founder of Buffer) sharing some pretty tough news to the team and to the world. Great transparency, great message, great ownership. A model to follow.
+
 ## Concepts
 
 * [Availability heuristic](https://en.wikipedia.org/wiki/Availability_heuristic): "a mental shortcut that relies on immediate examples that come to a given person's mind when evaluating a specific topic, concept, method or decision" (Wikipedia).
@@ -119,6 +123,10 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 * [Tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): "a situation within a shared-resource system where individual users acting independently and rationally according to their own self-interest behave contrary to the common good of all users by depleting that resource."
 * [Volunteer's Dilemma](https://en.wikipedia.org/wiki/Volunteer%27s_dilemma): "a situation in which each of X players faces the decision of either making a small sacrifice from which all will benefit, or freeriding."
 
+## Employee handbook
+
+* [Clef's employee handbook](https://github.com/clef/handbook) has been open sourced on Github.
+
 ## First-time manager
 
 * [How to Ensure a New Manager Succeeds](https://getlighthouse.com/blog/new-manager-how-to-help-succeed/)
@@ -153,6 +161,11 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 * [Vanquish whiteboard interview puzzles with test-driven development](http://www.codewithoutrules.com/2016/04/04/interview-puzzles/), Jocelyn Goldfein.
 * [The Phone Screen](http://www.joelonsoftware.com/articles/ThePhoneScreen.html)
 * [The pursuit of happyness' interview scene](https://www.youtube.com/watch?v=gHXKitKAT1E) :clapper:
+* [Real talk: the technical interview is broken](https://medium.com/@CODE2040/real-talk-the-technical-interview-is-broken-b84b8375dccb#.vxuvtrhad)
+
+### Hiring: process
+
+* [Medium’s engineering interview process](https://medium.engineering/mediums-engineering-interview-process-b8d6b67927c4#.hwjb9hizh): Medium open sourced their hiring process.
 
 ### Hiring: sourcing
 
@@ -193,6 +206,7 @@ Quotes:
 ## Technical strategy
 
 * Joel Spolsky, [Things You Should Never Do, Part I](http://www.joelonsoftware.com/articles/fog0000000069.html): Joel explains why (according to him) you should never rewrite a codebase.
+* [Choose Boring Technology](http://mcfunley.com/choose-boring-technology-slides), Dan McKinley (Slideshare presentation).
 
 ## Team culture
 
@@ -212,6 +226,8 @@ Shameless plug here, two presentations I contributed to:
 ## Writing
 
 * [The 7 Emails You Need to Know How to Write](http://unreasonable.is/the-7-emails-you-need-to-know-how-to-write/)
+* [The Inverted Pyramid](https://en.wikipedia.org/wiki/Inverted_pyramid) or [BLUF (bottom line up front)](https://en.wikipedia.org/wiki/BLUF_(communication)) (Wikipedia): a method to prioritize and structure information in a text.
+* [How to say you’re sorry](https://m.signalvnoise.com/how-to-say-youre-sorry-1c3477c33c89#.7xxja07ae), Jason Fried (Founder & CEO Bootcamp)
 
 # Movies
 
