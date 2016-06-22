@@ -159,6 +159,7 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 * [Making the Unconscious Conscious](https://www.youtube.com/watch?v=NW5s_-Nl3JE) (Google Video) :clapper:
 * [Xavier Niel explains 42: the coding university without teachers, books, or tuition](http://venturebeat.com/2016/06/16/xavier-niel-explains-42-the-coding-university-without-teachers-books-or-tuition/): a thought-provoking take on CS diplomas.
 * [A Quick Puzzle to Test Your Problem Solving](http://www.nytimes.com/interactive/2015/07/03/upshot/a-quick-puzzle-to-test-your-problem-solving.html?_r=0)... and a great way to learn about confirmation bias (which is not only applicable to hiring but also to testing).
+* [The Diversity Hiring Playbook](https://business.linkedin.com/content/dam/business/talent-solutions/global/en_US/site/pdf/playbooks/linkedin-diversity-hiring-playbook-en-us.pdf), LinkedIn. Pretty high level but probably a good start.
 
 ### Hiring: interviews
 
