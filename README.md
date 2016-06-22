@@ -10,12 +10,15 @@
 - [Engineering Management Resources](#engineering-management-resources)
   - [Antipatterns](#antipatterns)
   - [Code reviews](#code-reviews)
+  - [Communication](#communication)
   - [Concepts](#concepts)
+  - [Employee handbook](#employee-handbook)
   - [First-time manager](#first-time-manager)
   - [Feedback & performance](#feedback-&-performance)
   - [Hiring](#hiring)
     - [Hiring: diversity & bias](#hiring-diversity-&-bias)
     - [Hiring: interviews](#hiring-interviews)
+    - [Hiring: process](#hiring-process)
     - [Hiring: sourcing](#hiring-sourcing)
   - [Learning & retro & postmortem](#learning-&-retro-&-postmortem)
   - [Onboarding new team members](#onboarding-new-team-members)
@@ -155,6 +158,7 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 * [List of cognitive biases on Wikipedia](http://rationalwiki.org/wiki/List_of_cognitive_biases)
 * [Making the Unconscious Conscious](https://www.youtube.com/watch?v=NW5s_-Nl3JE) (Google Video) :clapper:
 * [Xavier Niel explains 42: the coding university without teachers, books, or tuition](http://venturebeat.com/2016/06/16/xavier-niel-explains-42-the-coding-university-without-teachers-books-or-tuition/): a thought-provoking take on CS diplomas.
+* [A Quick Puzzle to Test Your Problem Solving](http://www.nytimes.com/interactive/2015/07/03/upshot/a-quick-puzzle-to-test-your-problem-solving.html?_r=0)... and a great way to learn about confirmation bias (which is not only applicable to hiring but also to testing).
 
 ### Hiring: interviews
 
