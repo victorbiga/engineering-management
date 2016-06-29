@@ -87,6 +87,7 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 ## Communication
 
 * [Tough News: We’ve Made 10 Layoffs. How We Got Here, the Financial Details and How We’re Moving Forward](https://open.buffer.com/layoffs-and-moving-forward/): a great post by Joel Gascoigne (CEO & Founder of Buffer) sharing some pretty tough news to the team and to the world. Great transparency, great message, great ownership. A model to follow.
+* [How To Pitch A Product](http://avc.com/2010/08/how-to-pitch-a-product/), AVC.
 
 ## Concepts
 
@@ -125,6 +126,10 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 * [Sunk cost fallacy](https://en.wikipedia.org/wiki/Sunk_costs#Loss_aversion_and_the_sunk_cost_fallacy): "people justify increased investment of money, time, lives, etc. in a decision, based on the cumulative prior investment" (Wikipedia)
 * [Tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): "a situation within a shared-resource system where individual users acting independently and rationally according to their own self-interest behave contrary to the common good of all users by depleting that resource."
 * [Volunteer's Dilemma](https://en.wikipedia.org/wiki/Volunteer%27s_dilemma): "a situation in which each of X players faces the decision of either making a small sacrifice from which all will benefit, or freeriding."
+
+## Emotional Quotient (EQ)
+
+* [Those 20 Key Habits that Hold You Back](http://marshallgoldsmith.blogspot.fr/2010/11/those-20-key-habits-that-hold-you-back.html)
 
 ## Employee handbook
 
