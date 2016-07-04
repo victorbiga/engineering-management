@@ -234,6 +234,11 @@ Shameless plug here, two presentations I contributed to:
 * [Amazon: the hidden empire](http://www.slideshare.net/faberNovel/amazoncom-the-hidden-empire)
 * [Apple: 8 easy steps to beat Microsoft](http://www.slideshare.net/faberNovel/apple-study-8-easy-steps-to-beat-microsoft-and-google)
 
+## Work ethics
+
+* [The Virtues of Laziness and Impatience](http://www.elidedbranches.com/2016/06/the-virtues-of-laziness-and-impatience.html): "there are two areas I encourage you to practice showing, right now: figuring out what’s important, and going home."
+* [Lazy Leadership](https://medium.com/the-modern-team/lazy-leadership-8ba19e34f959#.bwcfjz5ac): "entrepreneurship is really just a fancy word for delegation".
+
 ## Writing
 
 * [The 7 Emails You Need to Know How to Write](http://unreasonable.is/the-7-emails-you-need-to-know-how-to-write/)
