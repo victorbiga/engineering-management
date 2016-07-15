@@ -145,6 +145,11 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 * [Firing people](https://zachholman.com/talk/firing-people): Zach Holman's talk about his experience being fired from Github offers some great insights into a process that is rarely talked about.
 * [A Primer on Giving Critical Feedback](http://www.tombartel.de//2016/05/21/a-primer-on-giving-critical-feedback/)
 
+## Handbooks
+
+* [Gitlab's handbook](https://about.gitlab.com/handbook/)
+* [Valve's handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
+
 ## Hiring
 
 * A good example of [offer letter](https://medium.com/@henrysward/a-better-offer-letter-4e9bf61a7365#.md4rm1zlp) from eShares.
@@ -218,6 +223,7 @@ Quotes:
 
 * Joel Spolsky, [Things You Should Never Do, Part I](http://www.joelonsoftware.com/articles/fog0000000069.html): Joel explains why (according to him) you should never rewrite a codebase.
 * [Choose Boring Technology](http://mcfunley.com/choose-boring-technology-slides), Dan McKinley (Slideshare presentation).
+* [Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611): how Amazon became a platform.
 
 ## Team culture
 
