@@ -190,6 +190,7 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 ## Learning & retro & postmortem
 
 * [This is How Effective Leaders Move Beyond Blame](http://firstround.com/review/this-is-how-effective-leaders-move-beyond-blame/)
+* [A list of postmortems on Github](https://github.com/danluu/post-mortems)
 
 Quotes:
 
