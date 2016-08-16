@@ -196,6 +196,10 @@ Quotes:
 
 * "Excellence is achieved by the mastery of fundamentals", Vince Lombardi, considered to be one of the best coaches in NFL history.
 
+## Motivation
+
+* [Drive: The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc) (summary of Daniel Pink's book). :clapper:
+
 ## Onboarding new team members
 
 * [5 Onboarding Fiascos From the Movies](https://business.linkedin.com/talent-solutions/blog/recruiting-humor-and-fun/2016/the-worst-new-hire-first-days-in-movies-that-you-should-never-let-happen-in-your-company) :clapper:
