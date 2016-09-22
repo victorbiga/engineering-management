@@ -88,6 +88,7 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 
 * [Tough News: We’ve Made 10 Layoffs. How We Got Here, the Financial Details and How We’re Moving Forward](https://open.buffer.com/layoffs-and-moving-forward/): a great post by Joel Gascoigne (CEO & Founder of Buffer) sharing some pretty tough news to the team and to the world. Great transparency, great message, great ownership. A model to follow.
 * [How To Pitch A Product](http://avc.com/2010/08/how-to-pitch-a-product/), AVC.
+* [Learn how to escalate issues](http://www.goodproductmanager.com/2007/05/09/learn-how-to-escalate-issues/)
 
 ## Concepts
 
@@ -134,6 +135,8 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 ## Employee handbook
 
 * [Clef's employee handbook](https://github.com/clef/handbook) has been open sourced on Github.
+* [Gitlab's handbook](https://about.gitlab.com/handbook/)
+* [Valve's handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
 
 ## First-time manager
 
@@ -144,11 +147,6 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 * [Radical Candor — The Surprising Secret to Being a Good Boss](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)
 * [Firing people](https://zachholman.com/talk/firing-people): Zach Holman's talk about his experience being fired from Github offers some great insights into a process that is rarely talked about.
 * [A Primer on Giving Critical Feedback](http://www.tombartel.de//2016/05/21/a-primer-on-giving-critical-feedback/)
-
-## Handbooks
-
-* [Gitlab's handbook](https://about.gitlab.com/handbook/)
-* [Valve's handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
 
 ## Hiring
 
