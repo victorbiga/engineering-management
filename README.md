@@ -7,11 +7,13 @@
   - [Other books](#other-books)
 - [What is engineering management?](#what-is-engineering-management)
 - [General management resources](#general-management-resources)
+  - [Articles](#articles)
 - [Engineering Management Resources](#engineering-management-resources)
   - [Antipatterns](#antipatterns)
   - [Code reviews](#code-reviews)
   - [Communication](#communication)
   - [Concepts](#concepts)
+  - [Emotional Quotient (EQ)](#emotional-quotient-eq)
   - [Employee handbook](#employee-handbook)
   - [First-time manager](#first-time-manager)
   - [Feedback & performance](#feedback-&-performance)
@@ -21,6 +23,7 @@
     - [Hiring: process](#hiring-process)
     - [Hiring: sourcing](#hiring-sourcing)
   - [Learning & retro & postmortem](#learning-&-retro-&-postmortem)
+  - [Motivation](#motivation)
   - [Onboarding new team members](#onboarding-new-team-members)
   - [Programming languages](#programming-languages)
   - [Project management methodologies](#project-management-methodologies)
@@ -28,6 +31,7 @@
   - [Technical strategy](#technical-strategy)
   - [Team culture](#team-culture)
   - [Strategy](#strategy)
+  - [Work ethics](#work-ethics)
   - [Writing](#writing)
 - [Movies](#movies)
   - [TV Shows](#tv-shows)
@@ -68,6 +72,10 @@ Here are some generic resources:
 
 * [14 Points for Management](https://www.deming.org/theman/theories/fourteenpoints) by W. Edwards Deming.
 * [Keith Rabois on the Role of a COO, How to Hire and Why Transparency Matters](http://firstround.com/review/Keith-Rabois-on-the-role-of-a-COO-how-to-hire-and-why-transparency-matters/) includes some nice management nuggets.
+
+## Articles
+
+* [The Quiet Crisis unfolding in Software Development](https://medium.com/@billjordan1/the-quiet-crisis-unfolding-in-software-development-cffbdafbf450#.uy7x227pc)
 
 # Engineering Management Resources
 
@@ -198,6 +206,10 @@ Quotes:
 
 * [Drive: The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc) (summary of Daniel Pink's book). :clapper:
 
+Quotes:
+
+* "The best time to plant a tree was 20 years ago. The second best time is now", Chinese proverb
+
 ## Onboarding new team members
 
 * [5 Onboarding Fiascos From the Movies](https://business.linkedin.com/talent-solutions/blog/recruiting-humor-and-fun/2016/the-worst-new-hire-first-days-in-movies-that-you-should-never-let-happen-in-your-company) :clapper:
@@ -235,6 +247,7 @@ Those are considered classics:
 * [Valve Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
 * [Netflix Culture Deck](http://www.slideshare.net/reed2001/culture-1798664)
 * [The HubSpot Culture Code: Creating a Company We Love](http://blog.hubspot.com/blog/tabid/6307/bid/34234/The-HubSpot-Culture-Code-Creating-a-Company-We-Love.aspx)
+* [Don’t pave the path used by the unhappy cows](https://medium.com/@kellan/dont-pave-the-path-used-by-the-unhappy-cows-fef7a78777f8#.mtw3s2h1v)
 
 ## Strategy
 
