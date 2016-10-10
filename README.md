@@ -214,6 +214,10 @@ Quotes:
 
 * [5 Onboarding Fiascos From the Movies](https://business.linkedin.com/talent-solutions/blog/recruiting-humor-and-fun/2016/the-worst-new-hire-first-days-in-movies-that-you-should-never-let-happen-in-your-company) :clapper:
 
+## Processes for engineering
+
+* [The Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
+
 ## Programming languages
 
 * [Static vs. dynamic languages: a literature review](http://danluu.com/empirical-pl/)
