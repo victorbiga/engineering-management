@@ -149,6 +149,7 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 ## First-time manager
 
 * [How to Ensure a New Manager Succeeds](https://getlighthouse.com/blog/new-manager-how-to-help-succeed/)
+* [Six Recipes for Software Managers](http://eng.localytics.com/six-recipes-for-software-managers/)
 
 ## Feedback & performance
 
