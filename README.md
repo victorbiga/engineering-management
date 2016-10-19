@@ -261,6 +261,7 @@ Shameless plug here, two presentations I contributed to:
 
 * [Amazon: the hidden empire](http://www.slideshare.net/faberNovel/amazoncom-the-hidden-empire)
 * [Apple: 8 easy steps to beat Microsoft](http://www.slideshare.net/faberNovel/apple-study-8-easy-steps-to-beat-microsoft-and-google)
+* [Michael Porter's generic strategies](https://en.wikipedia.org/wiki/Porter%27s_generic_strategies) (Wikipedia)
 
 ## Work ethics
 
