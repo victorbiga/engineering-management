@@ -10,6 +10,7 @@
   - [Articles](#articles)
 - [Engineering Management Resources](#engineering-management-resources)
   - [Antipatterns](#antipatterns)
+  - [Biases](#biases)
   - [Code reviews](#code-reviews)
   - [Communication](#communication)
   - [Concepts](#concepts)
@@ -17,6 +18,7 @@
   - [Employee handbook](#employee-handbook)
   - [First-time manager](#first-time-manager)
   - [Feedback & performance](#feedback-&-performance)
+  - [Giving career mentoring](#giving-career-mentoring)
   - [Hiring](#hiring)
     - [Hiring: diversity & bias](#hiring-diversity-&-bias)
     - [Hiring: interviews](#hiring-interviews)
@@ -25,6 +27,7 @@
   - [Learning & retro & postmortem](#learning-&-retro-&-postmortem)
   - [Motivation](#motivation)
   - [Onboarding new team members](#onboarding-new-team-members)
+  - [Processes for engineering](#processes-for-engineering)
   - [Programming languages](#programming-languages)
   - [Project management methodologies](#project-management-methodologies)
   - [Team vision](#team-vision)
@@ -87,6 +90,12 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 
 * [Seven Deadly Diseases of Management](https://www.deming.org/theman/theories/deadlydiseases), Dr. Deming. Great video as well. I don't necessarily agree with everything but Deming is still one of the great management thinker.
 
+## Biases
+
+Cognitive biases don't only apply to hiring... They can impact performance reviews, 1-1, team meetings, even small talk with colleagues.
+
+* [Cognitive bias cheat sheet](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.6temb6hyg)
+
 ## Code reviews
 
 * [Ask HN: How do you review code?](https://news.ycombinator.com/item?id=11416746): great discussion on HackerNews, full of interesting ideas.
@@ -97,6 +106,7 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 * [Tough News: We’ve Made 10 Layoffs. How We Got Here, the Financial Details and How We’re Moving Forward](https://open.buffer.com/layoffs-and-moving-forward/): a great post by Joel Gascoigne (CEO & Founder of Buffer) sharing some pretty tough news to the team and to the world. Great transparency, great message, great ownership. A model to follow.
 * [How To Pitch A Product](http://avc.com/2010/08/how-to-pitch-a-product/), AVC.
 * [Learn how to escalate issues](http://www.goodproductmanager.com/2007/05/09/learn-how-to-escalate-issues/)
+* [Ken Norton’s Discipline of No](https://blog.mixpanel.com/2016/09/20/learning-to-say-no-with-ken-norton/). #attitude #habits.
 
 ## Concepts
 
@@ -150,6 +160,7 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 
 * [How to Ensure a New Manager Succeeds](https://getlighthouse.com/blog/new-manager-how-to-help-succeed/)
 * [Six Recipes for Software Managers](http://eng.localytics.com/six-recipes-for-software-managers/)
+* [The Problem with Tech Leads](https://medium.com/@Bar_Code/the-problem-with-tech-leads-a840af1f511c#.ay11fv7u9)
 
 ## Feedback & performance
 
@@ -157,6 +168,10 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 * [Firing people](https://zachholman.com/talk/firing-people): Zach Holman's talk about his experience being fired from Github offers some great insights into a process that is rarely talked about.
 * [A Primer on Giving Critical Feedback](http://www.tombartel.de//2016/05/21/a-primer-on-giving-critical-feedback/)
 * Feedback goes both ways: [Tool: Try Google’s Manager Feedback Survey](https://rework.withgoogle.com/guides/managers-give-feedback-to-managers/steps/try-googles-manager-feedback-survey/)
+
+## Giving career mentoring
+
+* [The Conjoined Triangles of Senior-Level Development](http://frontside.io/blog/2016/07/07/the-conjoined-triangles-of-senior-level-development.html) looks into how to define a senior engineer.
 
 ## Hiring
 
