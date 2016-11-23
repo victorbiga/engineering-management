@@ -14,6 +14,7 @@
   - [Code reviews](#code-reviews)
   - [Communication](#communication)
   - [Concepts](#concepts)
+  - [Conflict resolution](#conflict-resolution)
   - [Emotional Quotient (EQ)](#emotional-quotient-eq)
   - [Employee handbook](#employee-handbook)
   - [First-time manager](#first-time-manager)
@@ -107,6 +108,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [How To Pitch A Product](http://avc.com/2010/08/how-to-pitch-a-product/), AVC.
 * [Learn how to escalate issues](http://www.goodproductmanager.com/2007/05/09/learn-how-to-escalate-issues/)
 * [Ken Norton’s Discipline of No](https://blog.mixpanel.com/2016/09/20/learning-to-say-no-with-ken-norton/). #attitude #habits.
+* [Nonviolent communication](https://en.wikipedia.org/wiki/Nonviolent_Communication) (Wikipedia)
 
 ## Concepts
 
@@ -145,6 +147,10 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [Sunk cost fallacy](https://en.wikipedia.org/wiki/Sunk_costs#Loss_aversion_and_the_sunk_cost_fallacy): "people justify increased investment of money, time, lives, etc. in a decision, based on the cumulative prior investment" (Wikipedia)
 * [Tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): "a situation within a shared-resource system where individual users acting independently and rationally according to their own self-interest behave contrary to the common good of all users by depleting that resource."
 * [Volunteer's Dilemma](https://en.wikipedia.org/wiki/Volunteer%27s_dilemma): "a situation in which each of X players faces the decision of either making a small sacrifice from which all will benefit, or freeriding."
+
+## Conflict resolution
+
+* [Disagree and commit](https://www.youtube.com/watch?v=oZw2cg8AXDw) 🎞
 
 ## Emotional Quotient (EQ)
 
