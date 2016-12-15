@@ -118,6 +118,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [Brooks' law](https://en.wikipedia.org/wiki/Brooks%E2%80%99_law): "adding manpower to a late software project makes it later" (Wikipedia).
 * [Bystander effect](https://en.wikipedia.org/wiki/Bystander_effect): "cases in which individuals do not offer any means of help to a victim when other people are present. The probability of help is inversely related to the number of bystanders." (Wikipedia).
 * [Cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance): "discomfort experienced by an individual who holds two or more contradictory beliefs, ideas, or values at the same time" (Wikipedia).
+* [Conceptual integrity](http://architecture.typepad.com/architecture_blog/2011/10/the-importance-of-conceptual-integrity.html): "It is better to have a system omit certain anomalous features and improvements, but to reflect one set of design ideas, than to have one that contains many good but independent and uncoordinated ideas." (Fred 
 * [Confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias): "the tendency to search for, interpret, favor, and recall information in a way that confirms one's preexisting beliefs or hypotheses, while giving disproportionately less consideration to alternative possibilities" (Wikipedia).
 * [Conway's law](https://en.wikipedia.org/wiki/Conway%27s_law): "organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations". [Read the original paper](http://www.melconway.com/Home/Committees_Paper.html)
 * [Déformation professionnelle](https://en.wikipedia.org/wiki/D%C3Tuesday9formation_professionnelle): "tendency to look at things from the point of view of one's own profession rather than from a broader perspective" (Wikipedia).
@@ -145,6 +146,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [Robustness principle](https://en.wikipedia.org/wiki/Robustness_principle): "be conservative in what you do, be liberal in what you accept from others" (Wikipedia).
 * [Sayre's law](https://en.wikipedia.org/wiki/Sayre%27s_law): "in any dispute the intensity of feeling is inversely proportional to the value of the issues at stake" (Wikipedia).
 * [Sunk cost fallacy](https://en.wikipedia.org/wiki/Sunk_costs#Loss_aversion_and_the_sunk_cost_fallacy): "people justify increased investment of money, time, lives, etc. in a decision, based on the cumulative prior investment" (Wikipedia)
+* [Task relevant maturity](https://getlighthouse.com/blog/management-concept/): "How often you monitor should not be based on what you believe your subordinate can do in general, but on his experience with a specific task and his prior performance with it – his task relevant maturity… as the subordinate’s work improves over time, you should respond with a corresponding reduction in the intensity of the monitoring." (Intel CEO Andy Grove).
 * [Tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): "a situation within a shared-resource system where individual users acting independently and rationally according to their own self-interest behave contrary to the common good of all users by depleting that resource."
 * [Volunteer's Dilemma](https://en.wikipedia.org/wiki/Volunteer%27s_dilemma): "a situation in which each of X players faces the decision of either making a small sacrifice from which all will benefit, or freeriding."
 
@@ -200,6 +202,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [Xavier Niel explains 42: the coding university without teachers, books, or tuition](http://venturebeat.com/2016/06/16/xavier-niel-explains-42-the-coding-university-without-teachers-books-or-tuition/): a thought-provoking take on CS diplomas.
 * [A Quick Puzzle to Test Your Problem Solving](http://www.nytimes.com/interactive/2015/07/03/upshot/a-quick-puzzle-to-test-your-problem-solving.html?_r=0)... and a great way to learn about confirmation bias (which is not only applicable to hiring but also to testing).
 * [The Diversity Hiring Playbook](https://business.linkedin.com/content/dam/business/talent-solutions/global/en_US/site/pdf/playbooks/linkedin-diversity-hiring-playbook-en-us.pdf), LinkedIn. Pretty high level but probably a good start.
+* [Hiring women at Klarna](https://www.youtube.com/watch?v=JWYNst72ucI) 🎞
 
 ### Hiring: interviews
 
