@@ -279,6 +279,8 @@ Those are considered classics:
 * [The HubSpot Culture Code: Creating a Company We Love](http://blog.hubspot.com/blog/tabid/6307/bid/34234/The-HubSpot-Culture-Code-Creating-a-Company-We-Love.aspx)
 * [Don’t pave the path used by the unhappy cows](https://medium.com/@kellan/dont-pave-the-path-used-by-the-unhappy-cows-fef7a78777f8#.mtw3s2h1v)
 
+[culturecodes](http://culturecodes.co/) is a repository of culture deck from companies (including the ones above).
+
 ## Strategy
 
 Shameless plug here, two presentations I contributed to:
