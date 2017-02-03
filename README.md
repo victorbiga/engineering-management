@@ -276,6 +276,7 @@ Those are considered classics:
 
 * [Valve Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
 * [Netflix Culture Deck](http://www.slideshare.net/reed2001/culture-1798664)
+* [Gitlab's employee handbook](https://about.gitlab.com/handbook/)
 * [The HubSpot Culture Code: Creating a Company We Love](http://blog.hubspot.com/blog/tabid/6307/bid/34234/The-HubSpot-Culture-Code-Creating-a-Company-We-Love.aspx)
 * [Don’t pave the path used by the unhappy cows](https://medium.com/@kellan/dont-pave-the-path-used-by-the-unhappy-cows-fef7a78777f8#.mtw3s2h1v)
 
