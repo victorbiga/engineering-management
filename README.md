@@ -9,28 +9,35 @@
 - [General management resources](#general-management-resources)
   - [Articles](#articles)
 - [Engineering Management Resources](#engineering-management-resources)
+  - [1-1](#1-1)
   - [Antipatterns](#antipatterns)
   - [Biases](#biases)
   - [Code reviews](#code-reviews)
   - [Communication](#communication)
   - [Concepts](#concepts)
   - [Conflict resolution](#conflict-resolution)
+  - [Decisions](#decisions)
   - [Emotional Quotient (EQ)](#emotional-quotient-eq)
   - [Employee handbook](#employee-handbook)
   - [First-time manager](#first-time-manager)
   - [Feedback & performance](#feedback-&-performance)
-  - [Giving career mentoring](#giving-career-mentoring)
   - [Hiring](#hiring)
     - [Hiring: diversity & bias](#hiring-diversity-&-bias)
     - [Hiring: interviews](#hiring-interviews)
     - [Hiring: process](#hiring-process)
     - [Hiring: sourcing](#hiring-sourcing)
+  - [Incident prevention & response (on-call, outages)](#incident-prevention-&-response-on-call-outages)
   - [Learning & retro & postmortem](#learning-&-retro-&-postmortem)
+  - [Meetings](#meetings)
+  - [Mentoring](#mentoring)
+  - [Mindset & Attitude](#mindset-&-attitude)
   - [Motivation](#motivation)
   - [Onboarding new team members](#onboarding-new-team-members)
   - [Processes for engineering](#processes-for-engineering)
   - [Programming languages](#programming-languages)
-  - [Project management methodologies](#project-management-methodologies)
+  - [Product management](#product-management)
+  - [Project management](#project-management)
+  - [Remote teams](#remote-teams)
   - [Team vision](#team-vision)
   - [Technical strategy](#technical-strategy)
   - [Team culture](#team-culture)
@@ -64,6 +71,7 @@ You can find a short summary in video [here](https://www.youtube.com/watch?v=psA
 ## Other books
 
 * [The Advantage, Enhanced Edition: Why Organizational Health Trumps Everything Else In Business](http://www.amazon.com/gp/product/B006ORWT3Y/ref=dp-kindle-redirect?ie=UTF8&btkr=1).
+* Oren Ellenbogen, [Leading Snowflakes: the Engineering Manager Handbook](http://leadingsnowflakes.com/): some truly great content and concrete ideas to move from maker to manager mode, code reviewing your management decisions, delegating tasks without losing quality or visibility.
 
 # What is engineering management?
 
@@ -77,6 +85,10 @@ Here are some generic resources:
 * [14 Points for Management](https://www.deming.org/theman/theories/fourteenpoints) by W. Edwards Deming.
 * [Keith Rabois on the Role of a COO, How to Hire and Why Transparency Matters](http://firstround.com/review/Keith-Rabois-on-the-role-of-a-COO-how-to-hire-and-why-transparency-matters/) includes some nice management nuggets.
 
+[Tal Bereznitskey](https://hackernoon.com/managing-engineers-in-less-than-200-characters-edb35e4199e4#.n8wruugqz)'s awesome definition for managing engineers:
+
+> Hire motivated people. Trust them. Set high standards for everything. Lead by example. Get out of their way and let them be the heroes of the day. That’s it.
+
 ## Articles
 
 * [The Quiet Crisis unfolding in Software Development](https://medium.com/@billjordan1/the-quiet-crisis-unfolding-in-software-development-cffbdafbf450#.uy7x227pc)
@@ -86,6 +98,11 @@ Here are some generic resources:
 This is a list of inspiring articles related to engineering management. Those are usually short and concise articles that are packed with inspiring and concrete ideas. They have shaped my own management practice, and I hope they will inspire you as well.
 
 I don't necessarily agree with everything listed here. Actually, you'll see that some of those articles have diametrically opposed opinions. I do believe those thought-provoking resources will help you in your manager journey.
+
+## 1-1
+
+* [On 1-1s](https://cate.blog/2016/11/05/on-11s/)
+* [How to have an honest one-on-one with an employee](https://m.signalvnoise.com/how-to-have-an-honest-one-on-one-with-an-employee-24bbddeb0f47#.qpltxoa2b)
 
 ## Antipatterns
 
@@ -109,6 +126,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [Learn how to escalate issues](http://www.goodproductmanager.com/2007/05/09/learn-how-to-escalate-issues/)
 * [Ken Norton’s Discipline of No](https://blog.mixpanel.com/2016/09/20/learning-to-say-no-with-ken-norton/). #attitude #habits.
 * [Nonviolent communication](https://en.wikipedia.org/wiki/Nonviolent_Communication) (Wikipedia)
+* [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.7mqxmkpz9)
 
 ## Concepts
 
@@ -154,6 +172,11 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 
 * [Disagree and commit](https://www.youtube.com/watch?v=oZw2cg8AXDw) 🎞
 
+## Decisions
+
+* [Square Defangs Difficult Decisions with this System — Here’s How](http://firstround.com/review/square-defangs-difficult-decisions-with-this-system-heres-how/)
+* [How to simplify complex decisions by cleaving the facts](https://blog.asmartbear.com/complex-decisions.html), Jason Cohen.
+
 ## Emotional Quotient (EQ)
 
 * [Those 20 Key Habits that Hold You Back](http://marshallgoldsmith.blogspot.fr/2010/11/those-20-key-habits-that-hold-you-back.html)
@@ -163,12 +186,15 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [Clef's employee handbook](https://github.com/clef/handbook) has been open sourced on Github.
 * [Gitlab's handbook](https://about.gitlab.com/handbook/)
 * [Valve's handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
+* [Inaka's handbook](https://github.com/inaka/guidelines)
 
 ## First-time manager
 
 * [How to Ensure a New Manager Succeeds](https://getlighthouse.com/blog/new-manager-how-to-help-succeed/)
 * [Six Recipes for Software Managers](http://eng.localytics.com/six-recipes-for-software-managers/)
 * [The Problem with Tech Leads](https://medium.com/@Bar_Code/the-problem-with-tech-leads-a840af1f511c#.ay11fv7u9)
+* [Trained Engineers - Overnight Managers (or, The Art Of Not Destroying Your Company)](http://sysadvent.blogspot.nl/2016/12/day-16-trained-engineers-overnight.html)
+* [A Manager’s FAQ](https://medium.com/eshares-blog/a-managers-faq-35858a229f84#.u1iu04owe)
 
 ## Feedback & performance
 
@@ -176,10 +202,6 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [Firing people](https://zachholman.com/talk/firing-people): Zach Holman's talk about his experience being fired from Github offers some great insights into a process that is rarely talked about.
 * [A Primer on Giving Critical Feedback](http://www.tombartel.de//2016/05/21/a-primer-on-giving-critical-feedback/)
 * Feedback goes both ways: [Tool: Try Google’s Manager Feedback Survey](https://rework.withgoogle.com/guides/managers-give-feedback-to-managers/steps/try-googles-manager-feedback-survey/)
-
-## Giving career mentoring
-
-* [The Conjoined Triangles of Senior-Level Development](http://frontside.io/blog/2016/07/07/the-conjoined-triangles-of-senior-level-development.html) looks into how to define a senior engineer.
 
 ## Hiring
 
@@ -210,6 +232,8 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [The Phone Screen](http://www.joelonsoftware.com/articles/ThePhoneScreen.html)
 * [The pursuit of happyness' interview scene](https://www.youtube.com/watch?v=gHXKitKAT1E) :clapper:
 * [Real talk: the technical interview is broken](https://medium.com/@CODE2040/real-talk-the-technical-interview-is-broken-b84b8375dccb#.vxuvtrhad)
+* [Finding a Tech Leadership Job in Silicon Alley](https://medium.com/@Bar_Code/finding-a-tech-leadership-job-in-silicon-alley-3631e97ff33e#.2w4yzwtgx) (interviewing seen from the candidate experience point of view).
+* [How I Interview](https://rkoutnik.com/articles/How-I-Interview.html)
 
 ### Hiring: process
 
@@ -219,18 +243,39 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 
 * [How To Hire Engineers: Step 1, Sourcing](https://medium.com/@jocelyngoldfein/how-to-hire-engineers-step-1-sourcing-f388fddc63fd#.fwtgweq0e)
 
+## Incident prevention & response (on-call, outages)
+
+* [A guide to handling incidents, downtime and outages](https://blog.serverdensity.com/guide-handling-incidents-downtime-outages/)
+
 ## Learning & retro & postmortem
 
 * [This is How Effective Leaders Move Beyond Blame](http://firstround.com/review/this-is-how-effective-leaders-move-beyond-blame/)
 * [A list of postmortems on Github](https://github.com/danluu/post-mortems)
+* [Debriefing Facilitation Guide](https://extfiles.etsy.com/DebriefingFacilitationGuide.pdf): Etsy's guide to debriefing & incident review.
+* [General James 'Mad Dog' Mattis Email About Being 'Too Busy To Read' Is A Must-Read](http://www.businessinsider.com/viral-james-mattis-email-reading-marines-2013-5): "by reading, you learn through others’ experiences, generally a better way to do business, especially in our line of work where the consequences of incompetence are so final for young men."
+* [You can increase your intelligence: 5 ways to maximize your cognitive potential](https://blogs.scientificamerican.com/guest-blog/you-can-increase-your-intelligence-5-ways-to-maximize-your-cognitive-potential/): forgive the clickbait link, it's actually a good article.
 
 Quotes:
 
 * "Excellence is achieved by the mastery of fundamentals", Vince Lombardi, considered to be one of the best coaches in NFL history.
 
+## Meetings
+
+* [On Better Meetings](http://larahogan.me/blog/better-meetings/): Lara Hogan shares tips about ensuring efficient meetings.
+
+## Mentoring
+
+* [The Conjoined Triangles of Senior-Level Development](http://frontside.io/blog/2016/07/07/the-conjoined-triangles-of-senior-level-development.html) looks into how to define a senior engineer.
+* [Advice is Cheap — Context is Priceless](http://firstround.com/review/advice-is-cheap-context-is-priceless/)
+
+## Mindset & Attitude
+
+* [Taking Ownership Is The Most Effective Way to Get What You Want](http://www.theeffectiveengineer.com/blog/take-ownership-of-your-goals)
+
 ## Motivation
 
 * [Drive: The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc) (summary of Daniel Pink's book). :clapper:
+* The [two-factor theory](https://en.wikipedia.org/wiki/Two-factor_theory) (Wikipedia) "states that there are certain factors in the workplace that cause job satisfaction, while a separate set of factors cause dissatisfaction."
 
 Quotes:
 
@@ -248,10 +293,19 @@ Quotes:
 
 * [Static vs. dynamic languages: a literature review](http://danluu.com/empirical-pl/)
 
-## Project management methodologies
+## Product management
+
+* [The most important thing Dropbox did to scale Product Management](https://medium.com/startup-grind/the-most-important-thing-dropbox-did-to-scale-product-management-fed90e30697e#.t5uu8idgb): a very simple model for stating the stage a product is in.
+
+## Project management
 
 * Jason Yip, [It's Not Just Standing Up: Patterns for Daily Standup Meetings](http://martinfowler.com/articles/itsNotJustStandingUp.html): standup are a pretty controversial topics. This article on Martin Fowler's blog provides a good list of patterns and anti-patterns to ensure they're a good productive use of everybody's time.
 * [15 Fundamental Laws of Software Development](https://www.exceptionnotfound.net/fundamental-laws-of-software-development/)
+* [How we structure our work and teams at Basecamp](https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae#.jjb8slcxg)
+
+## Remote teams
+
+* [How to Work Faster in a Remote Team](https://zapier.com/learn/remote-work/remote-work-productivity/)
 
 ## Team vision
 
@@ -276,7 +330,7 @@ Those are considered classics:
 
 * [Valve Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
 * [Netflix Culture Deck](http://www.slideshare.net/reed2001/culture-1798664)
-* [Gitlab's employee handbook](https://about.gitlab.com/handbook/)
+* [Gitlab's employee handbook](https://about.gitlab.com/handbook/) (includes cultural values)
 * [The HubSpot Culture Code: Creating a Company We Love](http://blog.hubspot.com/blog/tabid/6307/bid/34234/The-HubSpot-Culture-Code-Creating-a-Company-We-Love.aspx)
 * [Don’t pave the path used by the unhappy cows](https://medium.com/@kellan/dont-pave-the-path-used-by-the-unhappy-cows-fef7a78777f8#.mtw3s2h1v)
 
