@@ -305,6 +305,7 @@ Quotes:
 * [How we structure our work and teams at Basecamp](https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae#.jjb8slcxg)
 * [Will your project be a success? Find out in five minutes.](https://www.projectsmart.co.uk/health-check/project-question-answer.php)
 * Project Smart, [Project management tools](https://www.projectsmart.co.uk/tools.php)
+* [How should deadlines be used in software engineering?](https://keen.io//blog/143850394061/how-should-deadlines-be-used-in-software)
 
 ## Remote teams
 
