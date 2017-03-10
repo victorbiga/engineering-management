@@ -195,6 +195,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [The Problem with Tech Leads](https://medium.com/@Bar_Code/the-problem-with-tech-leads-a840af1f511c#.ay11fv7u9)
 * [Trained Engineers - Overnight Managers (or, The Art Of Not Destroying Your Company)](http://sysadvent.blogspot.nl/2016/12/day-16-trained-engineers-overnight.html)
 * [A Manager’s FAQ](https://medium.com/eshares-blog/a-managers-faq-35858a229f84#.u1iu04owe)
+* [This 90-Day Plan Turns Engineers into Remarkable Managers](http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/)
 
 ## Feedback & performance
 
@@ -302,6 +303,8 @@ Quotes:
 * Jason Yip, [It's Not Just Standing Up: Patterns for Daily Standup Meetings](http://martinfowler.com/articles/itsNotJustStandingUp.html): standup are a pretty controversial topics. This article on Martin Fowler's blog provides a good list of patterns and anti-patterns to ensure they're a good productive use of everybody's time.
 * [15 Fundamental Laws of Software Development](https://www.exceptionnotfound.net/fundamental-laws-of-software-development/)
 * [How we structure our work and teams at Basecamp](https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae#.jjb8slcxg)
+* [Will your project be a success? Find out in five minutes.](https://www.projectsmart.co.uk/health-check/project-question-answer.php)
+* Project Smart, [Project management tools](https://www.projectsmart.co.uk/tools.php)
 
 ## Remote teams
 
