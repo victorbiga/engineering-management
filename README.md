@@ -298,6 +298,11 @@ Quotes:
 
 * [5 Onboarding Fiascos From the Movies](https://business.linkedin.com/talent-solutions/blog/recruiting-humor-and-fun/2016/the-worst-new-hire-first-days-in-movies-that-you-should-never-let-happen-in-your-company) :clapper:
 
+## Presentations & public speaking
+
+* Garr Reynolds, [Presentation Zen Talk](https://www.youtube.com/watch?v=DZ2vtQCESpk) (Talks at Google) :clapper:
+* Garr Reynolds, [Presentation Zen book](https://www.amazon.com/dp/B006R4H5FG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+
 ## Processes for engineering
 
 * [The Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
