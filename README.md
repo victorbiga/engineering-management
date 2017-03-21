@@ -73,6 +73,10 @@ You can find a short summary in video [here](https://www.youtube.com/watch?v=psA
 * [The Advantage, Enhanced Edition: Why Organizational Health Trumps Everything Else In Business](http://www.amazon.com/gp/product/B006ORWT3Y/ref=dp-kindle-redirect?ie=UTF8&btkr=1).
 * Oren Ellenbogen, [Leading Snowflakes: the Engineering Manager Handbook](http://leadingsnowflakes.com/): some truly great content and concrete ideas to move from maker to manager mode, code reviewing your management decisions, delegating tasks without losing quality or visibility.
 
+### Book reading lists
+
+* [Jason Evanish's list](https://jasonevanish.com/books/) (Lighthouse founder) is quite comprehensive.
+
 # What is engineering management?
 
 Here are some generic resources:
@@ -103,6 +107,11 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 
 * [On 1-1s](https://cate.blog/2016/11/05/on-11s/)
 * [How to have an honest one-on-one with an employee](https://m.signalvnoise.com/how-to-have-an-honest-one-on-one-with-an-employee-24bbddeb0f47#.qpltxoa2b)
+* [Tool: Hold effective 1:1 meetings](https://rework.withgoogle.com/guides/managers-coach-managers-to-coach/steps/hold-effective-1-1-meetings/)
+* [21 Reasons You Should Start Having One on Ones with Your Team](https://jasonevanish.com/2014/05/21/21-reasons-you-should-start-having-one-on-ones-with-your-team/)
+* [What is an Inquiring Leader?](https://www.linkedin.com/pulse/what-inquiring-leader-marilee-adams)
+* HBR, [How to Ask Better Questions](https://hbr.org/2009/05/real-leaders-ask.html)
+* [Mentor vs Advisor vs Coach](http://baxterblog.typepad.com/blog/2012/11/mentor-vs-advisor-vs-coach.html)
 
 ## Antipatterns
 
@@ -140,6 +149,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [Confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias): "the tendency to search for, interpret, favor, and recall information in a way that confirms one's preexisting beliefs or hypotheses, while giving disproportionately less consideration to alternative possibilities" (Wikipedia).
 * [Conway's law](https://en.wikipedia.org/wiki/Conway%27s_law): "organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations". [Read the original paper](http://www.melconway.com/Home/Committees_Paper.html)
 * [Déformation professionnelle](https://en.wikipedia.org/wiki/D%C3Tuesday9formation_professionnelle): "tendency to look at things from the point of view of one's own profession rather than from a broader perspective" (Wikipedia).
+* [Dominant design](https://en.wikipedia.org/wiki/Dominant_design): "the one that wins the allegiance of the marketplace, the one that competitors and innovators must adhere to if they hope to command significant market following" (Wikipedia).
 * [Dunning–Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect): "cognitive bias in which relatively unskilled persons suffer illusory superiority, mistakenly assessing their ability to be much higher than it really is" (Wikipedia)
 * [Fundamental attribution error](https://en.wikipedia.org/wiki/Fundamental_attribution_error): "the tendency for people to place an undue emphasis on internal characteristics (personality) to explain someone else's behavior in a given situation rather than considering the situation's external factors" (Wikipedia).
 * [Halo effect](https://en.wikipedia.org/wiki/Halo_effect): "an observer's overall impression of a person, company, brand, or product influences the observer's feelings and thoughts about that entity's character or properties" (Wikipedia).
@@ -156,6 +166,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle): "for many events, roughly 80% of the effects come from 20% of the causes".
 * [Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law): "work expands so as to fill the time available for its completion" (Wikipedia).
 * [Parkinson's law of triviality](https://en.wikipedia.org/wiki/Law_of_triviality): "members of an organisation give disproportionate weight to trivial issues" (Wikipedia). "A committee whose job was to approve the plans for a nuclear power plant spent the majority of its time on discussions about relatively minor but easy-to-grasp issues, such as what materials to use for the staff bike-shed, while neglecting the proposed design of the plant itself, which is far more important but also a far more difficult and complex task."
+* [Path dependence](https://en.wikipedia.org/wiki/Path_dependence): "how the set of decisions one faces for any given circumstance is limited by the decisions one has made in the past, even though past circumstances may no longer be relevant" (Wikipedia).
 * [Peter's principle](https://en.wikipedia.org/wiki/Peter_principle): "managers rise to the level of their incompetence" (Wikipedia).
 * [Pocket veto](https://en.wikipedia.org/wiki/Pocket_veto): "maneuver that allows a president or other official with veto power to exercise that power over a bill by taking no action" (Wikipedia).
 * [Pre-mortem](https://en.wikipedia.org/wiki/Pre-mortem)
@@ -251,6 +262,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 ## Learning & retro & postmortem
 
 * [This is How Effective Leaders Move Beyond Blame](http://firstround.com/review/this-is-how-effective-leaders-move-beyond-blame/)
+* A great description of what blamelessness actually means: [How is team-member-1 doing?](https://about.gitlab.com/2017/03/17/how-is-team-member-1-doing/) (team-member-1 is the name of the person that "gave the unfortunate command to delete our primary database" during the global Gitlab outage in Feb 2017.
 * [A list of postmortems on Github](https://github.com/danluu/post-mortems)
 * [Debriefing Facilitation Guide](https://extfiles.etsy.com/DebriefingFacilitationGuide.pdf): Etsy's guide to debriefing & incident review.
 * [General James 'Mad Dog' Mattis Email About Being 'Too Busy To Read' Is A Must-Read](http://www.businessinsider.com/viral-james-mattis-email-reading-marines-2013-5): "by reading, you learn through others’ experiences, generally a better way to do business, especially in our line of work where the consequences of incompetence are so final for young men."
