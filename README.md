@@ -21,7 +21,7 @@
   - [Emotional Quotient (EQ)](#emotional-quotient-eq)
   - [Employee handbook](#employee-handbook)
   - [First-time manager](#first-time-manager)
-  - [Feedback & performance](#feedback-&-performance)
+  - [Feedback and performance](#feedback-and-performance)
   - [Hiring](#hiring)
     - [Hiring: diversity & bias](#hiring-diversity-&-bias)
     - [Hiring: interviews](#hiring-interviews)
@@ -34,7 +34,7 @@
   - [Mindset & Attitude](#mindset-&-attitude)
   - [Motivation](#motivation)
   - [Onboarding new team members](#onboarding-new-team-members)
-  - [Presentations & public speaking](#presentations-&-public-speaking)
+  - [Presentations and public speaking](#presentations-and-public-speaking)
   - [Processes for engineering](#processes-for-engineering)
   - [Programming languages](#programming-languages)
   - [Product management](#product-management)
@@ -210,7 +210,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [A Manager’s FAQ](https://medium.com/eshares-blog/a-managers-faq-35858a229f84#.u1iu04owe)
 * [This 90-Day Plan Turns Engineers into Remarkable Managers](http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/)
 
-## Feedback & performance
+## Feedback and performance
 
 * [Radical Candor — The Surprising Secret to Being a Good Boss](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)
 * [Firing people](https://zachholman.com/talk/firing-people): Zach Holman's talk about his experience being fired from Github offers some great insights into a process that is rarely talked about.
@@ -300,7 +300,7 @@ Quotes:
 
 * [5 Onboarding Fiascos From the Movies](https://business.linkedin.com/talent-solutions/blog/recruiting-humor-and-fun/2016/the-worst-new-hire-first-days-in-movies-that-you-should-never-let-happen-in-your-company) :clapper:
 
-## Presentations & public speaking
+## Presentations and public speaking
 
 * Garr Reynolds, [Presentation Zen Talk](https://www.youtube.com/watch?v=DZ2vtQCESpk) (Talks at Google) :clapper:
 * Garr Reynolds, [Presentation Zen book](https://www.amazon.com/dp/B006R4H5FG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
