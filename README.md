@@ -75,6 +75,8 @@ You can find a short summary in video [here](https://www.youtube.com/watch?v=psA
 * [The Advantage, Enhanced Edition: Why Organizational Health Trumps Everything Else In Business](http://www.amazon.com/gp/product/B006ORWT3Y/ref=dp-kindle-redirect?ie=UTF8&btkr=1).
 * Oren Ellenbogen, [Leading Snowflakes: the Engineering Manager Handbook](http://leadingsnowflakes.com/): some truly great content and concrete ideas to move from maker to manager mode, code reviewing your management decisions, delegating tasks without losing quality or visibility.
 
+There are some other more specific books quoted below.
+
 ### Book reading lists
 
 * [Jason Evanish's list](https://jasonevanish.com/books/) (Lighthouse founder) is quite comprehensive.
@@ -303,7 +305,11 @@ Quotes:
 ## Presentations and public speaking
 
 * Garr Reynolds, [Presentation Zen Talk](https://www.youtube.com/watch?v=DZ2vtQCESpk) (Talks at Google) :clapper:
-* Garr Reynolds, [Presentation Zen book](https://www.amazon.com/dp/B006R4H5FG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+* Garr Reynolds, [Presentation Zen book](https://www.amazon.com/dp/B006R4H5FG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) 📖
+* Garr Reynolds, [Top Ten Slide Tips](http://www.garrreynolds.com/preso-tips/design/)
+* [You suck at PowerPoint](https://www.slideshare.net/jessedee/you-suck-powerpoint/)
+* Edward Tufte, [The Visual Display of Quantitative Information](https://www.amazon.com/gp/product/0961392142/ref=as_li_tl?ie=UTF8&tag=presentatio00-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0961392142&linkId=ba73067796f2ff27685dd4a852663241) 📖, a classic book on how to present data.
+* [The Non-Designer's Design Book](https://www.amazon.com/Non-Designers-Design-Book-3rd/dp/0321534042) 📖 - despite its catchy title, it's actually a great book with a very memorable acronym to learn about how easy it is to design great documents.
 
 ## Processes for engineering
 
