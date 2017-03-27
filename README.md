@@ -23,15 +23,16 @@
   - [First-time manager](#first-time-manager)
   - [Feedback and performance](#feedback-and-performance)
   - [Hiring](#hiring)
-    - [Hiring: diversity & bias](#hiring-diversity-&-bias)
+    - [Hiring: diversity and bias](#hiring-diversity-and-bias)
     - [Hiring: interviews](#hiring-interviews)
     - [Hiring: process](#hiring-process)
     - [Hiring: sourcing](#hiring-sourcing)
-  - [Incident prevention & response (on-call, outages)](#incident-prevention-&-response-on-call-outages)
-  - [Learning & retro & postmortem](#learning-&-retro-&-postmortem)
+  - [Incident prevention and response (on-call, outages)](#incident-prevention-and-response-on-call-outages)
+  - [Learning, retro, postmortem](#learning-retro-postmortem)
+  - [Management style](#management-style)
   - [Meetings](#meetings)
   - [Mentoring](#mentoring)
-  - [Mindset & Attitude](#mindset-&-attitude)
+  - [Mindset and attitude](#mindset-and-attitude)
   - [Motivation](#motivation)
   - [Onboarding new team members](#onboarding-new-team-members)
   - [Presentations and public speaking](#presentations-and-public-speaking)
@@ -229,7 +230,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [The Single Most Sure-Fire Hiring Decision You Will Ever Make](http://behindthescenesrecruiter.com/post/82005145232/the-single-most-sure-fire-hiring-decision-you-will#.VxntfpN94UE) is about establishing an intern program.
 * [Engineering Management - Hiring](http://algeri-wong.com/yishan/engineering-management-hiring.html) explains why hiring should be your top priority.
 
-### Hiring: diversity & bias
+### Hiring: diversity and bias
 
 * [Project Include](http://projectinclude.org/): an open community working toward providing meaningful diversity and inclusion solutions for tech companies. A great resource for anything diversity-related.
 * [Guess Who Doesn’t Fit In at Work](http://www.nytimes.com/2015/05/31/opinion/sunday/guess-who-doesnt-fit-in-at-work.html)
@@ -259,11 +260,11 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 
 * [How To Hire Engineers: Step 1, Sourcing](https://medium.com/@jocelyngoldfein/how-to-hire-engineers-step-1-sourcing-f388fddc63fd#.fwtgweq0e)
 
-## Incident prevention & response (on-call, outages)
+## Incident prevention and response (on-call, outages)
 
 * [A guide to handling incidents, downtime and outages](https://blog.serverdensity.com/guide-handling-incidents-downtime-outages/)
 
-## Learning & retro & postmortem
+## Learning, retro, postmortem
 
 * [This is How Effective Leaders Move Beyond Blame](http://firstround.com/review/this-is-how-effective-leaders-move-beyond-blame/)
 * A great description of what blamelessness actually means: [How is team-member-1 doing?](https://about.gitlab.com/2017/03/17/how-is-team-member-1-doing/) (team-member-1 is the name of the person that "gave the unfortunate command to delete our primary database" during the global Gitlab outage in Feb 2017.
@@ -276,6 +277,12 @@ Quotes:
 
 * "Excellence is achieved by the mastery of fundamentals", Vince Lombardi, considered to be one of the best coaches in NFL history.
 
+## Management style
+
+Quote about trust & verify:
+
+* "If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea.", Antoine de Saint-Exupery
+
 ## Meetings
 
 * [On Better Meetings](http://larahogan.me/blog/better-meetings/): Lara Hogan shares tips about ensuring efficient meetings.
@@ -285,7 +292,7 @@ Quotes:
 * [The Conjoined Triangles of Senior-Level Development](http://frontside.io/blog/2016/07/07/the-conjoined-triangles-of-senior-level-development.html) looks into how to define a senior engineer.
 * [Advice is Cheap — Context is Priceless](http://firstround.com/review/advice-is-cheap-context-is-priceless/)
 
-## Mindset & Attitude
+## Mindset and attitude
 
 * [Taking Ownership Is The Most Effective Way to Get What You Want](http://www.theeffectiveengineer.com/blog/take-ownership-of-your-goals)
 
