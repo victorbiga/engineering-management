@@ -334,6 +334,10 @@ Some great examples of presentations:
 
 * [The most important thing Dropbox did to scale Product Management](https://medium.com/startup-grind/the-most-important-thing-dropbox-did-to-scale-product-management-fed90e30697e#.t5uu8idgb): a very simple model for stating the stage a product is in.
 
+## Productivity
+
+* [Why Are Maker Schedules So Rare?](http://calnewport.com/blog/2017/04/05/why-are-maker-schedules-so-rare/)
+
 ## Project management
 
 * Jason Yip, [It's Not Just Standing Up: Patterns for Daily Standup Meetings](http://martinfowler.com/articles/itsNotJustStandingUp.html): standup are a pretty controversial topics. This article on Martin Fowler's blog provides a good list of patterns and anti-patterns to ensure they're a good productive use of everybody's time.
