@@ -101,6 +101,7 @@ Here are some generic resources:
 ## Articles
 
 * [The Quiet Crisis unfolding in Software Development](https://medium.com/@billjordan1/the-quiet-crisis-unfolding-in-software-development-cffbdafbf450#.uy7x227pc)
+* [Mistakes of the First Twenty-five Years](articles/mistakes_25_years.md), in which Warren Buffet describes the "institutional imperative", or how an institution will amplify (not resist) a bad manager's irrational decisions.
 
 # Engineering Management Resources
 
