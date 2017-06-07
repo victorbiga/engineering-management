@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+# Table of Contents
+
+- [Mistakes of the First Twenty-five Years (A Condensed Version)](#mistakes-of-the-first-twenty-five-years-a-condensed-version)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Mistakes of the First Twenty-five Years (A Condensed Version)
 
 *[Full text here](http://www.berkshirehathaway.com/letters/1989.html)*

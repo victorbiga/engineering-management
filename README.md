@@ -15,11 +15,12 @@
   - [Biases](#biases)
   - [Code reviews](#code-reviews)
   - [Communication](#communication)
-  - [Concepts](#concepts)
   - [Conflict resolution](#conflict-resolution)
   - [Decisions](#decisions)
+  - [Delegation](#delegation)
   - [Emotional Quotient (EQ)](#emotional-quotient-eq)
   - [Employee handbook](#employee-handbook)
+  - [Escalations](#escalations)
   - [First-time manager](#first-time-manager)
   - [Feedback and performance](#feedback-and-performance)
   - [Hiring](#hiring)
@@ -35,17 +36,19 @@
   - [Mindset and attitude](#mindset-and-attitude)
   - [Motivation](#motivation)
   - [Onboarding new team members](#onboarding-new-team-members)
+  - [Planning (reviews, OKR, etc.)](#planning-reviews-okr-etc)
   - [Presentations and public speaking](#presentations-and-public-speaking)
   - [Processes for engineering](#processes-for-engineering)
   - [Programming languages](#programming-languages)
   - [Product management](#product-management)
+  - [Productivity](#productivity)
   - [Project management](#project-management)
   - [Remote teams](#remote-teams)
   - [Team vision](#team-vision)
   - [Technical strategy](#technical-strategy)
   - [Team culture](#team-culture)
   - [Strategy](#strategy)
-  - [Work ethics](#work-ethics)
+  - [Work ethics & work/life balance](#work-ethics--worklife-balance)
   - [Writing](#writing)
 - [Movies](#movies)
   - [TV Shows](#tv-shows)
@@ -75,6 +78,8 @@ You can find a short summary in video [here](https://www.youtube.com/watch?v=psA
 
 * [The Advantage, Enhanced Edition: Why Organizational Health Trumps Everything Else In Business](http://www.amazon.com/gp/product/B006ORWT3Y/ref=dp-kindle-redirect?ie=UTF8&btkr=1).
 * Oren Ellenbogen, [Leading Snowflakes: the Engineering Manager Handbook](http://leadingsnowflakes.com/): some truly great content and concrete ideas to move from maker to manager mode, code reviewing your management decisions, delegating tasks without losing quality or visibility.
+* Adam Grant, [Give and Take: Why Helping Others Drives Our Success](https://www.amazon.com/dp/B00AFPTSI0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1): "This gem is a joy to read, and it shatters the myth that greed is the path to success.", Robert Sutton.
+* Ken Blanchard, [Lead Like Jesus: Lessons from the Greatest Leadership Role Model of All Time](https://www.amazon.com/dp/B004VF62IO/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) 
 
 There are some other more specific books quoted below.
 
@@ -102,6 +107,8 @@ Here are some generic resources:
 
 * [The Quiet Crisis unfolding in Software Development](https://medium.com/@billjordan1/the-quiet-crisis-unfolding-in-software-development-cffbdafbf450#.uy7x227pc)
 * [Mistakes of the First Twenty-five Years](articles/mistakes_25_years.md), in which Warren Buffet describes the "institutional imperative", or how an institution will amplify (not resist) a bad manager's irrational decisions.
+* [44 engineering management lessons](http://www.defmacro.org/2014/10/03/engman.html) from the cofounder of RethinkDB. Very high-level, a pretty good summary.
+* [21 management things I learned at Imgur](https://medium.com/@gerstenzang/21-management-things-i-learned-at-imgur-7abb72bdf8bf) 
 
 # Engineering Management Resources
 
@@ -118,12 +125,15 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 * [What is an Inquiring Leader?](https://www.linkedin.com/pulse/what-inquiring-leader-marilee-adams)
 * HBR, [How to Ask Better Questions](https://hbr.org/2009/05/real-leaders-ask.html)
 * [Mentor vs Advisor vs Coach](http://baxterblog.typepad.com/blog/2012/11/mentor-vs-advisor-vs-coach.html)
+* [How To Be Someone People Love To Talk To](http://www.bakadesuyo.com/2015/02/love-to-talk/) 
 
 ## Antipatterns
 
 * [Seven Deadly Diseases of Management](https://www.deming.org/theman/theories/deadlydiseases), Dr. Deming. Great video as well. I don't necessarily agree with everything but Deming is still one of the great management thinker.
 
 ## Biases
+
+* [You're not going to believe what I'm about to tell you](http://theoatmeal.com/comics/believe), The Oatmeal (comics) about the backfire effect ("given evidence against their beliefs, people can reject the evidence and believe even more strongly", [confirmation bias - Wikipedia](https://en.wikipedia.org/wiki/Confirmation_bias)).
 
 Cognitive biases don't only apply to hiring... They can impact performance reviews, 1-1, team meetings, even small talk with colleagues.
 
@@ -133,57 +143,15 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 
 * [Ask HN: How do you review code?](https://news.ycombinator.com/item?id=11416746): great discussion on HackerNews, full of interesting ideas.
 * [Maslow's pyramid of code reviews](http://blog.d3in.org/post/111338685456/maslows-pyramid-of-code-review)
+* [Code review in remote teams](https://web.hypothes.is/blog/code-review-in-remote-teams/): very complete set of rules.
 
 ## Communication
 
 * [Tough News: We’ve Made 10 Layoffs. How We Got Here, the Financial Details and How We’re Moving Forward](https://open.buffer.com/layoffs-and-moving-forward/): a great post by Joel Gascoigne (CEO & Founder of Buffer) sharing some pretty tough news to the team and to the world. Great transparency, great message, great ownership. A model to follow.
 * [How To Pitch A Product](http://avc.com/2010/08/how-to-pitch-a-product/), AVC.
-* [Learn how to escalate issues](http://www.goodproductmanager.com/2007/05/09/learn-how-to-escalate-issues/)
 * [Ken Norton’s Discipline of No](https://blog.mixpanel.com/2016/09/20/learning-to-say-no-with-ken-norton/). #attitude #habits.
 * [Nonviolent communication](https://en.wikipedia.org/wiki/Nonviolent_Communication) (Wikipedia)
 * [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.7mqxmkpz9)
-
-## Concepts
-
-* [Availability heuristic](https://en.wikipedia.org/wiki/Availability_heuristic): "a mental shortcut that relies on immediate examples that come to a given person's mind when evaluating a specific topic, concept, method or decision" (Wikipedia).
-* [Bias blind spot](https://en.wikipedia.org/wiki/Bias_blind_spot): "recognizing the impact of biases on the judgement of others, while failing to see the impact of biases on one's own judgement" (Wikipedia).
-* [Broken window theory](https://en.wikipedia.org/wiki/Broken_windows_theory)
-* [Brooks' law](https://en.wikipedia.org/wiki/Brooks%E2%80%99_law): "adding manpower to a late software project makes it later" (Wikipedia).
-* [Bystander effect](https://en.wikipedia.org/wiki/Bystander_effect): "cases in which individuals do not offer any means of help to a victim when other people are present. The probability of help is inversely related to the number of bystanders." (Wikipedia).
-* [Cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance): "discomfort experienced by an individual who holds two or more contradictory beliefs, ideas, or values at the same time" (Wikipedia).
-* [Conceptual integrity](http://architecture.typepad.com/architecture_blog/2011/10/the-importance-of-conceptual-integrity.html): "It is better to have a system omit certain anomalous features and improvements, but to reflect one set of design ideas, than to have one that contains many good but independent and uncoordinated ideas." (Fred 
-* [Confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias): "the tendency to search for, interpret, favor, and recall information in a way that confirms one's preexisting beliefs or hypotheses, while giving disproportionately less consideration to alternative possibilities" (Wikipedia).
-* [Conway's law](https://en.wikipedia.org/wiki/Conway%27s_law): "organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations". [Read the original paper](http://www.melconway.com/Home/Committees_Paper.html)
-* [Déformation professionnelle](https://en.wikipedia.org/wiki/D%C3Tuesday9formation_professionnelle): "tendency to look at things from the point of view of one's own profession rather than from a broader perspective" (Wikipedia).
-* [Dominant design](https://en.wikipedia.org/wiki/Dominant_design): "the one that wins the allegiance of the marketplace, the one that competitors and innovators must adhere to if they hope to command significant market following" (Wikipedia).
-* [Dunning–Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect): "cognitive bias in which relatively unskilled persons suffer illusory superiority, mistakenly assessing their ability to be much higher than it really is" (Wikipedia)
-* [Fundamental attribution error](https://en.wikipedia.org/wiki/Fundamental_attribution_error): "the tendency for people to place an undue emphasis on internal characteristics (personality) to explain someone else's behavior in a given situation rather than considering the situation's external factors" (Wikipedia).
-* [Halo effect](https://en.wikipedia.org/wiki/Halo_effect): "an observer's overall impression of a person, company, brand, or product influences the observer's feelings and thoughts about that entity's character or properties" (Wikipedia).
-* [Hanlon's law](https://en.wikipedia.org/wiki/Hanlon%27s_razor): "never attribute to malice that which is adequately explained by stupidity" (Wikipedia).
-* [Hindsight bias](https://en.wikipedia.org/wiki/Hindsight_bias): "the inclination, after an event has occurred, to see the event as having been predictable, despite there having been little or no objective basis for predicting it" (Wikipedia).
-* [Hofstadter's Law](https://en.wikipedia.org/wiki/Hofstadter%27s_law): "it always takes longer than you expect, even when you take into account Hofstadter's Law" (Wikipedia).
-* [Learned helplessness](https://en.wikipedia.org/wiki/Learned_helplessness)
-* [Linus' law](https://en.wikipedia.org/wiki/Linus%27s_Law): "given enough eyeballs, all bugs are shallow".
-* Maslow's Pyramid
-* [Mere-exposure effect](https://en.wikipedia.org/wiki/Mere-exposure_effect): "to develop a preference for things merely because they are familiar with them" (Wikipedia).
-* [Ninety-ninety](https://en.wikipedia.org/wiki/Ninety-ninety_rule): "the first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time" (Wikipedia).
-* [Outcome bias](https://en.wikipedia.org/wiki/Outcome_bias): "an error made in evaluating the quality of a decision when the outcome of that decision is already known" (Wikipedia).
-* [Overconfidence effect](https://en.wikipedia.org/wiki/Overconfidence_effect): "a well-established bias in which a person's subjective *confidence* in his or her judgments is reliably greater than the objective *accuracy* of those judgments" (Wikipedia).
-* [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle): "for many events, roughly 80% of the effects come from 20% of the causes".
-* [Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law): "work expands so as to fill the time available for its completion" (Wikipedia).
-* [Parkinson's law of triviality](https://en.wikipedia.org/wiki/Law_of_triviality): "members of an organisation give disproportionate weight to trivial issues" (Wikipedia). "A committee whose job was to approve the plans for a nuclear power plant spent the majority of its time on discussions about relatively minor but easy-to-grasp issues, such as what materials to use for the staff bike-shed, while neglecting the proposed design of the plant itself, which is far more important but also a far more difficult and complex task."
-* [Path dependence](https://en.wikipedia.org/wiki/Path_dependence): "how the set of decisions one faces for any given circumstance is limited by the decisions one has made in the past, even though past circumstances may no longer be relevant" (Wikipedia).
-* [Peter's principle](https://en.wikipedia.org/wiki/Peter_principle): "managers rise to the level of their incompetence" (Wikipedia).
-* [Pocket veto](https://en.wikipedia.org/wiki/Pocket_veto): "maneuver that allows a president or other official with veto power to exercise that power over a bill by taking no action" (Wikipedia).
-* [Pre-mortem](https://en.wikipedia.org/wiki/Pre-mortem)
-* [Principle of least astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment): "component of a system should behave in a manner consistent with how users of that component are likely to expect it to behave" (Wikipedia).
-* [Prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma): "a standard example of a game analyzed in game theory that shows why two completely "rational" individuals might not cooperate, even if it appears that it is in their best interests to do so."
-* [Robustness principle](https://en.wikipedia.org/wiki/Robustness_principle): "be conservative in what you do, be liberal in what you accept from others" (Wikipedia).
-* [Sayre's law](https://en.wikipedia.org/wiki/Sayre%27s_law): "in any dispute the intensity of feeling is inversely proportional to the value of the issues at stake" (Wikipedia).
-* [Sunk cost fallacy](https://en.wikipedia.org/wiki/Sunk_costs#Loss_aversion_and_the_sunk_cost_fallacy): "people justify increased investment of money, time, lives, etc. in a decision, based on the cumulative prior investment" (Wikipedia)
-* [Task relevant maturity](https://getlighthouse.com/blog/management-concept/): "How often you monitor should not be based on what you believe your subordinate can do in general, but on his experience with a specific task and his prior performance with it – his task relevant maturity… as the subordinate’s work improves over time, you should respond with a corresponding reduction in the intensity of the monitoring." (Intel CEO Andy Grove).
-* [Tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): "a situation within a shared-resource system where individual users acting independently and rationally according to their own self-interest behave contrary to the common good of all users by depleting that resource."
-* [Volunteer's Dilemma](https://en.wikipedia.org/wiki/Volunteer%27s_dilemma): "a situation in which each of X players faces the decision of either making a small sacrifice from which all will benefit, or freeriding."
 
 ## Conflict resolution
 
@@ -193,6 +161,11 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 
 * [Square Defangs Difficult Decisions with this System — Here’s How](http://firstround.com/review/square-defangs-difficult-decisions-with-this-system-heres-how/)
 * [How to simplify complex decisions by cleaving the facts](https://blog.asmartbear.com/complex-decisions.html), Jason Cohen.
+
+## Delegation
+
+* [The Counterintuitive Art of Leading by Letting Go](http://99u.com/articles/43081/the-counter-intuitive-art-of-leading-by-letting-go) 
+* Against micromanagement: "After you plant a seed in the ground, you don’t dig it up every week to see how it is doing", William Coyne, Head of R&D at 3M.
 
 ## Emotional Quotient (EQ)
 
@@ -205,6 +178,11 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [Valve's handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
 * [Inaka's handbook](https://github.com/inaka/guidelines)
 
+## Escalations
+
+* [Learn how to escalate issues](http://www.goodproductmanager.com/2007/05/09/learn-how-to-escalate-issues/)
+* [Mental frameworks for making decisions](http://nathanbarry.com/mental-frameworks/): how to handle escalations as a manager.
+
 ## First-time manager
 
 * [How to Ensure a New Manager Succeeds](https://getlighthouse.com/blog/new-manager-how-to-help-succeed/)
@@ -213,6 +191,8 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [Trained Engineers - Overnight Managers (or, The Art Of Not Destroying Your Company)](http://sysadvent.blogspot.nl/2016/12/day-16-trained-engineers-overnight.html)
 * [A Manager’s FAQ](https://medium.com/eshares-blog/a-managers-faq-35858a229f84#.u1iu04owe)
 * [This 90-Day Plan Turns Engineers into Remarkable Managers](http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/)
+* [The New Manager Death Spiral](http://randsinrepose.com/archives/the-new-manager-death-spiral/), Rands in Repose.
+* [Learnings from six months as a first-time manager](http://blog.d3in.org/post/74917727213/learnings-from-six-months-as-a-first-time) 
 
 ## Feedback and performance
 
@@ -243,6 +223,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [A Quick Puzzle to Test Your Problem Solving](http://www.nytimes.com/interactive/2015/07/03/upshot/a-quick-puzzle-to-test-your-problem-solving.html?_r=0)... and a great way to learn about confirmation bias (which is not only applicable to hiring but also to testing).
 * [The Diversity Hiring Playbook](https://business.linkedin.com/content/dam/business/talent-solutions/global/en_US/site/pdf/playbooks/linkedin-diversity-hiring-playbook-en-us.pdf), LinkedIn. Pretty high level but probably a good start.
 * [Hiring women at Klarna](https://www.youtube.com/watch?v=JWYNst72ucI) 🎞
+* [There’s no ‘silver bullet’ to increasing diversity, but here’s how we’re making progress.](https://magoosh.com/blog/silver-bullet-diversity-progress/) , Magoosh.
 
 ### Hiring: interviews
 
@@ -273,12 +254,16 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [Debriefing Facilitation Guide](https://extfiles.etsy.com/DebriefingFacilitationGuide.pdf): Etsy's guide to debriefing & incident review.
 * [General James 'Mad Dog' Mattis Email About Being 'Too Busy To Read' Is A Must-Read](http://www.businessinsider.com/viral-james-mattis-email-reading-marines-2013-5): "by reading, you learn through others’ experiences, generally a better way to do business, especially in our line of work where the consequences of incompetence are so final for young men."
 * [You can increase your intelligence: 5 ways to maximize your cognitive potential](https://blogs.scientificamerican.com/guest-blog/you-can-increase-your-intelligence-5-ways-to-maximize-your-cognitive-potential/): forgive the clickbait link, it's actually a good article.
+* [Startup Graveyard – History Shouldn't Have to Repeat Itself](http://startupgraveyard.io/) 
 
 Quotes:
 
 * "Excellence is achieved by the mastery of fundamentals", Vince Lombardi, considered to be one of the best coaches in NFL history.
 
 ## Management style
+
+* [Humane Development](https://ernie.io/2014/12/17/humane-development/): "we are humans working with humans to develop software for the benefit of humans."
+* [Leadership is making a comeback](https://www.reaktor.com/blog/leadership-is-making-a-comeback/) : interesting article that proposes a model where the leader is neither a servant nor a hero, but a host.
 
 Quote about trust & verify:
 
@@ -309,6 +294,13 @@ Quotes:
 ## Onboarding new team members
 
 * [5 Onboarding Fiascos From the Movies](https://business.linkedin.com/talent-solutions/blog/recruiting-humor-and-fun/2016/the-worst-new-hire-first-days-in-movies-that-you-should-never-let-happen-in-your-company) :clapper:
+
+## Planning (reviews, OKR, etc.)
+
+* [How to Use OKRs for Quarterly and Annual Planning](https://www.wrike.com/blog/okrs-quarterly-planning/) 
+
+> A goal without a plan is just a wish.
+-- Antoine de Saint-Exupéry
 
 ## Presentations and public speaking
 
@@ -368,8 +360,11 @@ Some great examples of presentations:
 * Joel Spolsky, [Things You Should Never Do, Part I](http://www.joelonsoftware.com/articles/fog0000000069.html): Joel explains why (according to him) you should never rewrite a codebase.
 * [Choose Boring Technology](http://mcfunley.com/choose-boring-technology-slides), Dan McKinley (Slideshare presentation).
 * [Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611): how Amazon became a platform.
+* [Letter to Shareholders](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm), Jeff Bezos: “Day 2 is stasis. Followed by irrelevance. Followed by excruciating, painful decline. Followed by death. And that is why it is always Day 1.” So much is packed in this letter. Day 1 is about true customer obsession, resisting proxies, embracing external trends, high-velocity decision making.
 
 ## Team culture
+
+* [Lessons from 7 highly successful software engineering cultures](https://techbeacon.com/lessons-7-highly-successful-software-engineering-cultures) 
 
 Those are considered classics:
 
@@ -378,6 +373,7 @@ Those are considered classics:
 * [Gitlab's employee handbook](https://about.gitlab.com/handbook/) (includes cultural values)
 * [The HubSpot Culture Code: Creating a Company We Love](http://blog.hubspot.com/blog/tabid/6307/bid/34234/The-HubSpot-Culture-Code-Creating-a-Company-We-Love.aspx)
 * [Don’t pave the path used by the unhappy cows](https://medium.com/@kellan/dont-pave-the-path-used-by-the-unhappy-cows-fef7a78777f8#.mtw3s2h1v)
+* [Amazon's leadership principles](https://www.amazon.jobs/principles) 
 
 [culturecodes](http://culturecodes.co/) is a repository of culture deck from companies (including the ones above).
 
@@ -388,17 +384,21 @@ Shameless plug here, two presentations I contributed to:
 * [Amazon: the hidden empire](http://www.slideshare.net/faberNovel/amazoncom-the-hidden-empire)
 * [Apple: 8 easy steps to beat Microsoft](http://www.slideshare.net/faberNovel/apple-study-8-easy-steps-to-beat-microsoft-and-google)
 * [Michael Porter's generic strategies](https://en.wikipedia.org/wiki/Porter%27s_generic_strategies) (Wikipedia)
+* "Waterline principle" from Bill Gore: "Think of being on a ship, and imagine that any decision gone bad will blow a hole in the side of the ship. If you blow a hole above the waterline (where the ship won’t take on water and possibly sink), you can patch the hole, learn from the experience, and sail on. But if you blow a hole below the waterline, you can find yourself facing gushers of water pouring in, pulling you toward the ocean floor. And if it’s a big enough hole, you might go down really fast, just like some of the financial firm catastrophes of 2008. To be clear, great enterprises do make big bets, but they avoid big bets that could blow holes below the waterline.", How We Might Fall.
 
-## Work ethics
+## Work ethics & work/life balance
 
 * [The Virtues of Laziness and Impatience](http://www.elidedbranches.com/2016/06/the-virtues-of-laziness-and-impatience.html): "there are two areas I encourage you to practice showing, right now: figuring out what’s important, and going home."
 * [Lazy Leadership](https://medium.com/the-modern-team/lazy-leadership-8ba19e34f959#.bwcfjz5ac): "entrepreneurship is really just a fancy word for delegation".
+* [Your non-linear problem of 90% utilization](https://blog.asmartbear.com/utilization.html), Jason Cohen: why constantly running at 90% utilization is actually counter-productive.
+* [Evidence-based advice on how to be successful in any jobs](https://80000hours.org/career-guide/how-to-be-successful/): most self-help advices are not research-based. The ones listed in this article are.
 
 ## Writing
 
 * [The 7 Emails You Need to Know How to Write](http://unreasonable.is/the-7-emails-you-need-to-know-how-to-write/)
 * [The Inverted Pyramid](https://en.wikipedia.org/wiki/Inverted_pyramid) or [BLUF (bottom line up front)](https://en.wikipedia.org/wiki/BLUF_(communication)) (Wikipedia): a method to prioritize and structure information in a text.
 * [How to say you’re sorry](https://m.signalvnoise.com/how-to-say-youre-sorry-1c3477c33c89#.7xxja07ae), Jason Fried (Founder & CEO Bootcamp)
+* [How To Write With Style](http://www.novelr.com/2008/08/16/vonnegut-how-to-write-with-style), Kurt Vonnegut.
 
 # Movies
 
