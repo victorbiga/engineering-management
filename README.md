@@ -200,6 +200,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [Firing people](https://zachholman.com/talk/firing-people): Zach Holman's talk about his experience being fired from Github offers some great insights into a process that is rarely talked about.
 * [A Primer on Giving Critical Feedback](http://www.tombartel.de//2016/05/21/a-primer-on-giving-critical-feedback/)
 * Feedback goes both ways: [Tool: Try Google’s Manager Feedback Survey](https://rework.withgoogle.com/guides/managers-give-feedback-to-managers/steps/try-googles-manager-feedback-survey/)
+* [Negative feedback antipatterns](http://blog.d3in.org/post/153942984306/negative-feedback-antipatterns) 
 
 ## Hiring
 
