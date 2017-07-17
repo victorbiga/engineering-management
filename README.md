@@ -37,7 +37,7 @@
   - [Motivation](#motivation)
   - [Onboarding new team members](#onboarding-new-team-members)
   - [Planning (reviews, OKR, etc.)](#planning-reviews-okr-etc)
-  - [Presentations and public speaking](#presentations-and-public-speaking)
+  - [Presentations, design and public speaking](#presentations-design-and-public-speaking)
   - [Processes for engineering](#processes-for-engineering)
   - [Programming languages](#programming-languages)
   - [Product management](#product-management)
@@ -64,7 +64,7 @@ More than any other field, management is full of fluffy books that could be summ
 
 ## Turn the Ship Around!: A True Story of Turning Followers into Leaders
 
-[Turn the Ship Around!: A True Story of Turning Followers into Leaders](http://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404) is hands down my preferred management book.
+[Turn the Ship Around!: A True Story of Turning Followers into Leaders](http://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404) 📖 is hands down my preferred management book.
 
 This book made me truly understand what empowering local decision means. In particular, I liked how the author explains that the usual chain of command requires information to go up the chain, and decision to go down, which is insanely inefficient.
 
@@ -76,10 +76,12 @@ You can find a short summary in video [here](https://www.youtube.com/watch?v=psA
 
 ## Other books
 
-* [The Advantage, Enhanced Edition: Why Organizational Health Trumps Everything Else In Business](http://www.amazon.com/gp/product/B006ORWT3Y/ref=dp-kindle-redirect?ie=UTF8&btkr=1).
-* Oren Ellenbogen, [Leading Snowflakes: the Engineering Manager Handbook](http://leadingsnowflakes.com/): some truly great content and concrete ideas to move from maker to manager mode, code reviewing your management decisions, delegating tasks without losing quality or visibility.
-* Adam Grant, [Give and Take: Why Helping Others Drives Our Success](https://www.amazon.com/dp/B00AFPTSI0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1): "This gem is a joy to read, and it shatters the myth that greed is the path to success.", Robert Sutton.
-* Ken Blanchard, [Lead Like Jesus: Lessons from the Greatest Leadership Role Model of All Time](https://www.amazon.com/dp/B004VF62IO/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) 
+* [The Advantage, Enhanced Edition: Why Organizational Health Trumps Everything Else In Business](http://www.amazon.com/gp/product/B006ORWT3Y/ref=dp-kindle-redirect?ie=UTF8&btkr=1) 📖.
+* Oren Ellenbogen, [Leading Snowflakes: the Engineering Manager Handbook](http://leadingsnowflakes.com/) 📖: some truly great content and concrete ideas to move from maker to manager mode, code reviewing your management decisions, delegating tasks without losing quality or visibility.
+* Adam Grant, [Give and Take: Why Helping Others Drives Our Success](https://www.amazon.com/dp/B00AFPTSI0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) 📖: "This gem is a joy to read, and it shatters the myth that greed is the path to success.", Robert Sutton.
+* Ken Blanchard, [Lead Like Jesus: Lessons from the Greatest Leadership Role Model of All Time](https://www.amazon.com/dp/B004VF62IO/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) 📖.
+* Andrew S. Grove, [High Output Management](https://www.amazon.com/dp/B015VACHOK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) 📖. A landmark book by Intel CEO Andy Grove. Introduced many of the management best practices such as 1-1, OKR.
+* Patrick Lencioni, [The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756/ref=sr_1_1?s=books&ie=UTF8&qid=1500281191&sr=1-1&keywords=dysfunctions) 📖. 
 
 There are some other more specific books quoted below.
 
@@ -198,6 +200,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 
 * [Radical Candor — The Surprising Secret to Being a Good Boss](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)
 * [Firing people](https://zachholman.com/talk/firing-people): Zach Holman's talk about his experience being fired from Github offers some great insights into a process that is rarely talked about.
+* [It’s Never Too Early to Fire](https://a16z.com/2017/05/24/on-firing-why-when-how/), Andreessen Horowitz.
 * [A Primer on Giving Critical Feedback](http://www.tombartel.de//2016/05/21/a-primer-on-giving-critical-feedback/)
 * Feedback goes both ways: [Tool: Try Google’s Manager Feedback Survey](https://rework.withgoogle.com/guides/managers-give-feedback-to-managers/steps/try-googles-manager-feedback-survey/)
 * [Negative feedback antipatterns](http://blog.d3in.org/post/153942984306/negative-feedback-antipatterns) 
@@ -234,6 +237,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [Real talk: the technical interview is broken](https://medium.com/@CODE2040/real-talk-the-technical-interview-is-broken-b84b8375dccb#.vxuvtrhad)
 * [Finding a Tech Leadership Job in Silicon Alley](https://medium.com/@Bar_Code/finding-a-tech-leadership-job-in-silicon-alley-3631e97ff33e#.2w4yzwtgx) (interviewing seen from the candidate experience point of view).
 * [How I Interview](https://rkoutnik.com/articles/How-I-Interview.html)
+* [What if companies interviewed translators the way they interview coders?](https://medium.freecodecamp.org/welcome-to-the-software-interview-ee673bc5ef6) - a great counter example of how interview can be disconnected from one's actual job.
 
 ### Hiring: process
 
@@ -303,7 +307,7 @@ Quotes:
 > A goal without a plan is just a wish.
 -- Antoine de Saint-Exupéry
 
-## Presentations and public speaking
+## Presentations, design and public speaking
 
 * Garr Reynolds, [Presentation Zen Talk](https://www.youtube.com/watch?v=DZ2vtQCESpk) (Talks at Google) :clapper:
 * Garr Reynolds, [Presentation Zen book](https://www.amazon.com/dp/B006R4H5FG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) 📖
@@ -311,6 +315,7 @@ Quotes:
 * [You suck at PowerPoint](https://www.slideshare.net/jessedee/you-suck-powerpoint/)
 * Edward Tufte, [The Visual Display of Quantitative Information](https://www.amazon.com/gp/product/0961392142/ref=as_li_tl?ie=UTF8&tag=presentatio00-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0961392142&linkId=ba73067796f2ff27685dd4a852663241) 📖, a classic book on how to present data.
 * [The Non-Designer's Design Book](https://www.amazon.com/Non-Designers-Design-Book-3rd/dp/0321534042) 📖 - despite its catchy title, it's actually a great book with a very memorable acronym to learn about how easy it is to design great documents.
+* William Lidwell, Kritina Holden, Jill Butler, [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/1592530079) 📖.
 
 Some great examples of presentations:
 
@@ -385,6 +390,8 @@ Shameless plug here, two presentations I contributed to:
 * [Amazon: the hidden empire](http://www.slideshare.net/faberNovel/amazoncom-the-hidden-empire)
 * [Apple: 8 easy steps to beat Microsoft](http://www.slideshare.net/faberNovel/apple-study-8-easy-steps-to-beat-microsoft-and-google)
 * [Michael Porter's generic strategies](https://en.wikipedia.org/wiki/Porter%27s_generic_strategies) (Wikipedia)
+* [Steve Jobs explaining why you should start from the customers, and go backward](https://www.youtube.com/watch?v=FF-tKLISfPE) (video 🎞). He makes the point that stopping the OpenDoc project was the right thing to do because it was a technology without any customer.
+* [Can Do Vs Must Do](http://avc.com/2017/05/can-do-vs-must-do/) , AVC. "Doing a startup is like playing a video game. Each level requires you to master one thing and once you do that, you level up and then there is a new thing to master."
 * "Waterline principle" from Bill Gore: "Think of being on a ship, and imagine that any decision gone bad will blow a hole in the side of the ship. If you blow a hole above the waterline (where the ship won’t take on water and possibly sink), you can patch the hole, learn from the experience, and sail on. But if you blow a hole below the waterline, you can find yourself facing gushers of water pouring in, pulling you toward the ocean floor. And if it’s a big enough hole, you might go down really fast, just like some of the financial firm catastrophes of 2008. To be clear, great enterprises do make big bets, but they avoid big bets that could blow holes below the waterline.", How We Might Fall.
 
 ## Work ethics & work/life balance
