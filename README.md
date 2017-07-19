@@ -36,12 +36,12 @@
   - [Mindset and attitude](#mindset-and-attitude)
   - [Motivation](#motivation)
   - [Onboarding new team members](#onboarding-new-team-members)
+  - [Personal productivity](#personal-productivity)
   - [Planning (reviews, OKR, etc.)](#planning-reviews-okr-etc)
   - [Presentations, design and public speaking](#presentations-design-and-public-speaking)
   - [Processes for engineering](#processes-for-engineering)
   - [Programming languages](#programming-languages)
   - [Product management](#product-management)
-  - [Productivity](#productivity)
   - [Project management](#project-management)
   - [Remote teams](#remote-teams)
   - [Team vision](#team-vision)
@@ -298,7 +298,18 @@ Quotes:
 
 ## Onboarding new team members
 
-* [5 Onboarding Fiascos From the Movies](https://business.linkedin.com/talent-solutions/blog/recruiting-humor-and-fun/2016/the-worst-new-hire-first-days-in-movies-that-you-should-never-let-happen-in-your-company) :clapper:
+* [5 Onboarding Fiascos From the Movies](https://business.linkedin.com/talent-solutions/blog/recruiting-humor-and-fun/2016/the-worst-new-hire-first-days-in-movies-that-you-should-never-let-happen-in-your-company) 🎞
+
+## Personal productivity
+
+* [Why Are Maker Schedules So Rare?](http://calnewport.com/blog/2017/04/05/why-are-maker-schedules-so-rare/)
+* David Allen, [Getting Things Done: The Art of Stress-Free Productivity](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280) 📖: while it could be much shorter, this book is probably the best way to learn about the GTD methodology.
+* [Productivity 101: A Primer to the Getting Things Done (GTD) Philosophy](http://lifehacker.com/productivity-101-a-primer-to-the-getting-things-done-1551880955): a great summary of GTD.
+* [Zen Habits](https://zenhabits.net/): a blog you can follow to get productivity tips and tricks.
+* [Zen To Done (ZTD)](https://zenhabits.net/zen-to-done-ztd-the-ultimate-simple-productivity-system/): a simpler productivity system.
+* [43 Folders Series: Inbox Zero](http://www.43folders.com/izero): how to get and maintain your email inbox at a sane level.
+
+In terms of software, I can't recommend [Things](https://culturedcode.com/things/) enough (Mac and iOS only). It is a delightful piece of software that gets out of the way and lets you focus on your tasks.
 
 ## Planning (reviews, OKR, etc.)
 
@@ -332,10 +343,6 @@ Some great examples of presentations:
 ## Product management
 
 * [The most important thing Dropbox did to scale Product Management](https://medium.com/startup-grind/the-most-important-thing-dropbox-did-to-scale-product-management-fed90e30697e#.t5uu8idgb): a very simple model for stating the stage a product is in.
-
-## Productivity
-
-* [Why Are Maker Schedules So Rare?](http://calnewport.com/blog/2017/04/05/why-are-maker-schedules-so-rare/)
 
 ## Project management
 
