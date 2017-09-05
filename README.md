@@ -13,6 +13,7 @@
   - [1-1](#1-1)
   - [Antipatterns](#antipatterns)
   - [Biases](#biases)
+  - [Career growth and job ladder](#career-growth-and-job-ladder)
   - [Code reviews](#code-reviews)
   - [Communication](#communication)
   - [Conflict resolution](#conflict-resolution)
@@ -110,7 +111,8 @@ Here are some generic resources:
 * [The Quiet Crisis unfolding in Software Development](https://medium.com/@billjordan1/the-quiet-crisis-unfolding-in-software-development-cffbdafbf450#.uy7x227pc)
 * [Mistakes of the First Twenty-five Years](articles/mistakes_25_years.md), in which Warren Buffet describes the "institutional imperative", or how an institution will amplify (not resist) a bad manager's irrational decisions.
 * [44 engineering management lessons](http://www.defmacro.org/2014/10/03/engman.html) from the cofounder of RethinkDB. Very high-level, a pretty good summary.
-* [21 management things I learned at Imgur](https://medium.com/@gerstenzang/21-management-things-i-learned-at-imgur-7abb72bdf8bf) 
+* [21 management things I learned at Imgur](https://medium.com/@gerstenzang/21-management-things-i-learned-at-imgur-7abb72bdf8bf)
+* [The Rands Test](http://randsinrepose.com/archives/the-rands-test/), Rands in Repose. The equivalent of [The Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) for management. 
 
 # Engineering Management Resources
 
@@ -140,6 +142,10 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 Cognitive biases don't only apply to hiring... They can impact performance reviews, 1-1, team meetings, even small talk with colleagues.
 
 * [Cognitive bias cheat sheet](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.6temb6hyg)
+
+## Career growth and job ladder
+
+* [Titles are Toxic](http://randsinrepose.com/archives/titles-are-toxic/), Rands in Repose. A pretty interesting take on titles.
 
 ## Code reviews
 
@@ -238,6 +244,8 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [Finding a Tech Leadership Job in Silicon Alley](https://medium.com/@Bar_Code/finding-a-tech-leadership-job-in-silicon-alley-3631e97ff33e#.2w4yzwtgx) (interviewing seen from the candidate experience point of view).
 * [How I Interview](https://rkoutnik.com/articles/How-I-Interview.html)
 * [What if companies interviewed translators the way they interview coders?](https://medium.freecodecamp.org/welcome-to-the-software-interview-ee673bc5ef6) - a great counter example of how interview can be disconnected from one's actual job.
+* [How to Interview Engineers](http://blog.triplebyte.com/how-to-interview-engineers): some pretty good guidelines with original research.
+* [Interviewing](https://www.xaprb.com/blog/interviewing/), Baron Schwartz. A good explanation why you should only ask behavioral question about the *past*.
 
 ### Hiring: process
 
@@ -250,6 +258,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 ## Incident prevention and response (on-call, outages)
 
 * [A guide to handling incidents, downtime and outages](https://blog.serverdensity.com/guide-handling-incidents-downtime-outages/)
+* [When the Sky Falls](http://randsinrepose.com/archives/when-the-sky-falls/), Rands in Repose
 
 ## Learning, retro, postmortem
 
@@ -269,6 +278,7 @@ Quotes:
 
 * [Humane Development](https://ernie.io/2014/12/17/humane-development/): "we are humans working with humans to develop software for the benefit of humans."
 * [Leadership is making a comeback](https://www.reaktor.com/blog/leadership-is-making-a-comeback/) : interesting article that proposes a model where the leader is neither a servant nor a hero, but a host.
+* [Management Philosophy](https://3002.ca/posts/management-philosophy/)
 
 Quote about trust & verify:
 
@@ -291,6 +301,8 @@ Quote about trust & verify:
 
 * [Drive: The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc) (summary of Daniel Pink's book). :clapper:
 * The [two-factor theory](https://en.wikipedia.org/wiki/Two-factor_theory) (Wikipedia) "states that there are certain factors in the workplace that cause job satisfaction, while a separate set of factors cause dissatisfaction."
+* [Bored People Quit](http://randsinrepose.com/archives/bored-people-quit/), Rands in Repose
+* [The Development Abstraction Layer](https://www.joelonsoftware.com/2006/04/11/the-development-abstraction-layer-2/), Joel on Software
 
 Quotes:
 
@@ -308,6 +320,7 @@ Quotes:
 * [Zen Habits](https://zenhabits.net/): a blog you can follow to get productivity tips and tricks.
 * [Zen To Done (ZTD)](https://zenhabits.net/zen-to-done-ztd-the-ultimate-simple-productivity-system/): a simpler productivity system.
 * [43 Folders Series: Inbox Zero](http://www.43folders.com/izero): how to get and maintain your email inbox at a sane level.
+* [Busy to Death](https://barryoreilly.com/2017/05/31/busy-to-death/): a good story involving W. Edwards Deming.
 
 In terms of software, I can't recommend [Things](https://culturedcode.com/things/) enough (Mac and iOS only). It is a delightful piece of software that gets out of the way and lets you focus on your tasks.
 
@@ -377,7 +390,8 @@ Some great examples of presentations:
 
 ## Team culture
 
-* [Lessons from 7 highly successful software engineering cultures](https://techbeacon.com/lessons-7-highly-successful-software-engineering-cultures) 
+* [Lessons from 7 highly successful software engineering cultures](https://techbeacon.com/lessons-7-highly-successful-software-engineering-cultures)
+* [Engineering a culture of psychological safety](https://blog.intercom.com/psychological-safety/) 
 
 Those are considered classics:
 
