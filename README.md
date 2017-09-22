@@ -449,6 +449,7 @@ Here are some blogs and newsletter I follow.
 ## Newsletter
 
 * [Software Lead Weekly](http://softwareleadweekly.com/) (Oren Ellenbogen): a short curation of great management articles. Also include some videos, and some less serious, funny material. A lot of the links founds in this repo appeared in Oren's weekly email.
+* [HBR's Management Tip of the Day](https://hbr.org/email-newsletters)
 
 ## Blogs
 
