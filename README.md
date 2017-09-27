@@ -177,7 +177,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 
 ## Emotional Quotient (EQ)
 
-* [Those 20 Key Habits that Hold You Back](http://marshallgoldsmith.blogspot.fr/2010/11/those-20-key-habits-that-hold-you-back.html)
+* [Those 20 Key Habits that Hold You Back](http://coachingfeedforward.blogspot.com/2010/07/those-20-key-habits-that-hold-you-back.html)
 
 ## Employee handbook
 
