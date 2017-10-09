@@ -321,6 +321,7 @@ Quotes:
 * [Zen To Done (ZTD)](https://zenhabits.net/zen-to-done-ztd-the-ultimate-simple-productivity-system/): a simpler productivity system.
 * [43 Folders Series: Inbox Zero](http://www.43folders.com/izero): how to get and maintain your email inbox at a sane level.
 * [Busy to Death](https://barryoreilly.com/2017/05/31/busy-to-death/): a good story involving W. Edwards Deming.
+* [CannotMeasureProductivity](https://martinfowler.com/bliki/CannotMeasureProductivity.html), Martin Fowler (about how you cannot measure developer productivity.
 
 In terms of software, I can't recommend [Things](https://culturedcode.com/things/) enough (Mac and iOS only). It is a delightful piece of software that gets out of the way and lets you focus on your tasks.
 
