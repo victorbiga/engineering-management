@@ -327,7 +327,8 @@ In terms of software, I can't recommend [Things](https://culturedcode.com/things
 
 ## Planning (reviews, OKR, etc.)
 
-* [How to Use OKRs for Quarterly and Annual Planning](https://www.wrike.com/blog/okrs-quarterly-planning/) 
+* [How to Use OKRs for Quarterly and Annual Planning](https://www.wrike.com/blog/okrs-quarterly-planning/)
+* [The Heilmeier Catechism](https://www.darpa.mil/work-with-us/heilmeier-catechism): a crafted a set of questions to help DARPA officials think through and evaluate proposed research programs.
 
 > A goal without a plan is just a wish.
 -- Antoine de Saint-Exupéry
