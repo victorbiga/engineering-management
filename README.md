@@ -19,6 +19,7 @@
   - [Conflict resolution](#conflict-resolution)
   - [Decisions](#decisions)
   - [Delegation](#delegation)
+  - [Diversity and inclusion](#diversity-and-inclusion)
   - [Emotional Quotient (EQ)](#emotional-quotient-eq)
   - [Employee handbook](#employee-handbook)
   - [Escalations](#escalations)
@@ -175,6 +176,15 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [The Counterintuitive Art of Leading by Letting Go](http://99u.com/articles/43081/the-counter-intuitive-art-of-leading-by-letting-go) 
 * Against micromanagement: "After you plant a seed in the ground, you don’t dig it up every week to see how it is doing", William Coyne, Head of R&D at 3M.
 
+## Diversity and inclusion
+
+* [Project Include](http://projectinclude.org/): an open community working toward providing meaningful diversity and inclusion solutions for tech companies. A great resource for anything diversity-related.
+* [Guess Who Doesn’t Fit In at Work](http://www.nytimes.com/2015/05/31/opinion/sunday/guess-who-doesnt-fit-in-at-work.html)
+* [Good Intentions Fail at Scale](http://www.fancybeans.com/blog/2016/02/05/good-intentions-fail-at-scale/): great article about why you can't rely on good intentions to increase diversity.
+* [List of cognitive biases on Wikipedia](http://rationalwiki.org/wiki/List_of_cognitive_biases)
+* [Making the Unconscious Conscious](https://www.youtube.com/watch?v=NW5s_-Nl3JE) (Google Video) :clapper:
+* [There’s no ‘silver bullet’ to increasing diversity, but here’s how we’re making progress.](https://magoosh.com/blog/silver-bullet-diversity-progress/), Magoosh.
+
 ## Emotional Quotient (EQ)
 
 * [Those 20 Key Habits that Hold You Back](http://coachingfeedforward.blogspot.com/2010/07/those-20-key-habits-that-hold-you-back.html)
@@ -223,17 +233,13 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 
 ### Hiring: diversity and bias
 
-* [Project Include](http://projectinclude.org/): an open community working toward providing meaningful diversity and inclusion solutions for tech companies. A great resource for anything diversity-related.
-* [Guess Who Doesn’t Fit In at Work](http://www.nytimes.com/2015/05/31/opinion/sunday/guess-who-doesnt-fit-in-at-work.html)
+Feel free to also checkout the general diversity section.
+
 * [Why Hiring for "Culture Fit" Hurts Your Culture](http://www.paperplanes.de/2015/6/11/why-hiring-for-culture-fit-hurts-your-culture.html)
-* [Good Intentions Fail at Scale](http://www.fancybeans.com/blog/2016/02/05/good-intentions-fail-at-scale/): great article about why you can't rely on good intentions to increase diversity.
-* [List of cognitive biases on Wikipedia](http://rationalwiki.org/wiki/List_of_cognitive_biases)
-* [Making the Unconscious Conscious](https://www.youtube.com/watch?v=NW5s_-Nl3JE) (Google Video) :clapper:
 * [Xavier Niel explains 42: the coding university without teachers, books, or tuition](http://venturebeat.com/2016/06/16/xavier-niel-explains-42-the-coding-university-without-teachers-books-or-tuition/): a thought-provoking take on CS diplomas.
 * [A Quick Puzzle to Test Your Problem Solving](http://www.nytimes.com/interactive/2015/07/03/upshot/a-quick-puzzle-to-test-your-problem-solving.html?_r=0)... and a great way to learn about confirmation bias (which is not only applicable to hiring but also to testing).
 * [The Diversity Hiring Playbook](https://business.linkedin.com/content/dam/business/talent-solutions/global/en_US/site/pdf/playbooks/linkedin-diversity-hiring-playbook-en-us.pdf), LinkedIn. Pretty high level but probably a good start.
 * [Hiring women at Klarna](https://www.youtube.com/watch?v=JWYNst72ucI) 🎞
-* [There’s no ‘silver bullet’ to increasing diversity, but here’s how we’re making progress.](https://magoosh.com/blog/silver-bullet-diversity-progress/) , Magoosh.
 
 ### Hiring: interviews
 
