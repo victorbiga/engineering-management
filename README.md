@@ -365,6 +365,7 @@ Some great examples of presentations:
 ## Product management
 
 * [The most important thing Dropbox did to scale Product Management](https://medium.com/startup-grind/the-most-important-thing-dropbox-did-to-scale-product-management-fed90e30697e#.t5uu8idgb): a very simple model for stating the stage a product is in.
+* [How Amazon Web Services (AWS) Achieved an $11.5B Run Rate by Working Backwards](https://hitenism.com/amazon-working-backwards/): which explain Amazon's product management process.
 
 ## Project management
 
