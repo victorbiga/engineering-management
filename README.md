@@ -313,7 +313,8 @@ Quote about trust & verify:
 
 Quotes:
 
-* "The best time to plant a tree was 20 years ago. The second best time is now", Chinese proverb
+* "The best time to plant a tree was twenty years ago. The second best time is now", Chinese proverb.
+* "A ship in harbor is safe, but that is not what ships are made for.", John A Shedd.
 
 ## Onboarding new team members
 
