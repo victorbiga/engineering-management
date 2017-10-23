@@ -293,6 +293,7 @@ Quote about trust & verify:
 ## Meetings
 
 * [On Better Meetings](http://larahogan.me/blog/better-meetings/): Lara Hogan shares tips about ensuring efficient meetings.
+* [Almost Live! - Middle Management Suck-Ups](https://www.youtube.com/watch?v=IUIQX5esnNo) 🎬: a great example of a terrible ineffective meeting.
 
 ## Mentoring
 
@@ -375,6 +376,7 @@ Some great examples of presentations:
 * [Will your project be a success? Find out in five minutes.](https://www.projectsmart.co.uk/health-check/project-question-answer.php)
 * Project Smart, [Project management tools](https://www.projectsmart.co.uk/tools.php)
 * [How should deadlines be used in software engineering?](https://keen.io//blog/143850394061/how-should-deadlines-be-used-in-software)
+* [My 20-Year Experience of Software Development Methodologies](https://zwischenzugs.wordpress.com/2017/10/15/my-20-year-experience-of-software-development-methodologies/): includes a great poster about different project management methodologies.
 
 ## Remote teams
 
