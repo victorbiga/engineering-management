@@ -404,7 +404,8 @@ Some great examples of presentations:
 ## Team culture
 
 * [Lessons from 7 highly successful software engineering cultures](https://techbeacon.com/lessons-7-highly-successful-software-engineering-cultures)
-* [Engineering a culture of psychological safety](https://blog.intercom.com/psychological-safety/) 
+* [Engineering a culture of psychological safety](https://blog.intercom.com/psychological-safety/)
+* [Culture Eats Strategy For Breakfast](https://techcrunch.com/2014/04/12/culture-eats-strategy-for-breakfast/)
 
 Those are considered classics:
 
