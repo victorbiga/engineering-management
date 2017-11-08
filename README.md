@@ -286,9 +286,10 @@ Quotes:
 * [Leadership is making a comeback](https://www.reaktor.com/blog/leadership-is-making-a-comeback/) : interesting article that proposes a model where the leader is neither a servant nor a hero, but a host.
 * [Management Philosophy](https://3002.ca/posts/management-philosophy/)
 
-Quote about trust & verify:
+Quote:
 
 * "If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea.", Antoine de Saint-Exupery
+* "Management is doing things right; leadership is doing the right things.", Peter Drucker
 
 ## Meetings
 
