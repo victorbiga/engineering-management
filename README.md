@@ -182,8 +182,9 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [Guess Who Doesn’t Fit In at Work](http://www.nytimes.com/2015/05/31/opinion/sunday/guess-who-doesnt-fit-in-at-work.html)
 * [Good Intentions Fail at Scale](http://www.fancybeans.com/blog/2016/02/05/good-intentions-fail-at-scale/): great article about why you can't rely on good intentions to increase diversity.
 * [List of cognitive biases on Wikipedia](http://rationalwiki.org/wiki/List_of_cognitive_biases)
-* [Making the Unconscious Conscious](https://www.youtube.com/watch?v=NW5s_-Nl3JE) (Google Video) :clapper:
-* [There’s no ‘silver bullet’ to increasing diversity, but here’s how we’re making progress.](https://magoosh.com/blog/silver-bullet-diversity-progress/), Magoosh.
+* [Making the Unconscious Conscious](https://www.youtube.com/watch?v=NW5s_-Nl3JE) (Google Video) 🎞
+* [There’s no "silver bullet" to increasing diversity, but here’s how we’re making progress.](https://magoosh.com/blog/silver-bullet-diversity-progress/), Magoosh.
+* [Why Diversity Programs Fail](https://hbr.org/2016/07/why-diversity-programs-fail) 
 
 ## Emotional Quotient (EQ)
 
@@ -230,6 +231,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [This is why you never end up hiring good developers](http://qz.com/258066/this-is-why-you-dont-hire-good-developers/)
 * [The Single Most Sure-Fire Hiring Decision You Will Ever Make](http://behindthescenesrecruiter.com/post/82005145232/the-single-most-sure-fire-hiring-decision-you-will#.VxntfpN94UE) is about establishing an intern program.
 * [Engineering Management - Hiring](http://algeri-wong.com/yishan/engineering-management-hiring.html) explains why hiring should be your top priority.
+* [When we only hire the best means we only hire the trendiest](http://danluu.com/programmer-moneyball/) 
 
 ### Hiring: diversity and bias
 
@@ -245,7 +247,7 @@ Feel free to also checkout the general diversity section.
 
 * [Vanquish whiteboard interview puzzles with test-driven development](http://www.codewithoutrules.com/2016/04/04/interview-puzzles/), Jocelyn Goldfein.
 * [The Phone Screen](http://www.joelonsoftware.com/articles/ThePhoneScreen.html)
-* [The pursuit of happyness' interview scene](https://www.youtube.com/watch?v=gHXKitKAT1E) :clapper:
+* [The pursuit of happyness' interview scene](https://www.youtube.com/watch?v=gHXKitKAT1E) 🎞
 * [Real talk: the technical interview is broken](https://medium.com/@CODE2040/real-talk-the-technical-interview-is-broken-b84b8375dccb#.vxuvtrhad)
 * [Finding a Tech Leadership Job in Silicon Alley](https://medium.com/@Bar_Code/finding-a-tech-leadership-job-in-silicon-alley-3631e97ff33e#.2w4yzwtgx) (interviewing seen from the candidate experience point of view).
 * [How I Interview](https://rkoutnik.com/articles/How-I-Interview.html)
@@ -307,7 +309,7 @@ Quote:
 
 ## Motivation
 
-* [Drive: The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc) (summary of Daniel Pink's book). :clapper:
+* [Drive: The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc) (summary of Daniel Pink's book). 🎞
 * The [two-factor theory](https://en.wikipedia.org/wiki/Two-factor_theory) (Wikipedia) "states that there are certain factors in the workplace that cause job satisfaction, while a separate set of factors cause dissatisfaction."
 * [Bored People Quit](http://randsinrepose.com/archives/bored-people-quit/), Rands in Repose
 * [The Development Abstraction Layer](https://www.joelonsoftware.com/2006/04/11/the-development-abstraction-layer-2/), Joel on Software
@@ -344,7 +346,7 @@ In terms of software, I can't recommend [Things](https://culturedcode.com/things
 
 ## Presentations, design and public speaking
 
-* Garr Reynolds, [Presentation Zen Talk](https://www.youtube.com/watch?v=DZ2vtQCESpk) (Talks at Google) :clapper:
+* Garr Reynolds, [Presentation Zen Talk](https://www.youtube.com/watch?v=DZ2vtQCESpk) (Talks at Google) 🎞
 * Garr Reynolds, [Presentation Zen book](https://www.amazon.com/dp/B006R4H5FG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) 📖
 * Garr Reynolds, [Top Ten Slide Tips](http://www.garrreynolds.com/preso-tips/design/)
 * [You suck at PowerPoint](https://www.slideshare.net/jessedee/you-suck-at-powerpoint)
@@ -390,10 +392,10 @@ Some great examples of presentations:
 
 * Seth Godin, [A manifesto for small teams doing important work](http://sethgodin.typepad.com/seths_blog/2016/02/a-manifesto-for-small-teams-doing-important-work.html): really inspiring list of short cultural values for a team. Craft your own!
 * Seth Godin, [Big questions before little ones](http://sethgodin.typepad.com/seths_blog/2016/03/big-questions-before-little-ones.html)
-* [Focusing is about saying no](https://www.youtube.com/watch?v=H8eP99neOVs) (Steve Jobs) :clapper:
-* [Vision is about perseverance](https://www.youtube.com/watch?v=gFE-Tdz24hM) (Steve Jobs) :clapper:
-* Bryan Cantrill (Joyent VP of Eng) about the [importance of why](https://youtu.be/bGkVM1B5NuI?t=1210). Steve Jobs on the [same topic](https://www.youtube.com/watch?v=GY5bn0flEmc). :clapper:
-* [Start with why](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en), TED talk by Simon Sinek. :clapper:
+* [Focusing is about saying no](https://www.youtube.com/watch?v=H8eP99neOVs) (Steve Jobs) 🎞
+* [Vision is about perseverance](https://www.youtube.com/watch?v=gFE-Tdz24hM) (Steve Jobs) 🎞
+* Bryan Cantrill (Joyent VP of Eng) about the [importance of why](https://youtu.be/bGkVM1B5NuI?t=1210). Steve Jobs on the [same topic](https://www.youtube.com/watch?v=GY5bn0flEmc). 🎞
+* [Start with why](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en), TED talk by Simon Sinek. 🎞
 
 ## Technical strategy
 
@@ -418,6 +420,10 @@ Those are considered classics:
 * [Amazon's leadership principles](https://www.amazon.jobs/principles) 
 
 [culturecodes](http://culturecodes.co/) is a repository of culture deck from companies (including the ones above).
+
+## Scaling an organization
+
+* [Scaling Without Imploding](https://hackernoon.com/scaling-without-imploding-79b46a91ac63) 
 
 ## Strategy
 
