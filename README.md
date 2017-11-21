@@ -49,6 +49,7 @@
   - [Team vision](#team-vision)
   - [Technical strategy](#technical-strategy)
   - [Team culture](#team-culture)
+  - [Scaling an organization](#scaling-an-organization)
   - [Strategy](#strategy)
   - [Work ethics & work/life balance](#work-ethics--worklife-balance)
   - [Writing](#writing)
