@@ -84,7 +84,7 @@ You can find a short summary in video [here](https://www.youtube.com/watch?v=psA
 * Adam Grant, [Give and Take: Why Helping Others Drives Our Success](https://www.amazon.com/dp/B00AFPTSI0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) 📖: "This gem is a joy to read, and it shatters the myth that greed is the path to success.", Robert Sutton.
 * Ken Blanchard, [Lead Like Jesus: Lessons from the Greatest Leadership Role Model of All Time](https://www.amazon.com/dp/B004VF62IO/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) 📖.
 * Andrew S. Grove, [High Output Management](https://www.amazon.com/dp/B015VACHOK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) 📖. A landmark book by Intel CEO Andy Grove. Introduced many of the management best practices such as 1-1, OKR.
-* Patrick Lencioni, [The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756/ref=sr_1_1?s=books&ie=UTF8&qid=1500281191&sr=1-1&keywords=dysfunctions) 📖. 
+* Patrick Lencioni, [The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756/ref=sr_1_1?s=books&ie=UTF8&qid=1500281191&sr=1-1&keywords=dysfunctions) 📖.
 
 There are some other more specific books quoted below.
 
@@ -101,7 +101,7 @@ Here are some generic resources:
 
 # General management resources
 
-* [14 Points for Management](https://www.deming.org/theman/theories/fourteenpoints) by W. Edwards Deming.
+* [14 Points for Management](https://deming.org/explore/fourteen-points) by W. Edwards Deming.
 * [Keith Rabois on the Role of a COO, How to Hire and Why Transparency Matters](http://firstround.com/review/Keith-Rabois-on-the-role-of-a-COO-how-to-hire-and-why-transparency-matters/) includes some nice management nuggets.
 
 [Tal Bereznitskey](https://hackernoon.com/managing-engineers-in-less-than-200-characters-edb35e4199e4#.n8wruugqz)'s awesome definition for managing engineers:
@@ -114,7 +114,7 @@ Here are some generic resources:
 * [Mistakes of the First Twenty-five Years](articles/mistakes_25_years.md), in which Warren Buffet describes the "institutional imperative", or how an institution will amplify (not resist) a bad manager's irrational decisions.
 * [44 engineering management lessons](http://www.defmacro.org/2014/10/03/engman.html) from the cofounder of RethinkDB. Very high-level, a pretty good summary.
 * [21 management things I learned at Imgur](https://medium.com/@gerstenzang/21-management-things-i-learned-at-imgur-7abb72bdf8bf)
-* [The Rands Test](http://randsinrepose.com/archives/the-rands-test/), Rands in Repose. The equivalent of [The Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) for management. 
+* [The Rands Test](http://randsinrepose.com/archives/the-rands-test/), Rands in Repose. The equivalent of [The Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) for management.
 
 # Engineering Management Resources
 
@@ -131,7 +131,7 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 * [What is an Inquiring Leader?](https://www.linkedin.com/pulse/what-inquiring-leader-marilee-adams)
 * HBR, [How to Ask Better Questions](https://hbr.org/2009/05/real-leaders-ask.html)
 * [Mentor vs Advisor vs Coach](http://baxterblog.typepad.com/blog/2012/11/mentor-vs-advisor-vs-coach.html)
-* [How To Be Someone People Love To Talk To](http://www.bakadesuyo.com/2015/02/love-to-talk/) 
+* [How To Be Someone People Love To Talk To](http://www.bakadesuyo.com/2015/02/love-to-talk/)
 
 ## Antipatterns
 
@@ -174,7 +174,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 
 ## Delegation
 
-* [The Counterintuitive Art of Leading by Letting Go](http://99u.com/articles/43081/the-counter-intuitive-art-of-leading-by-letting-go) 
+* [The Counterintuitive Art of Leading by Letting Go](http://99u.com/articles/43081/the-counter-intuitive-art-of-leading-by-letting-go)
 * Against micromanagement: "After you plant a seed in the ground, you don’t dig it up every week to see how it is doing", William Coyne, Head of R&D at 3M.
 
 ## Diversity and inclusion
@@ -185,7 +185,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [List of cognitive biases on Wikipedia](http://rationalwiki.org/wiki/List_of_cognitive_biases)
 * [Making the Unconscious Conscious](https://www.youtube.com/watch?v=NW5s_-Nl3JE) (Google Video) 🎞
 * [There’s no "silver bullet" to increasing diversity, but here’s how we’re making progress.](https://magoosh.com/blog/silver-bullet-diversity-progress/), Magoosh.
-* [Why Diversity Programs Fail](https://hbr.org/2016/07/why-diversity-programs-fail) 
+* [Why Diversity Programs Fail](https://hbr.org/2016/07/why-diversity-programs-fail)
 
 ## Emotional Quotient (EQ)
 
@@ -212,7 +212,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [A Manager’s FAQ](https://medium.com/eshares-blog/a-managers-faq-35858a229f84#.u1iu04owe)
 * [This 90-Day Plan Turns Engineers into Remarkable Managers](http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/)
 * [The New Manager Death Spiral](http://randsinrepose.com/archives/the-new-manager-death-spiral/), Rands in Repose.
-* [Learnings from six months as a first-time manager](http://blog.d3in.org/post/74917727213/learnings-from-six-months-as-a-first-time) 
+* [Learnings from six months as a first-time manager](http://blog.d3in.org/post/74917727213/learnings-from-six-months-as-a-first-time)
 
 ## Feedback and performance
 
@@ -221,7 +221,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [It’s Never Too Early to Fire](https://a16z.com/2017/05/24/on-firing-why-when-how/), Andreessen Horowitz.
 * [A Primer on Giving Critical Feedback](http://www.tombartel.de//2016/05/21/a-primer-on-giving-critical-feedback/)
 * Feedback goes both ways: [Tool: Try Google’s Manager Feedback Survey](https://rework.withgoogle.com/guides/managers-give-feedback-to-managers/steps/try-googles-manager-feedback-survey/)
-* [Negative feedback antipatterns](http://blog.d3in.org/post/153942984306/negative-feedback-antipatterns) 
+* [Negative feedback antipatterns](http://blog.d3in.org/post/153942984306/negative-feedback-antipatterns)
 
 ## Hiring
 
@@ -232,7 +232,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [This is why you never end up hiring good developers](http://qz.com/258066/this-is-why-you-dont-hire-good-developers/)
 * [The Single Most Sure-Fire Hiring Decision You Will Ever Make](http://behindthescenesrecruiter.com/post/82005145232/the-single-most-sure-fire-hiring-decision-you-will#.VxntfpN94UE) is about establishing an intern program.
 * [Engineering Management - Hiring](http://algeri-wong.com/yishan/engineering-management-hiring.html) explains why hiring should be your top priority.
-* [When we only hire the best means we only hire the trendiest](http://danluu.com/programmer-moneyball/) 
+* [When we only hire the best means we only hire the trendiest](http://danluu.com/programmer-moneyball/)
 
 ### Hiring: diversity and bias
 
@@ -277,7 +277,7 @@ Feel free to also checkout the general diversity section.
 * [Debriefing Facilitation Guide](https://extfiles.etsy.com/DebriefingFacilitationGuide.pdf): Etsy's guide to debriefing & incident review.
 * [General James 'Mad Dog' Mattis Email About Being 'Too Busy To Read' Is A Must-Read](http://www.businessinsider.com/viral-james-mattis-email-reading-marines-2013-5): "by reading, you learn through others’ experiences, generally a better way to do business, especially in our line of work where the consequences of incompetence are so final for young men."
 * [You can increase your intelligence: 5 ways to maximize your cognitive potential](https://blogs.scientificamerican.com/guest-blog/you-can-increase-your-intelligence-5-ways-to-maximize-your-cognitive-potential/): forgive the clickbait link, it's actually a good article.
-* [Startup Graveyard – History Shouldn't Have to Repeat Itself](http://startupgraveyard.io/) 
+* [Startup Graveyard – History Shouldn't Have to Repeat Itself](http://startupgraveyard.io/)
 
 Quotes:
 
@@ -354,7 +354,7 @@ In terms of software, I can't recommend [Things](https://culturedcode.com/things
 * Edward Tufte, [The Visual Display of Quantitative Information](https://www.amazon.com/gp/product/0961392142/ref=as_li_tl?ie=UTF8&tag=presentatio00-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0961392142&linkId=ba73067796f2ff27685dd4a852663241) 📖, a classic book on how to present data.
 * [The Non-Designer's Design Book](https://www.amazon.com/Non-Designers-Design-Book-3rd/dp/0321534042) 📖 - despite its catchy title, it's actually a great book with a very memorable acronym to learn about how easy it is to design great documents.
 * William Lidwell, Kritina Holden, Jill Butler, [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/1592530079) 📖.
-* [A Five Minutes Guide to Better Typography](http://pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography) 
+* [A Five Minutes Guide to Better Typography](http://pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography)
 
 Some great examples of presentations:
 
@@ -418,13 +418,13 @@ Those are considered classics:
 * [Gitlab's employee handbook](https://about.gitlab.com/handbook/) (includes cultural values)
 * [The HubSpot Culture Code: Creating a Company We Love](http://blog.hubspot.com/blog/tabid/6307/bid/34234/The-HubSpot-Culture-Code-Creating-a-Company-We-Love.aspx)
 * [Don’t pave the path used by the unhappy cows](https://medium.com/@kellan/dont-pave-the-path-used-by-the-unhappy-cows-fef7a78777f8#.mtw3s2h1v)
-* [Amazon's leadership principles](https://www.amazon.jobs/principles) 
+* [Amazon's leadership principles](https://www.amazon.jobs/principles)
 
 [culturecodes](http://culturecodes.co/) is a repository of culture deck from companies (including the ones above).
 
 ## Scaling an organization
 
-* [Scaling Without Imploding](https://hackernoon.com/scaling-without-imploding-79b46a91ac63) 
+* [Scaling Without Imploding](https://hackernoon.com/scaling-without-imploding-79b46a91ac63)
 
 ## Strategy
 
