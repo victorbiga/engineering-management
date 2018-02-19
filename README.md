@@ -28,6 +28,7 @@
   - [Hiring](#hiring)
     - [Hiring: diversity and bias](#hiring-diversity-and-bias)
     - [Hiring: interviews](#hiring-interviews)
+    - [Hiring: questions](#hiring-questions)
     - [Hiring: process](#hiring-process)
     - [Hiring: sourcing](#hiring-sourcing)
   - [Incident prevention and response (on-call, outages)](#incident-prevention-and-response-on-call-outages)
@@ -231,7 +232,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [How to Hire](https://medium.com/swlh/how-to-hire-34f4ded5f176#.jxkz3wrs3): one of the best articles about hiring.
 * [The hiring post](http://sockpuppet.org/blog/2015/03/06/the-hiring-post/): another truly awesome post about hiring by Thomas Ptacek.
 * [This is why you never end up hiring good developers](http://qz.com/258066/this-is-why-you-dont-hire-good-developers/)
-* [The Single Most Sure-Fire Hiring Decision You Will Ever Make](http://behindthescenesrecruiter.com/post/82005145232/the-single-most-sure-fire-hiring-decision-you-will#.VxntfpN94UE) is about establishing an intern program.
+* [The single most sure-fire hiring decision you will ever make](http://behindthescenesrecruiter.com/post/82005145232/the-single-most-sure-fire-hiring-decision-you-will#.VxntfpN94UE) is about establishing an intern program.
 * [Engineering Management - Hiring](http://algeri-wong.com/yishan/engineering-management-hiring.html) explains why hiring should be your top priority.
 * [When we only hire the best means we only hire the trendiest](http://danluu.com/programmer-moneyball/)
 
@@ -256,6 +257,12 @@ Feel free to also checkout the general diversity section.
 * [What if companies interviewed translators the way they interview coders?](https://medium.freecodecamp.org/welcome-to-the-software-interview-ee673bc5ef6) - a great counter example of how interview can be disconnected from one's actual job.
 * [How to Interview Engineers](http://blog.triplebyte.com/how-to-interview-engineers): some pretty good guidelines with original research.
 * [Interviewing](https://www.xaprb.com/blog/interviewing/), Baron Schwartz. A good explanation why you should only ask behavioral question about the *past*.
+
+### Hiring: questions
+
+* [45 sample behavioral questions for interview with developer](https://devskiller.com/45-behavioral-questions-to-use-during-non-technical-interview-with-developers/)
+* [30 most common behavioral interview questions](https://www.themuse.com/advice/30-behavioral-interview-questions-you-should-be-ready-to-answer)
+* [Behavioral interviews](http://career.egr.uh.edu/sites/career.egr.uh.edu/files/files/behavioral-interview.pdf)
 
 ### Hiring: process
 
