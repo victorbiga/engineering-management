@@ -136,7 +136,7 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 
 ## Antipatterns
 
-* [Seven Deadly Diseases of Management](https://www.deming.org/theman/theories/deadlydiseases), Dr. Deming. Great video as well. I don't necessarily agree with everything but Deming is still one of the great management thinker.
+* [Seven Deadly Diseases of Management](https://deming.org/explore/seven-deadly-diseases), Dr. Deming. Great video as well. I don't necessarily agree with everything but Deming is still one of the great management thinker.
 
 ## Biases
 
