@@ -76,7 +76,7 @@ It provides great tools for managers to help their team members come up with the
 
 There are numerous cheesy management books and this is not one of them. The narration is great as well and the explanations are short, and to the point.
 
-You can find a short summary in video [here](https://www.youtube.com/watch?v=psAXMqxwol8).
+You can find a short summary in video [here](https://www.youtube.com/watch?v=psAXMqxwol8) 🎞.
 
 ## Other books
 
@@ -306,7 +306,7 @@ Quote:
 ## Meetings
 
 * [On Better Meetings](http://larahogan.me/blog/better-meetings/): Lara Hogan shares tips about ensuring efficient meetings.
-* [Almost Live! - Middle Management Suck-Ups](https://www.youtube.com/watch?v=IUIQX5esnNo) 🎬: a great example of a terrible ineffective meeting.
+* [Almost Live! - Middle Management Suck-Ups](https://www.youtube.com/watch?v=IUIQX5esnNo) 🎞: a great example of a terrible ineffective meeting.
 
 ## Mentoring
 
@@ -462,9 +462,9 @@ Shameless plug here, two presentations I contributed to:
 
 # Movies
 
-* [Moneyball](https://en.wikipedia.org/wiki/Moneyball_(film)). [What's the problem?](https://www.youtube.com/watch?v=HiB9L3dG-Aw)
+* [Moneyball](https://en.wikipedia.org/wiki/Moneyball_(film)). [What's the problem?](https://www.youtube.com/watch?v=HiB9L3dG-Aw) 🎞
 * [Office Space](https://en.wikipedia.org/wiki/Office_Space)
-* [The Pursuit of Happyness](https://en.wikipedia.org/wiki/The_Pursuit_of_Happyness) contains some great lessons about hustle. [Watch the interview scene](https://www.youtube.com/watch?v=gHXKitKAT1E).
+* [The Pursuit of Happyness](https://en.wikipedia.org/wiki/The_Pursuit_of_Happyness) contains some great lessons about hustle. [Watch the interview scene](https://www.youtube.com/watch?v=gHXKitKAT1E) 🎞.
 
 ## TV Shows
 
