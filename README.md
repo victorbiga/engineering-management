@@ -226,6 +226,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [A Primer on Giving Critical Feedback](http://www.tombartel.de//2016/05/21/a-primer-on-giving-critical-feedback/)
 * Feedback goes both ways: [Tool: Try Google’s Manager Feedback Survey](https://rework.withgoogle.com/guides/managers-give-feedback-to-managers/steps/try-googles-manager-feedback-survey/)
 * [Negative feedback antipatterns](http://blog.d3in.org/post/153942984306/negative-feedback-antipatterns)
+* [Performance Reviews Are a Waste of Time](https://blog.bradfieldcs.com/performance-reviews-are-a-waste-of-time-87c88d7553b4): a good contrarian take on formal performance reviews
 
 ## Hiring
 
@@ -308,6 +309,7 @@ Quote:
 
 * [On Better Meetings](http://larahogan.me/blog/better-meetings/): Lara Hogan shares tips about ensuring efficient meetings.
 * [Almost Live! - Middle Management Suck-Ups](https://www.youtube.com/watch?v=IUIQX5esnNo) 🎞: a great example of a terrible ineffective meeting.
+* [Run Better Meetings with This Expert-Level Advice](http://firstround.com/review/first-round-reviews-6-must-reads-to-run-fast-efficient-meetings/), First Round Review
 
 ## Mentoring
 
