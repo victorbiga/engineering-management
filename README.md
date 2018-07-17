@@ -418,6 +418,7 @@ Some great examples of presentations:
 * [Choose Boring Technology](http://mcfunley.com/choose-boring-technology-slides), Dan McKinley (Slideshare presentation).
 * [Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611): how Amazon became a platform.
 * [Letter to Shareholders](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm), Jeff Bezos: “Day 2 is stasis. Followed by irrelevance. Followed by excruciating, painful decline. Followed by death. And that is why it is always Day 1.” So much is packed in this letter. Day 1 is about true customer obsession, resisting proxies, embracing external trends, high-velocity decision making.
+* [5 Red Flags Signaling Your Rebuild Will Fail](https://www.pkc.io/blog/five-red-flags-signaling-your-rebuild-will-fail/) 
 
 ## Team culture
 
