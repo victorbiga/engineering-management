@@ -165,6 +165,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [Ken Norton’s Discipline of No](https://blog.mixpanel.com/2016/09/20/learning-to-say-no-with-ken-norton/). #attitude #habits.
 * [Nonviolent communication](https://en.wikipedia.org/wiki/Nonviolent_Communication) (Wikipedia)
 * [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.7mqxmkpz9)
+* [Breaking Bad News](http://boz.com/articles/bad-news.html)
 
 ## Conflict resolution
 
@@ -175,6 +176,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [Square Defangs Difficult Decisions with this System — Here’s How](http://firstround.com/review/square-defangs-difficult-decisions-with-this-system-heres-how/)
 * [How to simplify complex decisions by cleaving the facts](https://blog.asmartbear.com/complex-decisions.html), Jason Cohen.
 * [Mental Models: The Best Way to Make Intelligent Decisions (113 Models Explained)](https://www.fs.blog/mental-models/)
+* [How to Make a Big Decision](https://www.nytimes.com/2018/09/01/opinion/sunday/how-make-big-decision.html), the NYT.
 
 ## Delegation
 
@@ -217,6 +219,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [This 90-Day Plan Turns Engineers into Remarkable Managers](http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/)
 * [The New Manager Death Spiral](http://randsinrepose.com/archives/the-new-manager-death-spiral/), Rands in Repose.
 * [Learnings from six months as a first-time manager](http://blog.d3in.org/post/74917727213/learnings-from-six-months-as-a-first-time)
+* [How to fail as a new engineering manager](https://blog.usejournal.com/how-to-fail-as-a-new-engineering-manager-30b5fb617a)
 
 ## Feedback and performance
 
@@ -238,6 +241,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [The single most sure-fire hiring decision you will ever make](http://behindthescenesrecruiter.com/post/82005145232/the-single-most-sure-fire-hiring-decision-you-will#.VxntfpN94UE) is about establishing an intern program.
 * [Engineering Management - Hiring](http://algeri-wong.com/yishan/engineering-management-hiring.html) explains why hiring should be your top priority.
 * [When we only hire the best means we only hire the trendiest](http://danluu.com/programmer-moneyball/)
+* [How to Hire](https://hbr.org/2018/01/how-to-hire), Patty McCord (built HR function at Netflix).
 
 ### Hiring: diversity and bias
 
@@ -301,6 +305,7 @@ Quotes:
 * [Management Philosophy](https://3002.ca/posts/management-philosophy/)
 * [12 "Manager READMEs" from Silicon Valley’s Top Tech Companies](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
 * [What is your philosophy on leadership? How do you inspire your team to do their best?](https://www.youtube.com/watch?v=TQhns5AwAkA) 🎞: beautiful sequence between Nelson Mandela (played by Morgan Freeman) and François Pienaar (Matt Damon).
+* [Why Software Development Requires Servant Leaders](https://adl.io/essays/why-software-development-requires-servant-leaders/)
 
 Quote:
 
