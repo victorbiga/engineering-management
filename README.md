@@ -42,6 +42,7 @@
   - [Personal productivity](#personal-productivity)
   - [Planning (reviews, OKR, etc.)](#planning-reviews-okr-etc)
   - [Presentations, design and public speaking](#presentations-design-and-public-speaking)
+  - [Problem solving](#problem-solving)
   - [Processes for engineering](#processes-for-engineering)
   - [Programming languages](#programming-languages)
   - [Product management](#product-management)
