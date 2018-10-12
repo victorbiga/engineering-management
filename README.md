@@ -379,6 +379,10 @@ Some great examples of presentations:
 
 * [How Google Works](https://www.slideshare.net/ericschmidt/how-google-works-final-1)
 
+## Problem solving
+
+See my [engineering-management section about problem solving](https://github.com/charlax/professional-programming#problem-solving)
+
 ## Processes for engineering
 
 * [The Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
