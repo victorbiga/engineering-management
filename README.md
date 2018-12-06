@@ -450,6 +450,7 @@ Those are considered classics:
 ## Scaling an organization
 
 * [Scaling Without Imploding](https://hackernoon.com/scaling-without-imploding-79b46a91ac63)
+* [Stripe Atlas: Guide to scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng)
 
 ## Strategy
 
