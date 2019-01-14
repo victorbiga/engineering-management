@@ -271,6 +271,7 @@ Feel free to also checkout the general diversity section.
 * [45 sample behavioral questions for interview with developer](https://devskiller.com/45-behavioral-questions-to-use-during-non-technical-interview-with-developers/)
 * [30 most common behavioral interview questions](https://www.themuse.com/advice/30-behavioral-interview-questions-you-should-be-ready-to-answer)
 * [Behavioral interviews](http://career.egr.uh.edu/sites/career.egr.uh.edu/files/files/behavioral-interview.pdf)
+* [MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions): a list of list of interview questions.
 
 ### Hiring: process
 
@@ -406,6 +407,7 @@ See my [engineering-management section about problem solving](https://github.com
 * Project Smart, [Project management tools](https://www.projectsmart.co.uk/tools.php)
 * [How should deadlines be used in software engineering?](https://keen.io//blog/143850394061/how-should-deadlines-be-used-in-software)
 * [My 20-Year Experience of Software Development Methodologies](https://zwischenzugs.wordpress.com/2017/10/15/my-20-year-experience-of-software-development-methodologies/): includes a great poster about different project management methodologies.
+* [JIRA is an antipattern](https://techcrunch.com/2018/12/09/jira-is-an-antipattern/), Jon Evans.
 
 ## Remote teams
 
@@ -476,6 +478,7 @@ Shameless plug here, two presentations I contributed to:
 * [The Inverted Pyramid](https://en.wikipedia.org/wiki/Inverted_pyramid) or [BLUF (bottom line up front)](https://en.wikipedia.org/wiki/BLUF_(communication)) (Wikipedia): a method to prioritize and structure information in a text.
 * [How to say you’re sorry](https://m.signalvnoise.com/how-to-say-youre-sorry-1c3477c33c89#.7xxja07ae), Jason Fried (Founder & CEO Bootcamp)
 * [How To Write With Style](http://www.novelr.com/2008/08/16/vonnegut-how-to-write-with-style), Kurt Vonnegut.
+* [A blogging style guide](https://robertheaton.com/2018/12/06/a-blogging-style-guide/) 
 
 # Movies
 
