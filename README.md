@@ -146,7 +146,7 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 Cognitive biases don't only apply to hiring... They can impact performance reviews, 1-1, team meetings, even small talk with colleagues.
 
 * [Cognitive bias cheat sheet](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.6temb6hyg)
-* [A flowchart of cognitive biases](https://www.breakdown-notes.com/makemap)
+* [A flowchart of cognitive biases](https://www.breakdown-notes.com/makemap/load/biases)
 
 ## Career growth and job ladder
 
