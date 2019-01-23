@@ -47,6 +47,7 @@
   - [Programming languages](#programming-languages)
   - [Product management](#product-management)
   - [Project management](#project-management)
+  - [Release management](#release-management)
   - [Remote teams](#remote-teams)
   - [Team vision](#team-vision)
   - [Technical strategy](#technical-strategy)
