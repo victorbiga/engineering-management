@@ -409,6 +409,10 @@ See my [engineering-management section about problem solving](https://github.com
 * [My 20-Year Experience of Software Development Methodologies](https://zwischenzugs.wordpress.com/2017/10/15/my-20-year-experience-of-software-development-methodologies/): includes a great poster about different project management methodologies.
 * [JIRA is an antipattern](https://techcrunch.com/2018/12/09/jira-is-an-antipattern/), Jon Evans.
 
+## Release management
+
+* [The Tick-Tock of Apple](https://512pixels.net/2012/02/the-tick-tock-of-apple/)
+
 ## Remote teams
 
 * [How to Work Faster in a Remote Team](https://zapier.com/learn/remote-work/remote-work-productivity/)
@@ -430,7 +434,7 @@ See my [engineering-management section about problem solving](https://github.com
 * [Choose Boring Technology](http://mcfunley.com/choose-boring-technology-slides), Dan McKinley (Slideshare presentation).
 * [Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611): how Amazon became a platform.
 * [Letter to Shareholders](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm), Jeff Bezos: “Day 2 is stasis. Followed by irrelevance. Followed by excruciating, painful decline. Followed by death. And that is why it is always Day 1.” So much is packed in this letter. Day 1 is about true customer obsession, resisting proxies, embracing external trends, high-velocity decision making.
-* [5 Red Flags Signaling Your Rebuild Will Fail](https://www.pkc.io/blog/five-red-flags-signaling-your-rebuild-will-fail/) 
+* [5 Red Flags Signaling Your Rebuild Will Fail](https://www.pkc.io/blog/five-red-flags-signaling-your-rebuild-will-fail/)
 
 ## Team culture
 
@@ -478,7 +482,7 @@ Shameless plug here, two presentations I contributed to:
 * [The Inverted Pyramid](https://en.wikipedia.org/wiki/Inverted_pyramid) or [BLUF (bottom line up front)](https://en.wikipedia.org/wiki/BLUF_(communication)) (Wikipedia): a method to prioritize and structure information in a text.
 * [How to say you’re sorry](https://m.signalvnoise.com/how-to-say-youre-sorry-1c3477c33c89#.7xxja07ae), Jason Fried (Founder & CEO Bootcamp)
 * [How To Write With Style](http://www.novelr.com/2008/08/16/vonnegut-how-to-write-with-style), Kurt Vonnegut.
-* [A blogging style guide](https://robertheaton.com/2018/12/06/a-blogging-style-guide/) 
+* [A blogging style guide](https://robertheaton.com/2018/12/06/a-blogging-style-guide/)
 
 # Movies
 
