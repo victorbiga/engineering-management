@@ -244,6 +244,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [Engineering Management - Hiring](http://algeri-wong.com/yishan/engineering-management-hiring.html) explains why hiring should be your top priority.
 * [When we only hire the best means we only hire the trendiest](http://danluu.com/programmer-moneyball/)
 * [How to Hire](https://hbr.org/2018/01/how-to-hire), Patty McCord (built HR function at Netflix).
+* [Trouble hiring senior engineers? It's probably you](https://hiringengineersbook.com/post/trouble-hiring/).
 
 ### Hiring: diversity and bias
 
