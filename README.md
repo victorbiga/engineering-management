@@ -9,6 +9,7 @@
 - [What is engineering management?](#what-is-engineering-management)
 - [General management resources](#general-management-resources)
   - [Articles](#articles)
+  - [Tools](#tools)
 - [Engineering Management Resources](#engineering-management-resources)
   - [1-1](#1-1)
   - [Antipatterns](#antipatterns)
@@ -118,6 +119,10 @@ Here are some generic resources:
 * [44 engineering management lessons](http://www.defmacro.org/2014/10/03/engman.html) from the cofounder of RethinkDB. Very high-level, a pretty good summary.
 * [21 management things I learned at Imgur](https://medium.com/@gerstenzang/21-management-things-i-learned-at-imgur-7abb72bdf8bf)
 * [The Rands Test](http://randsinrepose.com/archives/the-rands-test/), Rands in Repose. The equivalent of [The Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) for management.
+
+## Tools
+
+* [devtomanager.com](https://devtomanager.com/): first-hand advice from seasoned experts
 
 # Engineering Management Resources
 
@@ -410,6 +415,7 @@ See my [engineering-management section about problem solving](https://github.com
 * [How should deadlines be used in software engineering?](https://blog.keen.io/how-should-deadlines-be-used-in-software-engineering/)
 * [My 20-Year Experience of Software Development Methodologies](https://zwischenzugs.wordpress.com/2017/10/15/my-20-year-experience-of-software-development-methodologies/): includes a great poster about different project management methodologies.
 * [JIRA is an antipattern](https://techcrunch.com/2018/12/09/jira-is-an-antipattern/), Jon Evans.
+* [Agile Lite: Agile without all the burnout](https://github.com/davebs/AgileLite)
 
 ## Release management
 
@@ -485,6 +491,7 @@ Shameless plug here, two presentations I contributed to:
 * [How to say you’re sorry](https://m.signalvnoise.com/how-to-say-youre-sorry-1c3477c33c89#.7xxja07ae), Jason Fried (Founder & CEO Bootcamp)
 * [How To Write With Style](http://www.novelr.com/2008/08/16/vonnegut-how-to-write-with-style), Kurt Vonnegut.
 * [A blogging style guide](https://robertheaton.com/2018/12/06/a-blogging-style-guide/)
+* [How Jeff Bezos Turned Narrative into Amazon's Competitive Advantage](https://slab.com/blog/jeff-bezos-writing-management-strategy/)
 
 # Movies
 
