@@ -488,7 +488,7 @@ Shameless plug here, two presentations I contributed to:
 
 * [The 7 Emails You Need to Know How to Write](http://unreasonable.is/the-7-emails-you-need-to-know-how-to-write/)
 * [The Inverted Pyramid](https://en.wikipedia.org/wiki/Inverted_pyramid) or [BLUF (bottom line up front)](https://en.wikipedia.org/wiki/BLUF_(communication)) (Wikipedia): a method to prioritize and structure information in a text.
-* [How to say you’re sorry](https://m.signalvnoise.com/how-to-say-youre-sorry-1c3477c33c89#.7xxja07ae), Jason Fried (Founder & CEO Bootcamp)
+* [How to say you’re sorry](https://m.signalvnoise.com/how-to-say-youre-sorry-1c3477c33c89#.7xxja07ae), Jason Fried (Founder & CEO Basecamp)
 * [How To Write With Style](http://www.novelr.com/2008/08/16/vonnegut-how-to-write-with-style), Kurt Vonnegut.
 * [A blogging style guide](https://robertheaton.com/2018/12/06/a-blogging-style-guide/)
 * [How Jeff Bezos Turned Narrative into Amazon's Competitive Advantage](https://slab.com/blog/jeff-bezos-writing-management-strategy/)
