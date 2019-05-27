@@ -55,6 +55,7 @@
   - [Team culture](#team-culture)
   - [Scaling an organization](#scaling-an-organization)
   - [Strategy](#strategy)
+  - [Training](#training)
   - [Work ethics & work/life balance](#work-ethics--worklife-balance)
   - [Writing](#writing)
 - [Movies](#movies)
@@ -476,6 +477,13 @@ Shameless plug here, two presentations I contributed to:
 * [Steve Jobs explaining why you should start from the customers, and go backward](https://www.youtube.com/watch?v=FF-tKLISfPE) (video 🎞). He makes the point that stopping the OpenDoc project was the right thing to do because it was a technology without any customer.
 * [Can Do Vs Must Do](http://avc.com/2017/05/can-do-vs-must-do/) , AVC. "Doing a startup is like playing a video game. Each level requires you to master one thing and once you do that, you level up and then there is a new thing to master."
 * "Waterline principle" from Bill Gore: "Think of being on a ship, and imagine that any decision gone bad will blow a hole in the side of the ship. If you blow a hole above the waterline (where the ship won’t take on water and possibly sink), you can patch the hole, learn from the experience, and sail on. But if you blow a hole below the waterline, you can find yourself facing gushers of water pouring in, pulling you toward the ocean floor. And if it’s a big enough hole, you might go down really fast, just like some of the financial firm catastrophes of 2008. To be clear, great enterprises do make big bets, but they avoid big bets that could blow holes below the waterline.", How We Might Fall.
+
+## Training
+
+* [Great developers are raised, not hired](https://sizovs.net/2019/04/10/the-best-developers-are-raised-not-hired/)
+	* Take some money, energy, time that you spend on recruiting and invest it in teaching your best developers mentoring skills.
+	* Adjust your interview process and give a chance to candidates that are not good enough yet, but are eager to learn and have a growth mindset.
+	* Relax “hard requirements” in your job ads to avoid filtering out impostors.
 
 ## Work ethics & work/life balance
 
