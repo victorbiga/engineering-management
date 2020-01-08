@@ -418,6 +418,9 @@ See my [engineering-management section about problem solving](https://github.com
 * [JIRA is an antipattern](https://techcrunch.com/2018/12/09/jira-is-an-antipattern/), Jon Evans.
 * [Agile Lite: Agile without all the burnout](https://github.com/davebs/AgileLite)
 
+> The ultimate inspiration is the deadline.
+> — Nolan Bushnell
+
 ## Release management
 
 * [The Tick-Tock of Apple](https://512pixels.net/2012/02/the-tick-tock-of-apple/)
