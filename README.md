@@ -438,8 +438,7 @@ Quotes:
   * Research shows that it takes as long as 30 minutes for makers to get into the flow
   * Use maker-manager office hours
   * Communication can happen at a quieter asynchronous frequency in the form of thoughtful, written discussions rather than soul-sucking meetings or erratic one-line-at-a-time chat messages
-  * Build a team knowledge base to minimize repetitive questions and allow
-    self-onboarding.
+  * Build a team knowledge base to minimize repetitive questions and allow self-onboarding.
 
 In terms of software, I can't recommend [Things](https://culturedcode.com/things/) enough (Mac and iOS only). It is a delightful piece of software that gets out of the way and lets you focus on your tasks.
 
@@ -499,6 +498,7 @@ See my [engineering-management section about problem solving](https://github.com
   * People are going to cut corners if you put them to tough deadlines.
   * No one is going to experiment with new ways of doing things if you fetishize finishing under deadlines. We'd still be doing MVC in frontend apps if someone at Facebook didn't miss a deadline.
   * Have deadlines, but fuzzy. How fuzzy should be decided by your goals. If missing a deadline could potentially lose you a million dollars, the fuzziness factor for that should be zero.
+* [WaterfallProcess](https://martinfowler.com/bliki/WaterfallProcess.html), Martin Fowler
 
 > The ultimate inspiration is the deadline.
 > — Nolan Bushnell
