@@ -32,6 +32,7 @@
     - [Hiring: questions](#hiring-questions)
     - [Hiring: process](#hiring-process)
     - [Hiring: sourcing](#hiring-sourcing)
+    - [Hiring: quotes](#hiring-quotes)
   - [Incident prevention and response (on-call, outages)](#incident-prevention-and-response-on-call-outages)
   - [Learning, retro, postmortem](#learning-retro-postmortem)
   - [Management style](#management-style)
