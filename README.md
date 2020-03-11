@@ -328,6 +328,56 @@ Feel free to also checkout the general diversity section.
 
 * [How To Hire Engineers: Step 1, Sourcing](https://medium.com/@jocelyngoldfein/how-to-hire-engineers-step-1-sourcing-f388fddc63fd#.fwtgweq0e)
 
+### Hiring: quotes
+
+> If you can 'hire tough,' you can 'manage easy'.
+
+Sue Tetzlaff, The Employee Experience: A Capstone Guide to Peak Performance
+
+> I am convinced that nothing we do is more important than hiring and developing people. At the end of the day you bet on people, not on strategies.
+
+Lawrence Bossidy, GE
+
+> I hire people brighter than me and then I get out of their way.
+
+Lee Iacocca, Ford
+
+> You can dream, create, design and build the most wonderful place in the world... but it requires people to make the dream a reality.
+
+Walt Disney
+
+> Hire character. Train skill.
+
+Peter Schutz, Porsche
+
+> In technology, it's about the people. Getting the best people, retaining them, nurturing a creative environment, and helping to find a way to innovate.
+
+Marissa Mayer
+
+> I'd rather interview 50 people and not hire anyone than hire the wrong person.
+
+Jeff Bezos
+
+> Talent wins games, but teamwork and intelligence win championships.
+
+Michael Jordan, American former professional basketball player
+
+> Often the best solution to a management problem is the right person.
+
+Edwin Booz
+
+> Somebody once said that in looking for people to hire, you look for three qualities: integrity, intelligence, and energy. And if you don't have the first, the other two will kill you. You think about it; it's true. If you hire somebody without [integrity], you really want them to be dumb and lazy.
+
+Warren Buffet
+
+> One cannot hire a hand; the whole man always comes with it.
+
+Peter Drucker
+
+> If you think it's expensive to hire a professional to do the job, wait until you hire an amateur.
+
+Red Adair
+
 ## Incident prevention and response (on-call, outages)
 
 * [A guide to handling incidents, downtime and outages](https://blog.serverdensity.com/guide-handling-incidents-downtime-outages/)
