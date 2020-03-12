@@ -299,6 +299,7 @@ Feel free to also checkout the general diversity section.
 * [What if companies interviewed translators the way they interview coders?](https://medium.freecodecamp.org/welcome-to-the-software-interview-ee673bc5ef6) - a great counter example of how interview can be disconnected from one's actual job.
 * [How to Interview Engineers](http://blog.triplebyte.com/how-to-interview-engineers): some pretty good guidelines with original research.
 * [Interviewing](https://www.xaprb.com/blog/interviewing/), Baron Schwartz. A good explanation why you should only ask behavioral question about the *past*.
+* [Monthy Python: a terrible candidate experience](https://www.youtube.com/watch?v=D4iFzweRf3E)
 
 ### Hiring: questions
 
