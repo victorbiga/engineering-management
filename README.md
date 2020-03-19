@@ -562,6 +562,8 @@ See my [engineering-management section about problem solving](https://github.com
 ## Remote teams
 
 * [How to Work Faster in a Remote Team](https://zapier.com/learn/remote-work/remote-work-productivity/)
+* Notion, [Remote work wiki](https://www.notion.so/Remote-work-wiki-1b21ef5501714fffa9f5c5c25677371f) 
+* Gitlab, [Remote work emergency plan: What to do (and where to start)](https://about.gitlab.com/company/culture/all-remote/remote-work-emergency-plan/) 
 
 ## Team vision
 
