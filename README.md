@@ -2,6 +2,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 # Table of Contents
 
+- [About this list](#about-this-list)
 - [Books](#books)
   - [Turn the Ship Around!: A True Story of Turning Followers into Leaders](#turn-the-ship-around-a-true-story-of-turning-followers-into-leaders)
   - [Other books](#other-books)
@@ -25,6 +26,7 @@
   - [Employee handbook](#employee-handbook)
   - [Escalations](#escalations)
   - [First-time manager](#first-time-manager)
+  - [First days on the job](#first-days-on-the-job)
   - [Feedback and performance](#feedback-and-performance)
   - [Hiring](#hiring)
     - [Hiring: diversity and bias](#hiring-diversity-and-bias)
@@ -69,6 +71,14 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+# About this list
+
+Items:
+
+* 🧰: this resource is a list of resources
+* 📖: bool
+* 🎞: video/movie extract/moovie
+
 # Books
 
 More than any other field, management is full of fluffy books that could be summarized in one 100-word article. That being said, there's a number of excellent books, listed below.
@@ -83,12 +93,13 @@ It provides great tools for managers to help their team members come up with the
 
 There are numerous cheesy management books and this is not one of them. The narration is great as well and the explanations are short, and to the point.
 
-You can find a short summary in video [here](https://www.youtube.com/watch?v=psAXMqxwol8) 🎞.
+You can find a short summary in video [here](https://www.youtube.com/watch?v=psAXMqxwol8)
 
 ## Other books
+
 * [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575) 📖: "Read hilarious stories with serious lessons that Michael Lopp extracts from his varied and sometimes bizarre experiences as a manager at Apple, Pinterest, Palantir, Netscape, Symantec, Slack, and Borland. Many of the stories first appeared in primitive form in Lopp’s perennially popular blog, Rands in Repose."
 * [The Advantage, Enhanced Edition: Why Organizational Health Trumps Everything Else In Business](http://www.amazon.com/gp/product/B006ORWT3Y/ref=dp-kindle-redirect?ie=UTF8&btkr=1) 📖.
-* Oren Ellenbogen, [Leading Snowflakes: the Engineering Manager Handbook](http://leadingsnowflakes.com/) 📖: some truly great content and concrete ideas to move from maker to manager mode, code reviewing your management decisions, delegating tasks without losing quality or visibility.
+* Oren Ellenbogen, [Leading Snowflakes: the Engineering Manager Handbook](http://leadingsnowflakes.com/) : some truly great content and concrete ideas to move from maker to manager mode, code reviewing your management decisions, delegating tasks without losing quality or visibility.
 * Adam Grant, [Give and Take: Why Helping Others Drives Our Success](https://www.amazon.com/dp/B00AFPTSI0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) 📖: "This gem is a joy to read, and it shatters the myth that greed is the path to success.", Robert Sutton.
 * Ken Blanchard, [Lead Like Jesus: Lessons from the Greatest Leadership Role Model of All Time](https://www.amazon.com/dp/B004VF62IO/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) 📖.
 * Andrew S. Grove, [High Output Management](https://www.amazon.com/dp/B015VACHOK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) 📖. A landmark book by Intel CEO Andy Grove. Introduced many of the management best practices such as 1-1, OKR.
@@ -148,6 +159,7 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 * HBR, [How to Ask Better Questions](https://hbr.org/2009/05/real-leaders-ask.html)
 * [Mentor vs Advisor vs Coach](http://baxterblog.typepad.com/blog/2012/11/mentor-vs-advisor-vs-coach.html)
 * [How To Be Someone People Love To Talk To](http://www.bakadesuyo.com/2015/02/love-to-talk/)
+* 🧰 [Mega list of 1 on 1 meeting questions compiled from a variety to sources](https://github.com/VGraupera/1on1-questions)
 
 ## Antipatterns
 
@@ -255,6 +267,17 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [Learnings from six months as a first-time manager](http://blog.d3in.org/post/74917727213/learnings-from-six-months-as-a-first-time)
 * [How to fail as a new engineering manager](https://blog.usejournal.com/how-to-fail-as-a-new-engineering-manager-30b5fb617a)
 
+## First days on the job
+
+* Will Larson, [Your first 90 days as CTO or VP Engineering.](https://lethain.com/first-ninety-days-cto-vpe/)
+  * Durable improvements depend on creating systems that create changes, not performing tactical actions that create the ephemeral appearance of improvement.
+  * Figure out if something is really wrong and needs immediate attention.
+  * Shadow customer meetings, partner meetings or user testing.
+  * Find your business analytics and how to query them.
+  * Shadow existing interviews, onboarding and closing calls.
+  * Kickoff engineering brand efforts.
+  * Build a trivial change and deploy it.
+
 ## Feedback and performance
 
 * [Radical Candor — The Surprising Secret to Being a Good Boss](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)
@@ -322,9 +345,14 @@ Feel free to also checkout the general diversity section.
 ### Hiring: process
 
 * [Medium’s engineering interview process](https://medium.engineering/mediums-engineering-interview-process-b8d6b67927c4#.hwjb9hizh): Medium open sourced their hiring process.
+* Gitlab, [Hiring Principles](https://about.gitlab.com/handbook/hiring/principles/). Their whole process is also open sourced.
 * [How Firebase Interviewed Software Engineers](https://startupandrew.com/posts/how-firebase-interviewed-software-engineers/)
   * We looked for candidates who were friendly, smart, and motivated
   * We looked for generalist, pragmatic problem solvers
+* [No engineer has ever sued a company because of constructive post-interview feedback. So why don't employers do it?](http://blog.interviewing.io/no-engineer-has-ever-sued-a-company-because-of-constructive-post-interview-feedback-so-why-dont-employers-do-it/)
+  * Be clear that it’s a no-go.
+  * When you give suggestions, be specific and constructive.
+  * Make recommendations. Is there a book they could read?
 
 ### Hiring: sourcing
 
@@ -413,6 +441,8 @@ Quotes:
 * [12 "Manager READMEs" from Silicon Valley’s Top Tech Companies](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
 * [What is your philosophy on leadership? How do you inspire your team to do their best?](https://www.youtube.com/watch?v=TQhns5AwAkA) 🎞: beautiful sequence between Nelson Mandela (played by Morgan Freeman) and François Pienaar (Matt Damon).
 * [Why Software Development Requires Servant Leaders](https://adl.io/essays/why-software-development-requires-servant-leaders/)
+* Andreessen Horowitz, [Peacetime CEO/Wartime CEO](https://a16z.com/2011/04/14/peacetime-ceowartime-ceo-2/)
+  * Peacetime CEO knows that proper protocol leads to winning. Wartime CEO violates protocol in order to win.
 
 Quote:
 
@@ -525,6 +555,8 @@ See my [engineering-management section about problem solving](https://github.com
 
 * [The Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
 
+@samkottler: No amount of process will ensure the right work is getting done.
+
 ## Programming languages
 
 * [Static vs. dynamic languages: a literature review](http://danluu.com/empirical-pl/)
@@ -562,8 +594,8 @@ See my [engineering-management section about problem solving](https://github.com
 ## Remote teams
 
 * [How to Work Faster in a Remote Team](https://zapier.com/learn/remote-work/remote-work-productivity/)
-* Notion, [Remote work wiki](https://www.notion.so/Remote-work-wiki-1b21ef5501714fffa9f5c5c25677371f) 
-* Gitlab, [Remote work emergency plan: What to do (and where to start)](https://about.gitlab.com/company/culture/all-remote/remote-work-emergency-plan/) 
+* Notion, [Remote work wiki](https://www.notion.so/Remote-work-wiki-1b21ef5501714fffa9f5c5c25677371f)
+* Gitlab, [Remote work emergency plan: What to do (and where to start)](https://about.gitlab.com/company/culture/all-remote/remote-work-emergency-plan/)
 
 ## Team vision
 
@@ -605,6 +637,10 @@ Those are considered classics:
 
 * [Scaling Without Imploding](https://hackernoon.com/scaling-without-imploding-79b46a91ac63)
 * [Stripe Atlas: Guide to scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng)
+* Andreessen Horowitz, [Hire a VP of Engineering](https://a16z.com/2017/05/26/hiring-vp-engineering-why-what/)
+  * The most important function of a VP of engineering is to build out the engineering team and set a startup’s engineering culture.
+  * Competent engineering management should therefore be able to push the team towards more practical, incremental designs that can garner useful external feedback quickly — without compromising the long-term generality of the system. The VP’s role here is not producing the architecture, but ensuring that incremental release is a real requirement in the design process.
+  * Strong engineering management tends to give their teams enough ownership and latitude that they are happy and fulfilled in driving the product forward.
 
 ## Strategy
 
@@ -639,13 +675,19 @@ Shameless plug here, two presentations I contributed to:
 
 ## Writing
 
+➡️ See also my [professional-programming list](https://github.com/charlax/professional-programming#writing)
+
 * [The 7 Emails You Need to Know How to Write](http://unreasonable.is/the-7-emails-you-need-to-know-how-to-write/)
 * [The Inverted Pyramid](https://en.wikipedia.org/wiki/Inverted_pyramid) or [BLUF (bottom line up front)](https://en.wikipedia.org/wiki/BLUF_(communication)) (Wikipedia): a method to prioritize and structure information in a text.
 * [How to say you’re sorry](https://m.signalvnoise.com/how-to-say-youre-sorry-1c3477c33c89#.7xxja07ae), Jason Fried (Founder & CEO Basecamp)
-* [How To Write With Style](http://www.novelr.com/2008/08/16/vonnegut-how-to-write-with-style), Kurt Vonnegut.
+* [How to write with style](http://www.novelr.com/2008/08/16/vonnegut-how-to-write-with-style), Kurt Vonnegut.
 * [A blogging style guide](https://robertheaton.com/2018/12/06/a-blogging-style-guide/)
-* [How Jeff Bezos Turned Narrative into Amazon's Competitive Advantage](https://slab.com/blog/jeff-bezos-writing-management-strategy/)
+* [How Jeff Bezos turned narrative into Amazon's Competitive Advantage](https://slab.com/blog/jeff-bezos-writing-management-strategy/)
 * [Writing is Thinking: Learning to Write with Confidence](https://blog.stephsmith.io/learning-to-write-with-confidence/)
+* Paul Graham, [How to Write Usefully](http://paulgraham.com/useful.html)
+  * Useful writing tells people something true and important that they didn't already know, and tells them as unequivocally as possible.
+  * Translated into essay writing, what this means is that if you write a bad sentence, you don't publish it. You delete it and try again. Often you abandon whole branches of four or five paragraphs. Sometimes a whole essay.
+  * importance + novelty + correctness + strength, is the recipe for a good essay
 
 # Movies
 
