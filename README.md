@@ -483,6 +483,16 @@ Quotes:
 * "The best time to plant a tree was twenty years ago. The second best time is now", Chinese proverb.
 * "A ship in harbor is safe, but that is not what ships are made for.", John A Shedd.
 
+### Organization structure
+
+* Andreessen Horowitz, [Hire a VP of Engineering](https://a16z.com/2017/05/26/hiring-vp-engineering-why-what/)
+  * The most important function of a VP of engineering is to build out the engineering team and set a startup’s engineering culture.
+  * Competent engineering management should therefore be able to push the team towards more practical, incremental designs that can garner useful external feedback quickly — without compromising the long-term generality of the system. The VP’s role here is not producing the architecture, but ensuring that incremental release is a real requirement in the design process.
+  * Strong engineering management tends to give their teams enough ownership and latitude that they are happy and fulfilled in driving the product forward.
+* AVC, [VP Engineering Vs CTO](https://avc.com/2011/10/vp-engineering-vs-cto/)
+* Mark Suster, [Want to Know the Difference Between a CTO and a VP Engineering?](https://bothsidesofthetable.com/want-to-know-the-difference-between-a-cto-and-a-vp-engineering-4fc3750c596b#.gw)
+* [CTO vs VP Engineering Balancing Innovation](https://www.slideshare.net/bcantrill/cto-vs-vp-of-engineering), Bryan Cantrill, Jason Hoffman
+
 ## Production and productivity
 
 * [The Toyota Way](https://en.wikipedia.org/wiki/The_Toyota_Way), Wikipedia
@@ -637,10 +647,6 @@ Those are considered classics:
 
 * [Scaling Without Imploding](https://hackernoon.com/scaling-without-imploding-79b46a91ac63)
 * [Stripe Atlas: Guide to scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng)
-* Andreessen Horowitz, [Hire a VP of Engineering](https://a16z.com/2017/05/26/hiring-vp-engineering-why-what/)
-  * The most important function of a VP of engineering is to build out the engineering team and set a startup’s engineering culture.
-  * Competent engineering management should therefore be able to push the team towards more practical, incremental designs that can garner useful external feedback quickly — without compromising the long-term generality of the system. The VP’s role here is not producing the architecture, but ensuring that incremental release is a real requirement in the design process.
-  * Strong engineering management tends to give their teams enough ownership and latitude that they are happy and fulfilled in driving the product forward.
 
 ## Strategy
 
