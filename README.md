@@ -42,6 +42,7 @@
   - [Mentoring](#mentoring)
   - [Mindset and attitude](#mindset-and-attitude)
   - [Motivation](#motivation)
+  - [Organization structure](#organization-structure)
   - [Production and productivity](#production-and-productivity)
   - [Onboarding new team members](#onboarding-new-team-members)
   - [Personal productivity](#personal-productivity)
@@ -483,7 +484,7 @@ Quotes:
 * "The best time to plant a tree was twenty years ago. The second best time is now", Chinese proverb.
 * "A ship in harbor is safe, but that is not what ships are made for.", John A Shedd.
 
-### Organization structure
+## Organization structure
 
 * Andreessen Horowitz, [Hire a VP of Engineering](https://a16z.com/2017/05/26/hiring-vp-engineering-why-what/)
   * The most important function of a VP of engineering is to build out the engineering team and set a startup’s engineering culture.
