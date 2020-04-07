@@ -472,6 +472,8 @@ Quote:
 
 * [Taking Ownership Is The Most Effective Way to Get What You Want](http://www.theeffectiveengineer.com/blog/take-ownership-of-your-goals)
 
+Warren Buffet, "It's only when the tide goes out that you learn who's been swimming naked."
+
 ## Motivation
 
 * [Drive: The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc) (summary of Daniel Pink's book). 🎞
