@@ -490,7 +490,7 @@ Quotes:
 
 ## Organization structure
 
-* Andreessen Horowitz, [Hire a VP of Engineering](https://a16z.com/2017/05/26/hiring-vp-engineering-why-what/)
+* Martin Casado, [Hire a VP of Engineering](https://a16z.com/2017/05/26/hiring-vp-engineering-why-what/) on the Andreessen Horowitz blog
   * The most important function of a VP of engineering is to build out the engineering team and set a startup’s engineering culture.
   * Competent engineering management should therefore be able to push the team towards more practical, incremental designs that can garner useful external feedback quickly — without compromising the long-term generality of the system. The VP’s role here is not producing the architecture, but ensuring that incremental release is a real requirement in the design process.
   * Strong engineering management tends to give their teams enough ownership and latitude that they are happy and fulfilled in driving the product forward.
