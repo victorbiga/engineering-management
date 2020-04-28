@@ -636,7 +636,10 @@ See my [engineering-management section about problem solving](https://github.com
 * Seth Godin, [Big questions before little ones](http://sethgodin.typepad.com/seths_blog/2016/03/big-questions-before-little-ones.html)
 * [Focusing is about saying no](https://www.youtube.com/watch?v=H8eP99neOVs) (Steve Jobs) 🎞
 * [Vision is about perseverance](https://www.youtube.com/watch?v=gFE-Tdz24hM) (Steve Jobs) 🎞
-* Bryan Cantrill (Joyent VP of Eng) about the [importance of why](https://youtu.be/bGkVM1B5NuI?t=1210). Steve Jobs on the [same topic](https://www.youtube.com/watch?v=GY5bn0flEmc). 🎞
+* Bryan Cantrill (Joyent VP of Eng) about the [importance of why](https://youtu.be/1KeYzjILqDo?t=649) 🎞.
+  * The primary motivator is mission and purpose. Software development is about delivering utility to humanity.
+  * The soul is what motivates. You need to be able to explain the "why".
+* Steve Jobs on the [same topic](https://www.youtube.com/watch?v=GY5bn0flEmc) 🎞.
 * [Start with why](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en), TED talk by Simon Sinek. 🎞
 
 ## Technical strategy
