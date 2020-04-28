@@ -639,7 +639,8 @@ See my [engineering-management section about problem solving](https://github.com
 * Bryan Cantrill (Joyent VP of Eng) about the [importance of why](https://youtu.be/1KeYzjILqDo?t=649) 🎞.
   * The primary motivator is mission and purpose. Software development is about delivering utility to humanity.
   * The soul is what motivates. You need to be able to explain the "why".
-* Steve Jobs on the [same topic](https://www.youtube.com/watch?v=GY5bn0flEmc) 🎞.
+* Steve Jobs on the [same topic](https://www.youtube.com/watch?v=JayWnYq9zks) 🎞.
+  * Focus on the gems.
 * [Start with why](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en), TED talk by Simon Sinek. 🎞
 
 ## Technical strategy
