@@ -117,7 +117,7 @@ There are some other more specific books quoted below.
 Here are some generic resources:
 
 * [Unintuitive Things I’ve Learned about Management](https://medium.com/the-year-of-the-looking-glass/unintuitive-things-i-ve-learned-about-management-f2c42d68604b#.2z9av4pzs)
-* [Thoughts on Building Weatherproof Companies](http://a16z.com/2016/03/25/building-weatherproof-companies/): while originally aimed at startups CEOs, this article from Andreessen Horowitz's blog is a very inspiring read on what it takes to scale your team.
+* Lars Dalgaard, [Thoughts on Building Weatherproof Companies](http://a16z.com/2016/03/25/building-weatherproof-companies/): while originally aimed at startups CEOs, this article from Andreessen Horowitz's blog is a very inspiring read on what it takes to scale your team.
 
 # General management resources
 
@@ -135,6 +135,16 @@ Here are some generic resources:
 * [44 engineering management lessons](http://www.defmacro.org/2014/10/03/engman.html) from the cofounder of RethinkDB. Very high-level, a pretty good summary.
 * [21 management things I learned at Imgur](https://medium.com/@gerstenzang/21-management-things-i-learned-at-imgur-7abb72bdf8bf)
 * [The Rands Test](http://randsinrepose.com/archives/the-rands-test/), Rands in Repose. The equivalent of [The Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) for management.
+  * Do you have a 1:1?
+  * Do you have a team meeting?
+  * Do you have status reports?
+  * Can you say No to your boss?
+  * Can you explain the strategy of the company to a stranger?
+  * Can you explain the current state of business?
+  * Does the guy/gal in charge regularly stand up in front of everyone and tell you what he/she is thinking? Are you buying it?
+  * Do you know what you want to do next? Does your boss?
+  * Do you have time to be strategic?
+  * Are you actively killing the Grapevine?
 * [What are the signs that you have a great manager?](https://news.ycombinator.com/item?id=20230133) : great discussion on Hacker News
   * A great manager is at the service of their team.
   * You don't really notice a great manager.
@@ -260,6 +270,12 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 
 * [How to Ensure a New Manager Succeeds](https://getlighthouse.com/blog/new-manager-how-to-help-succeed/)
 * [Six Recipes for Software Managers](http://eng.localytics.com/six-recipes-for-software-managers/)
+  * 1-1
+  * Team surveys
+  * A safe environment
+  * An informed department
+  * Resilient teams
+  * Self improvement
 * [The Problem with Tech Leads](https://medium.com/@Bar_Code/the-problem-with-tech-leads-a840af1f511c#.ay11fv7u9)
 * [Trained Engineers - Overnight Managers (or, The Art Of Not Destroying Your Company)](http://sysadvent.blogspot.nl/2016/12/day-16-trained-engineers-overnight.html)
 * [A Manager’s FAQ](https://medium.com/eshares-blog/a-managers-faq-35858a229f84#.u1iu04owe)
