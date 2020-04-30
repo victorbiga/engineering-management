@@ -77,8 +77,8 @@
 Items:
 
 * 🧰: this resource is a list of resources
-* 📖: bool
-* 🎞: video/movie extract/moovie
+* 📖: book
+* 🎞: video/movie extract/movie
 
 # Books
 
