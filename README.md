@@ -76,7 +76,7 @@
 
 Items:
 
-* 🧰: this resource is a list of resources
+* 🧰: list of resources
 * 📖: book
 * 🎞: video/movie extract/movie
 
@@ -98,13 +98,13 @@ You can find a short summary in video [here](https://www.youtube.com/watch?v=psA
 
 ## Other books
 
-* [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575) 📖: "Read hilarious stories with serious lessons that Michael Lopp extracts from his varied and sometimes bizarre experiences as a manager at Apple, Pinterest, Palantir, Netscape, Symantec, Slack, and Borland. Many of the stories first appeared in primitive form in Lopp’s perennially popular blog, Rands in Repose."
-* [The Advantage, Enhanced Edition: Why Organizational Health Trumps Everything Else In Business](http://www.amazon.com/gp/product/B006ORWT3Y/ref=dp-kindle-redirect?ie=UTF8&btkr=1) 📖.
-* Oren Ellenbogen, [Leading Snowflakes: the Engineering Manager Handbook](http://leadingsnowflakes.com/) : some truly great content and concrete ideas to move from maker to manager mode, code reviewing your management decisions, delegating tasks without losing quality or visibility.
-* Adam Grant, [Give and Take: Why Helping Others Drives Our Success](https://www.amazon.com/dp/B00AFPTSI0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) 📖: "This gem is a joy to read, and it shatters the myth that greed is the path to success.", Robert Sutton.
-* Ken Blanchard, [Lead Like Jesus: Lessons from the Greatest Leadership Role Model of All Time](https://www.amazon.com/dp/B004VF62IO/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) 📖.
-* Andrew S. Grove, [High Output Management](https://www.amazon.com/dp/B015VACHOK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) 📖. A landmark book by Intel CEO Andy Grove. Introduced many of the management best practices such as 1-1, OKR.
-* Patrick Lencioni, [The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756/ref=sr_1_1?s=books&ie=UTF8&qid=1500281191&sr=1-1&keywords=dysfunctions) 📖.
+* 📖 [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575): "Read hilarious stories with serious lessons that Michael Lopp extracts from his varied and sometimes bizarre experiences as a manager at Apple, Pinterest, Palantir, Netscape, Symantec, Slack, and Borland. Many of the stories first appeared in primitive form in Lopp’s perennially popular blog, Rands in Repose."
+* 📖 [The Advantage, Enhanced Edition: Why Organizational Health Trumps Everything Else In Business](http://www.amazon.com/gp/product/B006ORWT3Y/ref=dp-kindle-redirect?ie=UTF8&btkr=1).
+* 📖 Oren Ellenbogen, [Leading Snowflakes: the Engineering Manager Handbook](http://leadingsnowflakes.com/): some truly great content and concrete ideas to move from maker to manager mode, code reviewing your management decisions, delegating tasks without losing quality or visibility.
+* 📖 Adam Grant, [Give and Take: Why Helping Others Drives Our Success](https://www.amazon.com/dp/B00AFPTSI0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1): "This gem is a joy to read, and it shatters the myth that greed is the path to success.", Robert Sutton.
+* 📖 Ken Blanchard, [Lead Like Jesus: Lessons from the Greatest Leadership Role Model of All Time](https://www.amazon.com/dp/B004VF62IO/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1).
+* 📖 Andrew S. Grove, [High Output Management](https://www.amazon.com/dp/B015VACHOK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1). A landmark book by Intel CEO Andy Grove. Introduced many of the management best practices such as 1-1, OKR.
+* 📖 Patrick Lencioni, [The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756/ref=sr_1_1?s=books&ie=UTF8&qid=1500281191&sr=1-1&keywords=dysfunctions) .
 
 There are some other more specific books quoted below.
 
@@ -123,6 +123,9 @@ Here are some generic resources:
 
 * [14 Points for Management](https://deming.org/explore/fourteen-points) by W. Edwards Deming.
 * [Keith Rabois on the Role of a COO, How to Hire and Why Transparency Matters](http://firstround.com/review/Keith-Rabois-on-the-role-of-a-COO-how-to-hire-and-why-transparency-matters/) includes some nice management nuggets.
+* 🧰 [ksindi/managers-playbook: Heuristics for effective management](https://github.com/ksindi/managers-playbook)
+* [The Evolution of Management](https://queue.acm.org/detail.cfm?id=3350548), Kate Matsudaira, ACM Queue.
+	* A great compilation of advices for all management levels.
 
 [Tal Bereznitskey](https://hackernoon.com/managing-engineers-in-less-than-200-characters-edb35e4199e4#.n8wruugqz)'s awesome definition for managing engineers:
 
@@ -471,8 +474,9 @@ Quote:
 ## Meetings
 
 * [On Better Meetings](http://larahogan.me/blog/better-meetings/): Lara Hogan shares tips about ensuring efficient meetings.
-* [Almost Live! - Middle Management Suck-Ups](https://www.youtube.com/watch?v=IUIQX5esnNo) 🎞: a great example of a terrible ineffective meeting.
+* 🎞 [Almost Live! - Middle Management Suck-Ups](https://www.youtube.com/watch?v=IUIQX5esnNo): a great example of a terrible ineffective meeting.
 * [Run Better Meetings with This Expert-Level Advice](http://firstround.com/review/first-round-reviews-6-must-reads-to-run-fast-efficient-meetings/), First Round Review
+* [Engineering Team Meeting: Format & Topic Ideas](https://marcgg.com/blog/2020/04/06/engineering-team-meeting-ideas/): lots of great ideas to start it.
 
 ## Mentoring
 
@@ -559,6 +563,7 @@ In terms of software, I can't recommend [Things](https://culturedcode.com/things
 
 * [How to Use OKRs for Quarterly and Annual Planning](https://www.wrike.com/blog/okrs-quarterly-planning/)
 * [The Heilmeier Catechism](https://www.darpa.mil/work-with-us/heilmeier-catechism): a crafted a set of questions to help DARPA officials think through and evaluate proposed research programs.
+* [With Goals, FAST Beats SMART](https://sloanreview.mit.edu/article/with-goals-fast-beats-smart/): goals should be embedded in frequent discussions; ambitious in scope; measured by specific metrics and milestones; and transparent for everyone in the organization to see.
 
 > A goal without a plan is just a wish.
 -- Antoine de Saint-Exupéry
@@ -627,6 +632,7 @@ See my [engineering-management section about problem solving](https://github.com
 * [How to Work Faster in a Remote Team](https://zapier.com/learn/remote-work/remote-work-productivity/)
 * Notion, [Remote work wiki](https://www.notion.so/Remote-work-wiki-1b21ef5501714fffa9f5c5c25677371f)
 * Gitlab, [Remote work emergency plan: What to do (and where to start)](https://about.gitlab.com/company/culture/all-remote/remote-work-emergency-plan/)
+* [A guide to distributed teams](https://increment.com/teams/a-guide-to-distributed-teams/), Increment: Teams.
 
 ## Team vision
 
@@ -718,7 +724,15 @@ Shameless plug here, two presentations I contributed to:
 * Paul Graham, [How to Write Usefully](http://paulgraham.com/useful.html)
   * Useful writing tells people something true and important that they didn't already know, and tells them as unequivocally as possible.
   * Translated into essay writing, what this means is that if you write a bad sentence, you don't publish it. You delete it and try again. Often you abandon whole branches of four or five paragraphs. Sometimes a whole essay.
-  * importance + novelty + correctness + strength, is the recipe for a good essay
+  * Importance + novelty + correctness + strength, is the recipe for a good essay
+* [Encouraging a Culture of Written Communication](https://www.mcls.io/blog/encouraging-a-culture-of-written-communication)
+	* Easy to Search. Single Source of Truth.
+	* Balancing Async and Synchronous Communication
+	* Thinking Out Loud
+* [Scaling Engineering Teams via Writing Things Down and Sharing - aka RFCs](https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/), Gergely Orosz
+	* Do planning before building something new.
+	* If everyone agrees how the project should be done then writing the approach down should be a piece of cake.
+	* The type of information pushed to people in an organization shapes the culture considerably.
 
 # Movies
 
