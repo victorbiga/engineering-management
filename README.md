@@ -79,6 +79,7 @@ Items:
 * 🧰: list of resources
 * 📖: book
 * 🎞: video/movie extract/movie
+* 🎤: slides/presentation
 
 # Books
 
@@ -459,7 +460,7 @@ Quotes:
 * [Leadership is making a comeback](https://www.reaktor.com/blog/leadership-is-making-a-comeback/) : interesting article that proposes a model where the leader is neither a servant nor a hero, but a host.
 * [Management Philosophy](https://3002.ca/posts/management-philosophy/)
 * [12 "Manager READMEs" from Silicon Valley’s Top Tech Companies](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
-* [What is your philosophy on leadership? How do you inspire your team to do their best?](https://www.youtube.com/watch?v=TQhns5AwAkA) 🎞: beautiful sequence between Nelson Mandela (played by Morgan Freeman) and François Pienaar (Matt Damon).
+* 🎞 [What is your philosophy on leadership? How do you inspire your team to do their best?](https://www.youtube.com/watch?v=TQhns5AwAkA): beautiful sequence between Nelson Mandela (played by Morgan Freeman) and François Pienaar (Matt Damon).
 * [Why Software Development Requires Servant Leaders](https://adl.io/essays/why-software-development-requires-servant-leaders/)
 * Andreessen Horowitz, [Peacetime CEO/Wartime CEO](https://a16z.com/2011/04/14/peacetime-ceowartime-ceo-2/)
   * Peacetime CEO knows that proper protocol leads to winning. Wartime CEO violates protocol in order to win.
@@ -516,7 +517,7 @@ Quotes:
   * Strong engineering management tends to give their teams enough ownership and latitude that they are happy and fulfilled in driving the product forward.
 * AVC, [VP Engineering Vs CTO](https://avc.com/2011/10/vp-engineering-vs-cto/)
 * Mark Suster, [Want to Know the Difference Between a CTO and a VP Engineering?](https://bothsidesofthetable.com/want-to-know-the-difference-between-a-cto-and-a-vp-engineering-4fc3750c596b#.gw)
-* [CTO vs VP Engineering Balancing Innovation](https://www.slideshare.net/bcantrill/cto-vs-vp-of-engineering), Bryan Cantrill, Jason Hoffman
+* 🎤 [CTO vs VP Engineering Balancing Innovation](https://www.slideshare.net/bcantrill/cto-vs-vp-of-engineering), Bryan Cantrill, Jason Hoffman
 
 ## Production and productivity
 
@@ -573,7 +574,7 @@ In terms of software, I can't recommend [Things](https://culturedcode.com/things
 * Garr Reynolds, [Presentation Zen Talk](https://www.youtube.com/watch?v=DZ2vtQCESpk) (Talks at Google) 🎞
 * Garr Reynolds, [Presentation Zen book](https://www.amazon.com/dp/B006R4H5FG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) 📖
 * Garr Reynolds, [Top Ten Slide Tips](http://www.garrreynolds.com/preso-tips/design/)
-* [You suck at PowerPoint](https://www.slideshare.net/jessedee/you-suck-at-powerpoint)
+* 🎤 [You suck at PowerPoint](https://www.slideshare.net/jessedee/you-suck-at-powerpoint)
 * Edward Tufte, [The Visual Display of Quantitative Information](https://www.amazon.com/gp/product/0961392142/ref=as_li_tl?ie=UTF8&tag=presentatio00-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0961392142&linkId=ba73067796f2ff27685dd4a852663241) 📖, a classic book on how to present data.
 * [The Non-Designer's Design Book](https://www.amazon.com/Non-Designers-Design-Book-3rd/dp/0321534042) 📖 - despite its catchy title, it's actually a great book with a very memorable acronym to learn about how easy it is to design great documents.
 * William Lidwell, Kritina Holden, Jill Butler, [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/1592530079) 📖.
@@ -581,7 +582,7 @@ In terms of software, I can't recommend [Things](https://culturedcode.com/things
 
 Some great examples of presentations:
 
-* [How Google Works](https://www.slideshare.net/ericschmidt/how-google-works-final-1)
+* 🎤 [How Google Works](https://www.slideshare.net/ericschmidt/how-google-works-final-1)
 
 ## Problem solving
 
@@ -652,7 +653,7 @@ See my [engineering-management section about problem solving](https://github.com
 ## Technical strategy
 
 * Joel Spolsky, [Things You Should Never Do, Part I](http://www.joelonsoftware.com/articles/fog0000000069.html): Joel explains why (according to him) you should never rewrite a codebase.
-* [Choose Boring Technology](http://mcfunley.com/choose-boring-technology-slides), Dan McKinley (Slideshare presentation).
+* 🎤 [Choose Boring Technology](http://mcfunley.com/choose-boring-technology-slides), Dan McKinley.
 * [Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611): how Amazon became a platform.
 * [Letter to Shareholders](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm), Jeff Bezos: “Day 2 is stasis. Followed by irrelevance. Followed by excruciating, painful decline. Followed by death. And that is why it is always Day 1.” So much is packed in this letter. Day 1 is about true customer obsession, resisting proxies, embracing external trends, high-velocity decision making.
 * [5 Red Flags Signaling Your Rebuild Will Fail](https://www.pkc.io/blog/five-red-flags-signaling-your-rebuild-will-fail/)
@@ -666,7 +667,7 @@ See my [engineering-management section about problem solving](https://github.com
 Those are considered classics:
 
 * [Valve Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
-* [Netflix Culture Deck](http://www.slideshare.net/reed2001/culture-1798664)
+* 🎤 [Netflix Culture Deck](http://www.slideshare.net/reed2001/culture-1798664)
 * [Gitlab's employee handbook](https://about.gitlab.com/handbook/) (includes cultural values)
 * [The HubSpot Culture Code: Creating a Company We Love](http://blog.hubspot.com/blog/tabid/6307/bid/34234/The-HubSpot-Culture-Code-Creating-a-Company-We-Love.aspx)
 * [Don’t pave the path used by the unhappy cows](https://medium.com/@kellan/dont-pave-the-path-used-by-the-unhappy-cows-fef7a78777f8#.mtw3s2h1v)
@@ -683,8 +684,8 @@ Those are considered classics:
 
 Shameless plug here, two presentations I contributed to:
 
-* [Amazon: the hidden empire](http://www.slideshare.net/faberNovel/amazoncom-the-hidden-empire)
-* [Apple: 8 easy steps to beat Microsoft](http://www.slideshare.net/faberNovel/apple-study-8-easy-steps-to-beat-microsoft-and-google)
+* 🎤 [Amazon: the hidden empire](http://www.slideshare.net/faberNovel/amazoncom-the-hidden-empire)
+* 🎤 [Apple: 8 easy steps to beat Microsoft](http://www.slideshare.net/faberNovel/apple-study-8-easy-steps-to-beat-microsoft-and-google)
 * [Michael Porter's generic strategies](https://en.wikipedia.org/wiki/Porter%27s_generic_strategies) (Wikipedia)
 * [Steve Jobs explaining why you should start from the customers, and go backward](https://www.youtube.com/watch?v=FF-tKLISfPE) (video 🎞). He makes the point that stopping the OpenDoc project was the right thing to do because it was a technology without any customer.
 * [Can Do Vs Must Do](http://avc.com/2017/05/can-do-vs-must-do/) , AVC. "Doing a startup is like playing a video game. Each level requires you to master one thing and once you do that, you level up and then there is a new thing to master."
