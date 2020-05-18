@@ -97,6 +97,10 @@ There are numerous cheesy management books and this is not one of them. The narr
 
 You can find a short summary in video [here](https://www.youtube.com/watch?v=psAXMqxwol8)
 
+> “Control without competence is chaos.”
+
+— L. David Marquet, Turn the Ship Around!
+
 ## Other books
 
 * 📖 [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575): "Read hilarious stories with serious lessons that Michael Lopp extracts from his varied and sometimes bizarre experiences as a manager at Apple, Pinterest, Palantir, Netscape, Symantec, Slack, and Borland. Many of the stories first appeared in primitive form in Lopp’s perennially popular blog, Rands in Repose."
@@ -518,6 +522,11 @@ Quotes:
 * AVC, [VP Engineering Vs CTO](https://avc.com/2011/10/vp-engineering-vs-cto/)
 * Mark Suster, [Want to Know the Difference Between a CTO and a VP Engineering?](https://bothsidesofthetable.com/want-to-know-the-difference-between-a-cto-and-a-vp-engineering-4fc3750c596b#.gw)
 * 🎤 [CTO vs VP Engineering Balancing Innovation](https://www.slideshare.net/bcantrill/cto-vs-vp-of-engineering), Bryan Cantrill, Jason Hoffman
+* [Spotify’s Failed #SquadGoals](https://www.jeremiahlee.com/posts/failed-squad-goals/) 
+	* Engineering managers in this model had little responsibility beyond the career development of the people they managed.
+	* There was no single person accountable for the engineering team’s delivery or who could negotiate prioritization of work at an equivalent level of responsibility.
+	* Autonomy requires alignment. Company priorities must be defined by leadership. Autonomy does not mean teams get to do whatever they want.
+	* Business units, departments, teams, and managers more effectively communicate organization structure roles and responsibilities than Spotify’s synonyms and are not attached to a way of working that failed their creator.
 
 ## Production and productivity
 
