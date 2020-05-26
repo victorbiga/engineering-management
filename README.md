@@ -113,6 +113,28 @@ You can find a short summary in video [here](https://www.youtube.com/watch?v=psA
 * 📖 Adam Grant, [Give and Take: Why Helping Others Drives Our Success](https://www.amazon.com/dp/B00AFPTSI0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1): "This gem is a joy to read, and it shatters the myth that greed is the path to success.", Robert Sutton.
 * 📖 Ken Blanchard, [Lead Like Jesus: Lessons from the Greatest Leadership Role Model of All Time](https://www.amazon.com/dp/B004VF62IO/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1).
 * 📖 Andrew S. Grove, [High Output Management](https://www.amazon.com/dp/B015VACHOK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1). A landmark book by Intel CEO Andy Grove. Introduced many of the management best practices such as 1-1, OKR.
+	* Managerial leverage measures the impact of what managers do to increase the output of their teams.
+	* You need to plan the way a fire department plans. It cannot anticipate where the next fire will be, so it has to shape an energetic and efficient team that is capable of responding to the unanticipated as well as to any ordinary event.
+	* Every hour of your day should be spent increasing the output or the value of the output of the people whom you’re responsible for.
+	* A common rule we should always try to heed is to detect and fix any problem in a production process at the lowest-value stage possible.
+	* A genuinely effective indicator will cover the output of the work unit and not simply the activity involved. Obviously, you measure a salesman by the orders he gets (output), not by the calls he makes (activity).
+	* A manager’s output = The output of his organization + The output of the neighboring organizations under his influence.
+	* League standings are kept by team, not by individual. Business—and this means not just the business of commerce but the business of education, the business of government, the business of medicine—is a team activity. And, always, it takes a team to win.
+	* Your decision-making depends finally on how well you comprehend the facts and issues facing your business. This is why information-gathering is so important in a manager’s life.
+	* The lack of a decision is the same as a negative decision; no green light is a red light, and work can stop for a whole organization.
+	* Delegation without follow-through is abdication.
+	* Any decision be worked out and reached at the lowest competent level. The reason is that this is where it will be made by people who are closest to the situation and know the most about it.
+	* Self-confidence mostly comes from a gut-level realization that nobody has ever died from making a wrong business decision, or taking inappropriate action, or being overruled.
+	* A successful MBO [management by objective] system needs only to answer two questions: 1.  Where do I want to go? (The answer provides the objective.) 2.  How will I pace myself to see if I am getting there? (The answer gives us milestones, or key results).
+	* The one thing an MBO system should provide par excellence is focus. This can only happen if we keep the number of objectives small. In practice, this is rare, and here, as elsewhere, we fall victim to our inability to say “no”—in this case, to too many objectives. We must realize—and act on the realization—that if we try to focus on everything, we focus on nothing. A few extremely well-chosen objectives impart a clear message about what we say “yes” to and what we say “no” to—which is what we must have if an MBO system is to work.
+	* Alfred Sloan summed up decades of experience at General Motors by saying, “Good management rests on a reconciliation of centralization and decentralization.” Or, we might say, on a balancing act to get the best combination of responsiveness and leverage.
+	* I would like to propose Grove’s Law: All large organizations with a common business purpose end up in a hybrid organizational form.
+	* When a person is not doing his job, there can only be two reasons for it. The person either can’t do it or won’t do it; he is either not capable or not motivated.
+	* That variable is the task-relevant maturity (TRM) of the subordinates, which is a combination of the degree of their achievement orientation and readiness to take responsibility, as well as their education, training, and experience.
+	* When the TRM is low, the most effective approach is one that offers very precise and detailed instructions, wherein the supervisor tells the subordinate what needs to be done, when, and how: in other words, a highly structured approach. As the TRM of the subordinate grows, the most effective style moves from the structured to one more given to communication, emotional support, and encouragement.
+	* The responsibility for teaching the subordinate must be assumed by his supervisor, and not paid for by the customers of his organization, internal or external.
+	* At all times you should force yourself to assess performance, not potential.
+	* A manager generally has two ways to raise the level of individual performance of his subordinates: by increasing motivation, the desire of each person to do his job well, and by increasing individual capability, which is where training comes in.
 * 📖 Patrick Lencioni, [The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756/ref=sr_1_1?s=books&ie=UTF8&qid=1500281191&sr=1-1&keywords=dysfunctions).
 * 📖 Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead, Laszlo Bock. A pretty interesting description of Google's processes. A bit long at times.
 
