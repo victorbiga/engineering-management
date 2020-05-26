@@ -87,7 +87,7 @@ More than any other field, management is full of fluffy books that could be summ
 
 ## Turn the Ship Around!: A True Story of Turning Followers into Leaders
 
-[Turn the Ship Around!: A True Story of Turning Followers into Leaders](http://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404) 📖 is hands down my preferred management book.
+📖 [Turn the Ship Around!: A True Story of Turning Followers into Leaders](http://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404) is hands down my preferred management book.
 
 This book made me truly understand what empowering local decision means. In particular, I liked how the author explains that the usual chain of command requires information to go up the chain, and decision to go down, which is insanely inefficient.
 
@@ -101,15 +101,19 @@ You can find a short summary in video [here](https://www.youtube.com/watch?v=psA
 
 — L. David Marquet, Turn the Ship Around!
 
-## Other books
+## Other generalist books
 
+* 📖 [The Advantage, Enhanced Edition: Why Organizational Health Trumps Everything Else In Business](http://www.amazon.com/gp/product/B006ORWT3Y/ref=dp-kindle-redirect?ie=UTF8&btkr=1), Patrick M. Lencioni.
+	* The only way for people to embrace a message is to hear it over a period of time, in a variety of different situations, and preferably from different people. That’s why great leaders see themselves as Chief Reminding Officers as much as anything else.
+	* The best way to do cascading communication is face-to-face and live. Seeing a leader and hearing the tone of his or her voice is critical for employees, as is being able to ask a question or two.
+	* But then again, most organizations are unhealthy precisely because they aren’t doing the basic things, which require discipline, persistence, and follow-through more than sophistication or intelligence.
 * 📖 [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575): "Read hilarious stories with serious lessons that Michael Lopp extracts from his varied and sometimes bizarre experiences as a manager at Apple, Pinterest, Palantir, Netscape, Symantec, Slack, and Borland. Many of the stories first appeared in primitive form in Lopp’s perennially popular blog, Rands in Repose."
-* 📖 [The Advantage, Enhanced Edition: Why Organizational Health Trumps Everything Else In Business](http://www.amazon.com/gp/product/B006ORWT3Y/ref=dp-kindle-redirect?ie=UTF8&btkr=1).
 * 📖 Oren Ellenbogen, [Leading Snowflakes: the Engineering Manager Handbook](http://leadingsnowflakes.com/): some truly great content and concrete ideas to move from maker to manager mode, code reviewing your management decisions, delegating tasks without losing quality or visibility.
 * 📖 Adam Grant, [Give and Take: Why Helping Others Drives Our Success](https://www.amazon.com/dp/B00AFPTSI0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1): "This gem is a joy to read, and it shatters the myth that greed is the path to success.", Robert Sutton.
 * 📖 Ken Blanchard, [Lead Like Jesus: Lessons from the Greatest Leadership Role Model of All Time](https://www.amazon.com/dp/B004VF62IO/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1).
 * 📖 Andrew S. Grove, [High Output Management](https://www.amazon.com/dp/B015VACHOK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1). A landmark book by Intel CEO Andy Grove. Introduced many of the management best practices such as 1-1, OKR.
-* 📖 Patrick Lencioni, [The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756/ref=sr_1_1?s=books&ie=UTF8&qid=1500281191&sr=1-1&keywords=dysfunctions) .
+* 📖 Patrick Lencioni, [The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756/ref=sr_1_1?s=books&ie=UTF8&qid=1500281191&sr=1-1&keywords=dysfunctions).
+* 📖 Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead, Laszlo Bock. A pretty interesting description of Google's processes. A bit long at times.
 
 There are some other more specific books quoted below.
 
@@ -186,6 +190,7 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 
 ## Biases
 
+* 📖 [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) by Daniel Kahneman and published in 2012 is already a classic. It offers a whirling tour into our biases and the limits of human judgment. Truly amazing read.
 * [You're not going to believe what I'm about to tell you](http://theoatmeal.com/comics/believe), The Oatmeal (comics) about the backfire effect ("given evidence against their beliefs, people can reject the evidence and believe even more strongly", [confirmation bias - Wikipedia](https://en.wikipedia.org/wiki/Confirmation_bias)).
 
 Cognitive biases don't only apply to hiring... They can impact performance reviews, 1-1, team meetings, even small talk with colleagues.
@@ -230,7 +235,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 
 ## Conflict resolution
 
-* [Disagree and commit](https://www.youtube.com/watch?v=oZw2cg8AXDw) 🎞
+* 🎞 [Disagree and commit](https://www.youtube.com/watch?v=oZw2cg8AXDw) 
 
 ## Decisions
 
@@ -250,11 +255,13 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 
 ## Diversity and inclusion
 
+* 📖 [Breaking Through Bias: Communication Techniques for Women to Succeed at Work](https://www.amazon.com/Breaking-Through-Bias-Communication-Techniques/dp/B01F93NFP4) 
+	* Most men believe that they have no biases against women and that the organizations in which they work treat women and men equally. If senior-level men read this book, they will realize that neither of these beliefs is correct.
 * [Project Include](http://projectinclude.org/): an open community working toward providing meaningful diversity and inclusion solutions for tech companies. A great resource for anything diversity-related.
 * [Guess Who Doesn’t Fit In at Work](http://www.nytimes.com/2015/05/31/opinion/sunday/guess-who-doesnt-fit-in-at-work.html)
 * [Good Intentions Fail at Scale](http://www.fancybeans.com/blog/2016/02/05/good-intentions-fail-at-scale/): great article about why you can't rely on good intentions to increase diversity.
 * [List of cognitive biases on Wikipedia](http://rationalwiki.org/wiki/List_of_cognitive_biases)
-* [Making the Unconscious Conscious](https://www.youtube.com/watch?v=NW5s_-Nl3JE) (Google Video) 🎞
+* 🎞 [Making the Unconscious Conscious](https://www.youtube.com/watch?v=NW5s_-Nl3JE) (Google Video)
 * [There’s no "silver bullet" to increasing diversity, but here’s how we’re making progress.](https://magoosh.com/blog/silver-bullet-diversity-progress/), Magoosh.
 * [Why Diversity Programs Fail](https://hbr.org/2016/07/why-diversity-programs-fail)
 
@@ -305,7 +312,11 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 
 ## Feedback and performance
 
-* [Radical Candor — The Surprising Secret to Being a Good Boss](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)
+* 📖 [Radical Candor — The Surprising Secret to Being a Good Boss](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)
+* 📖 [Amazon.com: Crucial Conversations Tools for Talking When Stakes Are High](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second-ebook-dp-B005K0AYH4/dp/B005K0AYH4/ref=mt_kindle?_encoding=UTF8&me=&qid=) by Kerry Patterson.
+	* So the first step to achieving the results we really want is to fix the problem of believing that others are the source of all that ails us. It’s our dogmatic conviction that “if we could just fix those losers, all would go better” that keeps us from taking action that could lead to dialogue and progress. Which is why it’s no surprise that those who are best at dialogue tend to turn this logic around. They believe the best way to work on “us” is to start with “me.”
+	* Respect is like air. As long as it’s present, nobody thinks about it. But if you take it away, it’s all that people can think about. 
+	* “One dull pencil is worth six sharp minds.” Don’t leave your hard work to memory. If you’ve gone to the effort to complete a crucial conversation, don’t fritter away all the meaning you created by trusting your memories. Write down the details of conclusions, decisions, and assignments.
 * [Firing people](https://zachholman.com/talk/firing-people): Zach Holman's talk about his experience being fired from Github offers some great insights into a process that is rarely talked about.
 * [It’s Never Too Early to Fire](https://a16z.com/2017/05/24/on-firing-why-when-how/), Andreessen Horowitz.
 * [A Primer on Giving Critical Feedback](http://www.tombartel.de//2016/05/21/a-primer-on-giving-critical-feedback/)
@@ -315,6 +326,18 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 
 ## Hiring
 
+### General
+
+* 📖 [Hiring The Best Knowledge Workers, Techies & Nerds: The Secrets & Science Of Hiring Technical People](https://www.amazon.com/Hiring-Knowledge-Workers-Techies-Nerds/dp/0932633595), Johanna Rothman. A solution-oriented book.
+	* Train your interview team to apply a limited-consensus approach to hiring. When groups use limited consensus, not everyone may agree with the decision, but each person should be satisfied enough with a particular candidate’s suitability not to block the decision to hire him or her.
+	* What if the vetoer is someone I don’t want to keep in the organization?” The answer to this is simple: In the interview process, only involve employees whose work you respect and value. If an employee isn’t successful in his or her technical position, don’t make that employee part of the interview team.
+	* Make sure members of your team interview an internal candidate the same way they would interview an external candidate.
+	* Know why you’re hiring more people. Define your problems to define your hiring strategy.
+	* Sometimes, the main reason a hiring manager doesn’t hire a candidate is that he or she has a gut feeling that the person just won’t fit well with the culture. But a “gut feeling” is not a good reason not to hire someone, so train yourself to articulate culture-fit differences.
+	* I personally do not consider certification to mean anything much when I am hiring someone for a technical position. Because the knowledge tested is functional-skills book knowledge, make sure you understand what the person must do to maintain his or her certification and the value of that certification to your environment.
+	* Too often, internal recruiters look for tool and technology expertise or for advanced academic degrees, rather than for functional skill or for product-domain experience.
+	* If you feel the need to take notes, take them on paper, never on a computer. My reason for this is that when you use a computer, you have to sit behind a screen, which creates a barrier between you and the candidate.
+	* Promising an unconditional promotion is not just risky; it is stupid. Circumstances within the company can change; the employee may not perform up to expectations; the economy may tank.
 * A good example of [offer letter](https://medium.com/@henrysward/a-better-offer-letter-4e9bf61a7365#.md4rm1zlp) from eShares.
 * [We Hire the Best, Just Like Everyone Else](http://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/), Jeff Atwood.
 * [How to Hire](https://medium.com/swlh/how-to-hire-34f4ded5f176#.jxkz3wrs3): one of the best articles about hiring.
@@ -334,13 +357,13 @@ Feel free to also checkout the general diversity section.
 * [Xavier Niel explains 42: the coding university without teachers, books, or tuition](http://venturebeat.com/2016/06/16/xavier-niel-explains-42-the-coding-university-without-teachers-books-or-tuition/): a thought-provoking take on CS diplomas.
 * [A Quick Puzzle to Test Your Problem Solving](http://www.nytimes.com/interactive/2015/07/03/upshot/a-quick-puzzle-to-test-your-problem-solving.html?_r=0)... and a great way to learn about confirmation bias (which is not only applicable to hiring but also to testing).
 * [The Diversity Hiring Playbook](https://business.linkedin.com/content/dam/business/talent-solutions/global/en_US/site/pdf/playbooks/linkedin-diversity-hiring-playbook-en-us.pdf), LinkedIn. Pretty high level but probably a good start.
-* [Hiring women at Klarna](https://www.youtube.com/watch?v=JWYNst72ucI) 🎞
+* 🎞 [Hiring women at Klarna](https://www.youtube.com/watch?v=JWYNst72ucI)
 
 ### Hiring: interviews
 
 * [Vanquish whiteboard interview puzzles with test-driven development](http://www.codewithoutrules.com/2016/04/04/interview-puzzles/), Jocelyn Goldfein.
 * [The Phone Screen](http://www.joelonsoftware.com/articles/ThePhoneScreen.html)
-* [The pursuit of happyness' interview scene](https://www.youtube.com/watch?v=gHXKitKAT1E) 🎞
+* 🎞 [The pursuit of happyness' interview scene](https://www.youtube.com/watch?v=gHXKitKAT1E)
 * [Real talk: the technical interview is broken](https://medium.com/@CODE2040/real-talk-the-technical-interview-is-broken-b84b8375dccb#.vxuvtrhad)
 * [Finding a Tech Leadership Job in Silicon Alley](https://medium.com/@Bar_Code/finding-a-tech-leadership-job-in-silicon-alley-3631e97ff33e#.2w4yzwtgx) (interviewing seen from the candidate experience point of view).
 * [How I Interview](https://rkoutnik.com/articles/How-I-Interview.html)
@@ -503,7 +526,7 @@ Warren Buffet, "It's only when the tide goes out that you learn who's been swimm
 
 ## Motivation
 
-* [Drive: The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc) (summary of Daniel Pink's book). 🎞
+* 🎞 [Drive: The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc) (summary of Daniel Pink's book).
 * The [two-factor theory](https://en.wikipedia.org/wiki/Two-factor_theory) (Wikipedia) "states that there are certain factors in the workplace that cause job satisfaction, while a separate set of factors cause dissatisfaction."
 * [Bored People Quit](http://randsinrepose.com/archives/bored-people-quit/), Rands in Repose
 * [The Development Abstraction Layer](https://www.joelonsoftware.com/2006/04/11/the-development-abstraction-layer-2/), Joel on Software
@@ -548,13 +571,13 @@ Quotes:
 
 ## Onboarding new team members
 
-* [5 Onboarding Fiascos From the Movies](https://business.linkedin.com/talent-solutions/blog/recruiting-humor-and-fun/2016/the-worst-new-hire-first-days-in-movies-that-you-should-never-let-happen-in-your-company) 🎞
+* 🎞 [5 Onboarding Fiascos From the Movies](https://business.linkedin.com/talent-solutions/blog/recruiting-humor-and-fun/2016/the-worst-new-hire-first-days-in-movies-that-you-should-never-let-happen-in-your-company)
 
 ## Personal productivity
 
 * [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html), Paul Graham
 * [Why Are Maker Schedules So Rare?](http://calnewport.com/blog/2017/04/05/why-are-maker-schedules-so-rare/)
-* David Allen, [Getting Things Done: The Art of Stress-Free Productivity](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280) 📖: while it could be much shorter, this book is probably the best way to learn about the GTD methodology.
+* 📖 David Allen, [Getting Things Done: The Art of Stress-Free Productivity](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280): while it could be much shorter, this book is probably the best way to learn about the GTD methodology.
 * [Productivity 101: A Primer to the Getting Things Done (GTD) Philosophy](http://lifehacker.com/productivity-101-a-primer-to-the-getting-things-done-1551880955): a great summary of GTD.
 * [Zen Habits](https://zenhabits.net/): a blog you can follow to get productivity tips and tricks.
 * [Zen To Done (ZTD)](https://zenhabits.net/zen-to-done-ztd-the-ultimate-simple-productivity-system/): a simpler productivity system.
@@ -580,13 +603,13 @@ In terms of software, I can't recommend [Things](https://culturedcode.com/things
 
 ## Presentations, design and public speaking
 
-* Garr Reynolds, [Presentation Zen Talk](https://www.youtube.com/watch?v=DZ2vtQCESpk) (Talks at Google) 🎞
-* Garr Reynolds, [Presentation Zen book](https://www.amazon.com/dp/B006R4H5FG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) 📖
+* 🎞 Garr Reynolds, [Presentation Zen Talk](https://www.youtube.com/watch?v=DZ2vtQCESpk) (Talks at Google)
+* 📖 Garr Reynolds, [Presentation Zen book](https://www.amazon.com/dp/B006R4H5FG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) 
 * Garr Reynolds, [Top Ten Slide Tips](http://www.garrreynolds.com/preso-tips/design/)
 * 🎤 [You suck at PowerPoint](https://www.slideshare.net/jessedee/you-suck-at-powerpoint)
-* Edward Tufte, [The Visual Display of Quantitative Information](https://www.amazon.com/gp/product/0961392142/ref=as_li_tl?ie=UTF8&tag=presentatio00-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0961392142&linkId=ba73067796f2ff27685dd4a852663241) 📖, a classic book on how to present data.
-* [The Non-Designer's Design Book](https://www.amazon.com/Non-Designers-Design-Book-3rd/dp/0321534042) 📖 - despite its catchy title, it's actually a great book with a very memorable acronym to learn about how easy it is to design great documents.
-* William Lidwell, Kritina Holden, Jill Butler, [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/1592530079) 📖.
+* 📖 Edward Tufte, [The Visual Display of Quantitative Information](https://www.amazon.com/gp/product/0961392142/ref=as_li_tl?ie=UTF8&tag=presentatio00-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0961392142&linkId=ba73067796f2ff27685dd4a852663241), a classic book on how to present data.
+* 📖 [The Non-Designer's Design Book](https://www.amazon.com/Non-Designers-Design-Book-3rd/dp/0321534042) - despite its clickbait title, it's actually a great book with a very memorable acronym to learn about how easy it is to design great documents.
+* 📖 William Lidwell, Kritina Holden, Jill Butler, [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/1592530079).
 * [A Five Minutes Guide to Better Typography](http://pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography)
 
 Some great examples of presentations:
@@ -614,6 +637,9 @@ See my [engineering-management section about problem solving](https://github.com
 
 ## Project management
 
+* 📖 [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) by Frederick Brooks is a classical book about software project management.
+	* Now I do not think software managers have less inherent courage and firmness than chefs, nor than other engineering managers. But false scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
+	* The boss must first distinguish between action information and status information. He must discipline himself not to act on problems his managers can solve.
 * Jason Yip, [It's Not Just Standing Up: Patterns for Daily Standup Meetings](http://martinfowler.com/articles/itsNotJustStandingUp.html): standup are a pretty controversial topics. This article on Martin Fowler's blog provides a good list of patterns and anti-patterns to ensure they're a good productive use of everybody's time.
 * [15 Fundamental Laws of Software Development](https://www.exceptionnotfound.net/fundamental-laws-of-software-development/)
 * [How we structure our work and teams at Basecamp](https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae#.jjb8slcxg)
@@ -650,14 +676,14 @@ See my [engineering-management section about problem solving](https://github.com
 
 * Seth Godin, [A manifesto for small teams doing important work](http://sethgodin.typepad.com/seths_blog/2016/02/a-manifesto-for-small-teams-doing-important-work.html): really inspiring list of short cultural values for a team. Craft your own!
 * Seth Godin, [Big questions before little ones](http://sethgodin.typepad.com/seths_blog/2016/03/big-questions-before-little-ones.html)
-* [Focusing is about saying no](https://www.youtube.com/watch?v=H8eP99neOVs) (Steve Jobs) 🎞
-* [Vision is about perseverance](https://www.youtube.com/watch?v=gFE-Tdz24hM) (Steve Jobs) 🎞
-* Bryan Cantrill (Joyent VP of Eng) about the [importance of why](https://youtu.be/1KeYzjILqDo?t=649) 🎞.
+* 🎞 [Focusing is about saying no](https://www.youtube.com/watch?v=H8eP99neOVs) (Steve Jobs) 
+* 🎞 [Vision is about perseverance](https://www.youtube.com/watch?v=gFE-Tdz24hM) (Steve Jobs)
+* 🎞 Bryan Cantrill (Joyent VP of Eng) about the [importance of why](https://youtu.be/1KeYzjILqDo?t=649).
   * The primary motivator is mission and purpose. Software development is about delivering utility to humanity.
   * The soul is what motivates. You need to be able to explain the "why".
-* Steve Jobs on the [same topic](https://www.youtube.com/watch?v=JayWnYq9zks) 🎞.
+* 🎞 Steve Jobs on the [same topic](https://www.youtube.com/watch?v=JayWnYq9zks).
   * Focus on the gems.
-* [Start with why](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en), TED talk by Simon Sinek. 🎞
+* 🎞 [Start with why](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en), TED talk by Simon Sinek.
 
 ## Technical strategy
 
@@ -746,9 +772,9 @@ Shameless plug here, two presentations I contributed to:
 
 # Movies
 
-* [Moneyball](https://en.wikipedia.org/wiki/Moneyball_(film)). [What's the problem?](https://www.youtube.com/watch?v=HiB9L3dG-Aw) 🎞
-* [Office Space](https://en.wikipedia.org/wiki/Office_Space)
-* [The Pursuit of Happyness](https://en.wikipedia.org/wiki/The_Pursuit_of_Happyness) contains some great lessons about hustle. [Watch the interview scene](https://www.youtube.com/watch?v=gHXKitKAT1E) 🎞.
+* 🎞 [Moneyball](https://en.wikipedia.org/wiki/Moneyball_(film)). [What's the problem?](https://www.youtube.com/watch?v=HiB9L3dG-Aw)
+* 🎞 [Office Space](https://en.wikipedia.org/wiki/Office_Space)
+* 🎞 [The Pursuit of Happyness](https://en.wikipedia.org/wiki/The_Pursuit_of_Happyness) contains some great lessons about hustle. [Watch the interview scene](https://www.youtube.com/watch?v=gHXKitKAT1E).
 
 ## TV Shows
 
