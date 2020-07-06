@@ -258,7 +258,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 
 ## Conflict resolution
 
-* 🎞 [Disagree and commit](https://www.youtube.com/watch?v=oZw2cg8AXDw) 
+* 🎞 [Disagree and commit](https://www.youtube.com/watch?v=oZw2cg8AXDw)
 
 ## Decisions
 
@@ -278,7 +278,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 
 ## Diversity and inclusion
 
-* 📖 [Breaking Through Bias: Communication Techniques for Women to Succeed at Work](https://www.amazon.com/Breaking-Through-Bias-Communication-Techniques/dp/B01F93NFP4) 
+* 📖 [Breaking Through Bias: Communication Techniques for Women to Succeed at Work](https://www.amazon.com/Breaking-Through-Bias-Communication-Techniques/dp/B01F93NFP4)
 	* Most men believe that they have no biases against women and that the organizations in which they work treat women and men equally. If senior-level men read this book, they will realize that neither of these beliefs is correct.
 * [Project Include](http://projectinclude.org/): an open community working toward providing meaningful diversity and inclusion solutions for tech companies. A great resource for anything diversity-related.
 * [Guess Who Doesn’t Fit In at Work](http://www.nytimes.com/2015/05/31/opinion/sunday/guess-who-doesnt-fit-in-at-work.html)
@@ -338,7 +338,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * 📖 [Radical Candor — The Surprising Secret to Being a Good Boss](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)
 * 📖 [Amazon.com: Crucial Conversations Tools for Talking When Stakes Are High](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second-ebook-dp-B005K0AYH4/dp/B005K0AYH4/ref=mt_kindle?_encoding=UTF8&me=&qid=) by Kerry Patterson.
 	* So the first step to achieving the results we really want is to fix the problem of believing that others are the source of all that ails us. It’s our dogmatic conviction that “if we could just fix those losers, all would go better” that keeps us from taking action that could lead to dialogue and progress. Which is why it’s no surprise that those who are best at dialogue tend to turn this logic around. They believe the best way to work on “us” is to start with “me.”
-	* Respect is like air. As long as it’s present, nobody thinks about it. But if you take it away, it’s all that people can think about. 
+	* Respect is like air. As long as it’s present, nobody thinks about it. But if you take it away, it’s all that people can think about.
 	* “One dull pencil is worth six sharp minds.” Don’t leave your hard work to memory. If you’ve gone to the effort to complete a crucial conversation, don’t fritter away all the meaning you created by trusting your memories. Write down the details of conclusions, decisions, and assignments.
 * [Firing people](https://zachholman.com/talk/firing-people): Zach Holman's talk about his experience being fired from Github offers some great insights into a process that is rarely talked about.
 * [It’s Never Too Early to Fire](https://a16z.com/2017/05/24/on-firing-why-when-how/), Andreessen Horowitz.
@@ -385,7 +385,7 @@ Feel free to also checkout the general diversity section.
 ### Hiring: interviews
 
 * [Vanquish whiteboard interview puzzles with test-driven development](http://www.codewithoutrules.com/2016/04/04/interview-puzzles/), Jocelyn Goldfein.
-* [The Phone Screen](http://www.joelonsoftware.com/articles/ThePhoneScreen.html)
+* Joel Spolsky, [The Phone Screen](http://www.joelonsoftware.com/articles/ThePhoneScreen.html)
 * 🎞 [The pursuit of happyness' interview scene](https://www.youtube.com/watch?v=gHXKitKAT1E)
 * [Real talk: the technical interview is broken](https://medium.com/@CODE2040/real-talk-the-technical-interview-is-broken-b84b8375dccb#.vxuvtrhad)
 * [Finding a Tech Leadership Job in Silicon Alley](https://medium.com/@Bar_Code/finding-a-tech-leadership-job-in-silicon-alley-3631e97ff33e#.2w4yzwtgx) (interviewing seen from the candidate experience point of view).
@@ -568,7 +568,7 @@ Quotes:
 * AVC, [VP Engineering Vs CTO](https://avc.com/2011/10/vp-engineering-vs-cto/)
 * Mark Suster, [Want to Know the Difference Between a CTO and a VP Engineering?](https://bothsidesofthetable.com/want-to-know-the-difference-between-a-cto-and-a-vp-engineering-4fc3750c596b#.gw)
 * 🎤 [CTO vs VP Engineering Balancing Innovation](https://www.slideshare.net/bcantrill/cto-vs-vp-of-engineering), Bryan Cantrill, Jason Hoffman
-* [Spotify’s Failed #SquadGoals](https://www.jeremiahlee.com/posts/failed-squad-goals/) 
+* [Spotify’s Failed #SquadGoals](https://www.jeremiahlee.com/posts/failed-squad-goals/)
 	* Engineering managers in this model had little responsibility beyond the career development of the people they managed.
 	* There was no single person accountable for the engineering team’s delivery or who could negotiate prioritization of work at an equivalent level of responsibility.
 	* Autonomy requires alignment. Company priorities must be defined by leadership. Autonomy does not mean teams get to do whatever they want.
@@ -627,7 +627,7 @@ In terms of software, I can't recommend [Things](https://culturedcode.com/things
 ## Presentations, design and public speaking
 
 * 🎞 Garr Reynolds, [Presentation Zen Talk](https://www.youtube.com/watch?v=DZ2vtQCESpk) (Talks at Google)
-* 📖 Garr Reynolds, [Presentation Zen book](https://www.amazon.com/dp/B006R4H5FG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) 
+* 📖 Garr Reynolds, [Presentation Zen book](https://www.amazon.com/dp/B006R4H5FG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 * Garr Reynolds, [Top Ten Slide Tips](http://www.garrreynolds.com/preso-tips/design/)
 * 🎤 [You suck at PowerPoint](https://www.slideshare.net/jessedee/you-suck-at-powerpoint)
 * 📖 Edward Tufte, [The Visual Display of Quantitative Information](https://www.amazon.com/gp/product/0961392142/ref=as_li_tl?ie=UTF8&tag=presentatio00-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0961392142&linkId=ba73067796f2ff27685dd4a852663241), a classic book on how to present data.
@@ -699,7 +699,7 @@ See my [engineering-management section about problem solving](https://github.com
 
 * Seth Godin, [A manifesto for small teams doing important work](http://sethgodin.typepad.com/seths_blog/2016/02/a-manifesto-for-small-teams-doing-important-work.html): really inspiring list of short cultural values for a team. Craft your own!
 * Seth Godin, [Big questions before little ones](http://sethgodin.typepad.com/seths_blog/2016/03/big-questions-before-little-ones.html)
-* 🎞 [Focusing is about saying no](https://www.youtube.com/watch?v=H8eP99neOVs) (Steve Jobs) 
+* 🎞 [Focusing is about saying no](https://www.youtube.com/watch?v=H8eP99neOVs) (Steve Jobs)
 * 🎞 [Vision is about perseverance](https://www.youtube.com/watch?v=gFE-Tdz24hM) (Steve Jobs)
 * 🎞 Bryan Cantrill (Joyent VP of Eng) about the [importance of why](https://youtu.be/1KeYzjILqDo?t=649).
   * The primary motivator is mission and purpose. Software development is about delivering utility to humanity.
