@@ -77,10 +77,10 @@
 
 Items:
 
-* 🧰: list of resources
-* 📖: book
-* 🎞: video/movie extract/movie
-* 🎤: slides/presentation
+* 🧰 : list of resources
+* 📖 : book
+* 🎞 : video/movie extract/movie
+* 🎤 : slides/presentation
 
 # Books
 
@@ -234,6 +234,15 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
   * Promotion decisions are structured and rigorous
 * [Thriving on the Technical Leadership Path](https://keavy.com/work/thriving-on-the-technical-leadership-path/)
   * I’ve chosen to cultivate a path for myself that enables me to dig into complex technical and product problem spaces and help lead technical and strategic direction for my organization, as an engineer but not a manager.
+* [Refactoring Our Engineering Skills Matrix](https://engine.expert360.com/refactoring-our-engineering-skills-matrix-b5314e2b0013) 
+
+Examples job ladder/career development matrix:
+
+- Gitlab 
+	- [Engineering Career Development](https://about.gitlab.com/handbook/engineering/career-development/) 
+	- [source/job-families/engineering](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/source/job-families/engineering)
+- [CircleCI Engineering Competency Matrix (public version)](https://docs.google.com/spreadsheets/d/131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo/edit#gid=0) 
+- [Expert360 skills matrix](http://eng-skills-matrix.expert360.com/) 
 
 ## Code reviews
 
@@ -298,6 +307,8 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 * [Gitlab's handbook](https://about.gitlab.com/handbook/)
 * [Valve's handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
 * [Inaka's handbook](https://github.com/inaka/guidelines)
+* [Basecamp's handbook](https://github.com/basecamp/handbook)
+* [Mattermost's handbook](https://docs.mattermost.com/guides/core.html) 
 
 ## Escalations
 
