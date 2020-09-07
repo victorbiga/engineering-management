@@ -718,6 +718,8 @@ See my [engineering-management section about problem solving](https://github.com
 * 🎞 Steve Jobs on the [same topic](https://www.youtube.com/watch?v=JayWnYq9zks).
   * Focus on the gems.
 * 🎞 [Start with why](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en), TED talk by Simon Sinek.
+* 🎤 [Insist on Focus](https://www.youtube.com/watch?index=9&list=PL__mLVkEYIvwv61O6ohmAv2rE2X8ScP7b&v=fcohHIJr6Ns&ab_channel=Nugget), Keith Rabois
+	* The reason why this [forcing people to focus and work on only one important problem] was such a successful strategy is that most people tend to substitute from A+ problems that are very difficult to solve to B+ problems for which they already know a solution to.
 
 ## Technical strategy
 
