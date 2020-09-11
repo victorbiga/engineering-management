@@ -570,6 +570,10 @@ Quotes:
 * "The best time to plant a tree was twenty years ago. The second best time is now", Chinese proverb.
 * "A ship in harbor is safe, but that is not what ships are made for.", John A Shedd.
 
+## Onboarding new team members
+
+* 🎞 [5 Onboarding Fiascos From the Movies](https://business.linkedin.com/talent-solutions/blog/recruiting-humor-and-fun/2016/the-worst-new-hire-first-days-in-movies-that-you-should-never-let-happen-in-your-company)
+
 ## Organization structure
 
 * Martin Casado, [Hire a VP of Engineering](https://a16z.com/2017/05/26/hiring-vp-engineering-why-what/) on the Andreessen Horowitz blog
@@ -602,10 +606,6 @@ Quotes:
   * Go and see for yourself to thoroughly understand the situation
   * Make decisions slowly by consensus, thoroughly considering all options; implement decisions rapidly
   * Become a learning organization through relentless reflection (hansei) and continuous improvement (kaizen)
-
-## Onboarding new team members
-
-* 🎞 [5 Onboarding Fiascos From the Movies](https://business.linkedin.com/talent-solutions/blog/recruiting-humor-and-fun/2016/the-worst-new-hire-first-days-in-movies-that-you-should-never-let-happen-in-your-company)
 
 ## Personal productivity
 
