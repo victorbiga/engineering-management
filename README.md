@@ -626,11 +626,14 @@ Quotes:
 
 In terms of software, I can't recommend [Things](https://culturedcode.com/things/) enough (Mac and iOS only). It is a delightful piece of software that gets out of the way and lets you focus on your tasks.
 
-## Planning (reviews, OKR, etc.)
+## Planning (goal setting, OKR, etc.)
 
 * [How to Use OKRs for Quarterly and Annual Planning](https://www.wrike.com/blog/okrs-quarterly-planning/)
 * [The Heilmeier Catechism](https://www.darpa.mil/work-with-us/heilmeier-catechism): a crafted a set of questions to help DARPA officials think through and evaluate proposed research programs.
 * [With Goals, FAST Beats SMART](https://sloanreview.mit.edu/article/with-goals-fast-beats-smart/): goals should be embedded in frequent discussions; ambitious in scope; measured by specific metrics and milestones; and transparent for everyone in the organization to see.
+* 🎞 [Startup Lab workshop: How Google sets goals: OKRs](https://www.youtube.com/watch?v=mJB83EZtAjc&ab_channel=GV) 
+* [How to Make OKRs Actually Work at Your Startup](https://firstround.com/review/How-to-Make-OKRs-Actually-Work-at-Your-Startup/), First Round Review
+* 🎞 [Why the secret to success is setting the right goals](https://www.youtube.com/watch?v=L4N1q4RNi9I&ab_channel=TED), John Doerr
 
 > A goal without a plan is just a wish.
 -- Antoine de Saint-Exupéry
