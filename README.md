@@ -285,6 +285,8 @@ Examples job ladder/career development matrix:
 * [The Counterintuitive Art of Leading by Letting Go](http://99u.com/articles/43081/the-counter-intuitive-art-of-leading-by-letting-go)
 * Against micromanagement: "After you plant a seed in the ground, you don’t dig it up every week to see how it is doing", William Coyne, Head of R&D at 3M.
 
+> The 70/10/80 Principle of delegation: “Find someone who can do what you do at 70% the success rate. Teach them the extra 10% and be okay with 80%.”
+
 ## Diversity and inclusion
 
 * 📖 [Breaking Through Bias: Communication Techniques for Women to Succeed at Work](https://www.amazon.com/Breaking-Through-Bias-Communication-Techniques/dp/B01F93NFP4)
@@ -706,6 +708,8 @@ See my [engineering-management section about problem solving](https://github.com
 * Notion, [Remote work wiki](https://www.notion.so/Remote-work-wiki-1b21ef5501714fffa9f5c5c25677371f)
 * Gitlab, [Remote work emergency plan: What to do (and where to start)](https://about.gitlab.com/company/culture/all-remote/remote-work-emergency-plan/)
 * [A guide to distributed teams](https://increment.com/teams/a-guide-to-distributed-teams/), Increment: Teams.
+* [The ultimate guide to remote work](https://zapier.com/learn/remote-work/), Zapier. Includes topics such as:
+	* How to brainstorm remotely
 
 ## Team vision
 
