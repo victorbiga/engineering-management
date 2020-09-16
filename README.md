@@ -242,8 +242,8 @@ Examples job ladder/career development matrix:
 - [Expert360 skills matrix](http://eng-skills-matrix.expert360.com/)
 - [30+ Engineering Career Ladders](https://nidup.io/garden/engineering-career-ladders?s=09)
 - [Khan Academy Engineering Career Development](https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls/edit).
-	- Skills: maximise impact, be open, empathise and respect, have conviction, seek engineering maturity.
-	- Levels: Beginning Skillful, Skillful, More Skillful, Super Skillful, Ludicrously Skillful
+  - Skills: maximise impact, be open, empathise and respect, have conviction, seek engineering maturity.
+  - Levels: Beginning Skillful, Skillful, More Skillful, Super Skillful, Ludicrously Skillful
 
 ## Code reviews
 
@@ -266,9 +266,9 @@ Examples job ladder/career development matrix:
   - Repeat, repeat, repeat
   - Consider writing a personal weekly newsletter
 - [Tools for better thinking](https://untools.co/)
-	- Decision matrix
-	- Ladder of inference
-	- First principles
+  - Decision matrix
+  - Ladder of inference
+  - First principles
 - [How To Say No](https://www.starterstory.com/how-to-say-no). Templates for saying no to written interviews, going to an event, doing free work...
 
 ## Conflict resolution
@@ -364,8 +364,8 @@ Examples job ladder/career development matrix:
 - [Negative feedback antipatterns](http://blog.d3in.org/post/153942984306/negative-feedback-antipatterns)
 - [Performance Reviews Are a Waste of Time](https://blog.bradfieldcs.com/performance-reviews-are-a-waste-of-time-87c88d7553b4): a good contrarian take on formal performance reviews
 - [The Open Feedback Circle (OFC)](https://medium.com/@padminipyapali/open-feedback-circle-a69601ea5dfd), a great idea by Padmini Pyapali.
-	- We met once a month, sat around a table, and shared feedback with each other in front of our other teammates. This gathering took feedback exchange from being a biannual activity we dreaded to a monthly ritual we looked forward to.
-	- Vulnerability Cultivates Trust
+  - We met once a month, sat around a table, and shared feedback with each other in front of our other teammates. This gathering took feedback exchange from being a biannual activity we dreaded to a monthly ritual we looked forward to.
+  - Vulnerability Cultivates Trust
 
 ## Hiring
 
@@ -414,10 +414,10 @@ Feel free to also checkout the general diversity section.
 - [Interviewing](https://www.xaprb.com/blog/interviewing/), Baron Schwartz. A good explanation why you should only ask behavioral question about the _past_.
 - 🎞 [Monthy Python: a terrible candidate experience](https://www.youtube.com/watch?v=D4iFzweRf3E)
 - [Your interviews shouldn’t be spoilable](https://medium.com/@rafeco/your-interviews-shouldnt-be-spoilable-c9088ecea1ee)
-	- How much should you share with the candidate? As much as an ethical person would share with a friend who they referred for the job.
-	- If an interview can be spoiled, it means that the answers can be memorized.
-	- Your spoilable interview is going to get spoiled. Some referred candidates are going to get the answers from their friends.
-	- If foreknowledge doesn’t reduce the quality of your interviews, it means that you have to change your questions less often
+  - How much should you share with the candidate? As much as an ethical person would share with a friend who they referred for the job.
+  - If an interview can be spoiled, it means that the answers can be memorized.
+  - Your spoilable interview is going to get spoiled. Some referred candidates are going to get the answers from their friends.
+  - If foreknowledge doesn’t reduce the quality of your interviews, it means that you have to change your questions less often
 
 ### Hiring: questions
 
@@ -539,12 +539,12 @@ Quotes:
 - Andreessen Horowitz, [Peacetime CEO/Wartime CEO](https://a16z.com/2011/04/14/peacetime-ceowartime-ceo-2/)
   - Peacetime CEO knows that proper protocol leads to winning. Wartime CEO violates protocol in order to win.
 - [Excerpts from One From Many, Dee Hock](https://twitter.com/zackkanter/status/1272200276015853569), Zack Kanter on Twitter.
-	- Your first responsibility as a manager is to manage yourself: your integrity, character, ethics, knowledge, wisdom, temperament, words and acts.
-	- The second responsibility is to manage those who have authority over us.
-	- The third responsibility is to manage your peers: without their respect and confidence, nothing can be accomplished.
-	- The fourth responsibility is to manage those whom we have authority.
-	- You can't manage your bosses, peers, regulators etc. But you can understand them, motivate them, influence them, forgive them.
-	- "It is from failure that amazing growth and grace so often come, provided only that one can recognise it, admit it, learn from it, rise above it, and try again. True leadership presumes a standard quite beyond human perfectibility and that is quite alright, for joy and satisfaction are in the pursuit of an objective, not in its realization."
+  - Your first responsibility as a manager is to manage yourself: your integrity, character, ethics, knowledge, wisdom, temperament, words and acts.
+  - The second responsibility is to manage those who have authority over us.
+  - The third responsibility is to manage your peers: without their respect and confidence, nothing can be accomplished.
+  - The fourth responsibility is to manage those whom we have authority.
+  - You can't manage your bosses, peers, regulators etc. But you can understand them, motivate them, influence them, forgive them.
+  - "It is from failure that amazing growth and grace so often come, provided only that one can recognise it, admit it, learn from it, rise above it, and try again. True leadership presumes a standard quite beyond human perfectibility and that is quite alright, for joy and satisfaction are in the pursuit of an objective, not in its realization."
 
 Quote:
 
@@ -576,13 +576,13 @@ Quote:
 
 - [Taking Ownership Is The Most Effective Way to Get What You Want](http://www.theeffectiveengineer.com/blog/take-ownership-of-your-goals)
 - [Shreyas Doshi on Twitter: "Good managers, what they do, how they think & act](https://twitter.com/shreyas/status/1290685921348562948)
-	- Good managers are skilled at asking questions that give their team members a new perspective on the problem and reach the right solution on their own.
-	- Good managers address context first, then content.
-	- Good managers know that, above all else, they are agents of their company. Their default mode is to make and facilitate company-optimal choices.
-	- Good managers know that fixing broader company culture is an important part of their role as a designated leader within the company.
-	- Good managers understand that the long game is all about people.
-	- Good managers don’t have just one go-to management style nor do they have a notion of “THE ideal employee”.
-	- Good managers can discern good intent from bad.
+  - Good managers are skilled at asking questions that give their team members a new perspective on the problem and reach the right solution on their own.
+  - Good managers address context first, then content.
+  - Good managers know that, above all else, they are agents of their company. Their default mode is to make and facilitate company-optimal choices.
+  - Good managers know that fixing broader company culture is an important part of their role as a designated leader within the company.
+  - Good managers understand that the long game is all about people.
+  - Good managers don’t have just one go-to management style nor do they have a notion of “THE ideal employee”.
+  - Good managers can discern good intent from bad.
 
 Warren Buffet, "It's only when the tide goes out that you learn who's been swimming naked."
 
@@ -617,9 +617,9 @@ Quotes:
   - Autonomy requires alignment. Company priorities must be defined by leadership. Autonomy does not mean teams get to do whatever they want.
   - Business units, departments, teams, and managers more effectively communicate organization structure roles and responsibilities than Spotify’s synonyms and are not attached to a way of working that failed their creator.
 - [Independence,autonomy,too many small teams](https://kislayverma.com/organizations/independence-autonomy-and-too-many-small-teams/)
-	- Every autonomous team is expected to generate direct business value all by itself, without a lot of overlap with other teams.
-	- The team should be able to meets its goals independently (i.e. without reliance on or interference from other teams).
-	- Coordination, also known as alignment, communication, shared roadmap, Gantt chart and many other positive sounding names, is the arch-enemy of the autonomous team.
+  - Every autonomous team is expected to generate direct business value all by itself, without a lot of overlap with other teams.
+  - The team should be able to meets its goals independently (i.e. without reliance on or interference from other teams).
+  - Coordination, also known as alignment, communication, shared roadmap, Gantt chart and many other positive sounding names, is the arch-enemy of the autonomous team.
 
 ## Production and productivity
 
@@ -667,8 +667,8 @@ In terms of software, I can't recommend [Things](https://culturedcode.com/things
 - [How to Make OKRs Actually Work at Your Startup](https://firstround.com/review/How-to-Make-OKRs-Actually-Work-at-Your-Startup/), First Round Review
 - 🎞 [Why the secret to success is setting the right goals](https://www.youtube.com/watch?v=L4N1q4RNi9I&ab_channel=TED), John Doerr
 - [The Fundamentals of Roadmapping](https://medium.com/@austinfish/the-fundamentals-of-roadmapping-f465f5ac733)
-	- With constant innovation, new market entrants and potential black swans like a global pandemic, the best a leader can do is set a 12–18 month strategic plan that is directionally aligned with the company’s true north. That plan should be broken down by quarter with the assumption that the degree of confidence in achieving goals within each quarter will decline over time.
-	- Expect each team across the organization to cascade their operational roadmaps from these strategic foci. Operational roadmaps should identify key initiatives and milestones.
+  - With constant innovation, new market entrants and potential black swans like a global pandemic, the best a leader can do is set a 12–18 month strategic plan that is directionally aligned with the company’s true north. That plan should be broken down by quarter with the assumption that the degree of confidence in achieving goals within each quarter will decline over time.
+  - Expect each team across the organization to cascade their operational roadmaps from these strategic foci. Operational roadmaps should identify key initiatives and milestones.
 
 > A goal without a plan is just a wish.
 > -- Antoine de Saint-Exupéry
@@ -738,9 +738,9 @@ See my [engineering-management section about problem solving](https://github.com
 - Gitlab, [Remote work emergency plan: What to do (and where to start)](https://about.gitlab.com/company/culture/all-remote/remote-work-emergency-plan/)
 - [A guide to distributed teams](https://increment.com/teams/a-guide-to-distributed-teams/), Increment: Teams.
 - [The ultimate guide to remote work](https://zapier.com/learn/remote-work/), Zapier. Includes topics such as:
-	-  How to brainstorm remotely
-	-  Remote team activities: how to have fun when you work from home
-	-  The best online whiteboards
+  -  How to brainstorm remotely
+  -  Remote team activities: how to have fun when you work from home
+  -  The best online whiteboards
 
 ## Team vision
 
@@ -772,10 +772,10 @@ See my [engineering-management section about problem solving](https://github.com
 - [Engineering a culture of psychological safety](https://blog.intercom.com/psychological-safety/)
 - [Culture Eats Strategy For Breakfast](https://techcrunch.com/2014/04/12/culture-eats-strategy-for-breakfast/)
 - [Habits of High-Functioning Teams](https://deniseyu.io/2020/05/23/habits-of-high-performing-teams.html)
-	- High Psychological Safety
-	- Good hygiene practices
-	- Active redistribution of “experience points”
-	- Communicating generously
+  - High Psychological Safety
+  - Good hygiene practices
+  - Active redistribution of “experience points”
+  - Communicating generously
 - [Principles trump processes](https://www.jjude.com/principles-trumps)
 
 Those are considered classics:
