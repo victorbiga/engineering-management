@@ -107,7 +107,8 @@ You can find a short summary in video [here](https://www.youtube.com/watch?v=psA
 
 - 📖 [The Advantage, Enhanced Edition: Why Organizational Health Trumps Everything Else In Business](http://www.amazon.com/gp/product/B006ORWT3Y/ref=dp-kindle-redirect?ie=UTF8&btkr=1), Patrick M. Lencioni.
   - The only way for people to embrace a message is to hear it over a period of time, in a variety of different situations, and preferably from different people. That’s why great leaders see themselves as Chief Reminding Officers as much as anything else.
-  - The best way to do cascading communication is face-to-face and live. Seeing a leader and hearing the tone of his or her voice is critical for employees, as is being able to ask a question or two. \* But then again, most organizations are unhealthy precisely because they aren’t doing the basic things, which require discipline, persistence, and follow-through more than sophistication or intelligence.
+  - The best way to do cascading communication is face-to-face and live. Seeing a leader and hearing the tone of his or her voice is critical for employees, as is being able to ask a question or two.
+  - But then again, most organizations are unhealthy precisely because they aren’t doing the basic things, which require discipline, persistence, and follow-through more than sophistication or intelligence.
 - 📖 [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575): "Read hilarious stories with serious lessons that Michael Lopp extracts from his varied and sometimes bizarre experiences as a manager at Apple, Pinterest, Palantir, Netscape, Symantec, Slack, and Borland. Many of the stories first appeared in primitive form in Lopp’s perennially popular blog, Rands in Repose."
 - 📖 Oren Ellenbogen, [Leading Snowflakes: the Engineering Manager Handbook](http://leadingsnowflakes.com/): some truly great content and concrete ideas to move from maker to manager mode, code reviewing your management decisions, delegating tasks without losing quality or visibility.
 - 📖 Adam Grant, [Give and Take: Why Helping Others Drives Our Success](https://www.amazon.com/dp/B00AFPTSI0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1): "This gem is a joy to read, and it shatters the myth that greed is the path to success.", Robert Sutton.
@@ -156,7 +157,7 @@ Here are some generic resources:
 - [14 Points for Management](https://deming.org/explore/fourteen-points) by W. Edwards Deming.
 - [Keith Rabois on the Role of a COO, How to Hire and Why Transparency Matters](http://firstround.com/review/Keith-Rabois-on-the-role-of-a-COO-how-to-hire-and-why-transparency-matters/) includes some nice management nuggets.
 - 🧰 [ksindi/managers-playbook: Heuristics for effective management](https://github.com/ksindi/managers-playbook)
-- [The Evolution of Management](https://queue.acm.org/detail.cfm?id=3350548), Kate Matsudaira, ACM Queue. \* A great compilation of advices for all management levels.
+- [The Evolution of Management](https://queue.acm.org/detail.cfm?id=3350548), Kate Matsudaira, ACM Queue. A great compilation of advices for all management levels.
 
 [Tal Bereznitskey](https://hackernoon.com/managing-engineers-in-less-than-200-characters-edb35e4199e4#.n8wruugqz)'s awesome definition for managing engineers:
 
@@ -295,7 +296,8 @@ Examples job ladder/career development matrix:
 
 ## Diversity and inclusion
 
-- 📖 [Breaking Through Bias: Communication Techniques for Women to Succeed at Work](https://www.amazon.com/Breaking-Through-Bias-Communication-Techniques/dp/B01F93NFP4) \* Most men believe that they have no biases against women and that the organizations in which they work treat women and men equally. If senior-level men read this book, they will realize that neither of these beliefs is correct.
+- 📖 [Breaking Through Bias: Communication Techniques for Women to Succeed at Work](https://www.amazon.com/Breaking-Through-Bias-Communication-Techniques/dp/B01F93NFP4)
+  - Most men believe that they have no biases against women and that the organizations in which they work treat women and men equally. If senior-level men read this book, they will realize that neither of these beliefs is correct.
 - [Project Include](http://projectinclude.org/): an open community working toward providing meaningful diversity and inclusion solutions for tech companies. A great resource for anything diversity-related.
 - [Guess Who Doesn’t Fit In at Work](http://www.nytimes.com/2015/05/31/opinion/sunday/guess-who-doesnt-fit-in-at-work.html)
 - [Good Intentions Fail at Scale](http://www.fancybeans.com/blog/2016/02/05/good-intentions-fail-at-scale/): great article about why you can't rely on good intentions to increase diversity.
@@ -356,7 +358,8 @@ Examples job ladder/career development matrix:
 - 📖 [Radical Candor — The Surprising Secret to Being a Good Boss](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)
 - 📖 [Amazon.com: Crucial Conversations Tools for Talking When Stakes Are High](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second-ebook-dp-B005K0AYH4/dp/B005K0AYH4/ref=mt_kindle?_encoding=UTF8&me=&qid=) by Kerry Patterson.
   - So the first step to achieving the results we really want is to fix the problem of believing that others are the source of all that ails us. It’s our dogmatic conviction that “if we could just fix those losers, all would go better” that keeps us from taking action that could lead to dialogue and progress. Which is why it’s no surprise that those who are best at dialogue tend to turn this logic around. They believe the best way to work on “us” is to start with “me.”
-  - Respect is like air. As long as it’s present, nobody thinks about it. But if you take it away, it’s all that people can think about. \* “One dull pencil is worth six sharp minds.” Don’t leave your hard work to memory. If you’ve gone to the effort to complete a crucial conversation, don’t fritter away all the meaning you created by trusting your memories. Write down the details of conclusions, decisions, and assignments.
+  - Respect is like air. As long as it’s present, nobody thinks about it. But if you take it away, it’s all that people can think about.
+  - “One dull pencil is worth six sharp minds.” Don’t leave your hard work to memory. If you’ve gone to the effort to complete a crucial conversation, don’t fritter away all the meaning you created by trusting your memories. Write down the details of conclusions, decisions, and assignments.
 - [Firing people](https://zachholman.com/talk/firing-people): Zach Holman's talk about his experience being fired from Github offers some great insights into a process that is rarely talked about.
 - [It’s Never Too Early to Fire](https://a16z.com/2017/05/24/on-firing-why-when-how/), Andreessen Horowitz.
 - [A Primer on Giving Critical Feedback](http://www.tombartel.de//2016/05/21/a-primer-on-giving-critical-feedback/)
@@ -379,7 +382,8 @@ Examples job ladder/career development matrix:
   - Sometimes, the main reason a hiring manager doesn’t hire a candidate is that he or she has a gut feeling that the person just won’t fit well with the culture. But a “gut feeling” is not a good reason not to hire someone, so train yourself to articulate culture-fit differences.
   - I personally do not consider certification to mean anything much when I am hiring someone for a technical position. Because the knowledge tested is functional-skills book knowledge, make sure you understand what the person must do to maintain his or her certification and the value of that certification to your environment.
   - Too often, internal recruiters look for tool and technology expertise or for advanced academic degrees, rather than for functional skill or for product-domain experience.
-  - If you feel the need to take notes, take them on paper, never on a computer. My reason for this is that when you use a computer, you have to sit behind a screen, which creates a barrier between you and the candidate. \* Promising an unconditional promotion is not just risky; it is stupid. Circumstances within the company can change; the employee may not perform up to expectations; the economy may tank.
+  - If you feel the need to take notes, take them on paper, never on a computer. My reason for this is that when you use a computer, you have to sit behind a screen, which creates a barrier between you and the candidate.
+  - Promising an unconditional promotion is not just risky; it is stupid. Circumstances within the company can change; the employee may not perform up to expectations; the economy may tank.
 - A good example of [offer letter](https://medium.com/@henrysward/a-better-offer-letter-4e9bf61a7365#.md4rm1zlp) from eShares.
 - [We Hire the Best, Just Like Everyone Else](http://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/), Jeff Atwood.
 - [How to Hire](https://medium.com/swlh/how-to-hire-34f4ded5f176#.jxkz3wrs3): one of the best articles about hiring.
@@ -756,7 +760,8 @@ See my [engineering-management section about problem solving](https://github.com
 - 🎞 Steve Jobs on the [same topic](https://www.youtube.com/watch?v=JayWnYq9zks).
   - Focus on the gems.
 - 🎞 [Start with why](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en), TED talk by Simon Sinek.
-- 🎤 [Insist on Focus](https://www.youtube.com/watch?index=9&list=PL__mLVkEYIvwv61O6ohmAv2rE2X8ScP7b&v=fcohHIJr6Ns&ab_channel=Nugget), Keith Rabois \* The reason why this [forcing people to focus and work on only one important problem] was such a successful strategy is that most people tend to substitute from A+ problems that are very difficult to solve to B+ problems for which they already know a solution to.
+- 🎤 [Insist on Focus](https://www.youtube.com/watch?index=9&list=PL__mLVkEYIvwv61O6ohmAv2rE2X8ScP7b&v=fcohHIJr6Ns&ab_channel=Nugget), Keith Rabois
+  - The reason why this [forcing people to focus and work on only one important problem] was such a successful strategy is that most people tend to substitute from A+ problems that are very difficult to solve to B+ problems for which they already know a solution to.
 
 ## Technical strategy
 
@@ -815,7 +820,8 @@ Shameless plug here, two presentations I contributed to:
 
 - [Great developers are raised, not hired](https://sizovs.net/2019/04/10/the-best-developers-are-raised-not-hired/)
   - Take some money, energy, time that you spend on recruiting and invest it in teaching your best developers mentoring skills.
-  - Adjust your interview process and give a chance to candidates that are not good enough yet, but are eager to learn and have a growth mindset. \* Relax “hard requirements” in your job ads to avoid filtering out impostors.
+  - Adjust your interview process and give a chance to candidates that are not good enough yet, but are eager to learn and have a growth mindset.
+  - Relax “hard requirements” in your job ads to avoid filtering out impostors.
 
 ## Work ethics & work/life balance
 
@@ -841,10 +847,12 @@ Shameless plug here, two presentations I contributed to:
   - Importance + novelty + correctness + strength, is the recipe for a good essay
 - [Encouraging a Culture of Written Communication](https://www.mcls.io/blog/encouraging-a-culture-of-written-communication)
   - Easy to Search. Single Source of Truth.
-  - Balancing Async and Synchronous Communication \* Thinking Out Loud
+  - Balancing Async and Synchronous Communication
+  - Thinking Out Loud
 - [Scaling Engineering Teams via Writing Things Down and Sharing - aka RFCs](https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/), Gergely Orosz
   - Do planning before building something new.
-  - If everyone agrees how the project should be done then writing the approach down should be a piece of cake. \* The type of information pushed to people in an organization shapes the culture considerably.
+  - If everyone agrees how the project should be done then writing the approach down should be a piece of cake.
+  - The type of information pushed to people in an organization shapes the culture considerably.
 
 # Movies
 
