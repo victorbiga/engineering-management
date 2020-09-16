@@ -106,35 +106,35 @@ You can find a short summary in video [here](https://www.youtube.com/watch?v=psA
 ## Other generalist books
 
 - 📖 [The Advantage, Enhanced Edition: Why Organizational Health Trumps Everything Else In Business](http://www.amazon.com/gp/product/B006ORWT3Y/ref=dp-kindle-redirect?ie=UTF8&btkr=1), Patrick M. Lencioni.
-  _ The only way for people to embrace a message is to hear it over a period of time, in a variety of different situations, and preferably from different people. That’s why great leaders see themselves as Chief Reminding Officers as much as anything else.
-  _ The best way to do cascading communication is face-to-face and live. Seeing a leader and hearing the tone of his or her voice is critical for employees, as is being able to ask a question or two. \* But then again, most organizations are unhealthy precisely because they aren’t doing the basic things, which require discipline, persistence, and follow-through more than sophistication or intelligence.
+  - The only way for people to embrace a message is to hear it over a period of time, in a variety of different situations, and preferably from different people. That’s why great leaders see themselves as Chief Reminding Officers as much as anything else.
+  - The best way to do cascading communication is face-to-face and live. Seeing a leader and hearing the tone of his or her voice is critical for employees, as is being able to ask a question or two. \* But then again, most organizations are unhealthy precisely because they aren’t doing the basic things, which require discipline, persistence, and follow-through more than sophistication or intelligence.
 - 📖 [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575): "Read hilarious stories with serious lessons that Michael Lopp extracts from his varied and sometimes bizarre experiences as a manager at Apple, Pinterest, Palantir, Netscape, Symantec, Slack, and Borland. Many of the stories first appeared in primitive form in Lopp’s perennially popular blog, Rands in Repose."
 - 📖 Oren Ellenbogen, [Leading Snowflakes: the Engineering Manager Handbook](http://leadingsnowflakes.com/): some truly great content and concrete ideas to move from maker to manager mode, code reviewing your management decisions, delegating tasks without losing quality or visibility.
 - 📖 Adam Grant, [Give and Take: Why Helping Others Drives Our Success](https://www.amazon.com/dp/B00AFPTSI0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1): "This gem is a joy to read, and it shatters the myth that greed is the path to success.", Robert Sutton.
 - 📖 Ken Blanchard, [Lead Like Jesus: Lessons from the Greatest Leadership Role Model of All Time](https://www.amazon.com/dp/B004VF62IO/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1).
 - 📖 Andrew S. Grove, [High Output Management](https://www.amazon.com/dp/B015VACHOK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1). A landmark book by Intel CEO Andy Grove. Introduced many of the management best practices such as 1-1, OKR.
-  _ Managerial leverage measures the impact of what managers do to increase the output of their teams.
-  _ You need to plan the way a fire department plans. It cannot anticipate where the next fire will be, so it has to shape an energetic and efficient team that is capable of responding to the unanticipated as well as to any ordinary event.
-  _ Every hour of your day should be spent increasing the output or the value of the output of the people whom you’re responsible for.
-  _ A common rule we should always try to heed is to detect and fix any problem in a production process at the lowest-value stage possible.
-  _ A genuinely effective indicator will cover the output of the work unit and not simply the activity involved. Obviously, you measure a salesman by the orders he gets (output), not by the calls he makes (activity).
-  _ A manager’s output = The output of his organization + The output of the neighboring organizations under his influence.
-  _ League standings are kept by team, not by individual. Business—and this means not just the business of commerce but the business of education, the business of government, the business of medicine—is a team activity. And, always, it takes a team to win.
-  _ Your decision-making depends finally on how well you comprehend the facts and issues facing your business. This is why information-gathering is so important in a manager’s life.
-  _ The lack of a decision is the same as a negative decision; no green light is a red light, and work can stop for a whole organization.
-  _ Delegation without follow-through is abdication.
-  _ Any decision be worked out and reached at the lowest competent level. The reason is that this is where it will be made by people who are closest to the situation and know the most about it.
-  _ Self-confidence mostly comes from a gut-level realization that nobody has ever died from making a wrong business decision, or taking inappropriate action, or being overruled.
-  _ A successful MBO [management by objective] system needs only to answer two questions: 1.  Where do I want to go? (The answer provides the objective.) 2.  How will I pace myself to see if I am getting there? (The answer gives us milestones, or key results).
-  _ The one thing an MBO system should provide par excellence is focus. This can only happen if we keep the number of objectives small. In practice, this is rare, and here, as elsewhere, we fall victim to our inability to say “no”—in this case, to too many objectives. We must realize—and act on the realization—that if we try to focus on everything, we focus on nothing. A few extremely well-chosen objectives impart a clear message about what we say “yes” to and what we say “no” to—which is what we must have if an MBO system is to work.
-  _ Alfred Sloan summed up decades of experience at General Motors by saying, “Good management rests on a reconciliation of centralization and decentralization.” Or, we might say, on a balancing act to get the best combination of responsiveness and leverage.
-  _ I would like to propose Grove’s Law: All large organizations with a common business purpose end up in a hybrid organizational form.
-  _ When a person is not doing his job, there can only be two reasons for it. The person either can’t do it or won’t do it; he is either not capable or not motivated.
-  _ That variable is the task-relevant maturity (TRM) of the subordinates, which is a combination of the degree of their achievement orientation and readiness to take responsibility, as well as their education, training, and experience.
-  _ When the TRM is low, the most effective approach is one that offers very precise and detailed instructions, wherein the supervisor tells the subordinate what needs to be done, when, and how: in other words, a highly structured approach. As the TRM of the subordinate grows, the most effective style moves from the structured to one more given to communication, emotional support, and encouragement.
-  _ The responsibility for teaching the subordinate must be assumed by his supervisor, and not paid for by the customers of his organization, internal or external.
-  _ At all times you should force yourself to assess performance, not potential.
-  _ A manager generally has two ways to raise the level of individual performance of his subordinates: by increasing motivation, the desire of each person to do his job well, and by increasing individual capability, which is where training comes in.
+  - Managerial leverage measures the impact of what managers do to increase the output of their teams.
+  - You need to plan the way a fire department plans. It cannot anticipate where the next fire will be, so it has to shape an energetic and efficient team that is capable of responding to the unanticipated as well as to any ordinary event.
+  - Every hour of your day should be spent increasing the output or the value of the output of the people whom you’re responsible for.
+  - A common rule we should always try to heed is to detect and fix any problem in a production process at the lowest-value stage possible.
+  - A genuinely effective indicator will cover the output of the work unit and not simply the activity involved. Obviously, you measure a salesman by the orders he gets (output), not by the calls he makes (activity).
+  - A manager’s output = The output of his organization + The output of the neighboring organizations under his influence.
+  - League standings are kept by team, not by individual. Business—and this means not just the business of commerce but the business of education, the business of government, the business of medicine—is a team activity. And, always, it takes a team to win.
+  - Your decision-making depends finally on how well you comprehend the facts and issues facing your business. This is why information-gathering is so important in a manager’s life.
+  - The lack of a decision is the same as a negative decision; no green light is a red light, and work can stop for a whole organization.
+  - Delegation without follow-through is abdication.
+  - Any decision be worked out and reached at the lowest competent level. The reason is that this is where it will be made by people who are closest to the situation and know the most about it.
+  - Self-confidence mostly comes from a gut-level realization that nobody has ever died from making a wrong business decision, or taking inappropriate action, or being overruled.
+  - A successful MBO [management by objective] system needs only to answer two questions: 1.  Where do I want to go? (The answer provides the objective.) 2.  How will I pace myself to see if I am getting there? (The answer gives us milestones, or key results).
+  - The one thing an MBO system should provide par excellence is focus. This can only happen if we keep the number of objectives small. In practice, this is rare, and here, as elsewhere, we fall victim to our inability to say “no”—in this case, to too many objectives. We must realize—and act on the realization—that if we try to focus on everything, we focus on nothing. A few extremely well-chosen objectives impart a clear message about what we say “yes” to and what we say “no” to—which is what we must have if an MBO system is to work.
+  - Alfred Sloan summed up decades of experience at General Motors by saying, “Good management rests on a reconciliation of centralization and decentralization.” Or, we might say, on a balancing act to get the best combination of responsiveness and leverage.
+  - I would like to propose Grove’s Law: All large organizations with a common business purpose end up in a hybrid organizational form.
+  - When a person is not doing his job, there can only be two reasons for it. The person either can’t do it or won’t do it; he is either not capable or not motivated.
+  - That variable is the task-relevant maturity (TRM) of the subordinates, which is a combination of the degree of their achievement orientation and readiness to take responsibility, as well as their education, training, and experience.
+  - When the TRM is low, the most effective approach is one that offers very precise and detailed instructions, wherein the supervisor tells the subordinate what needs to be done, when, and how: in other words, a highly structured approach. As the TRM of the subordinate grows, the most effective style moves from the structured to one more given to communication, emotional support, and encouragement.
+  - The responsibility for teaching the subordinate must be assumed by his supervisor, and not paid for by the customers of his organization, internal or external.
+  - At all times you should force yourself to assess performance, not potential.
+  - A manager generally has two ways to raise the level of individual performance of his subordinates: by increasing motivation, the desire of each person to do his job well, and by increasing individual capability, which is where training comes in.
 - 📖 Patrick Lencioni, [The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756/ref=sr_1_1?s=books&ie=UTF8&qid=1500281191&sr=1-1&keywords=dysfunctions).
 - 📖 Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead, Laszlo Bock. A pretty interesting description of Google's processes. A bit long at times.
 
@@ -240,6 +240,10 @@ Examples job ladder/career development matrix:
 - Gitlab - [Engineering Career Development](https://about.gitlab.com/handbook/engineering/career-development/) - [source/job-families/engineering](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/source/job-families/engineering)
 - [CircleCI Engineering Competency Matrix (public version)](https://docs.google.com/spreadsheets/d/131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo/edit#gid=0)
 - [Expert360 skills matrix](http://eng-skills-matrix.expert360.com/)
+- [30+ Engineering Career Ladders](https://nidup.io/garden/engineering-career-ladders?s=09)
+- [Khan Academy Engineering Career Development](https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls/edit).
+	- Skills: maximise impact, be open, empathise and respect, have conviction, seek engineering maturity.
+	- Levels: Beginning Skillful, Skillful, More Skillful, Super Skillful, Ludicrously Skillful
 
 ## Code reviews
 
@@ -261,6 +265,11 @@ Examples job ladder/career development matrix:
   - Alignment is not one-way only
   - Repeat, repeat, repeat
   - Consider writing a personal weekly newsletter
+- [Tools for better thinking](https://untools.co/)
+	- Decision matrix
+	- Ladder of inference
+	- First principles
+- [How To Say No](https://www.starterstory.com/how-to-say-no). Templates for saying no to written interviews, going to an event, doing free work...
 
 ## Conflict resolution
 
@@ -346,28 +355,31 @@ Examples job ladder/career development matrix:
 
 - 📖 [Radical Candor — The Surprising Secret to Being a Good Boss](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)
 - 📖 [Amazon.com: Crucial Conversations Tools for Talking When Stakes Are High](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second-ebook-dp-B005K0AYH4/dp/B005K0AYH4/ref=mt_kindle?_encoding=UTF8&me=&qid=) by Kerry Patterson.
-  _ So the first step to achieving the results we really want is to fix the problem of believing that others are the source of all that ails us. It’s our dogmatic conviction that “if we could just fix those losers, all would go better” that keeps us from taking action that could lead to dialogue and progress. Which is why it’s no surprise that those who are best at dialogue tend to turn this logic around. They believe the best way to work on “us” is to start with “me.”
-  _ Respect is like air. As long as it’s present, nobody thinks about it. But if you take it away, it’s all that people can think about. \* “One dull pencil is worth six sharp minds.” Don’t leave your hard work to memory. If you’ve gone to the effort to complete a crucial conversation, don’t fritter away all the meaning you created by trusting your memories. Write down the details of conclusions, decisions, and assignments.
+  - So the first step to achieving the results we really want is to fix the problem of believing that others are the source of all that ails us. It’s our dogmatic conviction that “if we could just fix those losers, all would go better” that keeps us from taking action that could lead to dialogue and progress. Which is why it’s no surprise that those who are best at dialogue tend to turn this logic around. They believe the best way to work on “us” is to start with “me.”
+  - Respect is like air. As long as it’s present, nobody thinks about it. But if you take it away, it’s all that people can think about. \* “One dull pencil is worth six sharp minds.” Don’t leave your hard work to memory. If you’ve gone to the effort to complete a crucial conversation, don’t fritter away all the meaning you created by trusting your memories. Write down the details of conclusions, decisions, and assignments.
 - [Firing people](https://zachholman.com/talk/firing-people): Zach Holman's talk about his experience being fired from Github offers some great insights into a process that is rarely talked about.
 - [It’s Never Too Early to Fire](https://a16z.com/2017/05/24/on-firing-why-when-how/), Andreessen Horowitz.
 - [A Primer on Giving Critical Feedback](http://www.tombartel.de//2016/05/21/a-primer-on-giving-critical-feedback/)
 - Feedback goes both ways: [Tool: Try Google’s Manager Feedback Survey](https://rework.withgoogle.com/guides/managers-give-feedback-to-managers/steps/try-googles-manager-feedback-survey/)
 - [Negative feedback antipatterns](http://blog.d3in.org/post/153942984306/negative-feedback-antipatterns)
 - [Performance Reviews Are a Waste of Time](https://blog.bradfieldcs.com/performance-reviews-are-a-waste-of-time-87c88d7553b4): a good contrarian take on formal performance reviews
+- [The Open Feedback Circle (OFC)](https://medium.com/@padminipyapali/open-feedback-circle-a69601ea5dfd), a great idea by Padmini Pyapali.
+	- We met once a month, sat around a table, and shared feedback with each other in front of our other teammates. This gathering took feedback exchange from being a biannual activity we dreaded to a monthly ritual we looked forward to.
+	- Vulnerability Cultivates Trust
 
 ## Hiring
 
 ### General
 
 - 📖 [Hiring The Best Knowledge Workers, Techies & Nerds: The Secrets & Science Of Hiring Technical People](https://www.amazon.com/Hiring-Knowledge-Workers-Techies-Nerds/dp/0932633595), Johanna Rothman. A solution-oriented book.
-  _ Train your interview team to apply a limited-consensus approach to hiring. When groups use limited consensus, not everyone may agree with the decision, but each person should be satisfied enough with a particular candidate’s suitability not to block the decision to hire him or her.
-  _ What if the vetoer is someone I don’t want to keep in the organization?” The answer to this is simple: In the interview process, only involve employees whose work you respect and value. If an employee isn’t successful in his or her technical position, don’t make that employee part of the interview team.
-  _ Make sure members of your team interview an internal candidate the same way they would interview an external candidate.
-  _ Know why you’re hiring more people. Define your problems to define your hiring strategy.
-  _ Sometimes, the main reason a hiring manager doesn’t hire a candidate is that he or she has a gut feeling that the person just won’t fit well with the culture. But a “gut feeling” is not a good reason not to hire someone, so train yourself to articulate culture-fit differences.
-  _ I personally do not consider certification to mean anything much when I am hiring someone for a technical position. Because the knowledge tested is functional-skills book knowledge, make sure you understand what the person must do to maintain his or her certification and the value of that certification to your environment.
-  _ Too often, internal recruiters look for tool and technology expertise or for advanced academic degrees, rather than for functional skill or for product-domain experience.
-  _ If you feel the need to take notes, take them on paper, never on a computer. My reason for this is that when you use a computer, you have to sit behind a screen, which creates a barrier between you and the candidate. \* Promising an unconditional promotion is not just risky; it is stupid. Circumstances within the company can change; the employee may not perform up to expectations; the economy may tank.
+  - Train your interview team to apply a limited-consensus approach to hiring. When groups use limited consensus, not everyone may agree with the decision, but each person should be satisfied enough with a particular candidate’s suitability not to block the decision to hire him or her.
+  - What if the vetoer is someone I don’t want to keep in the organization?” The answer to this is simple: In the interview process, only involve employees whose work you respect and value. If an employee isn’t successful in his or her technical position, don’t make that employee part of the interview team.
+  - Make sure members of your team interview an internal candidate the same way they would interview an external candidate.
+  - Know why you’re hiring more people. Define your problems to define your hiring strategy.
+  - Sometimes, the main reason a hiring manager doesn’t hire a candidate is that he or she has a gut feeling that the person just won’t fit well with the culture. But a “gut feeling” is not a good reason not to hire someone, so train yourself to articulate culture-fit differences.
+  - I personally do not consider certification to mean anything much when I am hiring someone for a technical position. Because the knowledge tested is functional-skills book knowledge, make sure you understand what the person must do to maintain his or her certification and the value of that certification to your environment.
+  - Too often, internal recruiters look for tool and technology expertise or for advanced academic degrees, rather than for functional skill or for product-domain experience.
+  - If you feel the need to take notes, take them on paper, never on a computer. My reason for this is that when you use a computer, you have to sit behind a screen, which creates a barrier between you and the candidate. \* Promising an unconditional promotion is not just risky; it is stupid. Circumstances within the company can change; the employee may not perform up to expectations; the economy may tank.
 - A good example of [offer letter](https://medium.com/@henrysward/a-better-offer-letter-4e9bf61a7365#.md4rm1zlp) from eShares.
 - [We Hire the Best, Just Like Everyone Else](http://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/), Jeff Atwood.
 - [How to Hire](https://medium.com/swlh/how-to-hire-34f4ded5f176#.jxkz3wrs3): one of the best articles about hiring.
@@ -400,7 +412,12 @@ Feel free to also checkout the general diversity section.
 - [What if companies interviewed translators the way they interview coders?](https://medium.freecodecamp.org/welcome-to-the-software-interview-ee673bc5ef6) - a great counter example of how interview can be disconnected from one's actual job.
 - [How to Interview Engineers](http://blog.triplebyte.com/how-to-interview-engineers): some pretty good guidelines with original research.
 - [Interviewing](https://www.xaprb.com/blog/interviewing/), Baron Schwartz. A good explanation why you should only ask behavioral question about the _past_.
-- [Monthy Python: a terrible candidate experience](https://www.youtube.com/watch?v=D4iFzweRf3E)
+- 🎞 [Monthy Python: a terrible candidate experience](https://www.youtube.com/watch?v=D4iFzweRf3E)
+- [Your interviews shouldn’t be spoilable](https://medium.com/@rafeco/your-interviews-shouldnt-be-spoilable-c9088ecea1ee)
+	- How much should you share with the candidate? As much as an ethical person would share with a friend who they referred for the job.
+	- If an interview can be spoiled, it means that the answers can be memorized.
+	- Your spoilable interview is going to get spoiled. Some referred candidates are going to get the answers from their friends.
+	- If foreknowledge doesn’t reduce the quality of your interviews, it means that you have to change your questions less often
 
 ### Hiring: questions
 
@@ -521,6 +538,13 @@ Quotes:
 - [Why Software Development Requires Servant Leaders](https://adl.io/essays/why-software-development-requires-servant-leaders/)
 - Andreessen Horowitz, [Peacetime CEO/Wartime CEO](https://a16z.com/2011/04/14/peacetime-ceowartime-ceo-2/)
   - Peacetime CEO knows that proper protocol leads to winning. Wartime CEO violates protocol in order to win.
+- [Excerpts from One From Many, Dee Hock](https://twitter.com/zackkanter/status/1272200276015853569), Zack Kanter on Twitter.
+	- Your first responsibility as a manager is to manage yourself: your integrity, character, ethics, knowledge, wisdom, temperament, words and acts.
+	- The second responsibility is to manage those who have authority over us.
+	- The third responsibility is to manage your peers: without their respect and confidence, nothing can be accomplished.
+	- The fourth responsibility is to manage those whom we have authority.
+	- You can't manage your bosses, peers, regulators etc. But you can understand them, motivate them, influence them, forgive them.
+	- "It is from failure that amazing growth and grace so often come, provided only that one can recognise it, admit it, learn from it, rise above it, and try again. True leadership presumes a standard quite beyond human perfectibility and that is quite alright, for joy and satisfaction are in the pursuit of an objective, not in its realization."
 
 Quote:
 
@@ -551,6 +575,14 @@ Quote:
 ## Mindset and attitude
 
 - [Taking Ownership Is The Most Effective Way to Get What You Want](http://www.theeffectiveengineer.com/blog/take-ownership-of-your-goals)
+- [Shreyas Doshi on Twitter: "Good managers, what they do, how they think & act](https://twitter.com/shreyas/status/1290685921348562948)
+	- Good managers are skilled at asking questions that give their team members a new perspective on the problem and reach the right solution on their own.
+	- Good managers address context first, then content.
+	- Good managers know that, above all else, they are agents of their company. Their default mode is to make and facilitate company-optimal choices.
+	- Good managers know that fixing broader company culture is an important part of their role as a designated leader within the company.
+	- Good managers understand that the long game is all about people.
+	- Good managers don’t have just one go-to management style nor do they have a notion of “THE ideal employee”.
+	- Good managers can discern good intent from bad.
 
 Warren Buffet, "It's only when the tide goes out that you learn who's been swimming naked."
 
@@ -580,10 +612,14 @@ Quotes:
 - Mark Suster, [Want to Know the Difference Between a CTO and a VP Engineering?](https://bothsidesofthetable.com/want-to-know-the-difference-between-a-cto-and-a-vp-engineering-4fc3750c596b#.gw)
 - 🎤 [CTO vs VP Engineering Balancing Innovation](https://www.slideshare.net/bcantrill/cto-vs-vp-of-engineering), Bryan Cantrill, Jason Hoffman
 - [Spotify’s Failed #SquadGoals](https://www.jeremiahlee.com/posts/failed-squad-goals/)
-  _ Engineering managers in this model had little responsibility beyond the career development of the people they managed.
-  _ There was no single person accountable for the engineering team’s delivery or who could negotiate prioritization of work at an equivalent level of responsibility.
-  _ Autonomy requires alignment. Company priorities must be defined by leadership. Autonomy does not mean teams get to do whatever they want.
-  _ Business units, departments, teams, and managers more effectively communicate organization structure roles and responsibilities than Spotify’s synonyms and are not attached to a way of working that failed their creator.
+  - Engineering managers in this model had little responsibility beyond the career development of the people they managed.
+  - There was no single person accountable for the engineering team’s delivery or who could negotiate prioritization of work at an equivalent level of responsibility.
+  - Autonomy requires alignment. Company priorities must be defined by leadership. Autonomy does not mean teams get to do whatever they want.
+  - Business units, departments, teams, and managers more effectively communicate organization structure roles and responsibilities than Spotify’s synonyms and are not attached to a way of working that failed their creator.
+- [Independence,autonomy,too many small teams](https://kislayverma.com/organizations/independence-autonomy-and-too-many-small-teams/)
+	- Every autonomous team is expected to generate direct business value all by itself, without a lot of overlap with other teams.
+	- The team should be able to meets its goals independently (i.e. without reliance on or interference from other teams).
+	- Coordination, also known as alignment, communication, shared roadmap, Gantt chart and many other positive sounding names, is the arch-enemy of the autonomous team.
 
 ## Production and productivity
 
@@ -622,7 +658,7 @@ Quotes:
 
 In terms of software, I can't recommend [Things](https://culturedcode.com/things/) enough (Mac and iOS only). It is a delightful piece of software that gets out of the way and lets you focus on your tasks.
 
-## Planning (goal setting, OKR, etc.)
+## Planning (roadmap, goal setting, OKR, etc.)
 
 - [How to Use OKRs for Quarterly and Annual Planning](https://www.wrike.com/blog/okrs-quarterly-planning/)
 - [The Heilmeier Catechism](https://www.darpa.mil/work-with-us/heilmeier-catechism): a crafted a set of questions to help DARPA officials think through and evaluate proposed research programs.
@@ -630,6 +666,9 @@ In terms of software, I can't recommend [Things](https://culturedcode.com/things
 - 🎞 [Startup Lab workshop: How Google sets goals: OKRs](https://www.youtube.com/watch?v=mJB83EZtAjc&ab_channel=GV)
 - [How to Make OKRs Actually Work at Your Startup](https://firstround.com/review/How-to-Make-OKRs-Actually-Work-at-Your-Startup/), First Round Review
 - 🎞 [Why the secret to success is setting the right goals](https://www.youtube.com/watch?v=L4N1q4RNi9I&ab_channel=TED), John Doerr
+- [The Fundamentals of Roadmapping](https://medium.com/@austinfish/the-fundamentals-of-roadmapping-f465f5ac733)
+	- With constant innovation, new market entrants and potential black swans like a global pandemic, the best a leader can do is set a 12–18 month strategic plan that is directionally aligned with the company’s true north. That plan should be broken down by quarter with the assumption that the degree of confidence in achieving goals within each quarter will decline over time.
+	- Expect each team across the organization to cascade their operational roadmaps from these strategic foci. Operational roadmaps should identify key initiatives and milestones.
 
 > A goal without a plan is just a wish.
 > -- Antoine de Saint-Exupéry
@@ -659,10 +698,6 @@ See my [engineering-management section about problem solving](https://github.com
 
 @samkottler: No amount of process will ensure the right work is getting done.
 
-## Programming languages
-
-- [Static vs. dynamic languages: a literature review](http://danluu.com/empirical-pl/)
-
 ## Product management
 
 - [The most important thing Dropbox did to scale Product Management](https://medium.com/startup-grind/the-most-important-thing-dropbox-did-to-scale-product-management-fed90e30697e#.t5uu8idgb): a very simple model for stating the stage a product is in.
@@ -671,8 +706,8 @@ See my [engineering-management section about problem solving](https://github.com
 ## Project management
 
 - 📖 [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) by Frederick Brooks is a classical book about software project management.
-  _ Now I do not think software managers have less inherent courage and firmness than chefs, nor than other engineering managers. But false scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
-  _ The boss must first distinguish between action information and status information. He must discipline himself not to act on problems his managers can solve.
+  - Now I do not think software managers have less inherent courage and firmness than chefs, nor than other engineering managers. But false scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
+  - The boss must first distinguish between action information and status information. He must discipline himself not to act on problems his managers can solve.
 - Jason Yip, [It's Not Just Standing Up: Patterns for Daily Standup Meetings](http://martinfowler.com/articles/itsNotJustStandingUp.html): standup are a pretty controversial topics. This article on Martin Fowler's blog provides a good list of patterns and anti-patterns to ensure they're a good productive use of everybody's time.
 - [15 Fundamental Laws of Software Development](https://www.exceptionnotfound.net/fundamental-laws-of-software-development/)
 - [How we structure our work and teams at Basecamp](https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae#.jjb8slcxg)
@@ -702,7 +737,10 @@ See my [engineering-management section about problem solving](https://github.com
 - Notion, [Remote work wiki](https://www.notion.so/Remote-work-wiki-1b21ef5501714fffa9f5c5c25677371f)
 - Gitlab, [Remote work emergency plan: What to do (and where to start)](https://about.gitlab.com/company/culture/all-remote/remote-work-emergency-plan/)
 - [A guide to distributed teams](https://increment.com/teams/a-guide-to-distributed-teams/), Increment: Teams.
-- [The ultimate guide to remote work](https://zapier.com/learn/remote-work/), Zapier. Includes topics such as: \* How to brainstorm remotely
+- [The ultimate guide to remote work](https://zapier.com/learn/remote-work/), Zapier. Includes topics such as:
+	-  How to brainstorm remotely
+	-  Remote team activities: how to have fun when you work from home
+	-  The best online whiteboards
 
 ## Team vision
 
@@ -733,6 +771,12 @@ See my [engineering-management section about problem solving](https://github.com
 - [Lessons from 7 highly successful software engineering cultures](https://techbeacon.com/lessons-7-highly-successful-software-engineering-cultures)
 - [Engineering a culture of psychological safety](https://blog.intercom.com/psychological-safety/)
 - [Culture Eats Strategy For Breakfast](https://techcrunch.com/2014/04/12/culture-eats-strategy-for-breakfast/)
+- [Habits of High-Functioning Teams](https://deniseyu.io/2020/05/23/habits-of-high-performing-teams.html)
+	- High Psychological Safety
+	- Good hygiene practices
+	- Active redistribution of “experience points”
+	- Communicating generously
+- [Principles trump processes](https://www.jjude.com/principles-trumps)
 
 Those are considered classics:
 
@@ -770,8 +814,8 @@ Shameless plug here, two presentations I contributed to:
 ## Training
 
 - [Great developers are raised, not hired](https://sizovs.net/2019/04/10/the-best-developers-are-raised-not-hired/)
-  _ Take some money, energy, time that you spend on recruiting and invest it in teaching your best developers mentoring skills.
-  _ Adjust your interview process and give a chance to candidates that are not good enough yet, but are eager to learn and have a growth mindset. \* Relax “hard requirements” in your job ads to avoid filtering out impostors.
+  - Take some money, energy, time that you spend on recruiting and invest it in teaching your best developers mentoring skills.
+  - Adjust your interview process and give a chance to candidates that are not good enough yet, but are eager to learn and have a growth mindset. \* Relax “hard requirements” in your job ads to avoid filtering out impostors.
 
 ## Work ethics & work/life balance
 
@@ -796,11 +840,11 @@ Shameless plug here, two presentations I contributed to:
   - Translated into essay writing, what this means is that if you write a bad sentence, you don't publish it. You delete it and try again. Often you abandon whole branches of four or five paragraphs. Sometimes a whole essay.
   - Importance + novelty + correctness + strength, is the recipe for a good essay
 - [Encouraging a Culture of Written Communication](https://www.mcls.io/blog/encouraging-a-culture-of-written-communication)
-  _ Easy to Search. Single Source of Truth.
-  _ Balancing Async and Synchronous Communication \* Thinking Out Loud
+  - Easy to Search. Single Source of Truth.
+  - Balancing Async and Synchronous Communication \* Thinking Out Loud
 - [Scaling Engineering Teams via Writing Things Down and Sharing - aka RFCs](https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/), Gergely Orosz
-  _ Do planning before building something new.
-  _ If everyone agrees how the project should be done then writing the approach down should be a piece of cake. \* The type of information pushed to people in an organization shapes the culture considerably.
+  - Do planning before building something new.
+  - If everyone agrees how the project should be done then writing the approach down should be a piece of cake. \* The type of information pushed to people in an organization shapes the culture considerably.
 
 # Movies
 
