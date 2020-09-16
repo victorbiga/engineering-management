@@ -738,9 +738,9 @@ See my [engineering-management section about problem solving](https://github.com
 - Gitlab, [Remote work emergency plan: What to do (and where to start)](https://about.gitlab.com/company/culture/all-remote/remote-work-emergency-plan/)
 - [A guide to distributed teams](https://increment.com/teams/a-guide-to-distributed-teams/), Increment: Teams.
 - [The ultimate guide to remote work](https://zapier.com/learn/remote-work/), Zapier. Includes topics such as:
-  -  How to brainstorm remotely
-  -  Remote team activities: how to have fun when you work from home
-  -  The best online whiteboards
+  - How to brainstorm remotely
+  - Remote team activities: how to have fun when you work from home
+  - The best online whiteboards
 
 ## Team vision
 
