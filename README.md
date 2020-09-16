@@ -675,7 +675,10 @@ In terms of software, I can't recommend [Things](https://culturedcode.com/things
   - Expect each team across the organization to cascade their operational roadmaps from these strategic foci. Operational roadmaps should identify key initiatives and milestones.
 
 > A goal without a plan is just a wish.
-> -- Antoine de Saint-Exupéry
+> Antoine de Saint-Exupéry
+
+> Truth emerges more readily from error than from confusion. 
+> Francis Bacon
 
 ## Presentations, design and public speaking
 
@@ -727,6 +730,12 @@ See my [engineering-management section about problem solving](https://github.com
   - No one is going to experiment with new ways of doing things if you fetishize finishing under deadlines. We'd still be doing MVC in frontend apps if someone at Facebook didn't miss a deadline.
   - Have deadlines, but fuzzy. How fuzzy should be decided by your goals. If missing a deadline could potentially lose you a million dollars, the fuzziness factor for that should be zero.
 - [WaterfallProcess](https://martinfowler.com/bliki/WaterfallProcess.html), Martin Fowler
+- [Efficient Software Project Management at its Roots](https://blog.pragmaticengineer.com/efficient-software-project-management-at-its-roots/) 
+    - The key for a successful kickoff meeting is the interactivity.
+    - With good milestones in place, it makes no difference whether the team uses story points, engineer-days or any other way to measure progress.
+    - Having a regular, no-BS update on where the team really is
+    - Dependency and Risk Management in a pragmatic way
+    - Celebrate after completion!
 
 > The ultimate inspiration is the deadline.
 > — Nolan Bushnell
