@@ -287,6 +287,8 @@ Examples job ladder/career development matrix:
   - If there is a good enough solution X, don’t ask people what they think about it. Instead, ask everyone if they can live with it and if not, why.
   - Consensus is the path, not the destination.
 
+> Arguments you should avoid using- that are logical fallacies “Because it’s always been done this way.” “Because we tried it before, and it didn’t work.” “Because company X uses this.” “Because {important person} said so.” Reason on tradeoffs, constraints, opportunities instead. Gergely Orosz
+
 ## Delegation
 
 - [The Counterintuitive Art of Leading by Letting Go](http://99u.com/articles/43081/the-counter-intuitive-art-of-leading-by-letting-go)
