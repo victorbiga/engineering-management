@@ -704,6 +704,8 @@ See my [engineering-management section about problem solving](https://github.com
 ## Processes for engineering
 
 - [The Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
+- [Simple Rules Set You Free](https://art19.com/shows/friction-with-bob-sutton/episodes/772b5237-73f3-45da-b64c-06f0af95637f), from the Friction podcast with Bob Sutton
+- [Constructive Chaos vs. Clusterf***s](https://art19.com/shows/friction-with-bob-sutton/episodes/7f85199b-f380-4f74-8139-b29930dd27b4), from the Friction podcast with Bob Sutton
 
 @samkottler: No amount of process will ensure the right work is getting done.
 
@@ -878,6 +880,8 @@ Netflix's [Chef's table](https://en.wikipedia.org/wiki/Chef%27s_Table) profiles 
 - [Alex Atala](https://en.wikipedia.org/wiki/Alex_Atala)'s story shows that you need to constantly reinvent and disrupt yourself.
 - [Dominique Crenn](http://www.ateliercrenn.com/) explains how she was given ownership over her work in her first kitchen experience (where she was basically given just a dish name, a list of ingredients, and was expected to invent the recipe with no kitchen training). She replicated that in her own kitchen.
 
+The Office is a great satire of a dysfunctioning office.
+
 # Keeping up-to-date: blogs and newsletters
 
 Here are some blogs and newsletter I follow.
@@ -891,3 +895,8 @@ Here are some blogs and newsletter I follow.
 ## Blogs
 
 - [Hacker News](https://news.ycombinator.com/): mandatory if you want to stay abreast of what's going in tech. There are some good management articles from time to time as well. Since it can be a pretty huge time sink, I subscribe to a curation of the top articles instead ([RSS feed here](http://www.daemonology.net/hn-daily/index.rss)).
+
+## Podcast
+
+- [FRICTION with Bob Sutton](https://art19.com/shows/friction-with-bob-sutton?page=3). This podcast does not have any new episode since 2017, but it has some really great content. Great conversations. Lots of stories.
+    - Part organizational design. Part therapy. Organizational psychologist and Stanford Professor Bob Sutton is back to tackle friction, the phenomenon that frustrates employees, fatigues teams and causes organizations to flounder and fail.
