@@ -242,6 +242,7 @@ Examples job ladder/career development matrix:
 - [CircleCI Engineering Competency Matrix (public version)](https://docs.google.com/spreadsheets/d/131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo/edit#gid=0)
 - [Expert360 skills matrix](http://eng-skills-matrix.expert360.com/)
 - [30+ Engineering Career Ladders](https://nidup.io/garden/engineering-career-ladders?s=09)
+- [Another list of career pathways](https://www.progression.fyi/) by a [Progression, a tool to define and measure career growth](https://progressionapp.com/)
 - [Khan Academy Engineering Career Development](https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls/edit).
   - Skills: maximise impact, be open, empathise and respect, have conviction, seek engineering maturity.
   - Levels: Beginning Skillful, Skillful, More Skillful, Super Skillful, Ludicrously Skillful
