@@ -693,6 +693,7 @@ In terms of software, I can't recommend [Things](https://culturedcode.com/things
 - 📖 [The Non-Designer's Design Book](https://www.amazon.com/Non-Designers-Design-Book-3rd/dp/0321534042) - despite its clickbait title, it's actually a great book with a very memorable acronym to learn about how easy it is to design great documents.
 - 📖 William Lidwell, Kritina Holden, Jill Butler, [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/1592530079).
 - [A Five Minutes Guide to Better Typography](http://pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography)
+- [Presentation Zen: Living large: "Takahashi Method" uses king-sized text as a visual](https://presentationzen.blogs.com/presentationzen/2005/09/living_large_ta.html)
 
 Some great examples of presentations:
 
@@ -718,8 +719,8 @@ See my [engineering-management section about problem solving](https://github.com
 ## Project management
 
 - 📖 [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) by Frederick Brooks is a classical book about software project management.
-  - Now I do not think software managers have less inherent courage and firmness than chefs, nor than other engineering managers. But false scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
-  - The boss must first distinguish between action information and status information. He must discipline himself not to act on problems his managers can solve.
+    - Now I do not think software managers have less inherent courage and firmness than chefs, nor than other engineering managers. But false scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
+    - The boss must first distinguish between action information and status information. He must discipline himself not to act on problems his managers can solve.
 - Jason Yip, [It's Not Just Standing Up: Patterns for Daily Standup Meetings](http://martinfowler.com/articles/itsNotJustStandingUp.html): standup are a pretty controversial topics. This article on Martin Fowler's blog provides a good list of patterns and anti-patterns to ensure they're a good productive use of everybody's time.
 - [15 Fundamental Laws of Software Development](https://www.exceptionnotfound.net/fundamental-laws-of-software-development/)
 - [How we structure our work and teams at Basecamp](https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae#.jjb8slcxg)
@@ -730,10 +731,10 @@ See my [engineering-management section about problem solving](https://github.com
 - [JIRA is an antipattern](https://techcrunch.com/2018/12/09/jira-is-an-antipattern/), Jon Evans.
 - [Agile Lite: Agile without all the burnout](https://github.com/davebs/AgileLite)
 - [Who are you trying to impress with your deadlines?](http://jatins.gitlab.io/me/why-deadline/)
-  - Deadlines set wrong expectations for what's good
-  - People are going to cut corners if you put them to tough deadlines.
-  - No one is going to experiment with new ways of doing things if you fetishize finishing under deadlines. We'd still be doing MVC in frontend apps if someone at Facebook didn't miss a deadline.
-  - Have deadlines, but fuzzy. How fuzzy should be decided by your goals. If missing a deadline could potentially lose you a million dollars, the fuzziness factor for that should be zero.
+    - Deadlines set wrong expectations for what's good
+    - People are going to cut corners if you put them to tough deadlines.
+    - No one is going to experiment with new ways of doing things if you fetishize finishing under deadlines. We'd still be doing MVC in frontend apps if someone at Facebook didn't miss a deadline.
+    - Have deadlines, but fuzzy. How fuzzy should be decided by your goals. If missing a deadline could potentially lose you a million dollars, the fuzziness factor for that should be zero.
 - [WaterfallProcess](https://martinfowler.com/bliki/WaterfallProcess.html), Martin Fowler
 - [Efficient Software Project Management at its Roots](https://blog.pragmaticengineer.com/efficient-software-project-management-at-its-roots/)
     - The key for a successful kickoff meeting is the interactivity.
@@ -741,6 +742,11 @@ See my [engineering-management section about problem solving](https://github.com
     - Having a regular, no-BS update on where the team really is
     - Dependency and Risk Management in a pragmatic way
     - Celebrate after completion!
+- [How to Lead a Project - as a Software Engineer](https://blog.pragmaticengineer.com/how-to-lead-a-project-in-software-development/)
+    - Setup a framework for collaboration
+    - Communicate status to stakeholders
+    - Help the team focus - and don't be afraid to delegate
+    - The article includes a short checklist for first-time project managers: kickoff meeting, milestones, design process, weekly update emails, daily standups, weekly goals, demoing progress.
 
 > The ultimate inspiration is the deadline.
 > — Nolan Bushnell
@@ -784,6 +790,12 @@ See my [engineering-management section about problem solving](https://github.com
 - [Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611): how Amazon became a platform.
 - [Letter to Shareholders](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm), Jeff Bezos: “Day 2 is stasis. Followed by irrelevance. Followed by excruciating, painful decline. Followed by death. And that is why it is always Day 1.” So much is packed in this letter. Day 1 is about true customer obsession, resisting proxies, embracing external trends, high-velocity decision making.
 - [5 Red Flags Signaling Your Rebuild Will Fail](https://www.pkc.io/blog/five-red-flags-signaling-your-rebuild-will-fail/)
+- [Polyglot programming in startup environments](https://medium.com/@FarisZacina/polyglot-startup-environments-1211b93615d5)
+    - Never introduce a new programming language in an existing code-base because of personal preference. Building software is a team effort. Globalize your code languages. Team cohesion is what matters the most.
+    - You must have production experience in the programming language you want to replace or complement with another one
+    - A decision to introduce a new programming language must be based on non-functional requirements, measurements or other relevant arguments, and not personal opinions.
+    - Always think about the team and company, and especially about hiring and expanding the team.
+    - A programming language is just a tool to deliver software. Don’t be in a tight relationship with your screwdriver.
 
 ## Team culture
 
