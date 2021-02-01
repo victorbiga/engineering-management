@@ -426,6 +426,11 @@ Feel free to also checkout the general diversity section.
   - Your spoilable interview is going to get spoiled. Some referred candidates are going to get the answers from their friends.
   - If foreknowledge doesn’t reduce the quality of your interviews, it means that you have to change your questions less often
 
+Specifics about hiring engineering managers:
+
+- [Cracking the Engineering Manager interview — Part 1](https://medium.com/srivatsan-sridharan/cracking-the-engineering-manager-interview-part-1-adb0b63c7f2f)
+- [Hunting for Rock Star Engineering Managers](https://hackernoon.com/hunting-for-rock-star-engineering-managers-9ef9c3716b02) 
+
 ### Hiring: questions
 
 - [45 sample behavioral questions for interview with developer](https://devskiller.com/45-behavioral-questions-to-use-during-non-technical-interview-with-developers/)
@@ -676,6 +681,7 @@ In terms of software, I can't recommend [Things](https://culturedcode.com/things
 - [The Fundamentals of Roadmapping](https://medium.com/@austinfish/the-fundamentals-of-roadmapping-f465f5ac733)
   - With constant innovation, new market entrants and potential black swans like a global pandemic, the best a leader can do is set a 12–18 month strategic plan that is directionally aligned with the company’s true north. That plan should be broken down by quarter with the assumption that the degree of confidence in achieving goals within each quarter will decline over time.
   - Expect each team across the organization to cascade their operational roadmaps from these strategic foci. Operational roadmaps should identify key initiatives and milestones.
+- [A Modern Guide to Lean OKRs](https://worldpositive.com/a-modern-guide-to-lean-okrs-part-i-c4a30dba5fa1) (a three-part series)
 
 > A goal without a plan is just a wish.
 > Antoine de Saint-Exupéry
