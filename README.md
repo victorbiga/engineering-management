@@ -437,7 +437,7 @@ Specifics about hiring engineering managers:
 - [45 sample behavioral questions for interview with developer](https://devskiller.com/45-behavioral-questions-to-use-during-non-technical-interview-with-developers/)
 - [30 most common behavioral interview questions](https://www.themuse.com/advice/30-behavioral-interview-questions-you-should-be-ready-to-answer)
 - [Behavioral interviews](http://career.egr.uh.edu/sites/career.egr.uh.edu/files/files/behavioral-interview.pdf)
-- [MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions): a list of list of interview questions.
+- 🧰 [MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions): a list of list of interview questions.
 - [40 Favorite Interview Questions from Some of the Sharpest Folks We Know](https://firstround.com/review/40-favorite-interview-questions-from-some-of-the-sharpest-folks-we-know/), First Round Review
   - What do you want to do differently in your next role?
   - Imagine yourself in three years. What do you hope will be different about you then compared to now?
@@ -892,7 +892,8 @@ Shameless plug here, two presentations I contributed to:
 
 ### Other lists
 
-- [92bondstreet/cto](https://github.com/92bondstreet/cto): a curated list of CTO resources
+- 🧰 [92bondstreet/cto](https://github.com/92bondstreet/cto): a curated list of CTO resources
+- 🧰 [mateusz-brainhub/awesome-cto-resources](https://github.com/mateusz-brainhub/awesome-cto-resources): a community-curated list of awesome resources to help you grow as a CTO
 
 ### Movies
 
