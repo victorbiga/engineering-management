@@ -1,18 +1,17 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-# Table of Contents
+## Table of Contents
 
 - [About this list](#about-this-list)
 - [Books](#books)
   - [Turn the Ship Around!: A True Story of Turning Followers into Leaders](#turn-the-ship-around-a-true-story-of-turning-followers-into-leaders)
   - [Other generalist books](#other-generalist-books)
-    - [Book reading lists](#book-reading-lists)
+  - [Book reading lists](#book-reading-lists)
 - [What is engineering management?](#what-is-engineering-management)
-- [General management resources](#general-management-resources)
+  - [General management resources](#general-management-resources)
   - [Articles](#articles)
   - [Tools](#tools)
-- [Engineering Management Resources](#engineering-management-resources)
+- [Engineering Management Topics](#engineering-management-topics)
   - [1-1](#1-1)
   - [Antipatterns](#antipatterns)
   - [Biases](#biases)
@@ -44,15 +43,14 @@
   - [Mentoring](#mentoring)
   - [Mindset and attitude](#mindset-and-attitude)
   - [Motivation](#motivation)
+  - [Onboarding new team members](#onboarding-new-team-members)
   - [Organization structure](#organization-structure)
   - [Production and productivity](#production-and-productivity)
-  - [Onboarding new team members](#onboarding-new-team-members)
   - [Personal productivity](#personal-productivity)
-  - [Planning (reviews, OKR, etc.)](#planning-reviews-okr-etc)
+  - [Planning (roadmap, goal setting, OKR, etc.)](#planning-roadmap-goal-setting-okr-etc)
   - [Presentations, design and public speaking](#presentations-design-and-public-speaking)
   - [Problem solving](#problem-solving)
   - [Processes for engineering](#processes-for-engineering)
-  - [Programming languages](#programming-languages)
   - [Product management](#product-management)
   - [Project management](#project-management)
   - [Release management](#release-management)
@@ -66,11 +64,14 @@
   - [Training](#training)
   - [Work ethics & work/life balance](#work-ethics--worklife-balance)
   - [Writing](#writing)
-- [Movies](#movies)
+- [Other sources](#other-sources)
+  - [Other lists](#other-lists)
+  - [Movies](#movies)
   - [TV Shows](#tv-shows)
 - [Keeping up-to-date: blogs and newsletters](#keeping-up-to-date-blogs-and-newsletters)
   - [Newsletter](#newsletter)
   - [Blogs](#blogs)
+  - [Podcast](#podcast)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
