@@ -74,7 +74,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# About this list
+## About this list
 
 Items:
 
@@ -83,11 +83,11 @@ Items:
 - 🎞 : video/movie extract/movie
 - 🎤 : slides/presentation
 
-# Books
+## Books
 
 More than any other field, management is full of fluffy books that could be summarized in one 100-word article. That being said, there's a number of excellent books, listed below.
 
-## Turn the Ship Around!: A True Story of Turning Followers into Leaders
+### Turn the Ship Around!: A True Story of Turning Followers into Leaders
 
 📖 [Turn the Ship Around!: A True Story of Turning Followers into Leaders](http://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404) is hands down my preferred management book.
 
@@ -103,7 +103,7 @@ You can find a short summary in video [here](https://www.youtube.com/watch?v=psA
 
 — L. David Marquet, Turn the Ship Around!
 
-## Other generalist books
+### Other generalist books
 
 - 📖 [The Advantage, Enhanced Edition: Why Organizational Health Trumps Everything Else In Business](http://www.amazon.com/gp/product/B006ORWT3Y/ref=dp-kindle-redirect?ie=UTF8&btkr=1), Patrick M. Lencioni.
   - The only way for people to embrace a message is to hear it over a period of time, in a variety of different situations, and preferably from different people. That’s why great leaders see themselves as Chief Reminding Officers as much as anything else.
@@ -145,14 +145,14 @@ There are some other more specific books quoted below.
 
 - [Jason Evanish's list](https://jasonevanish.com/books/) (Lighthouse founder) is quite comprehensive.
 
-# What is engineering management?
+## What is engineering management?
 
 Here are some generic resources:
 
 - [Unintuitive Things I’ve Learned about Management](https://medium.com/the-year-of-the-looking-glass/unintuitive-things-i-ve-learned-about-management-f2c42d68604b#.2z9av4pzs)
 - Lars Dalgaard, [Thoughts on Building Weatherproof Companies](http://a16z.com/2016/03/25/building-weatherproof-companies/): while originally aimed at startups CEOs, this article from Andreessen Horowitz's blog is a very inspiring read on what it takes to scale your team.
 
-# General management resources
+### General management resources
 
 - [14 Points for Management](https://deming.org/explore/fourteen-points) by W. Edwards Deming.
 - [Keith Rabois on the Role of a COO, How to Hire and Why Transparency Matters](http://firstround.com/review/Keith-Rabois-on-the-role-of-a-COO-how-to-hire-and-why-transparency-matters/) includes some nice management nuggets.
@@ -163,7 +163,7 @@ Here are some generic resources:
 
 > Hire motivated people. Trust them. Set high standards for everything. Lead by example. Get out of their way and let them be the heroes of the day. That’s it.
 
-## Articles
+### Articles
 
 - [The Quiet Crisis unfolding in Software Development](https://medium.com/@billjordan1/the-quiet-crisis-unfolding-in-software-development-cffbdafbf450#.uy7x227pc)
 - [Mistakes of the First Twenty-five Years](articles/mistakes_25_years.md), in which Warren Buffet describes the "institutional imperative", or how an institution will amplify (not resist) a bad manager's irrational decisions.
@@ -185,17 +185,17 @@ Here are some generic resources:
   - You don't really notice a great manager.
   - Communicate context as high level and as complete as possible.
 
-## Tools
+### Tools
 
 - [devtomanager.com](https://devtomanager.com/): first-hand advice from seasoned experts
 
-# Engineering Management Resources
+## Engineering Management Topics
 
 This is a list of inspiring articles related to engineering management. Those are usually short and concise articles that are packed with inspiring and concrete ideas. They have shaped my own management practice, and I hope they will inspire you as well.
 
 I don't necessarily agree with everything listed here. Actually, you'll see that some of those articles have diametrically opposed opinions. I do believe those thought-provoking resources will help you in your manager journey.
 
-## 1-1
+### 1-1
 
 - [On 1-1s](https://cate.blog/2016/11/05/on-11s/)
 - [How to have an honest one-on-one with an employee](https://m.signalvnoise.com/how-to-have-an-honest-one-on-one-with-an-employee-24bbddeb0f47#.qpltxoa2b)
@@ -207,11 +207,11 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 - [How To Be Someone People Love To Talk To](http://www.bakadesuyo.com/2015/02/love-to-talk/)
 - 🧰 [Mega list of 1 on 1 meeting questions compiled from a variety to sources](https://github.com/VGraupera/1on1-questions)
 
-## Antipatterns
+### Antipatterns
 
 - [Seven Deadly Diseases of Management](https://deming.org/explore/seven-deadly-diseases), Dr. Deming. Great video as well. I don't necessarily agree with everything but Deming is still one of the great management thinker.
 
-## Biases
+### Biases
 
 - 📖 [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) by Daniel Kahneman and published in 2012 is already a classic. It offers a whirling tour into our biases and the limits of human judgment. Truly amazing read.
 - [You're not going to believe what I'm about to tell you](http://theoatmeal.com/comics/believe), The Oatmeal (comics) about the backfire effect ("given evidence against their beliefs, people can reject the evidence and believe even more strongly", [confirmation bias - Wikipedia](https://en.wikipedia.org/wiki/Confirmation_bias)).
@@ -221,7 +221,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 - [Cognitive bias cheat sheet](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.6temb6hyg)
 - [A flowchart of cognitive biases](https://www.breakdown-notes.com/makemap/load/biases)
 
-## Career growth and job ladder
+### Career growth and job ladder
 
 - [Titles are Toxic](http://randsinrepose.com/archives/titles-are-toxic/), Rands in Repose. A pretty interesting take on titles.
 - [Engineering Growth Framework](https://medium.com/s/engineering-growth-framework), Medium pulls back the curtain on how they do career growth.
@@ -247,13 +247,13 @@ Examples job ladder/career development matrix:
   - Skills: maximise impact, be open, empathise and respect, have conviction, seek engineering maturity.
   - Levels: Beginning Skillful, Skillful, More Skillful, Super Skillful, Ludicrously Skillful
 
-## Code reviews
+### Code reviews
 
 - [Ask HN: How do you review code?](https://news.ycombinator.com/item?id=11416746): great discussion on HackerNews, full of interesting ideas.
 - [Maslow's pyramid of code reviews](http://blog.d3in.org/post/111338685456/maslows-pyramid-of-code-review)
 - [Code review in remote teams](https://web.hypothes.is/blog/code-review-in-remote-teams/): very complete set of rules.
 
-## Communication
+### Communication
 
 - [Tough News: We’ve Made 10 Layoffs. How We Got Here, the Financial Details and How We’re Moving Forward](https://open.buffer.com/layoffs-and-moving-forward/): a great post by Joel Gascoigne (CEO & Founder of Buffer) sharing some pretty tough news to the team and to the world. Great transparency, great message, great ownership. A model to follow.
 - [How To Pitch A Product](http://avc.com/2010/08/how-to-pitch-a-product/), AVC.
@@ -273,11 +273,11 @@ Examples job ladder/career development matrix:
   - First principles
 - [How To Say No](https://www.starterstory.com/how-to-say-no). Templates for saying no to written interviews, going to an event, doing free work...
 
-## Conflict resolution
+### Conflict resolution
 
 - 🎞 [Disagree and commit](https://www.youtube.com/watch?v=oZw2cg8AXDw)
 
-## Decisions
+### Decisions
 
 - [Square Defangs Difficult Decisions with this System — Here’s How](http://firstround.com/review/square-defangs-difficult-decisions-with-this-system-heres-how/)
 - [How to simplify complex decisions by cleaving the facts](https://blog.asmartbear.com/complex-decisions.html), Jason Cohen.
@@ -290,14 +290,14 @@ Examples job ladder/career development matrix:
 
 > Arguments you should avoid using- that are logical fallacies “Because it’s always been done this way.” “Because we tried it before, and it didn’t work.” “Because company X uses this.” “Because {important person} said so.” Reason on tradeoffs, constraints, opportunities instead. Gergely Orosz
 
-## Delegation
+### Delegation
 
 - [The Counterintuitive Art of Leading by Letting Go](http://99u.com/articles/43081/the-counter-intuitive-art-of-leading-by-letting-go)
 - Against micromanagement: "After you plant a seed in the ground, you don’t dig it up every week to see how it is doing", William Coyne, Head of R&D at 3M.
 
 > The 70/10/80 Principle of delegation: “Find someone who can do what you do at 70% the success rate. Teach them the extra 10% and be okay with 80%.”
 
-## Diversity and inclusion
+### Diversity and inclusion
 
 - 📖 [Breaking Through Bias: Communication Techniques for Women to Succeed at Work](https://www.amazon.com/Breaking-Through-Bias-Communication-Techniques/dp/B01F93NFP4)
   - Most men believe that they have no biases against women and that the organizations in which they work treat women and men equally. If senior-level men read this book, they will realize that neither of these beliefs is correct.
@@ -309,11 +309,11 @@ Examples job ladder/career development matrix:
 - [There’s no "silver bullet" to increasing diversity, but here’s how we’re making progress.](https://magoosh.com/blog/silver-bullet-diversity-progress/), Magoosh.
 - [Why Diversity Programs Fail](https://hbr.org/2016/07/why-diversity-programs-fail)
 
-## Emotional Quotient (EQ)
+### Emotional Quotient (EQ)
 
 - [Those 20 Key Habits that Hold You Back](http://coachingfeedforward.blogspot.com/2010/07/those-20-key-habits-that-hold-you-back.html)
 
-## Employee handbook
+### Employee handbook
 
 - [Clef's employee handbook](https://github.com/clef/handbook) has been open sourced on Github.
 - [Gitlab's handbook](https://about.gitlab.com/handbook/)
@@ -322,12 +322,12 @@ Examples job ladder/career development matrix:
 - [Basecamp's handbook](https://github.com/basecamp/handbook)
 - [Mattermost's handbook](https://docs.mattermost.com/guides/core.html)
 
-## Escalations
+### Escalations
 
 - [Learn how to escalate issues](http://www.goodproductmanager.com/2007/05/09/learn-how-to-escalate-issues/)
 - [Mental frameworks for making decisions](http://nathanbarry.com/mental-frameworks/): how to handle escalations as a manager.
 
-## First-time manager
+### First-time manager
 
 - [How to Ensure a New Manager Succeeds](https://getlighthouse.com/blog/new-manager-how-to-help-succeed/)
 - [Six Recipes for Software Managers](http://eng.localytics.com/six-recipes-for-software-managers/)
@@ -345,7 +345,7 @@ Examples job ladder/career development matrix:
 - [Learnings from six months as a first-time manager](http://blog.d3in.org/post/74917727213/learnings-from-six-months-as-a-first-time)
 - [How to fail as a new engineering manager](https://blog.usejournal.com/how-to-fail-as-a-new-engineering-manager-30b5fb617a)
 
-## First days on the job
+### First days on the job
 
 - Will Larson, [Your first 90 days as CTO or VP Engineering.](https://lethain.com/first-ninety-days-cto-vpe/)
   - Durable improvements depend on creating systems that create changes, not performing tactical actions that create the ephemeral appearance of improvement.
@@ -356,7 +356,7 @@ Examples job ladder/career development matrix:
   - Kickoff engineering brand efforts.
   - Build a trivial change and deploy it.
 
-## Feedback and performance
+### Feedback and performance
 
 - 📖 [Radical Candor — The Surprising Secret to Being a Good Boss](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)
 - 📖 [Amazon.com: Crucial Conversations Tools for Talking When Stakes Are High](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second-ebook-dp-B005K0AYH4/dp/B005K0AYH4/ref=mt_kindle?_encoding=UTF8&me=&qid=) by Kerry Patterson.
@@ -373,9 +373,9 @@ Examples job ladder/career development matrix:
   - We met once a month, sat around a table, and shared feedback with each other in front of our other teammates. This gathering took feedback exchange from being a biannual activity we dreaded to a monthly ritual we looked forward to.
   - Vulnerability Cultivates Trust
 
-## Hiring
+### Hiring
 
-### General
+#### General
 
 - 📖 [Hiring The Best Knowledge Workers, Techies & Nerds: The Secrets & Science Of Hiring Technical People](https://www.amazon.com/Hiring-Knowledge-Workers-Techies-Nerds/dp/0932633595), Johanna Rothman. A solution-oriented book.
   - Train your interview team to apply a limited-consensus approach to hiring. When groups use limited consensus, not everyone may agree with the decision, but each person should be satisfied enough with a particular candidate’s suitability not to block the decision to hire him or her.
@@ -398,7 +398,7 @@ Examples job ladder/career development matrix:
 - [How to Hire](https://hbr.org/2018/01/how-to-hire), Patty McCord (built HR function at Netflix).
 - [Trouble hiring senior engineers? It's probably you](https://hiringengineersbook.com/post/trouble-hiring/).
 
-### Hiring: diversity and bias
+#### Hiring: diversity and bias
 
 Feel free to also checkout the general diversity section.
 
@@ -408,7 +408,7 @@ Feel free to also checkout the general diversity section.
 - [The Diversity Hiring Playbook](https://business.linkedin.com/content/dam/business/talent-solutions/global/en_US/site/pdf/playbooks/linkedin-diversity-hiring-playbook-en-us.pdf), LinkedIn. Pretty high level but probably a good start.
 - 🎞 [Hiring women at Klarna](https://www.youtube.com/watch?v=JWYNst72ucI)
 
-### Hiring: interviews
+#### Hiring: interviews
 
 - [Vanquish whiteboard interview puzzles with test-driven development](http://www.codewithoutrules.com/2016/04/04/interview-puzzles/), Jocelyn Goldfein.
 - Joel Spolsky, [The Phone Screen](http://www.joelonsoftware.com/articles/ThePhoneScreen.html)
@@ -429,9 +429,9 @@ Feel free to also checkout the general diversity section.
 Specifics about hiring engineering managers:
 
 - [Cracking the Engineering Manager interview — Part 1](https://medium.com/srivatsan-sridharan/cracking-the-engineering-manager-interview-part-1-adb0b63c7f2f)
-- [Hunting for Rock Star Engineering Managers](https://hackernoon.com/hunting-for-rock-star-engineering-managers-9ef9c3716b02) 
+- [Hunting for Rock Star Engineering Managers](https://hackernoon.com/hunting-for-rock-star-engineering-managers-9ef9c3716b02)
 
-### Hiring: questions
+#### Hiring: questions
 
 - [45 sample behavioral questions for interview with developer](https://devskiller.com/45-behavioral-questions-to-use-during-non-technical-interview-with-developers/)
 - [30 most common behavioral interview questions](https://www.themuse.com/advice/30-behavioral-interview-questions-you-should-be-ready-to-answer)
@@ -449,7 +449,7 @@ Specifics about hiring engineering managers:
   - What was the last thing you nerded out on?
   - What are 10 ways to speed up Domino’s pizza delivery?
 
-### Hiring: process
+#### Hiring: process
 
 - [Medium’s engineering interview process](https://medium.engineering/mediums-engineering-interview-process-b8d6b67927c4#.hwjb9hizh): Medium open sourced their hiring process.
 - Gitlab, [Hiring Principles](https://about.gitlab.com/handbook/hiring/principles/). Their whole process is also open sourced.
@@ -461,11 +461,11 @@ Specifics about hiring engineering managers:
   - When you give suggestions, be specific and constructive.
   - Make recommendations. Is there a book they could read?
 
-### Hiring: sourcing
+#### Hiring: sourcing
 
 - [How To Hire Engineers: Step 1, Sourcing](https://medium.com/@jocelyngoldfein/how-to-hire-engineers-step-1-sourcing-f388fddc63fd#.fwtgweq0e)
 
-### Hiring: quotes
+#### Hiring: quotes
 
 > If you can 'hire tough,' you can 'manage easy'.
 
@@ -515,12 +515,12 @@ Peter Drucker
 
 Red Adair
 
-## Incident prevention and response (on-call, outages)
+### Incident prevention and response (on-call, outages)
 
 - [A guide to handling incidents, downtime and outages](https://blog.serverdensity.com/guide-handling-incidents-downtime-outages/)
 - [When the Sky Falls](http://randsinrepose.com/archives/when-the-sky-falls/), Rands in Repose
 
-## Learning, retro, postmortem
+### Learning, retro, postmortem
 
 - [This is How Effective Leaders Move Beyond Blame](http://firstround.com/review/this-is-how-effective-leaders-move-beyond-blame/)
 - A great description of what blamelessness actually means: [How is team-member-1 doing?](https://about.gitlab.com/2017/03/17/how-is-team-member-1-doing/) (team-member-1 is the name of the person that "gave the unfortunate command to delete our primary database" during the global Gitlab outage in Feb 2017.
@@ -540,7 +540,7 @@ Quotes:
 
 - "Excellence is achieved by the mastery of fundamentals", Vince Lombardi, considered to be one of the best coaches in NFL history.
 
-## Management style
+### Management style
 
 - [Humane Development](https://ernie.io/2014/12/17/humane-development/): "we are humans working with humans to develop software for the benefit of humans."
 - [Leadership is making a comeback](https://www.reaktor.com/blog/leadership-is-making-a-comeback/) : interesting article that proposes a model where the leader is neither a servant nor a hero, but a host.
@@ -565,14 +565,14 @@ Quote:
 
 ![](./pictures/calvin_and_hobbes_style.gif)
 
-## Meetings
+### Meetings
 
 - [On Better Meetings](http://larahogan.me/blog/better-meetings/): Lara Hogan shares tips about ensuring efficient meetings.
 - 🎞 [Almost Live! - Middle Management Suck-Ups](https://www.youtube.com/watch?v=IUIQX5esnNo): a great example of a terrible ineffective meeting.
 - [Run Better Meetings with This Expert-Level Advice](http://firstround.com/review/first-round-reviews-6-must-reads-to-run-fast-efficient-meetings/), First Round Review
 - [Engineering Team Meeting: Format & Topic Ideas](https://marcgg.com/blog/2020/04/06/engineering-team-meeting-ideas/): lots of great ideas to start it.
 
-## Mentoring
+### Mentoring
 
 - [The Conjoined Triangles of Senior-Level Development](http://frontside.io/blog/2016/07/07/the-conjoined-triangles-of-senior-level-development.html) looks into how to define a senior engineer.
 - [Advice is Cheap — Context is Priceless](http://firstround.com/review/advice-is-cheap-context-is-priceless/)
@@ -584,7 +584,7 @@ Quote:
   - Tailor your approach for technical vs non-technical topics
   - People learn best when they help themselves
 
-## Mindset and attitude
+### Mindset and attitude
 
 - [Taking Ownership Is The Most Effective Way to Get What You Want](http://www.theeffectiveengineer.com/blog/take-ownership-of-your-goals)
 - [Shreyas Doshi on Twitter: "Good managers, what they do, how they think & act](https://twitter.com/shreyas/status/1290685921348562948)
@@ -598,7 +598,7 @@ Quote:
 
 Warren Buffet, "It's only when the tide goes out that you learn who's been swimming naked."
 
-## Motivation
+### Motivation
 
 - 🎞 [Drive: The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc) (summary of Daniel Pink's book).
 - The [two-factor theory](https://en.wikipedia.org/wiki/Two-factor_theory) (Wikipedia) "states that there are certain factors in the workplace that cause job satisfaction, while a separate set of factors cause dissatisfaction."
@@ -610,11 +610,11 @@ Quotes:
 - "The best time to plant a tree was twenty years ago. The second best time is now", Chinese proverb.
 - "A ship in harbor is safe, but that is not what ships are made for.", John A Shedd.
 
-## Onboarding new team members
+### Onboarding new team members
 
 - 🎞 [5 Onboarding Fiascos From the Movies](https://business.linkedin.com/talent-solutions/blog/recruiting-humor-and-fun/2016/the-worst-new-hire-first-days-in-movies-that-you-should-never-let-happen-in-your-company)
 
-## Organization structure
+### Organization structure
 
 - Martin Casado, [Hire a VP of Engineering](https://a16z.com/2017/05/26/hiring-vp-engineering-why-what/) on the Andreessen Horowitz blog
   - The most important function of a VP of engineering is to build out the engineering team and set a startup’s engineering culture.
@@ -633,7 +633,7 @@ Quotes:
   - The team should be able to meets its goals independently (i.e. without reliance on or interference from other teams).
   - Coordination, also known as alignment, communication, shared roadmap, Gantt chart and many other positive sounding names, is the arch-enemy of the autonomous team.
 
-## Production and productivity
+### Production and productivity
 
 - [The Toyota Way](https://en.wikipedia.org/wiki/The_Toyota_Way), Wikipedia
   - Base your management decisions on a long-term philosophy, even at the expense of short-term financial goals.
@@ -651,7 +651,7 @@ Quotes:
   - Make decisions slowly by consensus, thoroughly considering all options; implement decisions rapidly
   - Become a learning organization through relentless reflection (hansei) and continuous improvement (kaizen)
 
-## Personal productivity
+### Personal productivity
 
 - [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html), Paul Graham
 - [Why Are Maker Schedules So Rare?](http://calnewport.com/blog/2017/04/05/why-are-maker-schedules-so-rare/)
@@ -670,7 +670,7 @@ Quotes:
 
 In terms of software, I can't recommend [Things](https://culturedcode.com/things/) enough (Mac and iOS only). It is a delightful piece of software that gets out of the way and lets you focus on your tasks.
 
-## Planning (roadmap, goal setting, OKR, etc.)
+### Planning (roadmap, goal setting, OKR, etc.)
 
 - [How to Use OKRs for Quarterly and Annual Planning](https://www.wrike.com/blog/okrs-quarterly-planning/)
 - [The Heilmeier Catechism](https://www.darpa.mil/work-with-us/heilmeier-catechism): a crafted a set of questions to help DARPA officials think through and evaluate proposed research programs.
@@ -689,7 +689,7 @@ In terms of software, I can't recommend [Things](https://culturedcode.com/things
 > Truth emerges more readily from error than from confusion.
 > Francis Bacon
 
-## Presentations, design and public speaking
+### Presentations, design and public speaking
 
 - 🎞 Garr Reynolds, [Presentation Zen Talk](https://www.youtube.com/watch?v=DZ2vtQCESpk) (Talks at Google)
 - 📖 Garr Reynolds, [Presentation Zen book](https://www.amazon.com/dp/B006R4H5FG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
@@ -705,11 +705,11 @@ Some great examples of presentations:
 
 - 🎤 [How Google Works](https://www.slideshare.net/ericschmidt/how-google-works-final-1)
 
-## Problem solving
+### Problem solving
 
 See my [engineering-management section about problem solving](https://github.com/charlax/professional-programming#problem-solving)
 
-## Processes for engineering
+### Processes for engineering
 
 - [The Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
 - [Simple Rules Set You Free](https://art19.com/shows/friction-with-bob-sutton/episodes/772b5237-73f3-45da-b64c-06f0af95637f), from the Friction podcast with Bob Sutton
@@ -717,12 +717,12 @@ See my [engineering-management section about problem solving](https://github.com
 
 @samkottler: No amount of process will ensure the right work is getting done.
 
-## Product management
+### Product management
 
 - [The most important thing Dropbox did to scale Product Management](https://medium.com/startup-grind/the-most-important-thing-dropbox-did-to-scale-product-management-fed90e30697e#.t5uu8idgb): a very simple model for stating the stage a product is in.
 - [How Amazon Web Services (AWS) Achieved an \$11.5B Run Rate by Working Backwards](https://hitenism.com/amazon-working-backwards/): which explain Amazon's product management process.
 
-## Project management
+### Project management
 
 - 📖 [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) by Frederick Brooks is a classical book about software project management.
     - Now I do not think software managers have less inherent courage and firmness than chefs, nor than other engineering managers. But false scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
@@ -757,11 +757,11 @@ See my [engineering-management section about problem solving](https://github.com
 > The ultimate inspiration is the deadline.
 > — Nolan Bushnell
 
-## Release management
+### Release management
 
 - [The Tick-Tock of Apple](https://512pixels.net/2012/02/the-tick-tock-of-apple/)
 
-## Remote teams
+### Remote teams
 
 - [How to Work Faster in a Remote Team](https://zapier.com/learn/remote-work/remote-work-productivity/)
 - Notion, [Remote work wiki](https://www.notion.so/Remote-work-wiki-1b21ef5501714fffa9f5c5c25677371f)
@@ -772,7 +772,7 @@ See my [engineering-management section about problem solving](https://github.com
   - Remote team activities: how to have fun when you work from home
   - The best online whiteboards
 
-## Team vision
+### Team vision
 
 "Starting with the why" is one of The 7 Habits of Highly Effective People's best chapters.
 
@@ -789,7 +789,7 @@ See my [engineering-management section about problem solving](https://github.com
 - 🎤 [Insist on Focus](https://www.youtube.com/watch?index=9&list=PL__mLVkEYIvwv61O6ohmAv2rE2X8ScP7b&v=fcohHIJr6Ns&ab_channel=Nugget), Keith Rabois
   - The reason why this [forcing people to focus and work on only one important problem] was such a successful strategy is that most people tend to substitute from A+ problems that are very difficult to solve to B+ problems for which they already know a solution to.
 
-## Technical strategy
+### Technical strategy
 
 - Joel Spolsky, [Things You Should Never Do, Part I](http://www.joelonsoftware.com/articles/fog0000000069.html): Joel explains why (according to him) you should never rewrite a codebase.
 - 🎤 [Choose Boring Technology](http://mcfunley.com/choose-boring-technology-slides), Dan McKinley.
@@ -803,7 +803,7 @@ See my [engineering-management section about problem solving](https://github.com
     - Always think about the team and company, and especially about hiring and expanding the team.
     - A programming language is just a tool to deliver software. Don’t be in a tight relationship with your screwdriver.
 
-## Team culture
+### Team culture
 
 - [Lessons from 7 highly successful software engineering cultures](https://techbeacon.com/lessons-7-highly-successful-software-engineering-cultures)
 - [Engineering a culture of psychological safety](https://blog.intercom.com/psychological-safety/)
@@ -826,12 +826,12 @@ Those are considered classics:
 
 [culturecodes](http://culturecodes.co/) is a repository of culture deck from companies (including the ones above).
 
-## Scaling an organization
+### Scaling an organization
 
 - [Scaling Without Imploding](https://hackernoon.com/scaling-without-imploding-79b46a91ac63)
 - [Stripe Atlas: Guide to scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng)
 
-## Strategy
+### Strategy
 
 Shameless plug here, two presentations I contributed to:
 
@@ -842,27 +842,27 @@ Shameless plug here, two presentations I contributed to:
 - [Can Do Vs Must Do](http://avc.com/2017/05/can-do-vs-must-do/) , AVC. "Doing a startup is like playing a video game. Each level requires you to master one thing and once you do that, you level up and then there is a new thing to master."
 - "Waterline principle" from Bill Gore: "Think of being on a ship, and imagine that any decision gone bad will blow a hole in the side of the ship. If you blow a hole above the waterline (where the ship won’t take on water and possibly sink), you can patch the hole, learn from the experience, and sail on. But if you blow a hole below the waterline, you can find yourself facing gushers of water pouring in, pulling you toward the ocean floor. And if it’s a big enough hole, you might go down really fast, just like some of the financial firm catastrophes of 2008. To be clear, great enterprises do make big bets, but they avoid big bets that could blow holes below the waterline.", How We Might Fall.
 
-## Team dynamics
+### Team dynamics
 
 - [Shields Down](https://randsinrepose.com/archives/shields-down/), Rands in Repose
   - Boredom in its many forms is a major contributor to resignations, but the truth is the list of contributing factors to shield weakening is immense.
   - Every moment as a leader is an opportunity to either strengthen or weaken shields.
 
-## Training
+### Training
 
 - [Great developers are raised, not hired](https://sizovs.net/2019/04/10/the-best-developers-are-raised-not-hired/)
   - Take some money, energy, time that you spend on recruiting and invest it in teaching your best developers mentoring skills.
   - Adjust your interview process and give a chance to candidates that are not good enough yet, but are eager to learn and have a growth mindset.
   - Relax “hard requirements” in your job ads to avoid filtering out impostors.
 
-## Work ethics & work/life balance
+### Work ethics & work/life balance
 
 - [The Virtues of Laziness and Impatience](http://www.elidedbranches.com/2016/06/the-virtues-of-laziness-and-impatience.html): "there are two areas I encourage you to practice showing, right now: figuring out what’s important, and going home."
 - [Lazy Leadership](https://medium.com/the-modern-team/lazy-leadership-8ba19e34f959#.bwcfjz5ac): "entrepreneurship is really just a fancy word for delegation".
 - [Your non-linear problem of 90% utilization](https://blog.asmartbear.com/utilization.html), Jason Cohen: why constantly running at 90% utilization is actually counter-productive.
 - [Evidence-based advice on how to be successful in any jobs](https://80000hours.org/career-guide/how-to-be-successful/): most self-help advices are not research-based. The ones listed in this article are.
 
-## Writing
+### Writing
 
 ➡️ See also my [professional-programming list](https://github.com/charlax/professional-programming#writing)
 
@@ -887,13 +887,19 @@ Shameless plug here, two presentations I contributed to:
   - The type of information pushed to people in an organization shapes the culture considerably.
 - [Lightweight RFC Process](https://cwiki.apache.org/confluence/display/GEODE/Lightweight+RFC+Process), Apache Software Foundation
 
-# Movies
+## Other sources
+
+### Other lists
+
+- [92bondstreet/cto](https://github.com/92bondstreet/cto): a curated list of CTO resources
+
+### Movies
 
 - 🎞 [Moneyball](<https://en.wikipedia.org/wiki/Moneyball_(film)>). [What's the problem?](https://www.youtube.com/watch?v=HiB9L3dG-Aw)
 - 🎞 [Office Space](https://en.wikipedia.org/wiki/Office_Space)
 - 🎞 [The Pursuit of Happyness](https://en.wikipedia.org/wiki/The_Pursuit_of_Happyness) contains some great lessons about hustle. [Watch the interview scene](https://www.youtube.com/watch?v=gHXKitKAT1E).
 
-## TV Shows
+### TV Shows
 
 Netflix's [Chef's table](https://en.wikipedia.org/wiki/Chef%27s_Table) profiles a couple world-renown chef. The kitchen world bears a lot of similarities with management. In the season two, I especially recommend episode 1 and 3:
 
@@ -902,21 +908,21 @@ Netflix's [Chef's table](https://en.wikipedia.org/wiki/Chef%27s_Table) profiles 
 
 The Office is a great satire of a dysfunctioning office.
 
-# Keeping up-to-date: blogs and newsletters
+## Keeping up-to-date: blogs and newsletters
 
 Here are some blogs and newsletter I follow.
 
-## Newsletter
+### Newsletter
 
 - [Software Lead Weekly](http://softwareleadweekly.com/) (Oren Ellenbogen): a short curation of great management articles. Also include some videos, and some less serious, funny material. A lot of the links founds in this repo appeared in Oren's weekly email.
 - [HBR's Management Tip of the Day](https://hbr.org/email-newsletters)
 - [Tech People Leadership](http://newsletter.techpeopleleadership.com/) (Joe Dunn): Links, notes and opinions for leaders in the tech industry.
 
-## Blogs
+### Blogs
 
 - [Hacker News](https://news.ycombinator.com/): mandatory if you want to stay abreast of what's going in tech. There are some good management articles from time to time as well. Since it can be a pretty huge time sink, I subscribe to a curation of the top articles instead ([RSS feed here](http://www.daemonology.net/hn-daily/index.rss)).
 
-## Podcast
+### Podcast
 
 - [FRICTION with Bob Sutton](https://art19.com/shows/friction-with-bob-sutton?page=3). This podcast does not have any new episode since 2017, but it has some really great content. Great conversations. Lots of stories.
     - Part organizational design. Part therapy. Organizational psychologist and Stanford Professor Bob Sutton is back to tackle friction, the phenomenon that frustrates employees, fatigues teams and causes organizations to flounder and fail.
