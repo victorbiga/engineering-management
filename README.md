@@ -159,6 +159,7 @@ Here are some generic resources:
 - [Keith Rabois on the Role of a COO, How to Hire and Why Transparency Matters](http://firstround.com/review/Keith-Rabois-on-the-role-of-a-COO-how-to-hire-and-why-transparency-matters/) includes some nice management nuggets.
 - 🧰 [ksindi/managers-playbook: Heuristics for effective management](https://github.com/ksindi/managers-playbook)
 - [The Evolution of Management](https://queue.acm.org/detail.cfm?id=3350548), Kate Matsudaira, ACM Queue. A great compilation of advices for all management levels.
+- [Principles of Management](https://courses.lumenlearning.com/suny-principlesmanagement/) a nice introduction for all management aspects for new managers.
 
 [Tal Bereznitskey](https://hackernoon.com/managing-engineers-in-less-than-200-characters-edb35e4199e4#.n8wruugqz)'s awesome definition for managing engineers:
 
