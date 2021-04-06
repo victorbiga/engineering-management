@@ -634,6 +634,7 @@ Quotes:
   - Every autonomous team is expected to generate direct business value all by itself, without a lot of overlap with other teams.
   - The team should be able to meets its goals independently (i.e. without reliance on or interference from other teams).
   - Coordination, also known as alignment, communication, shared roadmap, Gantt chart and many other positive sounding names, is the arch-enemy of the autonomous team.
+- 🎞 [Monoliths vs Microservices is Missing the Point—Start with Team Cognitive Load](https://www.youtube.com/watch?v=haejb5rzKsM&ab_channel=ITRevolution) by the authors of team topologies.
 
 ### Production and productivity
 
