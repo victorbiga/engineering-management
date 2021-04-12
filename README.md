@@ -21,6 +21,7 @@
   - [Conflict resolution](#conflict-resolution)
   - [Decisions](#decisions)
   - [Delegation](#delegation)
+  - [Delivery](#delivery)
   - [Diversity and inclusion](#diversity-and-inclusion)
   - [Emotional Quotient (EQ)](#emotional-quotient-eq)
   - [Employee handbook](#employee-handbook)
@@ -47,7 +48,7 @@
   - [Organization structure](#organization-structure)
   - [Production and productivity](#production-and-productivity)
   - [Personal productivity](#personal-productivity)
-  - [Planning (roadmap, goal setting, OKR, etc.)](#planning-roadmap-goal-setting-okr-etc)
+  - [Planning (roadmap, goal setting, KPI, OKR, etc.)](#planning-roadmap-goal-setting-kpi-okr-etc)
   - [Presentations, design and public speaking](#presentations-design-and-public-speaking)
   - [Problem solving](#problem-solving)
   - [Processes for engineering](#processes-for-engineering)
@@ -83,6 +84,7 @@ Items:
 - 📖 : book
 - 🎞 : video/movie extract/movie
 - 🎤 : slides/presentation
+- 🎧 : podcast
 
 ## Books
 
@@ -139,6 +141,7 @@ You can find a short summary in video [here](https://www.youtube.com/watch?v=psA
   - A manager generally has two ways to raise the level of individual performance of his subordinates: by increasing motivation, the desire of each person to do his job well, and by increasing individual capability, which is where training comes in.
 - 📖 Patrick Lencioni, [The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756/ref=sr_1_1?s=books&ie=UTF8&qid=1500281191&sr=1-1&keywords=dysfunctions).
 - 📖 Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead, Laszlo Bock. A pretty interesting description of Google's processes. A bit long at times.
+- 📖 [The Manager's Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) , Camille Fournier. A very practical book with lots of down-to-earth advices.
 
 There are some other more specific books quoted below.
 
@@ -222,6 +225,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 
 - [Cognitive bias cheat sheet](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.6temb6hyg)
 - [A flowchart of cognitive biases](https://www.breakdown-notes.com/makemap/load/biases)
+- [The Cognitive Bias Codex](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg)
 
 ### Career growth and job ladder
 
@@ -237,6 +241,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 - [Thriving on the Technical Leadership Path](https://keavy.com/work/thriving-on-the-technical-leadership-path/)
   - I’ve chosen to cultivate a path for myself that enables me to dig into complex technical and product problem spaces and help lead technical and strategic direction for my organization, as an engineer but not a manager.
 - [Refactoring Our Engineering Skills Matrix](https://engine.expert360.com/refactoring-our-engineering-skills-matrix-b5314e2b0013)
+- [How to waste your career, one comfortable year at a time](https://apoorvagovind.substack.com/p/how-to-waste-your-career-one-comfortable)
 
 Examples job ladder/career development matrix:
 
@@ -299,6 +304,13 @@ Examples job ladder/career development matrix:
 
 > The 70/10/80 Principle of delegation: “Find someone who can do what you do at 70% the success rate. Teach them the extra 10% and be okay with 80%.”
 
+### Delivery
+
+- [A primer on engineering delivery metrics](https://leaddev.com/scaling-software-systems/primer-engineering-delivery-metrics)
+- [Engineering productivity can be measured - just not how you'd expect](https://www.okayhq.com/blog/engineering-productivity-can-be-measured). Interesting take.
+  - Non-measurement unfairly rewards people with charisma while productive but less-persuasive engineers wallow in frustration.
+  - Measure Blockers at the Team Level
+
 ### Diversity and inclusion
 
 - 📖 [Breaking Through Bias: Communication Techniques for Women to Succeed at Work](https://www.amazon.com/Breaking-Through-Bias-Communication-Techniques/dp/B01F93NFP4)
@@ -314,6 +326,7 @@ Examples job ladder/career development matrix:
 ### Emotional Quotient (EQ)
 
 - [Those 20 Key Habits that Hold You Back](http://coachingfeedforward.blogspot.com/2010/07/those-20-key-habits-that-hold-you-back.html)
+- [How to Deal with Difficult People on Software Projects](https://www.howtodeal.dev/)
 
 ### Employee handbook
 
@@ -346,6 +359,12 @@ Examples job ladder/career development matrix:
 - [The New Manager Death Spiral](http://randsinrepose.com/archives/the-new-manager-death-spiral/), Rands in Repose.
 - [Learnings from six months as a first-time manager](http://blog.d3in.org/post/74917727213/learnings-from-six-months-as-a-first-time)
 - [How to fail as a new engineering manager](https://blog.usejournal.com/how-to-fail-as-a-new-engineering-manager-30b5fb617a)
+- [Choosing the Management Track](https://blog.danielna.com/choosing-the-management-track/)
+  - You won’t code anymore.
+  - Management forces you to care more about everything.
+  - Management creates an unavoidable power hierarchy.
+  - You need to be technical enough to intervene.
+  - Companies ultimately succeed or fail by their coordinated execution, culture and leadership.
 
 ### First days on the job
 
@@ -399,6 +418,7 @@ Examples job ladder/career development matrix:
 - [When we only hire the best means we only hire the trendiest](http://danluu.com/programmer-moneyball/)
 - [How to Hire](https://hbr.org/2018/01/how-to-hire), Patty McCord (built HR function at Netflix).
 - [Trouble hiring senior engineers? It's probably you](https://hiringengineersbook.com/post/trouble-hiring/).
+- [I've been an engineer and a recruiter. Hiring is broken.](http://blog.alinelerner.com/ive-been-an-engineer-and-a-recruiter-hiring-is-broken-heres-why-and-heres-what-it-should-be-like-instead/)
 
 #### Hiring: diversity and bias
 
@@ -559,6 +579,11 @@ Quotes:
   - The fourth responsibility is to manage those whom we have authority.
   - You can't manage your bosses, peers, regulators etc. But you can understand them, motivate them, influence them, forgive them.
   - "It is from failure that amazing growth and grace so often come, provided only that one can recognise it, admit it, learn from it, rise above it, and try again. True leadership presumes a standard quite beyond human perfectibility and that is quite alright, for joy and satisfaction are in the pursuit of an objective, not in its realization."
+- [Managing Staff-plus engineers](https://lethain.com/managing-staff-plus-engineers/)
+- [An Engineering Team where Everyone is a Leader](https://blog.pragmaticengineer.com/a-team-where-everyone-is-a-leader/), Gergely Orosz.
+  - One project, one engineering lead
+  - Mentoring, then coaching the first few leaders
+  - Transparency and accountability via weekly, written updates
 
 Quote:
 
@@ -615,6 +640,7 @@ Quotes:
 ### Onboarding new team members
 
 - 🎞 [5 Onboarding Fiascos From the Movies](https://business.linkedin.com/talent-solutions/blog/recruiting-humor-and-fun/2016/the-worst-new-hire-first-days-in-movies-that-you-should-never-let-happen-in-your-company)
+- [Onboarding - Mattermost Handbook](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/onboarding)
 
 ### Organization structure
 
@@ -635,6 +661,12 @@ Quotes:
   - The team should be able to meets its goals independently (i.e. without reliance on or interference from other teams).
   - Coordination, also known as alignment, communication, shared roadmap, Gantt chart and many other positive sounding names, is the arch-enemy of the autonomous team.
 - 🎞 [Monoliths vs Microservices is Missing the Point—Start with Team Cognitive Load](https://www.youtube.com/watch?v=haejb5rzKsM&ab_channel=ITRevolution) by the authors of team topologies.
+- [Organizing software teams](https://medium.com/swlh/how-to-structure-teams-for-building-better-software-products-91e4dea021d) (Team Topologies Book Summary)
+  - There should be no shared ownership of components, libraries, or code.
+  - If you have microservices but are still waiting to do end-to-end testing of a combination of services, you have a distributed monolith (a distributed monolith is when all changes in a service require updates to other services).
+  - Use software boundaries defined by business-domain bounded contexts
+  - Teams composed of only people with single functional expertise should be avoided at all costs.
+  - Four fundamental team topologies: stream-aligned, enabling, complicated subsystem, platform.
 
 ### Production and productivity
 
@@ -670,10 +702,14 @@ Quotes:
   - Use maker-manager office hours
   - Communication can happen at a quieter asynchronous frequency in the form of thoughtful, written discussions rather than soul-sucking meetings or erratic one-line-at-a-time chat messages
   - Build a team knowledge base to minimize repetitive questions and allow self-onboarding.
+- 🎧 [How to Change Your Behavior](https://coachingforleaders.com/podcast/change-your-behavior-bj-fogg/), Coaching for Leaders
+  - It’s a myth that it takes 21 or 66 days to create a habit. Repetition doesn't create habits. Emotions create habits.
+  - Create a tiny habit through an ABC process: anchor moment, a tiny behavior, and instant celebration.
+  - Avoid raising the bar on the tiny behavior. Do more if you want to, but don’t change the standard.
 
 In terms of software, I can't recommend [Things](https://culturedcode.com/things/) enough (Mac and iOS only). It is a delightful piece of software that gets out of the way and lets you focus on your tasks.
 
-### Planning (roadmap, goal setting, OKR, etc.)
+### Planning (roadmap, goal setting, KPI, OKR, etc.)
 
 - [How to Use OKRs for Quarterly and Annual Planning](https://www.wrike.com/blog/okrs-quarterly-planning/)
 - [The Heilmeier Catechism](https://www.darpa.mil/work-with-us/heilmeier-catechism): a crafted a set of questions to help DARPA officials think through and evaluate proposed research programs.
@@ -685,6 +721,11 @@ In terms of software, I can't recommend [Things](https://culturedcode.com/things
   - With constant innovation, new market entrants and potential black swans like a global pandemic, the best a leader can do is set a 12–18 month strategic plan that is directionally aligned with the company’s true north. That plan should be broken down by quarter with the assumption that the degree of confidence in achieving goals within each quarter will decline over time.
   - Expect each team across the organization to cascade their operational roadmaps from these strategic foci. Operational roadmaps should identify key initiatives and milestones.
 - [A Modern Guide to Lean OKRs](https://worldpositive.com/a-modern-guide-to-lean-okrs-part-i-c4a30dba5fa1) (a three-part series)
+- [OKR: The Ultimate Objectives and Key Results Resource](https://weekdone.com/resources/objectives-key-results/)
+- [OKR Examples (And Tips for Creating Your Own)](https://okrexamples.co/)
+- [How to measure and improve success in your engineering team](https://leaddev.com/productivity-eng-velocity/how-measure-and-improve-success-your-engineering-team)
+- [Manager OKRs, Maker OKRs: How Early Stage Startups Should Think About Goal-Setting](https://hunterwalk.medium.com/manager-okrs-maker-okrs-how-startups-should-think-about-goal-setting-7be87195fadc)
+- [Objectives and Key Results](https://about.gitlab.com/company/okrs/), GitLab Handbook
 
 > A goal without a plan is just a wish.
 > Antoine de Saint-Exupéry
@@ -751,11 +792,12 @@ See my [engineering-management section about problem solving](https://github.com
     - Having a regular, no-BS update on where the team really is
     - Dependency and Risk Management in a pragmatic way
     - Celebrate after completion!
-- [How to Lead a Project - as a Software Engineer](https://blog.pragmaticengineer.com/how-to-lead-a-project-in-software-development/)
+- [How to Lead a Project - as a Software Engineer](https://blog.pragmaticengineer.com/how-to-lead-a-project-in-software-development/), Gergely Orosz
     - Setup a framework for collaboration
     - Communicate status to stakeholders
     - Help the team focus - and don't be afraid to delegate
     - The article includes a short checklist for first-time project managers: kickoff meeting, milestones, design process, weekly update emails, daily standups, weekly goals, demoing progress.
+- [Directly Responsible Individuals](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/#what-is-a-directly-responsible-individual)
 
 > The ultimate inspiration is the deadline.
 > — Nolan Bushnell
@@ -844,6 +886,7 @@ Shameless plug here, two presentations I contributed to:
 - [Steve Jobs explaining why you should start from the customers, and go backward](https://www.youtube.com/watch?v=FF-tKLISfPE) (video 🎞). He makes the point that stopping the OpenDoc project was the right thing to do because it was a technology without any customer.
 - [Can Do Vs Must Do](http://avc.com/2017/05/can-do-vs-must-do/) , AVC. "Doing a startup is like playing a video game. Each level requires you to master one thing and once you do that, you level up and then there is a new thing to master."
 - "Waterline principle" from Bill Gore: "Think of being on a ship, and imagine that any decision gone bad will blow a hole in the side of the ship. If you blow a hole above the waterline (where the ship won’t take on water and possibly sink), you can patch the hole, learn from the experience, and sail on. But if you blow a hole below the waterline, you can find yourself facing gushers of water pouring in, pulling you toward the ocean floor. And if it’s a big enough hole, you might go down really fast, just like some of the financial firm catastrophes of 2008. To be clear, great enterprises do make big bets, but they avoid big bets that could blow holes below the waterline.", How We Might Fall.
+- [Write five, then synthesize: good engineering strategy is boring](https://lethain.com/good-engineering-strategy-is-boring/), Will Larson.
 
 ### Team dynamics
 
@@ -896,6 +939,7 @@ Shameless plug here, two presentations I contributed to:
 
 - 🧰 [92bondstreet/cto](https://github.com/92bondstreet/cto): a curated list of CTO resources
 - 🧰 [mateusz-brainhub/awesome-cto-resources](https://github.com/mateusz-brainhub/awesome-cto-resources): a community-curated list of awesome resources to help you grow as a CTO
+- [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)
 
 ### Movies
 
