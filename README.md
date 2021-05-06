@@ -242,17 +242,28 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
   - I’ve chosen to cultivate a path for myself that enables me to dig into complex technical and product problem spaces and help lead technical and strategic direction for my organization, as an engineer but not a manager.
 - [Refactoring Our Engineering Skills Matrix](https://engine.expert360.com/refactoring-our-engineering-skills-matrix-b5314e2b0013)
 - [How to waste your career, one comfortable year at a time](https://apoorvagovind.substack.com/p/how-to-waste-your-career-one-comfortable)
+- 🎤 [Creating a Career Ladder for Engineers](https://speakerdeck.com/polotek/creating-a-career-ladder-for-engineers)
+- [Engineering Career Development](https://about.gitlab.com/handbook/engineering/career-development/), Gitlab
 
-Examples job ladder/career development matrix:
+Curated examples of job ladder/career development matrix:
 
-- Gitlab - [Engineering Career Development](https://about.gitlab.com/handbook/engineering/career-development/) - [source/job-families/engineering](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/source/job-families/engineering)
-- [CircleCI Engineering Competency Matrix (public version)](https://docs.google.com/spreadsheets/d/131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo/edit#gid=0)
-- [Expert360 skills matrix](http://eng-skills-matrix.expert360.com/)
+- ⭐️ [Songkick](https://www.songkick.com/downloads/growth-framework/sk-growth-framework.pdf): concise, clear and includes examples.
+- [Expert360](http://eng-skills-matrix.expert360.com/): pretty detailed, does not seem to have two tracks
+- [Medium](https://docs.google.com/spreadsheets/d/1EO-Dbsayn8Nz9Ii3MKcwRbt-EIJ2MjQdpoyhh0tBdZk/edit#gid=1098466721): mixes all rubrics regardless of role
+- [Khan Academy](https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls/edit)
+  - Skills: maximise impact, be open, empathise and respect, have conviction, seek engineering maturity.
+  - Levels: beginning skillful, skillful, more skillful, super skillful, ludicrously skillful
+- [CircleCI](https://docs.google.com/spreadsheets/d/131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo/edit#gid=0): detailed and complete
+- [Basecamp](https://basecamp.com/handbook/appendix-05-titles-for-programmers): very concise
+
+List of lists:
+
 - [30+ Engineering Career Ladders](https://nidup.io/garden/engineering-career-ladders?s=09)
 - [Another list of career pathways](https://www.progression.fyi/) by a [Progression, a tool to define and measure career growth](https://progressionapp.com/)
-- [Khan Academy Engineering Career Development](https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls/edit).
-  - Skills: maximise impact, be open, empathise and respect, have conviction, seek engineering maturity.
-  - Levels: Beginning Skillful, Skillful, More Skillful, Super Skillful, Ludicrously Skillful
+
+Concepts:
+
+- [Four stages of competence](https://en.wikipedia.org/wiki/Four_stages_of_competence), Wikipedia
 
 ### Code reviews
 
