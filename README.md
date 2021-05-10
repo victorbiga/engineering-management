@@ -243,7 +243,8 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 - [Refactoring Our Engineering Skills Matrix](https://engine.expert360.com/refactoring-our-engineering-skills-matrix-b5314e2b0013)
 - [How to waste your career, one comfortable year at a time](https://apoorvagovind.substack.com/p/how-to-waste-your-career-one-comfortable)
 - 🎤 [Creating a Career Ladder for Engineers](https://speakerdeck.com/polotek/creating-a-career-ladder-for-engineers)
-- [Engineering Career Development](https://about.gitlab.com/handbook/engineering/career-development/), Gitlab
+- [Gitlab Engineering Career Development](https://about.gitlab.com/handbook/engineering/career-development/), Gitlab
+- [Medium Engineering Growth Framework](https://medium.com/s/engineering-growth-framework)
 
 Curated examples of job ladder/career development matrix:
 
