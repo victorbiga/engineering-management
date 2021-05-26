@@ -810,6 +810,7 @@ See my [engineering-management section about problem solving](https://github.com
     - Help the team focus - and don't be afraid to delegate
     - The article includes a short checklist for first-time project managers: kickoff meeting, milestones, design process, weekly update emails, daily standups, weekly goals, demoing progress.
 - [Directly Responsible Individuals](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/#what-is-a-directly-responsible-individual)
+- [Yes, You Should Estimate Software Projects](https://blog.pragmaticengineer.com/yes-you-should-estimate/), Gergely Orosz
 
 > The ultimate inspiration is the deadline.
 > — Nolan Bushnell
@@ -944,6 +945,7 @@ Shameless plug here, two presentations I contributed to:
   - If everyone agrees how the project should be done then writing the approach down should be a piece of cake.
   - The type of information pushed to people in an organization shapes the culture considerably.
 - [Lightweight RFC Process](https://cwiki.apache.org/confluence/display/GEODE/Lightweight+RFC+Process), Apache Software Foundation
+- [6 Lessons I learned while implementing technical RFCs as a decision making tool](https://buriti.ca/6-lessons-i-learned-while-implementing-technical-rfcs-as-a-management-tool-34687dbf46cb)
 
 ## Other sources
 
