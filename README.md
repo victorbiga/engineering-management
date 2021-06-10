@@ -328,13 +328,17 @@ Concepts:
 
 - 📖 [Breaking Through Bias: Communication Techniques for Women to Succeed at Work](https://www.amazon.com/Breaking-Through-Bias-Communication-Techniques/dp/B01F93NFP4)
   - Most men believe that they have no biases against women and that the organizations in which they work treat women and men equally. If senior-level men read this book, they will realize that neither of these beliefs is correct.
+- 📖 [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow), Wikipedia
+  - 🎞 [2 Minutes Book Summary: Thinking Fast and Slow](https://www.youtube.com/watch?v=9ivtvPVkFkw&ab_channel=Lifehack)
 - [Project Include](http://projectinclude.org/): an open community working toward providing meaningful diversity and inclusion solutions for tech companies. A great resource for anything diversity-related.
 - [Guess Who Doesn’t Fit In at Work](http://www.nytimes.com/2015/05/31/opinion/sunday/guess-who-doesnt-fit-in-at-work.html)
 - [Good Intentions Fail at Scale](http://www.fancybeans.com/blog/2016/02/05/good-intentions-fail-at-scale/): great article about why you can't rely on good intentions to increase diversity.
 - [List of cognitive biases on Wikipedia](http://rationalwiki.org/wiki/List_of_cognitive_biases)
 - 🎞 [Making the Unconscious Conscious](https://www.youtube.com/watch?v=NW5s_-Nl3JE) (Google Video)
-- [There’s no "silver bullet" to increasing diversity, but here’s how we’re making progress.](https://magoosh.com/blog/silver-bullet-diversity-progress/), Magoosh.
+- [There’s no "silver bullet" to increasing diversity, but here's how we're making progress.](https://magoosh.com/blog/silver-bullet-diversity-progress/), Magoosh.
 - [Why Diversity Programs Fail](https://hbr.org/2016/07/why-diversity-programs-fail)
+- 🎤 [Diversity & Inclusion: Why and How](https://speakerdeck.com/webmardi/diversity-and-inclusion-why-and-how?slide=25)
+- 🎞 [How microaggressions are like mosquito bites](https://www.youtube.com/watch?v=hDd3bzA7450)
 
 Some great videos by PwC:
 
