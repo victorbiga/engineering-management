@@ -23,6 +23,7 @@
   - [Delegation](#delegation)
   - [Delivery](#delivery)
   - [Diversity and inclusion](#diversity-and-inclusion)
+    - [Diversity in hiring](#diversity-in-hiring)
   - [Emotional Quotient (EQ)](#emotional-quotient-eq)
   - [Employee handbook](#employee-handbook)
   - [Escalations](#escalations)
@@ -31,7 +32,7 @@
   - [Feedback and performance](#feedback-and-performance)
   - [Hiring](#hiring)
     - [General](#general)
-    - [Hiring: diversity and bias](#hiring-diversity-and-bias)
+    - [Hiring: diversity and biases](#hiring-diversity-and-biases)
     - [Hiring: interviews](#hiring-interviews)
     - [Hiring: questions](#hiring-questions)
     - [Hiring: process](#hiring-process)
@@ -335,6 +336,20 @@ Concepts:
 - [There’s no "silver bullet" to increasing diversity, but here’s how we’re making progress.](https://magoosh.com/blog/silver-bullet-diversity-progress/), Magoosh.
 - [Why Diversity Programs Fail](https://hbr.org/2016/07/why-diversity-programs-fail)
 
+Some great videos by PwC:
+
+- 🎞 [Blind spots: Challenge assumptions](https://www.youtube.com/watch?v=BFcjfqmVah8&ab_channel=PwC)
+- 🎞 [Blind spots: Overcome stereotypes](https://www.youtube.com/watch?v=6_yIevcJCPc&ab_channel=PwC)
+- 🎞 [Blind spots: Enhance objectivity](https://www.youtube.com/watch?v=Pn5qOgz8dqs&ab_channel=PwC)
+
+#### Diversity in hiring
+
+- [Why Hiring for "Culture Fit" Hurts Your Culture](http://www.paperplanes.de/2015/6/11/why-hiring-for-culture-fit-hurts-your-culture.html)
+- [Xavier Niel explains 42: the coding university without teachers, books, or tuition](http://venturebeat.com/2016/06/16/xavier-niel-explains-42-the-coding-university-without-teachers-books-or-tuition/): a thought-provoking take on CS diplomas.
+- [A Quick Puzzle to Test Your Problem Solving](http://www.nytimes.com/interactive/2015/07/03/upshot/a-quick-puzzle-to-test-your-problem-solving.html?_r=0)... and a great way to learn about confirmation bias (which is not only applicable to hiring but also to testing).
+- [The Diversity Hiring Playbook](https://business.linkedin.com/content/dam/business/talent-solutions/global/en_US/site/pdf/playbooks/linkedin-diversity-hiring-playbook-en-us.pdf), LinkedIn. Pretty high level but probably a good start.
+- 🎞 [Hiring women at Klarna](https://www.youtube.com/watch?v=JWYNst72ucI)
+
 ### Emotional Quotient (EQ)
 
 - [Those 20 Key Habits that Hold You Back](http://coachingfeedforward.blogspot.com/2010/07/those-20-key-habits-that-hold-you-back.html)
@@ -432,15 +447,9 @@ Concepts:
 - [Trouble hiring senior engineers? It's probably you](https://hiringengineersbook.com/post/trouble-hiring/).
 - [I've been an engineer and a recruiter. Hiring is broken.](http://blog.alinelerner.com/ive-been-an-engineer-and-a-recruiter-hiring-is-broken-heres-why-and-heres-what-it-should-be-like-instead/)
 
-#### Hiring: diversity and bias
+#### Hiring: diversity and biases
 
-Feel free to also checkout the general diversity section.
-
-- [Why Hiring for "Culture Fit" Hurts Your Culture](http://www.paperplanes.de/2015/6/11/why-hiring-for-culture-fit-hurts-your-culture.html)
-- [Xavier Niel explains 42: the coding university without teachers, books, or tuition](http://venturebeat.com/2016/06/16/xavier-niel-explains-42-the-coding-university-without-teachers-books-or-tuition/): a thought-provoking take on CS diplomas.
-- [A Quick Puzzle to Test Your Problem Solving](http://www.nytimes.com/interactive/2015/07/03/upshot/a-quick-puzzle-to-test-your-problem-solving.html?_r=0)... and a great way to learn about confirmation bias (which is not only applicable to hiring but also to testing).
-- [The Diversity Hiring Playbook](https://business.linkedin.com/content/dam/business/talent-solutions/global/en_US/site/pdf/playbooks/linkedin-diversity-hiring-playbook-en-us.pdf), LinkedIn. Pretty high level but probably a good start.
-- 🎞 [Hiring women at Klarna](https://www.youtube.com/watch?v=JWYNst72ucI)
+Checkout [Diversity in hiring](#diversity-in-hiring)
 
 #### Hiring: interviews
 
