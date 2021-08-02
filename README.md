@@ -65,6 +65,7 @@
   - [Team dynamics](#team-dynamics)
   - [Training](#training)
   - [Work ethics & work/life balance](#work-ethics--worklife-balance)
+  - [Workshop facilitation](#workshop-facilitation)
   - [Writing](#writing)
 - [Other sources](#other-sources)
   - [Other lists](#other-lists)
@@ -933,6 +934,13 @@ Shameless plug here, two presentations I contributed to:
 - [Lazy Leadership](https://medium.com/the-modern-team/lazy-leadership-8ba19e34f959#.bwcfjz5ac): "entrepreneurship is really just a fancy word for delegation".
 - [Your non-linear problem of 90% utilization](https://blog.asmartbear.com/utilization.html), Jason Cohen: why constantly running at 90% utilization is actually counter-productive.
 - [Evidence-based advice on how to be successful in any jobs](https://80000hours.org/career-guide/how-to-be-successful/): most self-help advices are not research-based. The ones listed in this article are.
+
+### Workshop facilitation
+
+- [List of workshop facilitation methods](https://cynefin.io/wiki/List_of_methods#Facilitation)
+  - [Ritual dissent](https://cynefin.io/wiki/Ritual_dissent)
+  - [Triopticon](https://cynefin.io/wiki/Triopticon)
+  - [Future backwards](https://cynefin.io/wiki/Future_backwards)
 
 ### Writing
 
