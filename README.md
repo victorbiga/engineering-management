@@ -258,6 +258,7 @@ Curated examples of job ladder/career development matrix:
   - Levels: beginning skillful, skillful, more skillful, super skillful, ludicrously skillful
 - [CircleCI](https://docs.google.com/spreadsheets/d/131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo/edit#gid=0): detailed and complete
 - [Basecamp](https://basecamp.com/handbook/appendix-05-titles-for-programmers): very concise
+- [Dropbox](https://dropbox.github.io/dbx-career-framework/overview.html)
 
 List of lists:
 
