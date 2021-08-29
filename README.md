@@ -694,6 +694,12 @@ Quotes:
   - Use software boundaries defined by business-domain bounded contexts
   - Teams composed of only people with single functional expertise should be avoided at all costs.
   - Four fundamental team topologies: stream-aligned, enabling, complicated subsystem, platform.
+- [Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/): the principles applied in this article are a great inspiration for functions other than data.
+  - Nobody enjoys writing and maintaining data pipelines or ETL. It’s the industry’s ultimate hot potato.
+  - Give people end-to-end ownership of the work they produce (autonomy).
+  - Engineers design new Lego blocks that data scientists assemble in creative ways to create new data science.
+  - Engineers should see themselves as being “Tony Stark’s tailor”, building the armor that prevents data scientists from falling into pitfalls that yield unscalable or unreliable solutions.
+  - We are sacrificing technical efficiency for velocity and autonomy.
 
 ### Production and productivity
 
@@ -875,6 +881,10 @@ See my [engineering-management section about problem solving](https://github.com
     - A decision to introduce a new programming language must be based on non-functional requirements, measurements or other relevant arguments, and not personal opinions.
     - Always think about the team and company, and especially about hiring and expanding the team.
     - A programming language is just a tool to deliver software. Don’t be in a tight relationship with your screwdriver.
+- [Tech Migrations, the Spotify Way](https://engineering.atspotify.com/2020/06/25/tech-migrations-the-spotify-way/)
+  - Ruthlessly prioritize
+  - Product-ify migrations: accountability, test first, train, lead with value, KYC, gamify
+  - Automate, automate, and move up the stack!
 
 ### Team culture
 
