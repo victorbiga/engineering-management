@@ -61,6 +61,7 @@
   - [Technical strategy](#technical-strategy)
   - [Team culture](#team-culture)
   - [Scaling an organization](#scaling-an-organization)
+  - [Security](#security)
   - [Strategy](#strategy)
   - [Team dynamics](#team-dynamics)
   - [Training](#training)
@@ -913,6 +914,10 @@ Those are considered classics:
 
 - [Scaling Without Imploding](https://hackernoon.com/scaling-without-imploding-79b46a91ac63)
 - [Stripe Atlas: Guide to scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng)
+
+### Security
+
+- [The SaaS CTO Security Checklist Redux](https://www.goldfiglabs.com/guide/saas-cto-security-checklist/)
 
 ### Strategy
 
