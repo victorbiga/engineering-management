@@ -34,7 +34,8 @@
     - [General](#general)
     - [Hiring: diversity and biases](#hiring-diversity-and-biases)
     - [Hiring: interviews](#hiring-interviews)
-    - [Hiring: questions](#hiring-questions)
+    - [Hiring: interview questions](#hiring-interview-questions)
+    - [Hiring: job postings](#hiring-job-postings)
     - [Hiring: process](#hiring-process)
     - [Hiring: sourcing](#hiring-sourcing)
     - [Hiring: quotes](#hiring-quotes)
@@ -481,7 +482,7 @@ Specifics about hiring engineering managers:
 - [Cracking the Engineering Manager interview — Part 1](https://medium.com/srivatsan-sridharan/cracking-the-engineering-manager-interview-part-1-adb0b63c7f2f)
 - [Hunting for Rock Star Engineering Managers](https://hackernoon.com/hunting-for-rock-star-engineering-managers-9ef9c3716b02)
 
-#### Hiring: questions
+#### Hiring: interview questions
 
 - [45 sample behavioral questions for interview with developer](https://devskiller.com/45-behavioral-questions-to-use-during-non-technical-interview-with-developers/)
 - [30 most common behavioral interview questions](https://www.themuse.com/advice/30-behavioral-interview-questions-you-should-be-ready-to-answer)
@@ -498,6 +499,12 @@ Specifics about hiring engineering managers:
   - What’s one misconception your coworkers have about you?
   - What was the last thing you nerded out on?
   - What are 10 ways to speed up Domino’s pizza delivery?
+
+#### Hiring: job postings
+
+- [A Guide on How To Write a Software Developer Job Description](https://blog.hubstaff.com/how-to-write-job-posting-developers/)
+- [Software Engineer Job Descriptions that Attract the Best Developers](https://www.codementor.io/blog/software-engineer-job-descriptions-that-attract-the-best-developers-241lev4cs8)
+- [How to Write a Job Description for Developers](https://www.codingame.com/work/blog/tech-recruiting/job-description-for-developers/)
 
 #### Hiring: process
 
