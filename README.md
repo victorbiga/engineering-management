@@ -16,15 +16,16 @@
   - [Antipatterns](#antipatterns)
   - [Biases](#biases)
   - [Career growth and job ladder](#career-growth-and-job-ladder)
+  - [Change management](#change-management)
   - [Code reviews](#code-reviews)
   - [Communication](#communication)
   - [Conflict resolution](#conflict-resolution)
+  - [Data organization](#data-organization)
   - [Decisions](#decisions)
   - [Delegation](#delegation)
   - [Delivery](#delivery)
   - [Diversity and inclusion](#diversity-and-inclusion)
     - [Diversity in hiring](#diversity-in-hiring)
-  - [Emotional Quotient (EQ)](#emotional-quotient-eq)
   - [Employee handbook](#employee-handbook)
   - [Escalations](#escalations)
   - [First-time manager](#first-time-manager)
@@ -51,6 +52,8 @@
   - [Production and productivity](#production-and-productivity)
   - [Personal productivity](#personal-productivity)
   - [Planning (roadmap, goal setting, KPI, OKR, etc.)](#planning-roadmap-goal-setting-kpi-okr-etc)
+    - [Goals](#goals)
+    - [OKRs](#okrs)
   - [Presentations, design and public speaking](#presentations-design-and-public-speaking)
   - [Problem solving](#problem-solving)
   - [Processes for engineering](#processes-for-engineering)
@@ -63,6 +66,7 @@
   - [Team culture](#team-culture)
   - [Scaling an organization](#scaling-an-organization)
   - [Security](#security)
+  - [Soft skills, Emotional Quotient (EQ)](#soft-skills-emotional-quotient-eq)
   - [Strategy](#strategy)
   - [Team dynamics](#team-dynamics)
   - [Training](#training)
@@ -215,6 +219,20 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 - [Mentor vs Advisor vs Coach](http://baxterblog.typepad.com/blog/2012/11/mentor-vs-advisor-vs-coach.html)
 - [How To Be Someone People Love To Talk To](http://www.bakadesuyo.com/2015/02/love-to-talk/)
 - 🧰 [Mega list of 1 on 1 meeting questions compiled from a variety to sources](https://github.com/VGraupera/1on1-questions)
+- [130+ One on One Meeting Questions Great Managers Ask](https://getlighthouse.com/blog/one-on-one-meeting-questions-great-managers-ask/)
+  - Building rapport & trust
+  - Talking about career development
+  - Giving and receiving feedback
+  - Talking about ways to improve your team or your company
+  - Checking in on their general happiness
+  - Special questions for remote employees
+  - Leading your team through difficult times
+  - Being a coach to your team
+  - Skip level meeting questions
+  - The one on one meeting questions you need to ask every time
+- [Why Your One-on-One’s Should Probably Be Longer](https://medium.com/vpe-coach/why-your-one-on-ones-should-probably-be-longer-cbf8961645fc)
+  - The “30 minute One-on-One” Anti-Pattern
+  - Change the day
 
 ### Antipatterns
 
@@ -247,8 +265,11 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 - [Refactoring Our Engineering Skills Matrix](https://engine.expert360.com/refactoring-our-engineering-skills-matrix-b5314e2b0013)
 - [How to waste your career, one comfortable year at a time](https://apoorvagovind.substack.com/p/how-to-waste-your-career-one-comfortable)
 - 🎤 [Creating a Career Ladder for Engineers](https://speakerdeck.com/polotek/creating-a-career-ladder-for-engineers)
-- [Gitlab Engineering Career Development](https://about.gitlab.com/handbook/engineering/career-development/), Gitlab
+- [Gitlab Engineering Career Development](https://about.gitlab.com/handbook/engineering/career-development/)
 - [Medium Engineering Growth Framework](https://medium.com/s/engineering-growth-framework)
+- [Engineering levels at Carta](https://medium.com/building-carta/engineering-levels-at-carta-d33db2a55a20)
+- [Things We Learned Creating Technology Career Steps](https://engineering.atspotify.com/2016/02/22/things-we-learned-creating-technology-career-steps/) (Spotify)
+  - Behavior Versus Achievements
 
 Curated examples of job ladder/career development matrix:
 
@@ -271,11 +292,18 @@ Concepts:
 
 - [Four stages of competence](https://en.wikipedia.org/wiki/Four_stages_of_competence), Wikipedia
 
+### Change management
+
+- 🎧 [At The Table with Patrick Lencioni: 50. Let the Haters Hate](https://atthetable-patricklencioni.libsyn.com/50-let-the-haters-hate)
+- [Nemawashi](https://en.m.wikipedia.org/wiki/Nemawashi) (Wikipedia): "an informal process of quietly laying the foundation for some proposed changed".
+
 ### Code reviews
 
 - [Ask HN: How do you review code?](https://news.ycombinator.com/item?id=11416746): great discussion on HackerNews, full of interesting ideas.
 - [Maslow's pyramid of code reviews](http://blog.d3in.org/post/111338685456/maslows-pyramid-of-code-review)
 - [Code review in remote teams](https://web.hypothes.is/blog/code-review-in-remote-teams/): very complete set of rules.
+- [No code reviews by default](https://www.raycast.com/blog/no-code-reviews-by-default/)
+  - Responsibility over convention
 
 ### Communication
 
@@ -296,10 +324,29 @@ Concepts:
   - Ladder of inference
   - First principles
 - [How To Say No](https://www.starterstory.com/how-to-say-no). Templates for saying no to written interviews, going to an event, doing free work...
+- 🎧 [At The Table with Patrick Lencioni: 59. Don't Make Me Repeat Myself](https://atthetable-patricklencioni.libsyn.com/59-dont-make-me-repeat-myself)
 
 ### Conflict resolution
 
 - 🎞 [Disagree and commit](https://www.youtube.com/watch?v=oZw2cg8AXDw)
+
+### Data organization
+
+- [Building a data team at a mid-stage startup: a short story](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html)
+- [Building The Analytics Team At Wish](https://medium.com/wish-engineering/scaling-analytics-at-wish-619eacb97d16) (a four-part series of articles)
+  - Rebuilding The Data Pipeline
+  - Building The Data Warehouse
+  - Deploying Business Intelligence Tooling
+  - Data engineering should build a system that allows analysts to produce their own pipelines.
+  - Strong interviewers need to have flexible questions that react to signals from the candidates.
+- [Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/)
+  - You Probably Don’t Have Big Data
+  - Nobody enjoys writing and maintaining data pipelines or ETL. It’s the industry’s ultimate hot potato.
+  - Give data scientists ownership of the ETL end-to-end
+  - Talented engineers in the data space are almost always best focused on horizontal applications
+  - It is absolutely essential for platform engineers to stay ahead of the data science teams
+  - Engineers should see themselves as being “Tony Stark’s tailor”, building the armor that prevents data scientists from falling into pitfalls that yield unscalable or unreliable solutions.
+  - We [should be ok with] sacrificing technical efficiency for velocity and autonomy
 
 ### Decisions
 
@@ -311,8 +358,9 @@ Concepts:
   - We risk more when we delay decisions in an attempt to reach total consensus.
   - If there is a good enough solution X, don’t ask people what they think about it. Instead, ask everyone if they can live with it and if not, why.
   - Consensus is the path, not the destination.
+- [Principles.dev - Software Engineering Principles](https://principles.dev/)
 
-> Arguments you should avoid using- that are logical fallacies “Because it’s always been done this way.” “Because we tried it before, and it didn’t work.” “Because company X uses this.” “Because {important person} said so.” Reason on tradeoffs, constraints, opportunities instead. Gergely Orosz
+> Arguments you should avoid using - that are logical fallacies “Because it’s always been done this way.” “Because we tried it before, and it didn’t work.” “Because company X uses this.” “Because {important person} said so.” Reason on tradeoffs, constraints, opportunities instead. Gergely Orosz
 
 ### Delegation
 
@@ -357,11 +405,6 @@ Some great videos by PwC:
 - [A Quick Puzzle to Test Your Problem Solving](http://www.nytimes.com/interactive/2015/07/03/upshot/a-quick-puzzle-to-test-your-problem-solving.html?_r=0)... and a great way to learn about confirmation bias (which is not only applicable to hiring but also to testing).
 - [The Diversity Hiring Playbook](https://business.linkedin.com/content/dam/business/talent-solutions/global/en_US/site/pdf/playbooks/linkedin-diversity-hiring-playbook-en-us.pdf), LinkedIn. Pretty high level but probably a good start.
 - 🎞 [Hiring women at Klarna](https://www.youtube.com/watch?v=JWYNst72ucI)
-
-### Emotional Quotient (EQ)
-
-- [Those 20 Key Habits that Hold You Back](http://coachingfeedforward.blogspot.com/2010/07/those-20-key-habits-that-hold-you-back.html)
-- [How to Deal with Difficult People on Software Projects](https://www.howtodeal.dev/)
 
 ### Employee handbook
 
@@ -476,6 +519,18 @@ Checkout [Diversity in hiring](#diversity-in-hiring)
   - If an interview can be spoiled, it means that the answers can be memorized.
   - Your spoilable interview is going to get spoiled. Some referred candidates are going to get the answers from their friends.
   - If foreknowledge doesn’t reduce the quality of your interviews, it means that you have to change your questions less often
+- [Becoming a good technical interviewer - Dashlane Blog](https://blog.dashlane.com/becoming-a-good-technical-interviewer/)
+  - Interviewing should always be a pleasant experience for the candidate
+  - The fine balance between guiding and giving the solution
+  - I’m interviewing someone much more senior than I am. What if I don’t understand their solution?
+- [6 red flags I saw while doing 60+ technical interviews in 30 days](https://blog.interviewing.io/6-red-flags-i-saw-while-doing-60-technical-interviews-in-30-days/)
+  - Your interviewer is only open to solving the problem ONE way
+  - Undue pressure to accept an offer letter
+  - Not enough clarity about your role
+  - Consistent lack of interest or low morale from interviewers
+  - Your interviewers aren’t prepared for the interview
+  - Lack of a clear direction on where the company is headed
+
 
 Specifics about hiring engineering managers:
 
@@ -499,6 +554,11 @@ Specifics about hiring engineering managers:
   - What’s one misconception your coworkers have about you?
   - What was the last thing you nerded out on?
   - What are 10 ways to speed up Domino’s pizza delivery?
+- [How to create a good problem-solving interview](https://blog.dashlane.com/how-to-create-a-good-problem-solving-interview/)
+  - What to look for: methodology, communication, programming skills
+  - Don’t aim for complexity
+  - Interview your coworkers
+  - Standardize your interview
 
 #### Hiring: job postings
 
@@ -633,6 +693,9 @@ Quote:
 - 🎞 [Almost Live! - Middle Management Suck-Ups](https://www.youtube.com/watch?v=IUIQX5esnNo): a great example of a terrible ineffective meeting.
 - [Run Better Meetings with This Expert-Level Advice](http://firstround.com/review/first-round-reviews-6-must-reads-to-run-fast-efficient-meetings/), First Round Review
 - [Engineering Team Meeting: Format & Topic Ideas](https://marcgg.com/blog/2020/04/06/engineering-team-meeting-ideas/): lots of great ideas to start it.
+- [The Document Culture of Amazon](https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/)
+  - Documents help eliminate many biases, for or against, the person who wrote the document.
+  - There’s no “can you see my screen”, background noise, or call audio disconnects while understanding the main content for the meeting.
 
 ### Mentoring
 
@@ -752,27 +815,43 @@ In terms of software, I can't recommend [Things](https://culturedcode.com/things
 
 ### Planning (roadmap, goal setting, KPI, OKR, etc.)
 
-- [How to Use OKRs for Quarterly and Annual Planning](https://www.wrike.com/blog/okrs-quarterly-planning/)
+- [Top 10 Reasons for Slow Velocity](https://svpg.com/top-10-reasons-for-slow-velocity/)
 - [The Heilmeier Catechism](https://www.darpa.mil/work-with-us/heilmeier-catechism): a crafted a set of questions to help DARPA officials think through and evaluate proposed research programs.
-- [With Goals, FAST Beats SMART](https://sloanreview.mit.edu/article/with-goals-fast-beats-smart/): goals should be embedded in frequent discussions; ambitious in scope; measured by specific metrics and milestones; and transparent for everyone in the organization to see.
-- 🎞 [Startup Lab workshop: How Google sets goals: OKRs](https://www.youtube.com/watch?v=mJB83EZtAjc&ab_channel=GV)
-- [How to Make OKRs Actually Work at Your Startup](https://firstround.com/review/How-to-Make-OKRs-Actually-Work-at-Your-Startup/), First Round Review
-- 🎞 [Why the secret to success is setting the right goals](https://www.youtube.com/watch?v=L4N1q4RNi9I&ab_channel=TED), John Doerr
 - [The Fundamentals of Roadmapping](https://medium.com/@austinfish/the-fundamentals-of-roadmapping-f465f5ac733)
   - With constant innovation, new market entrants and potential black swans like a global pandemic, the best a leader can do is set a 12–18 month strategic plan that is directionally aligned with the company’s true north. That plan should be broken down by quarter with the assumption that the degree of confidence in achieving goals within each quarter will decline over time.
   - Expect each team across the organization to cascade their operational roadmaps from these strategic foci. Operational roadmaps should identify key initiatives and milestones.
-- [A Modern Guide to Lean OKRs](https://worldpositive.com/a-modern-guide-to-lean-okrs-part-i-c4a30dba5fa1) (a three-part series)
-- [OKR: The Ultimate Objectives and Key Results Resource](https://weekdone.com/resources/objectives-key-results/)
-- [OKR Examples (And Tips for Creating Your Own)](https://okrexamples.co/)
 - [How to measure and improve success in your engineering team](https://leaddev.com/productivity-eng-velocity/how-measure-and-improve-success-your-engineering-team)
-- [Manager OKRs, Maker OKRs: How Early Stage Startups Should Think About Goal-Setting](https://hunterwalk.medium.com/manager-okrs-maker-okrs-how-startups-should-think-about-goal-setting-7be87195fadc)
-- [Objectives and Key Results](https://about.gitlab.com/company/okrs/), GitLab Handbook
+- [“Stories” Don’t Tell a Story: Good Sprint Planning Uses Milestones](https://cgroom.medium.com/stories-dont-tell-a-story-good-sprint-planning-uses-milestones-a71326aa8849)
+  - Manage Through Milestones
+- [Rituals for hypergrowth: An inside look at how YouTube scaled](https://coda.io/d/Rituals-for-hypergrowth-An-inside-look-at-how-YouTube-scaled_dtrl4NzUguc/Rituals-for-hypergrowth-An-inside-look-at-how-YouTube-scaled_su_30#_lumUl)
+  - Planning cadence: 6-month strategic planning and 6-week sprints
+  - Strategic planning had two key outputs: (a) a list of Big Rocks and (b) the matrix of project allocations
+  - Our process was designed to avoid the “just in time” ad-hoc meetings
+  - Many of our meetings included a long “bullpen” period (i.e. unstructured multithreaded discussion time)
+  - Replace read-outs / meetings with broadcast emails
+  - Pre-reads (”Come prepared and expect others to be prepared”)
+
+> Truth emerges more readily from error than from confusion.
+> Francis Bacon
+
+#### Goals
+
+- [With Goals, FAST Beats SMART](https://sloanreview.mit.edu/article/with-goals-fast-beats-smart/): goals should be embedded in frequent discussions; ambitious in scope; measured by specific metrics and milestones; and transparent for everyone in the organization to see.
 
 > A goal without a plan is just a wish.
 > Antoine de Saint-Exupéry
 
-> Truth emerges more readily from error than from confusion.
-> Francis Bacon
+#### OKRs
+
+- [How to Use OKRs for Quarterly and Annual Planning](https://www.wrike.com/blog/okrs-quarterly-planning/)
+- 🎞 [Startup Lab workshop: How Google sets goals: OKRs](https://www.youtube.com/watch?v=mJB83EZtAjc&ab_channel=GV)
+- [How to Make OKRs Actually Work at Your Startup](https://firstround.com/review/How-to-Make-OKRs-Actually-Work-at-Your-Startup/), First Round Review
+- 🎞 [Why the secret to success is setting the right goals](https://www.youtube.com/watch?v=L4N1q4RNi9I&ab_channel=TED), John Doerr
+- [A Modern Guide to Lean OKRs](https://worldpositive.com/a-modern-guide-to-lean-okrs-part-i-c4a30dba5fa1) (a three-part series)
+- [OKR: The Ultimate Objectives and Key Results Resource](https://weekdone.com/resources/objectives-key-results/)
+- [OKR Examples (And Tips for Creating Your Own)](https://okrexamples.co/)
+- [Manager OKRs, Maker OKRs: How Early Stage Startups Should Think About Goal-Setting](https://hunterwalk.medium.com/manager-okrs-maker-okrs-how-startups-should-think-about-goal-setting-7be87195fadc)
+- [Objectives and Key Results](https://about.gitlab.com/company/okrs/), GitLab Handbook
 
 ### Presentations, design and public speaking
 
@@ -785,6 +864,17 @@ In terms of software, I can't recommend [Things](https://culturedcode.com/things
 - 📖 William Lidwell, Kritina Holden, Jill Butler, [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/1592530079).
 - [A Five Minutes Guide to Better Typography](http://pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography)
 - [Presentation Zen: Living large: "Takahashi Method" uses king-sized text as a visual](https://presentationzen.blogs.com/presentationzen/2005/09/living_large_ta.html)
+- [How to tell great spoken stories](https://www.julian.com/blog/storytelling)
+  - Limited memorization
+  - Hook
+  - Mystery
+  - Climax
+  - Hero’s perspective
+  - Relive the story; blow your own mind
+  - Charisma is confidence, joy, and love for your audience
+  - Vary your speed, volume, energy, and rhythm
+  - Lean into silence
+  - Picture yourself as being happy and excited to tell this story
 
 Some great examples of presentations:
 
@@ -905,6 +995,12 @@ See my [engineering-management section about problem solving](https://github.com
   - Active redistribution of “experience points”
   - Communicating generously
 - [Principles trump processes](https://www.jjude.com/principles-trumps)
+- [Brilliant Jerks in Engineering](https://www.brendangregg.com/blog/2017-11-13/brilliant-jerks.html)
+  - The selfless brilliant jerk
+  - The selfish brilliant jerk
+  - Problems causes by brilliant jerks
+  - Dealing with brilliant jerks
+  - Includes lots of resources and practical questions!
 
 Those are considered classics:
 
@@ -925,6 +1021,19 @@ Those are considered classics:
 ### Security
 
 - [The SaaS CTO Security Checklist Redux](https://www.goldfiglabs.com/guide/saas-cto-security-checklist/)
+- [Does Your Organization Have a Security.txt File?](https://krebsonsecurity.com/2021/09/does-your-organization-have-a-security-txt-file/), Krebs on Security
+
+### Soft skills, Emotional Quotient (EQ)
+
+- [Those 20 Key Habits that Hold You Back](http://coachingfeedforward.blogspot.com/2010/07/those-20-key-habits-that-hold-you-back.html)
+- [How to Deal with Difficult People on Software Projects](https://www.howtodeal.dev/)
+- [Leadership Soft Skills: Master Your Own Mind to Lead Your Team to Success](https://codingsans.com/blog/leadership-soft-skills)
+  - The importance of soft skills in engineering leadership
+  - Process to improving leadership soft skills
+  - Practices to fine-tune leadership soft skills
+  - Helping direct reports improve leadership soft skills
+  - Emphasizing leadership soft skills in your culture
+
 
 ### Strategy
 
@@ -998,6 +1107,7 @@ Shameless plug here, two presentations I contributed to:
 - 🧰 [92bondstreet/cto](https://github.com/92bondstreet/cto): a curated list of CTO resources
 - 🧰 [mateusz-brainhub/awesome-cto-resources](https://github.com/mateusz-brainhub/awesome-cto-resources): a community-curated list of awesome resources to help you grow as a CTO
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)
+- [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager)
 
 ### Movies
 
