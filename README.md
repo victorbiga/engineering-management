@@ -343,7 +343,7 @@ Concepts:
   - You Probably Don’t Have Big Data
   - Nobody enjoys writing and maintaining data pipelines or ETL. It’s the industry’s ultimate hot potato.
   - Give data scientists ownership of the ETL end-to-end
-  - Talented engineers in the data space are almost always best focused on horizontal applications
+  - Engineers design new Lego blocks that data scientists assemble in creative ways to create new data science.
   - It is absolutely essential for platform engineers to stay ahead of the data science teams
   - Engineers should see themselves as being “Tony Stark’s tailor”, building the armor that prevents data scientists from falling into pitfalls that yield unscalable or unreliable solutions.
   - We [should be ok with] sacrificing technical efficiency for velocity and autonomy
@@ -497,6 +497,7 @@ Some great videos by PwC:
 - [How to Hire](https://hbr.org/2018/01/how-to-hire), Patty McCord (built HR function at Netflix).
 - [Trouble hiring senior engineers? It's probably you](https://hiringengineersbook.com/post/trouble-hiring/).
 - [I've been an engineer and a recruiter. Hiring is broken.](http://blog.alinelerner.com/ive-been-an-engineer-and-a-recruiter-hiring-is-broken-heres-why-and-heres-what-it-should-be-like-instead/)
+- 🎧 [How to Get the Ideal Team Player](https://coachingforleaders.com/podcast/301/)
 
 #### Hiring: diversity and biases
 
@@ -742,6 +743,8 @@ Quotes:
 
 ### Organization structure
 
+See also [Data organization](#data-organization)
+
 - Martin Casado, [Hire a VP of Engineering](https://a16z.com/2017/05/26/hiring-vp-engineering-why-what/) on the Andreessen Horowitz blog
   - The most important function of a VP of engineering is to build out the engineering team and set a startup’s engineering culture.
   - Competent engineering management should therefore be able to push the team towards more practical, incremental designs that can garner useful external feedback quickly — without compromising the long-term generality of the system. The VP’s role here is not producing the architecture, but ensuring that incremental release is a real requirement in the design process.
@@ -765,12 +768,9 @@ Quotes:
   - Use software boundaries defined by business-domain bounded contexts
   - Teams composed of only people with single functional expertise should be avoided at all costs.
   - Four fundamental team topologies: stream-aligned, enabling, complicated subsystem, platform.
-- [Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/): the principles applied in this article are a great inspiration for functions other than data.
-  - Nobody enjoys writing and maintaining data pipelines or ETL. It’s the industry’s ultimate hot potato.
-  - Give people end-to-end ownership of the work they produce (autonomy).
-  - Engineers design new Lego blocks that data scientists assemble in creative ways to create new data science.
-  - Engineers should see themselves as being “Tony Stark’s tailor”, building the armor that prevents data scientists from falling into pitfalls that yield unscalable or unreliable solutions.
-  - We are sacrificing technical efficiency for velocity and autonomy.
+- [Structure Eats Strategy](https://janbosch.com/blog/index.php/2017/11/25/structure-eats-strategy/)
+  - BAPO: the B (business) should define the A (architecture) which is the starting point for the P (process), on which the O (organization) is based.
+  - Most companies are not BAPO but instead they are OPAB: the existing organization is used as a basis for the definition of convenience-driven processes, which in turn leads to an accidental architecture.
 
 ### Production and productivity
 
