@@ -414,6 +414,7 @@ Some great videos by PwC:
 - [Inaka's handbook](https://github.com/inaka/guidelines)
 - [Basecamp's handbook](https://github.com/basecamp/handbook)
 - [Mattermost's handbook](https://docs.mattermost.com/guides/core.html)
+- [Strapi's handbook](https://handbook.strapi.io)
 
 ### Escalations
 
