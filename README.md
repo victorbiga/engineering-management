@@ -1014,6 +1014,43 @@ Those are considered classics:
 
 [culturecodes](http://culturecodes.co/) is a repository of culture deck from companies (including the ones above).
 
+Engineering values:
+
+- [Engineering Values. A letter to the Medium Engineering…](https://medium.engineering/engineering-values-7143c0db0bd6)
+  - Professional & personal growth is more important than team stability
+  - Everyone is a mentor; human connection is the path to bringing out the best in people
+  - Excellent teams require diversity & inclusiveness
+  - Good leaders are active and supportive
+  - Good engineers are rigorous and resolute
+  - Pursuit of greatness is a virtue
+- [Engineering Values at Lullabot](https://www.lullabot.com/engineering-values)
+  - People matter more
+  - Cultivate inclusivity
+  - Learn and share
+  - Excellence balances perfect and done
+  - Code for the future
+  - Work joy into work
+- [Figma's engineering values](https://www.figma.com/blog/figmas-engineering-values/)
+  - Communicate early and often
+  - Lift your team
+  - Craftsmanship
+  - Prioritize impact
+- [HubSpot’s Engineering Values](https://product.hubspot.com/blog/hubspots-engineering-values)
+  - Customers Come First
+  - Complacency Equals Failure
+  - Think Like an Owner
+  - Move Quickly & Iterate
+  - Small Teams Win
+  - Keep It Simple
+  - Embrace Organizational Change
+  - Scale Each Other
+- [Our engineering values at Wise](https://www.wise.jobs/2020/10/27/transferwise-engineering-values/)
+  - Ship often. Learn. Iterate. Have impact.
+  - Be replaceable — single ownership is no ownership.
+  - Move fast, but build for tomorrow.
+  - Strong opinions, weakly held, openly shared.
+  - Raise the bar — for yourself and your team.
+
 ### Scaling an organization
 
 - [Scaling Without Imploding](https://hackernoon.com/scaling-without-imploding-79b46a91ac63)
