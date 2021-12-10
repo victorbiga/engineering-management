@@ -741,6 +741,7 @@ Quotes:
 
 - 🎞 [5 Onboarding Fiascos From the Movies](https://business.linkedin.com/talent-solutions/blog/recruiting-humor-and-fun/2016/the-worst-new-hire-first-days-in-movies-that-you-should-never-let-happen-in-your-company)
 - [Onboarding - Mattermost Handbook](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/onboarding)
+- [Gitlab's engineering onboarding list](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md#for-engineering-such-as-developers-build-infrastructure-etc-only)
 
 ### Organization structure
 
