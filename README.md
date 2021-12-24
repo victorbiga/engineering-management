@@ -812,6 +812,7 @@ See also [Data organization](#data-organization)
   - It’s a myth that it takes 21 or 66 days to create a habit. Repetition doesn't create habits. Emotions create habits.
   - Create a tiny habit through an ABC process: anchor moment, a tiny behavior, and instant celebration.
   - Avoid raising the bar on the tiny behavior. Do more if you want to, but don’t change the standard.
+- [Your Calendar = Your Priorities](https://cutlefish.substack.com/p/tbm-4952-your-calendar-your-priorities)
 
 In terms of software, I can't recommend [Things](https://culturedcode.com/things/) enough (Mac and iOS only). It is a delightful piece of software that gets out of the way and lets you focus on your tasks.
 
