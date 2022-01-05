@@ -299,11 +299,7 @@ Concepts:
 
 ### Code reviews
 
-- [Ask HN: How do you review code?](https://news.ycombinator.com/item?id=11416746): great discussion on HackerNews, full of interesting ideas.
-- [Maslow's pyramid of code reviews](http://blog.d3in.org/post/111338685456/maslows-pyramid-of-code-review)
-- [Code review in remote teams](https://web.hypothes.is/blog/code-review-in-remote-teams/): very complete set of rules.
-- [No code reviews by default](https://www.raycast.com/blog/no-code-reviews-by-default/)
-  - Responsibility over convention
+See my [professional-programming section about code reviews](https://github.com/charlax/professional-programming#code-reviews)
 
 ### Communication
 
@@ -885,7 +881,7 @@ Some great examples of presentations:
 
 ### Problem solving
 
-See my [engineering-management section about problem solving](https://github.com/charlax/professional-programming#problem-solving)
+See my [professional-programming section about problem solving](https://github.com/charlax/professional-programming#problem-solving)
 
 ### Processes for engineering
 
