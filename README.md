@@ -637,9 +637,10 @@ Red Adair
 
 ### Learning, retro, postmortem
 
+See my [professional-programming section about incident-response](https://github.com/charlax/professional-programming)
+
 - [This is How Effective Leaders Move Beyond Blame](http://firstround.com/review/this-is-how-effective-leaders-move-beyond-blame/)
 - A great description of what blamelessness actually means: [How is team-member-1 doing?](https://about.gitlab.com/2017/03/17/how-is-team-member-1-doing/) (team-member-1 is the name of the person that "gave the unfortunate command to delete our primary database" during the global Gitlab outage in Feb 2017.
-- [A list of postmortems on Github](https://github.com/danluu/post-mortems)
 - [Debriefing Facilitation Guide](https://extfiles.etsy.com/DebriefingFacilitationGuide.pdf): Etsy's guide to debriefing & incident review.
 - [General James 'Mad Dog' Mattis Email About Being 'Too Busy To Read' Is A Must-Read](http://www.businessinsider.com/viral-james-mattis-email-reading-marines-2013-5): "by reading, you learn through others’ experiences, generally a better way to do business, especially in our line of work where the consequences of incompetence are so final for young men."
 - [You can increase your intelligence: 5 ways to maximize your cognitive potential](https://blogs.scientificamerican.com/guest-blog/you-can-increase-your-intelligence-5-ways-to-maximize-your-cognitive-potential/): forgive the clickbait link, it's actually a good article.
