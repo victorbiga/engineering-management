@@ -39,6 +39,7 @@
     - [Hiring: job postings](#hiring-job-postings)
     - [Hiring: process](#hiring-process)
     - [Hiring: sourcing](#hiring-sourcing)
+    - [Hiring: take home exercises](#hiring-take-home-exercises)
     - [Hiring: quotes](#hiring-quotes)
   - [Incident prevention and response (on-call, outages)](#incident-prevention-and-response-on-call-outages)
   - [Learning, retro, postmortem](#learning-retro-postmortem)
@@ -580,6 +581,10 @@ Specifics about hiring engineering managers:
 
 - [How To Hire Engineers: Step 1, Sourcing](https://medium.com/@jocelyngoldfein/how-to-hire-engineers-step-1-sourcing-f388fddc63fd#.fwtgweq0e)
 
+#### Hiring: take home exercises
+
+- [How GitHub does take home technical interviews](https://github.blog/2022-03-31-how-github-does-take-home-technical-interviews/)
+
 #### Hiring: quotes
 
 > If you can 'hire tough,' you can 'manage easy'.
@@ -875,6 +880,7 @@ In terms of software, I can't recommend [Things](https://culturedcode.com/things
   - Vary your speed, volume, energy, and rhythm
   - Lean into silence
   - Picture yourself as being happy and excited to tell this story
+- [Death by PowerPoint: the slide that killed seven people](https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx) (see [Edward Tufte's article on this topic](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001yB))
 
 Some great examples of presentations:
 
