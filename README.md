@@ -936,6 +936,7 @@ See my [professional-programming section about problem solving](https://github.c
     - The article includes a short checklist for first-time project managers: kickoff meeting, milestones, design process, weekly update emails, daily standups, weekly goals, demoing progress.
 - [Directly Responsible Individuals](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/#what-is-a-directly-responsible-individual)
 - [Yes, You Should Estimate Software Projects](https://blog.pragmaticengineer.com/yes-you-should-estimate/), Gergely Orosz
+- [Software Estimation Is Hard. Do It Anyway](https://jacobian.org/2021/may/20/estimation/)
 
 > The ultimate inspiration is the deadline.
 > — Nolan Bushnell
