@@ -28,6 +28,7 @@
     - [Diversity in hiring](#diversity-in-hiring)
   - [Employee handbook](#employee-handbook)
   - [Escalations](#escalations)
+  - [FinOps (cost)](#finops-cost)
   - [First-time manager](#first-time-manager)
   - [First days on the job](#first-days-on-the-job)
   - [Feedback and performance](#feedback-and-performance)
@@ -157,6 +158,7 @@ There are some other more specific books quoted below.
 ### Book reading lists
 
 - [Jason Evanish's list](https://jasonevanish.com/books/) (Lighthouse founder) is quite comprehensive.
+- [Holiday Book Recommendations for Engineering Managers, Software Engineers and Product Managers](https://blog.pragmaticengineer.com/holiday-tech-book-recommendations/#books-by-genre), Gergely Orosz
 
 ## What is engineering management?
 
@@ -417,6 +419,10 @@ Some great videos by PwC:
 
 - [Learn how to escalate issues](http://www.goodproductmanager.com/2007/05/09/learn-how-to-escalate-issues/)
 - [Mental frameworks for making decisions](http://nathanbarry.com/mental-frameworks/): how to handle escalations as a manager.
+
+### FinOps (cost)
+
+- [Efficiency: Managing Infrastructure Costs](https://infraeng.dev/efficiency/)
 
 ### First-time manager
 
@@ -835,6 +841,7 @@ In terms of software, I can't recommend [Things](https://culturedcode.com/things
   - Many of our meetings included a long “bullpen” period (i.e. unstructured multithreaded discussion time)
   - Replace read-outs / meetings with broadcast emails
   - Pre-reads (”Come prepared and expect others to be prepared”)
+- [Dear PMs, It's Time to Rethink Agile at Enterprise Startups](https://review.firstround.com/dear-pms-its-time-to-rethink-agile-at-enterprise-startups)
 
 > Truth emerges more readily from error than from confusion.
 > Francis Bacon
@@ -937,6 +944,13 @@ See my [professional-programming section about problem solving](https://github.c
 - [Directly Responsible Individuals](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/#what-is-a-directly-responsible-individual)
 - [Yes, You Should Estimate Software Projects](https://blog.pragmaticengineer.com/yes-you-should-estimate/), Gergely Orosz
 - [Software Estimation Is Hard. Do It Anyway](https://jacobian.org/2021/may/20/estimation/)
+- [Great engineering teams focus on milestones instead of projects](https://www.rubick.com/milestones-not-projects/)
+  - Milestones should be small, high-quality, understandable, valuable
+  - We can estimate 1-3 weeks of work
+  - Breaking down projects helps with delivery incremental business value.
+- [6 Principles for Building a World Class TPM Team](https://doordash.engineering/2021/08/02/6-principles-for-building-a-world-class-tpm-team/amp/), Sophia Vicent
+- [Driving engineers to an arbitrary date is a value destroying mistake](https://iism.org/article/driving-engineers-to-an-arbitrary-date-is-a-value-destroying-mistake-49)
+- [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://newsletter.pragmaticengineer.com/p/project-management-in-tech?s=r), Gergely Orosz
 
 > The ultimate inspiration is the deadline.
 > — Nolan Bushnell
