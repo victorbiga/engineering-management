@@ -358,8 +358,17 @@ See my [professional-programming section about code reviews](https://github.com/
   - If there is a good enough solution X, don’t ask people what they think about it. Instead, ask everyone if they can live with it and if not, why.
   - Consensus is the path, not the destination.
 - [Principles.dev - Software Engineering Principles](https://principles.dev/)
+- [Guiding principle: consent over consensus](https://jchyip.medium.com/guiding-principle-consent-over-consensus-8aee08540d62)
 
-> Arguments you should avoid using - that are logical fallacies “Because it’s always been done this way.” “Because we tried it before, and it didn’t work.” “Because company X uses this.” “Because {important person} said so.” Reason on tradeoffs, constraints, opportunities instead. Gergely Orosz
+> Arguments you should avoid using - that are logical fallacies
+> “Because it’s always been done this way.”
+> “Because we tried it before, and it didn’t work.”
+> “Because company X uses this.”
+> “Because {important person} said so.”
+>
+> Reason on tradeoffs, constraints, opportunities instead.
+>
+> – Gergely Orosz
 
 ### Delegation
 
