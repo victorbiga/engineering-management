@@ -1013,6 +1013,7 @@ See my [professional-programming section about problem solving](https://github.c
   - Ruthlessly prioritize
   - Product-ify migrations: accountability, test first, train, lead with value, KYC, gamify
   - Automate, automate, and move up the stack!
+- [hwayne/awesome-cold-showers: For when people get too hyped up about things](https://github.com/hwayne/awesome-cold-showers)
 
 ### Team culture
 
