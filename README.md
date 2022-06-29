@@ -720,6 +720,7 @@ Quote:
 
 - [The Conjoined Triangles of Senior-Level Development](http://frontside.io/blog/2016/07/07/the-conjoined-triangles-of-senior-level-development.html) looks into how to define a senior engineer.
 - [Advice is Cheap — Context is Priceless](http://firstround.com/review/advice-is-cheap-context-is-priceless/)
+- [30 questions to ask your mentor](https://blog.get-merit.com/30-questions-to-ask-a-mentor/)
 - [Developers mentoring other developers: practices I've seen work well](https://blog.pragmaticengineer.com/developers-mentoring-other-developers/), Gergey Orosz
   - Provide context and perspective
   - Leverage your network to help the mentee
