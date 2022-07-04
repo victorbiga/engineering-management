@@ -830,6 +830,7 @@ See also [Data organization](#data-organization)
   - Create a tiny habit through an ABC process: anchor moment, a tiny behavior, and instant celebration.
   - Avoid raising the bar on the tiny behavior. Do more if you want to, but don’t change the standard.
 - [Your Calendar = Your Priorities](https://cutlefish.substack.com/p/tbm-4952-your-calendar-your-priorities)
+- [The Fallacy of Splitting Time](https://www.bennorthrop.com/Essays/2022/fallacy-of-splitting-time.php)
 
 In terms of software, I can't recommend [Things](https://culturedcode.com/things/) enough (Mac and iOS only). It is a delightful piece of software that gets out of the way and lets you focus on your tasks.
 
@@ -1127,6 +1128,12 @@ Shameless plug here, two presentations I contributed to:
   - Take some money, energy, time that you spend on recruiting and invest it in teaching your best developers mentoring skills.
   - Adjust your interview process and give a chance to candidates that are not good enough yet, but are eager to learn and have a growth mindset.
   - Relax “hard requirements” in your job ads to avoid filtering out impostors.
+- [“Sharing Interesting Stuff”: A simple yet powerful management tool](https://medium.com/shipup-blog/sharing-interesting-stuff-a-simple-yet-powerful-management-tool-771d3c2b39b7)
+  - Your direct report sends you something they consider worth sharing with you (can be a blog post, book chapter, video, podcast…) and a few related questions they have in mind a few days before you meet together.
+  - On the D day, you share your opinion about it and try to answer the questions that go with it.
+  - You switch roles for the next session.
+- [Introduce Team G Morning Learning Sessions to Coach the Growth Mindset](https://philippe.bourgau.net/growth-mindset-coaching-turn-remote-work-commutes-into-team-learning/)
+  - Meet every morning for 30 minutes. Spend 20 minutes studying and 10 minutes sharing what you have learned.
 
 ### Work ethics & work/life balance
 
@@ -1167,6 +1174,7 @@ Shameless plug here, two presentations I contributed to:
   - The type of information pushed to people in an organization shapes the culture considerably.
 - [Lightweight RFC Process](https://cwiki.apache.org/confluence/display/GEODE/Lightweight+RFC+Process), Apache Software Foundation
 - [6 Lessons I learned while implementing technical RFCs as a decision making tool](https://buriti.ca/6-lessons-i-learned-while-implementing-technical-rfcs-as-a-management-tool-34687dbf46cb)
+- [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
 
 ## Other sources
 
