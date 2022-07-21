@@ -95,6 +95,7 @@ Items:
 - 🎞 : video/movie extract/movie
 - 🎤 : slides/presentation
 - 🎧 : podcast
+- ⭐️ : must-read
 
 ## Books
 
@@ -501,9 +502,19 @@ Some great videos by PwC:
   - Promising an unconditional promotion is not just risky; it is stupid. Circumstances within the company can change; the employee may not perform up to expectations; the economy may tank.
 - A good example of [offer letter](https://medium.com/@henrysward/a-better-offer-letter-4e9bf61a7365#.md4rm1zlp) from eShares.
 - [We Hire the Best, Just Like Everyone Else](http://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/), Jeff Atwood.
-- [How to Hire](https://medium.com/swlh/how-to-hire-34f4ded5f176#.jxkz3wrs3): one of the best articles about hiring.
-- [The hiring post](http://sockpuppet.org/blog/2015/03/06/the-hiring-post/): another truly awesome post about hiring by Thomas Ptacek.
+- ⭐️ [How to Hire](https://medium.com/swlh/how-to-hire-34f4ded5f176#.jxkz3wrs3): one of the best articles about hiring.
+- ⭐️ [The hiring post](http://sockpuppet.org/blog/2015/03/06/the-hiring-post/): another truly awesome post about hiring by Thomas Ptacek.
 - [This is why you never end up hiring good developers](http://qz.com/258066/this-is-why-you-dont-hire-good-developers/)
+  - Many interview techniques test skills that are at best irrelevant to real working life;
+  - You want somebody who knows enough to do the job right now;
+  - Or somebody smart and motivated enough that they can learn the job quickly;
+  - You want somebody who keeps getting better at what they do;
+  - Your interview should be a collaborative conversations, not a combative interrogation;
+  - You also want somebody who you will enjoy working with;
+  - It’s important to separate “enjoy working with” from “enjoy hanging out with;”
+  - Don’t hire assholes, no matter how good they are;
+  - If your team isn’t diverse, your team is worse than it needed to be;
+  - Accept that hiring takes a really long time and is really, really hard.
 - [The single most sure-fire hiring decision you will ever make](http://behindthescenesrecruiter.com/post/82005145232/the-single-most-sure-fire-hiring-decision-you-will#.VxntfpN94UE) is about establishing an intern program.
 - [Engineering Management - Hiring](http://algeri-wong.com/yishan/engineering-management-hiring.html) explains why hiring should be your top priority.
 - [When we only hire the best means we only hire the trendiest](http://danluu.com/programmer-moneyball/)
