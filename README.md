@@ -57,10 +57,12 @@
     - [Goals](#goals)
     - [OKRs](#okrs)
   - [Presentations, design and public speaking](#presentations-design-and-public-speaking)
+  - [Prioritization](#prioritization)
   - [Problem solving](#problem-solving)
   - [Processes for engineering](#processes-for-engineering)
   - [Product management](#product-management)
   - [Project management](#project-management)
+    - [Estimating work (project management)](#estimating-work-project-management)
   - [Release management](#release-management)
   - [Remote teams](#remote-teams)
   - [Team vision](#team-vision)
@@ -326,6 +328,16 @@ See my [professional-programming section about code reviews](https://github.com/
   - First principles
 - [How To Say No](https://www.starterstory.com/how-to-say-no). Templates for saying no to written interviews, going to an event, doing free work...
 - 🎧 [At The Table with Patrick Lencioni: 59. Don't Make Me Repeat Myself](https://atthetable-patricklencioni.libsyn.com/59-dont-make-me-repeat-myself)
+- [How to Disagree](http://www.paulgraham.com/disagree.html), Paul Graham
+  - Disagreement hierarchy 0: name calling
+  - DH1: ad hominem
+  - DH2: responding to tone
+  - DH3: contradiction
+  - DH4: counterargument
+  - DH5: refutation
+  - DH6: refuting the central point
+  - Analyzing your own level of disagreement can help with unintentional intellectual dishonesty.
+  - When you have something real to say, being mean gets in the way
 
 ### Conflict resolution
 
@@ -844,6 +856,21 @@ See also [Data organization](#data-organization)
   - Avoid raising the bar on the tiny behavior. Do more if you want to, but don’t change the standard.
 - [Your Calendar = Your Priorities](https://cutlefish.substack.com/p/tbm-4952-your-calendar-your-priorities)
 - [The Fallacy of Splitting Time](https://www.bennorthrop.com/Essays/2022/fallacy-of-splitting-time.php)
+- [How to stop being "terminally online"](https://nights.bearblog.dev/how-to-stop-being-terminally-online/)
+  - Determine why you're terminally online
+  - Examine your biases
+  - Rationalize your FOMO
+  - Accept yourself as you are
+  - Stop being so ironic
+  - Take it slow
+  - Find other ways to contact people
+  - Expand your definition of the Internet
+  - Find other news site
+  - Use an RSS feed
+  - Find ways to help
+  - Find a hobby
+  - Limit to career usage
+  - Have faith
 
 In terms of software, I can't recommend [Things](https://culturedcode.com/things/) enough (Mac and iOS only). It is a delightful piece of software that gets out of the way and lets you focus on your tasks.
 
@@ -916,6 +943,17 @@ Some great examples of presentations:
 
 - 🎤 [How Google Works](https://www.slideshare.net/ericschmidt/how-google-works-final-1)
 
+### Prioritization
+
+- [How To Do Less](https://alexturek.com/2022-03-07-How-to-do-less/)
+  - Ordering a todo list vs. only doing the top item in the list
+  - Two meta-priorities: (1) keep the lights on, and make keeping them on cheaper, (2) cut the entire roadmap down to one thing at a time
+  - How to handle disappointment
+  - Say no, early and often
+  - How to say no
+  - How to correct distractions
+  - Maintaining flexibility: default to iterate, but be willing to invest
+
 ### Problem solving
 
 See my [professional-programming section about problem solving](https://github.com/charlax/professional-programming#problem-solving)
@@ -931,7 +969,7 @@ See my [professional-programming section about problem solving](https://github.c
 ### Product management
 
 - [The most important thing Dropbox did to scale Product Management](https://medium.com/startup-grind/the-most-important-thing-dropbox-did-to-scale-product-management-fed90e30697e#.t5uu8idgb): a very simple model for stating the stage a product is in.
-- [How Amazon Web Services (AWS) Achieved an \$11.5B Run Rate by Working Backwards](https://hitenism.com/amazon-working-backwards/): which explain Amazon's product management process.
+- [How Amazon Web Services (AWS) Achieved an \$11.5B Run Rate by Working Backwards](https://hitenism.com/amazon-working-backwards/): explain Amazon's product management process.
 
 ### Project management
 
@@ -965,7 +1003,6 @@ See my [professional-programming section about problem solving](https://github.c
     - Help the team focus - and don't be afraid to delegate
     - The article includes a short checklist for first-time project managers: kickoff meeting, milestones, design process, weekly update emails, daily standups, weekly goals, demoing progress.
 - [Directly Responsible Individuals](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/#what-is-a-directly-responsible-individual)
-- [Yes, You Should Estimate Software Projects](https://blog.pragmaticengineer.com/yes-you-should-estimate/), Gergely Orosz
 - [Software Estimation Is Hard. Do It Anyway](https://jacobian.org/2021/may/20/estimation/)
 - [Great engineering teams focus on milestones instead of projects](https://www.rubick.com/milestones-not-projects/)
   - Milestones should be small, high-quality, understandable, valuable
@@ -974,9 +1011,23 @@ See my [professional-programming section about problem solving](https://github.c
 - [6 Principles for Building a World Class TPM Team](https://doordash.engineering/2021/08/02/6-principles-for-building-a-world-class-tpm-team/amp/), Sophia Vicent
 - [Driving engineers to an arbitrary date is a value destroying mistake](https://iism.org/article/driving-engineers-to-an-arbitrary-date-is-a-value-destroying-mistake-49)
 - [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://newsletter.pragmaticengineer.com/p/project-management-in-tech?s=r), Gergely Orosz
+- [How finishing what you start makes teams more productive and predictable](https://lucasfcosta.com/2022/07/19/finish-what-you-start.html)
 
 > The ultimate inspiration is the deadline.
 > — Nolan Bushnell
+
+#### Estimating work (project management)
+
+- [Yes, You Should Estimate Software Projects](https://blog.pragmaticengineer.com/yes-you-should-estimate/), Gergely Orosz
+- [Cut Out Time Estimates on Roadmaps: Get Into a Product Delivery Rhythm](https://www.honeycomb.io/blog/product-strategy-and-roadmap-timing/)
+- [Hacks for engineering estimates](https://www.shubhro.com/2022/01/30/hacks-engineering-estimates/)
+  - Estimate: prediction of how long a project will take
+  - Target: statement of a desirable business objective
+  - Commitment: promise to deliver defined functionality by a certain date
+  - Plan: steps to achieve a particular result
+  - Identify the extremes (latest/soonest)
+  - Note the precision (weeks? days? hours?)
+  - Ask for confidence level over time
 
 ### Release management
 
