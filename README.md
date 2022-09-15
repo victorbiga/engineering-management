@@ -15,11 +15,13 @@
   - [1-1](#1-1)
   - [Antipatterns](#antipatterns)
   - [Biases](#biases)
+  - [Brainstorming](#brainstorming)
   - [Career growth and job ladder](#career-growth-and-job-ladder)
   - [Change management](#change-management)
   - [Code reviews](#code-reviews)
   - [Communication](#communication)
   - [Conflict resolution](#conflict-resolution)
+  - [CTO (Chief Technical Officer)](#cto-chief-technical-officer)
   - [Data organization](#data-organization)
   - [Decisions](#decisions)
   - [Delegation](#delegation)
@@ -162,6 +164,7 @@ There are some other more specific books quoted below.
 
 - [Jason Evanish's list](https://jasonevanish.com/books/) (Lighthouse founder) is quite comprehensive.
 - [Holiday Book Recommendations for Engineering Managers, Software Engineers and Product Managers](https://blog.pragmaticengineer.com/holiday-tech-book-recommendations/#books-by-genre), Gergely Orosz
+- [Most Recommended Books to Make You a Better Engineering Manager](https://managersclub.com/most-recommended-books-engineering-leaders/)
 
 ## What is engineering management?
 
@@ -203,6 +206,17 @@ Here are some generic resources:
   - A great manager is at the service of their team.
   - You don't really notice a great manager.
   - Communicate context as high level and as complete as possible.
+- [Managing people](https://klinger.io/posts/managing-people-%F0%9F%A4%AF)
+  - As a manager, everything is your fault
+  - You manage processes; you lead people
+  - Processes are expectations made explicit
+  - Trust through transparency
+  - Don't confuse autonomy and abandonment
+  - Avoid drive-by management
+  - Explicit > Implicit
+  - Expect to refactor your company every few months
+  - Chaos is felt less by the people creating it
+  - Expect more from managers that report from you
 
 ### Tools
 
@@ -239,6 +253,12 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 - [Why Your One-on-One’s Should Probably Be Longer](https://medium.com/vpe-coach/why-your-one-on-ones-should-probably-be-longer-cbf8961645fc)
   - The “30 minute One-on-One” Anti-Pattern
   - Change the day
+- [5 Questions Every Manager Needs to Ask Their Direct Reports](https://hbr.org/2022/01/5-questions-every-manager-needs-to-ask-their-direct-reports), HBR
+  - How would you like to grow within this organization?
+  - Do you feel a sense of purpose in your job?
+  - What do you need from me to do your best work?
+  - What are we currently not doing as a company that you feel we should do?
+  - Do you have the opportunity to do what you do best every day?
 
 ### Antipatterns
 
@@ -254,6 +274,25 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 - [Cognitive bias cheat sheet](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.6temb6hyg)
 - [A flowchart of cognitive biases](https://www.breakdown-notes.com/makemap/load/biases)
 - [The Cognitive Bias Codex](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg)
+
+### Brainstorming
+
+- [Extreme questions to trigger new, better ideas](https://longform.asmartbear.com/posts/extreme-questions/), A Smart Bear
+  - The following prompts jostle you out of tiny thinking
+  - If you were forced to increase your prices by 10x, what would you have to do to justify it?
+  - If all our customers vanished, and we had to earn our growth and brand from scratch, what would we do?
+  - If you were never allowed to provide tech support, in any form, what would have to change?
+  - If our biggest competitor copied every single feature we have, how do we still win?
+  - What if we are forced to ship a full, completed (at least MVP) new feature, in just two weeks, that would delight and surprise some fraction of our customers.
+  - What if you were forced to charge customers in a completely different manner?
+  - No more synchronous meetings, ever again?
+  - If we could never talk to our customers again, how would we figure out what to build?
+  - What if it didn’t matter how unprofitable you were?
+  - What externality has the potential to kill the entire company?
+
+> The dangerous man is the one who has only one idea, because then he’ll fight and die for it. The way real science goes is that you come up with lots of ideas, and most of them will be wrong.
+
+— Francis Crick
 
 ### Career growth and job ladder
 
@@ -289,6 +328,7 @@ Curated examples of job ladder/career development matrix:
 - [Basecamp](https://basecamp.com/handbook/appendix-05-titles-for-programmers): very concise
 - [Dropbox](https://dropbox.github.io/dbx-career-framework/overview.html)
 - [progression-framework/frameworks/engineering](https://github.com/monzo/progression-framework/tree/master/frameworks/engineering)
+- [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders)
 
 List of lists:
 
@@ -303,6 +343,11 @@ Concepts:
 
 - 🎧 [At The Table with Patrick Lencioni: 50. Let the Haters Hate](https://atthetable-patricklencioni.libsyn.com/50-let-the-haters-hate)
 - [Nemawashi](https://en.m.wikipedia.org/wiki/Nemawashi) (Wikipedia): "an informal process of quietly laying the foundation for some proposed changed".
+- [Why the status quo is so hard to change in engineering teams](https://www.okayhq.com/blog/status-quo-is-so-hard-to-change-in-engineering-teams)
+  - Process-related Learned Helplessness
+  - Complexity-related Learned Helplessness
+  - Resignation by a thousand cuts
+  - Declare process bankruptcy
 
 ### Code reviews
 
@@ -343,6 +388,17 @@ See my [professional-programming section about code reviews](https://github.com/
 
 - 🎞 [Disagree and commit](https://www.youtube.com/watch?v=oZw2cg8AXDw)
 
+### CTO (Chief Technical Officer)
+
+- [The 7 roles of a CTO](https://oded.substack.com/p/the-7-roles-of-a-cto)
+  - Executive
+  - Representative
+  - People manager (sometimes)
+  - Hands on developer (sometimes)
+  - Owns security and IT
+  - Salesperson
+  - Does whatever it takes
+
 ### Data organization
 
 - [Building a data team at a mid-stage startup: a short story](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html)
@@ -373,6 +429,7 @@ See my [professional-programming section about code reviews](https://github.com/
   - Consensus is the path, not the destination.
 - [Principles.dev - Software Engineering Principles](https://principles.dev/)
 - [Guiding principle: consent over consensus](https://jchyip.medium.com/guiding-principle-consent-over-consensus-8aee08540d62)
+- [Tools for better thinking](https://untools.co/): Situation-Behavior-Impact, conflict resolution diagram, Ishikawa diagram, Einsenhower matrix, second order thinking, decision matrix, etc.
 
 > Arguments you should avoid using - that are logical fallacies
 > “Because it’s always been done this way.”
@@ -568,7 +625,7 @@ Checkout [Diversity in hiring](#diversity-in-hiring)
   - Consistent lack of interest or low morale from interviewers
   - Your interviewers aren’t prepared for the interview
   - Lack of a clear direction on where the company is headed
-
+- [How to Freaking Find Great Developers By Having Them Read Code](https://freakingrectangle.com/2022/04/15/how-to-freaking-hire-great-developers/)
 
 Specifics about hiring engineering managers:
 
@@ -597,12 +654,18 @@ Specifics about hiring engineering managers:
   - Don’t aim for complexity
   - Interview your coworkers
   - Standardize your interview
+- [5 coding interview questions I hate](https://blog.thoughtspile.tech/2022/03/21/bad-tech-interview/)
+  - Trivia
+  - Specifics
+  - Obfuscated questions
+  - Unspecified behavior
 
 #### Hiring: job postings
 
 - [A Guide on How To Write a Software Developer Job Description](https://blog.hubstaff.com/how-to-write-job-posting-developers/)
 - [Software Engineer Job Descriptions that Attract the Best Developers](https://www.codementor.io/blog/software-engineer-job-descriptions-that-attract-the-best-developers-241lev4cs8)
 - [How to Write a Job Description for Developers](https://www.codingame.com/work/blog/tech-recruiting/job-description-for-developers/)
+- [How to communicate why your startup is worth joining](https://wasp-lang.dev/blog/2022/08/15/how-to-communicate-why-your-startup-is-worth-joining)
 
 #### Hiring: process
 
@@ -619,10 +682,15 @@ Specifics about hiring engineering managers:
 #### Hiring: sourcing
 
 - [How To Hire Engineers: Step 1, Sourcing](https://medium.com/@jocelyngoldfein/how-to-hire-engineers-step-1-sourcing-f388fddc63fd#.fwtgweq0e)
+- [The Case For Language-Agnostic Hiring](https://alphalist.com/blog/the-case-for-language-agnostic-hiring)
+  - Good Programmers Can Adapt to Any Language
+  - Hire Broad-minded Devs- Not Ones Boxed Into a Specific Language
+  - Encourage Knowledge Sharing Among Devs
 
 #### Hiring: take home exercises
 
 - [How GitHub does take home technical interviews](https://github.blog/2022-03-31-how-github-does-take-home-technical-interviews/)
+- [guardian/coding-exercises](https://github.com/guardian/coding-exercises)
 
 #### Hiring: quotes
 
@@ -892,6 +960,26 @@ In terms of software, I can't recommend [Things](https://culturedcode.com/things
   - Replace read-outs / meetings with broadcast emails
   - Pre-reads (”Come prepared and expect others to be prepared”)
 - [Dear PMs, It's Time to Rethink Agile at Enterprise Startups](https://review.firstround.com/dear-pms-its-time-to-rethink-agile-at-enterprise-startups)
+- [When Everything is Important But Nothing is Getting Done](https://sharedphysics.com/everything-is-important/)
+  - Step 0: Create Consensus That There is a Problem
+  - Step 1: Create a Unified View of All Existing Work
+  - Step 2: Create and Implement Criteria for Comparing Projects
+  - Step 3: Sequence The Projects & Commit to that Sequence
+  - Step 4: Getting Work Started
+  - Step 5: Identify and Fix Your Organizational Constraints
+  - Step 6: Create A Clear Finish Line (Definition of Done)
+  - Step 7: Keep It Going
+- [The practical application of "Rocks, Pebbles, Sand"](https://longform.asmartbear.com/docs/rocks-pebbles-sand/), A Smart Bear
+  - If you schedule little things first, you run out of time for the big things.
+  - Rocks maximize Impact
+  - Rocks: Beware: “Maximizing impact” is harder than you think
+  - Execs decide, but ideally PMs are in command
+  - Sand maximizes Throughput
+  - Beware: Administrative overhead destroys throughput
+  - Sand: Prioritize with intuition and desire, not math and metrics
+  - Self-managed teams schedule their own Sand
+  - Pebbles maximize ROI
+  - Beware the surprisingly high impact of estimation error on ROI
 
 > Truth emerges more readily from error than from confusion.
 > Francis Bacon
@@ -914,6 +1002,18 @@ In terms of software, I can't recommend [Things](https://culturedcode.com/things
 - [OKR Examples (And Tips for Creating Your Own)](https://okrexamples.co/)
 - [Manager OKRs, Maker OKRs: How Early Stage Startups Should Think About Goal-Setting](https://hunterwalk.medium.com/manager-okrs-maker-okrs-how-startups-should-think-about-goal-setting-7be87195fadc)
 - [Objectives and Key Results](https://about.gitlab.com/company/okrs/), GitLab Handbook
+- [10 Tips For Using OKRs Effectively](https://rushabhdoshi.com/posts/2020-06-18-10-tips-for-making-okrs-effective/)
+  - Objectives must be Big and Motivating
+  - KRs must be measurable
+  - Use binary KRs sparingly
+  - All Key Results must have dashboards
+  - Key Results must be exhaustive
+  - Pair Metrics with Counter-Metrics
+  - Distinguish between Committed and Aspirational OKRs
+  - Cascade OKRs up, down, and laterally
+  - Personal OKRs are powerful
+  - Prefer a small number of tightly focused OKRs to a long list
+  - Effective OKR usage takes years
 
 ### Presentations, design and public speaking
 
@@ -938,6 +1038,12 @@ In terms of software, I can't recommend [Things](https://culturedcode.com/things
   - Lean into silence
   - Picture yourself as being happy and excited to tell this story
 - [Death by PowerPoint: the slide that killed seven people](https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx) (see [Edward Tufte's article on this topic](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001yB))
+- [How to present to executives](https://lethain.com/present-to-executives/), Irrational Exuberance
+  - Never fight feedback
+  - Don’t evade responsibility or problems
+  - Don’t present a question without an answer
+  - Avoid academic-style presentations
+  - Don’t fixate on your preferred outcome
 
 Some great examples of presentations:
 
@@ -953,6 +1059,15 @@ Some great examples of presentations:
   - How to say no
   - How to correct distractions
   - Maintaining flexibility: default to iterate, but be willing to invest
+- [Prioritization is a Political Problem as Much as an Analytical Problem](https://www.mironov.com/pri-politics/)
+  - Does not work: Asking exec teams to collectively prioritize long lists of things
+  - Does not work: Lectures about algorithms, development processes, and staffing shortages
+  - Does not work: Expecting spreadsheets to prioritize for us
+  - Helpful: Set an explicit top-down allocation of effort across a few broad categories
+  - Helpful: Push every exec-level stakeholder to provide a very short, fully ordered list of their group's needs
+  - Helpful: Briefly recap top 3-4 products or projects every week
+  - Helpful: Use Now/Next/Never to frame upcoming choices
+  - Helpful: Define in advance what kinds of work can be realistically outsourced, and actively recruit external partners
 
 ### Problem solving
 
@@ -1028,6 +1143,12 @@ See my [professional-programming section about problem solving](https://github.c
   - Identify the extremes (latest/soonest)
   - Note the precision (weeks? days? hours?)
   - Ask for confidence level over time
+- [Ask HN: How do you deal with managers/customers questioning your estimates?](https://news.ycombinator.com/item?id=32056969)
+  - Call it a forecast, not an estimate.
+  - Supply confidence intervals
+  - Show compassion
+  - Offer solutions
+  - Try this tool: https://estigator.mozz.app/app/
 
 ### Release management
 
@@ -1078,7 +1199,8 @@ See my [professional-programming section about problem solving](https://github.c
   - Ruthlessly prioritize
   - Product-ify migrations: accountability, test first, train, lead with value, KYC, gamify
   - Automate, automate, and move up the stack!
-- [hwayne/awesome-cold-showers: For when people get too hyped up about things](https://github.com/hwayne/awesome-cold-showers)
+- [hwayne/awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers): for when people get too hyped up about things
+- [IT Software Engineering Principles](http://engineering-principles.onejl.uk/)
 
 ### Team culture
 
@@ -1155,6 +1277,7 @@ Engineering values:
 
 - [The SaaS CTO Security Checklist Redux](https://www.goldfiglabs.com/guide/saas-cto-security-checklist/)
 - [Does Your Organization Have a Security.txt File?](https://krebsonsecurity.com/2021/09/does-your-organization-have-a-security-txt-file/), Krebs on Security
+- [SOC2: The Screenshots Will Continue Until Security Improves](https://fly.io/blog/soc2-the-screenshots-will-continue-until-security-improves/)
 
 ### Soft skills, Emotional Quotient (EQ)
 
@@ -1198,6 +1321,15 @@ Shameless plug here, two presentations I contributed to:
   - You switch roles for the next session.
 - [Introduce Team G Morning Learning Sessions to Coach the Growth Mindset](https://philippe.bourgau.net/growth-mindset-coaching-turn-remote-work-commutes-into-team-learning/)
   - Meet every morning for 30 minutes. Spend 20 minutes studying and 10 minutes sharing what you have learned.
+- [Your Startup’s Management Training Probably Sucks — Here’s How to Make it Better](https://review.firstround.com/your-startups-management-training-probably-sucks-heres-how-to-make-it-better), First Round Review
+  - People often think they don’t like management training. But what they’re really saying is “I don’t like shitty management training.”
+  - Mistake: only training new managers
+  - Snacks are good for the kitchen. They’re less useful for leadership lessons.
+  - 4 topics every manager training should include:
+    - Goal setting
+    - Talent management
+    - Org planning
+    - Leadership & culture development
 
 ### Work ethics & work/life balance
 
@@ -1239,6 +1371,8 @@ Shameless plug here, two presentations I contributed to:
 - [Lightweight RFC Process](https://cwiki.apache.org/confluence/display/GEODE/Lightweight+RFC+Process), Apache Software Foundation
 - [6 Lessons I learned while implementing technical RFCs as a decision making tool](https://buriti.ca/6-lessons-i-learned-while-implementing-technical-rfcs-as-a-management-tool-34687dbf46cb)
 - [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
+- [How to Write Something Compelling](https://letter.substack.com/p/write-like-naval?utm_source=url)
+  - If you want to design something attractive, you have to add an axis to your creative process. You have to make the ideas simple and universal at the same time.
 
 ## Other sources
 
