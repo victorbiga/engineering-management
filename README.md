@@ -1051,6 +1051,8 @@ Some great examples of presentations:
 
 ### Prioritization
 
+See also the [Prioritization section on my entrepreneurship-resources list](https://github.com/charlax/entrepreneurship-resources#prioritization)
+
 - [How To Do Less](https://alexturek.com/2022-03-07-How-to-do-less/)
   - Ordering a todo list vs. only doing the top item in the list
   - Two meta-priorities: (1) keep the lights on, and make keeping them on cheaper, (2) cut the entire roadmap down to one thing at a time
