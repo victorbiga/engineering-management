@@ -467,15 +467,25 @@ See my [professional-programming section about code reviews](https://github.com/
 - [List of cognitive biases on Wikipedia](http://rationalwiki.org/wiki/List_of_cognitive_biases)
 - 🎞 [Making the Unconscious Conscious](https://www.youtube.com/watch?v=NW5s_-Nl3JE) (Google Video)
 - [There’s no "silver bullet" to increasing diversity, but here's how we're making progress.](https://magoosh.com/blog/silver-bullet-diversity-progress/), Magoosh.
-- [Why Diversity Programs Fail](https://hbr.org/2016/07/why-diversity-programs-fail)
 - 🎤 [Diversity & Inclusion: Why and How](https://speakerdeck.com/webmardi/diversity-and-inclusion-why-and-how?slide=25)
 - 🎞 [How microaggressions are like mosquito bites](https://www.youtube.com/watch?v=hDd3bzA7450)
+- [19 Unconscious Bias Examples and How to Prevent Them](https://asana.com/resources/unconscious-bias-examples): a pretty comprehensive article with lots of concrete tips and research.
+- [Proven Strategies for Addressing Unconscious Bias in the Workplace](https://www.cookross.com/docs/UnconsciousBias.pdf)
 
 Some great videos by PwC:
 
 - 🎞 [Blind spots: Challenge assumptions](https://www.youtube.com/watch?v=BFcjfqmVah8&ab_channel=PwC)
 - 🎞 [Blind spots: Overcome stereotypes](https://www.youtube.com/watch?v=6_yIevcJCPc&ab_channel=PwC)
 - 🎞 [Blind spots: Enhance objectivity](https://www.youtube.com/watch?v=Pn5qOgz8dqs&ab_channel=PwC)
+
+How to train the team:
+
+- [Why Diversity Programs Fail](https://hbr.org/2016/07/why-diversity-programs-fail), HBR
+- [Unconscious Bias Training That Works](https://hbr.org/2021/09/unconscious-bias-training-that-works), HBR
+
+Example trainings:
+
+- [Microsoft Inclusion Journey Library](https://www.microsoft.com/en-us/inclusion-journey/library)
 
 #### Diversity in hiring
 
