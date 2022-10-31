@@ -565,6 +565,10 @@ Example trainings:
 - [The Open Feedback Circle (OFC)](https://medium.com/@padminipyapali/open-feedback-circle-a69601ea5dfd), a great idea by Padmini Pyapali.
   - We met once a month, sat around a table, and shared feedback with each other in front of our other teammates. This gathering took feedback exchange from being a biannual activity we dreaded to a monthly ritual we looked forward to.
   - Vulnerability Cultivates Trust
+- [Simon Sinek: Purpose should be prioritized over metrics](https://www.youtube.com/watch?v=PhuKJWm1_fQ&ab_channel=DenkProducties)
+  - Targets are great. But how targets are reached matters too. A team that would meet its target two months later should be rewarded more than a team that reach its target at the expense of morale and quality.
+  - SEALs measure performance and trust. They would rather have a medium performance high trust person on the team than a high performance low trust person.
+  - Simon's team runs team peer reviews. One person shares their top three weaknesses, the team can comment but they can only say thank you, then they do the same for their strength.
 
 ### Hiring
 
