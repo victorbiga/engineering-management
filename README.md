@@ -863,9 +863,12 @@ Quotes:
 
 ### Onboarding new team members
 
+- [How to quickly (and successfully) onboard engineers](https://about.gitlab.com/blog/2022/07/21/quickly-onboarding-engineers-successfully/), GitLab
 - 🎞 [5 Onboarding Fiascos From the Movies](https://business.linkedin.com/talent-solutions/blog/recruiting-humor-and-fun/2016/the-worst-new-hire-first-days-in-movies-that-you-should-never-let-happen-in-your-company)
 - [Onboarding - Mattermost Handbook](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/onboarding)
-- [Gitlab's engineering onboarding list](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md#for-engineering-such-as-developers-build-infrastructure-etc-only)
+- [Gitlab's engineering onboarding list](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md)
+- [How To Use Your Unfair Advantage To Create an Unforgettable First Day For New Hires](https://lnbogen.com/2013/04/11/how-to-use-your-unfair-advantage-to-create-an-unforgettable-first-day-for-new-hires/), Oren Ellenbogen
+- [Engineering Onboarding Processes at Medium](https://medium.engineering/engineering-onboarding-processes-at-medium-368095116ac3), Medium
 
 ### Organization structure
 
