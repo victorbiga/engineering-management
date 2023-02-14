@@ -217,6 +217,9 @@ Here are some generic resources:
   - Expect to refactor your company every few months
   - Chaos is felt less by the people creating it
   - Expect more from managers that report from you
+- [37 Years Ago, Steve Jobs Said the Best Managers Never Actually Want to Be Managers. Science Says He Was Right](https://www.inc.com/jeff-haden/37-years-ago-steve-jobs-said-best-managers-never-want-to-be-a-manager-science-says-he-was-right.html)
+  - "If your boss could do your job, you're more likely to be happy at work"
+- [Group Dynamics: The Leader's Toolkit (Ed Batista)](https://www.edbatista.com/2022/09/group-dynamics-the-leaders-toolkit.html)
 
 ### Tools
 
@@ -505,6 +508,17 @@ Example trainings:
 - [Mattermost's handbook](https://docs.mattermost.com/guides/core.html)
 - [Strapi's handbook](https://handbook.strapi.io)
 
+### Employee retention
+
+- [Theory-building and why employee churn is lethal to software companies](https://www.baldurbjarnason.com/2022/theory-building/)
+  - "The death of a program happens when the programmer team possessing its theory is dissolved." Programming as Theory Building by Peter Naur, 1985.
+  - Software is the insights of the development team made manifest.
+  - Most code documentation becomes useful after you have built the theory in your mind
+  - The most reliable method a programmer has for building an accurate ‘theory’ of a piece of software is to have been there when it was first written ("first generation programmer")
+  - Too many second-generation developers and the first generation gets overwhelmed, and work stalls.
+  - Too few second-generation developers and there is no renewal—each developer that leaves the team is a potential catastrophe.
+  - Team stability is vital for software development
+
 ### Escalations
 
 - [Learn how to escalate issues](http://www.goodproductmanager.com/2007/05/09/learn-how-to-escalate-issues/)
@@ -645,6 +659,13 @@ Specifics about hiring engineering managers:
 
 - [Cracking the Engineering Manager interview — Part 1](https://medium.com/srivatsan-sridharan/cracking-the-engineering-manager-interview-part-1-adb0b63c7f2f)
 - [Hunting for Rock Star Engineering Managers](https://hackernoon.com/hunting-for-rock-star-engineering-managers-9ef9c3716b02)
+- [VP of Engineering interview](https://karimfanous.medium.com/how-do-you-interview-a-vp-of-engineering-81deddf6daa2)
+  - What is the reasonable interaction between PM and Engineering?
+  - How do you increase your team’s throughput?
+  - How do you scale an engineering team?
+  - How does engineering support sales?
+  - What’s interesting to you about this company? What do you think you can add to the team?
+  - What can you do to accelerate product delivery?
 
 #### Hiring: interview questions
 
@@ -692,6 +713,10 @@ Specifics about hiring engineering managers:
   - Be clear that it’s a no-go.
   - When you give suggestions, be specific and constructive.
   - Make recommendations. Is there a book they could read?
+
+#### Hiring: résumé review
+
+- [When Is Short Tenure a Red Flag?](https://jacobian.org/2022/oct/14/when-is-short-tenure-a-red-flag/)
 
 #### Hiring: sourcing
 
@@ -807,8 +832,17 @@ Quotes:
 
 Quote:
 
-- "If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea.", Antoine de Saint-Exupery
-- "Management is doing things right; leadership is doing the right things.", Peter Drucker
+> If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea.
+>
+> – Antoine de Saint-Exupery
+
+> Management is doing things right; leadership is doing the right things.
+>
+> – Peter Drucker
+
+> The people who work for you have three resources: time, energy, and give-a-fuck. Time is the cheapest. It replenishes one hour every hour. Energy is more expensive. When you're out you need lots of time off to recharge. Once give-a-fuck is burned, it's gone forever.
+>
+> – @leftoblique
 
 ![](./pictures/calvin_and_hobbes_style.gif)
 
@@ -956,6 +990,8 @@ See also [Data organization](#data-organization)
   - Find a hobby
   - Limit to career usage
   - Have faith
+- ['Touch it once' method for tasks can boost productivity](https://www.cnbc.com/2018/06/21/touch-it-once-method-for-tasks-can-boost-productivity.html)
+  - As soon as you touch something, you immediately act on it.
 
 In terms of software, I can't recommend [Things](https://culturedcode.com/things/) enough (Mac and iOS only). It is a delightful piece of software that gets out of the way and lets you focus on your tasks.
 
@@ -1104,6 +1140,12 @@ See my [professional-programming section about problem solving](https://github.c
 
 - [The most important thing Dropbox did to scale Product Management](https://medium.com/startup-grind/the-most-important-thing-dropbox-did-to-scale-product-management-fed90e30697e#.t5uu8idgb): a very simple model for stating the stage a product is in.
 - [How Amazon Web Services (AWS) Achieved an \$11.5B Run Rate by Working Backwards](https://hitenism.com/amazon-working-backwards/): explain Amazon's product management process.
+- [Bottleneck #03: Product v Engineering](https://martinfowler.com/articles/bottlenecks-of-scaleups/03-product-v-engineering.html), Martin Fowler
+  - Signs you are approaching a scaling bottleneck
+  - Identify and reinforce your “First Team”
+  - Define and communicate how your scaleup delivers value
+  - Create multidisciplinary stream-aligned teams
+  - Negotiate a balanced product investment mix
 
 ### Project management
 
@@ -1220,6 +1262,11 @@ See my [professional-programming section about problem solving](https://github.c
   - Automate, automate, and move up the stack!
 - [hwayne/awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers): for when people get too hyped up about things
 - [IT Software Engineering Principles](http://engineering-principles.onejl.uk/)
+- [Leading With Confidence: How Engineering Managers Can Avoid Technical Decay](https://betterprogramming.pub/leading-with-confidence-how-engineering-managers-can-avoid-technical-decay-17653d115938)
+  - Ask for More Details From Individual Contributors About Their Challenges
+  - Establish Sessions for Knowledge Sharing and Solicit the Sharing of Recent Experiences
+  - Implement the Practice of Doing Side Projects
+  - Follow the Engineer/Manager Pendulum Career Path
 
 ### Team culture
 
