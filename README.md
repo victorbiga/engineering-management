@@ -29,6 +29,7 @@
   - [Diversity and inclusion](#diversity-and-inclusion)
     - [Diversity in hiring](#diversity-in-hiring)
   - [Employee handbook](#employee-handbook)
+  - [Employee retention](#employee-retention)
   - [Escalations](#escalations)
   - [FinOps (cost)](#finops-cost)
   - [First-time manager](#first-time-manager)
@@ -41,6 +42,7 @@
     - [Hiring: interview questions](#hiring-interview-questions)
     - [Hiring: job postings](#hiring-job-postings)
     - [Hiring: process](#hiring-process)
+    - [Hiring: résumé review](#hiring-r%C3%A9sum%C3%A9-review)
     - [Hiring: sourcing](#hiring-sourcing)
     - [Hiring: take home exercises](#hiring-take-home-exercises)
     - [Hiring: quotes](#hiring-quotes)
@@ -328,10 +330,11 @@ Curated examples of job ladder/career development matrix:
   - Skills: maximise impact, be open, empathise and respect, have conviction, seek engineering maturity.
   - Levels: beginning skillful, skillful, more skillful, super skillful, ludicrously skillful
 - [CircleCI](https://docs.google.com/spreadsheets/d/131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo/edit#gid=0): detailed and complete
-- [Basecamp](https://basecamp.com/handbook/appendix-05-titles-for-programmers): very concise
 - [Dropbox](https://dropbox.github.io/dbx-career-framework/overview.html)
 - [progression-framework/frameworks/engineering](https://github.com/monzo/progression-framework/tree/master/frameworks/engineering)
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders)
+- [Fog Creek Professional Ladder – Joel on Software](https://www.joelonsoftware.com/2009/02/13/fog-creek-professional-ladder/)
+- [Square](https://developer.squareup.com/blog/squares-growth-framework-for-engineers-and-engineering-managers/) ([competencies](https://assets.ctfassets.net/1wryd5vd9xez/6bDnTwb4H7bfiFvg55ldRR/b1cb8514f0afd0a4050991d35ccbac03/Square_Software_Engineering_Career_Ladder.pdf)
 
 List of lists:
 
@@ -815,7 +818,7 @@ Quotes:
 - [12 "Manager READMEs" from Silicon Valley’s Top Tech Companies](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
 - 🎞 [What is your philosophy on leadership? How do you inspire your team to do their best?](https://www.youtube.com/watch?v=TQhns5AwAkA): beautiful sequence between Nelson Mandela (played by Morgan Freeman) and François Pienaar (Matt Damon).
 - [Why Software Development Requires Servant Leaders](https://adl.io/essays/why-software-development-requires-servant-leaders/)
-- Andreessen Horowitz, [Peacetime CEO/Wartime CEO](https://a16z.com/2011/04/14/peacetime-ceowartime-ceo-2/)
+- Andreessen Horowitz, [Peacetime CEO/Wartime CEO](https://a16z.com/2011/04/14/peacetime-ceo-wartime-ceo/)
   - Peacetime CEO knows that proper protocol leads to winning. Wartime CEO violates protocol in order to win.
 - [Excerpts from One From Many, Dee Hock](https://twitter.com/zackkanter/status/1272200276015853569), Zack Kanter on Twitter.
   - Your first responsibility as a manager is to manage yourself: your integrity, character, ethics, knowledge, wisdom, temperament, words and acts.
