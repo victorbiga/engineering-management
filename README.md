@@ -23,6 +23,7 @@
   - [Conflict resolution](#conflict-resolution)
   - [CTO (Chief Technical Officer)](#cto-chief-technical-officer)
   - [Data organization](#data-organization)
+  - [Culture](#culture)
   - [Decisions](#decisions)
   - [Delegation](#delegation)
   - [Delivery](#delivery)
@@ -89,6 +90,7 @@
   - [Newsletter](#newsletter)
   - [Blogs](#blogs)
   - [Podcast](#podcast)
+- [My other lists](#my-other-lists)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -422,6 +424,17 @@ See my [professional-programming section about code reviews](https://github.com/
   - It is absolutely essential for platform engineers to stay ahead of the data science teams
   - Engineers should see themselves as being “Tony Stark’s tailor”, building the armor that prevents data scientists from falling into pitfalls that yield unscalable or unreliable solutions.
   - We [should be ok with] sacrificing technical efficiency for velocity and autonomy
+
+### Culture
+
+- [The maze is in the mouse](https://medium.com/@pravse/the-maze-is-in-the-mouse-980c57cfd61a) lays out how Google's culture impeded its results and execution.
+  - "It is a soft peacetime culture where nothing is worth fighting for."
+  - Google employees get very little done because they are trapped in a maze of processes.
+  - The culture focuses on consensus ("respect each other") and risk-avoidance at the expense of heroism or value-creating ideas/bets.
+  - Each employee's mission is not about the customer but about serving a VP or a technical belief/process.
+  - Most managers are [peacetime managers](https://a16z.com/2011/04/14/peacetime-ceo-wartime-ceo/) and lack a sense of urgency.
+  - There is a general lack of humility regarding the internal tech stack. The delusion of exceptionalism means that employees believe everything they do is perfect.
+  - "Strategy is rarely articulated clearly (that would be career risk)"
 
 ### Decisions
 
@@ -1486,3 +1499,10 @@ Here are some blogs and newsletter I follow.
 
 - [FRICTION with Bob Sutton](https://art19.com/shows/friction-with-bob-sutton?page=3). This podcast does not have any new episode since 2017, but it has some really great content. Great conversations. Lots of stories.
     - Part organizational design. Part therapy. Organizational psychologist and Stanford Professor Bob Sutton is back to tackle friction, the phenomenon that frustrates employees, fatigues teams and causes organizations to flounder and fail.
+
+## My other lists
+
+- [engineering-management](https://github.com/charlax/engineering-management/)
+- [entrepreneurship-resources](https://github.com/charlax/entrepreneurship-resources)
+- [professional-programming](https://github.com/charlax/professional-programming)
+- [python-education](https://github.com/charlax/python-education)
