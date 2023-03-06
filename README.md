@@ -79,6 +79,7 @@
   - [Strategy](#strategy)
   - [Team dynamics](#team-dynamics)
   - [Training](#training)
+  - [Trust](#trust)
   - [Work ethics & work/life balance](#work-ethics--worklife-balance)
   - [Workshop facilitation](#workshop-facilitation)
   - [Writing](#writing)
@@ -1412,6 +1413,12 @@ Shameless plug here, two presentations I contributed to:
     - Talent management
     - Org planning
     - Leadership & culture development
+
+### Trust
+
+> The best new ideas always have unanticipated benefits. So it's stupid to require people who want to do new things to enumerate the benefits beforehand. The best you can do is choose smart people and then trust their intuitions about what's worth exploring.
+>
+> — Paul Graham https://twitter.com/paulg/status/1619753568264921089
 
 ### Work ethics & work/life balance
 
