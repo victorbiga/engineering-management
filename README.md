@@ -637,6 +637,13 @@ Example trainings:
 - [Trouble hiring senior engineers? It's probably you](https://hiringengineersbook.com/post/trouble-hiring/).
 - [I've been an engineer and a recruiter. Hiring is broken.](http://blog.alinelerner.com/ive-been-an-engineer-and-a-recruiter-hiring-is-broken-heres-why-and-heres-what-it-should-be-like-instead/)
 - 🎧 [How to Get the Ideal Team Player](https://coachingforleaders.com/podcast/301/)
+- [6 qualities that make a great engineer](https://www.intercom.com/blog/traits-of-exceptional-engineers/)
+  - Ambitious and determined
+  - Habitually simplify
+  - Can debug anything, quickly
+  - Help others be great
+  - Know what’s valuable
+  - Are creative and positive
 
 #### Hiring: diversity and biases
 
@@ -671,6 +678,9 @@ Checkout [Diversity in hiring](#diversity-in-hiring)
   - Your interviewers aren’t prepared for the interview
   - Lack of a clear direction on where the company is headed
 - [How to Freaking Find Great Developers By Having Them Read Code](https://freakingrectangle.com/2022/04/15/how-to-freaking-hire-great-developers/)
+- [How to hire engineering talent without the BS](https://jes.al/2023/03/how-to-hire-engineering-talent-without-the-bs/)
+  - Antipatterns: memory, speed
+  - Best practices: upfront, realistic, structured, guided, empathetic,
 
 Specifics about hiring engineering managers:
 
@@ -747,6 +757,7 @@ Specifics about hiring engineering managers:
 
 - [How GitHub does take home technical interviews](https://github.blog/2022-03-31-how-github-does-take-home-technical-interviews/)
 - [guardian/coding-exercises](https://github.com/guardian/coding-exercises)
+- [Take-home vs whiteboard coding: The problem is bad interviews](https://andrewrondeau.com/blog/2020/04/take-home-vs-whiteboard-coding-the-problem-is-bad-interviews)
 
 #### Hiring: quotes
 
