@@ -165,6 +165,10 @@ You can find a short summary in video [here](https://www.youtube.com/watch?v=psA
 
 There are some other more specific books quoted below.
 
+Other books I haven't read:
+
+- [Engineering Management for the Rest of Us](https://www.engmanagement.dev/)
+
 ### Book reading lists
 
 - [Jason Evanish's list](https://jasonevanish.com/books/) (Lighthouse founder) is quite comprehensive.
