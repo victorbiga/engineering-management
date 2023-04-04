@@ -1220,6 +1220,15 @@ See my [professional-programming section about problem solving](https://github.c
 - [Driving engineers to an arbitrary date is a value destroying mistake](https://iism.org/article/driving-engineers-to-an-arbitrary-date-is-a-value-destroying-mistake-49)
 - [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://newsletter.pragmaticengineer.com/p/project-management-in-tech?s=r), Gergely Orosz
 - [How finishing what you start makes teams more productive and predictable](https://lucasfcosta.com/2022/07/19/finish-what-you-start.html)
+- [How to plan?](https://kellanem.com/notes/how-to-plan)
+  - Do fewer things.
+  - Bottom up processes don’t work.
+  - Planning is the wrong time to introduce anything new.
+  - You must provide frameworks and constraints
+  - Project planning has an inflection point.
+  - Don’t wait to kill bad ideas.
+  - Minimize dependencies
+  - Headcount planning won’t map to your plans
 
 > The ultimate inspiration is the deadline.
 > — Nolan Bushnell
