@@ -1229,6 +1229,13 @@ See my [professional-programming section about problem solving](https://github.c
   - Don’t wait to kill bad ideas.
   - Minimize dependencies
   - Headcount planning won’t map to your plans
+- Basecamp's [Shape Up: Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup)
+  - Backlogs are a big weight we don’t need to carry.
+  - Important ideas come back
+  - Choosing the right cycle length (six weeks)
+  - Assign projects, not tasks
+  - Making bets with a capped downside (the circuit breaker) and honoring them with uninterrupted time
+  - Downhill versus uphill work and communicating about unknowns
 
 > The ultimate inspiration is the deadline.
 > — Nolan Bushnell
