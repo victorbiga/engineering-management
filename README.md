@@ -815,7 +815,9 @@ Red Adair
 
 ### Incident prevention and response (on-call, outages)
 
-- [A guide to handling incidents, downtime and outages](https://blog.serverdensity.com/guide-handling-incidents-downtime-outages/)
+Also see my [professional-programming list](https://github.com/charlax/professional-programming/#incident-response-oncall-alerting-outages-firefighting-postmortem)
+
+- [Handling Incidents and Outages](https://www.infoq.com/news/2015/06/handling-incidents-outages/)
 - [When the Sky Falls](http://randsinrepose.com/archives/when-the-sky-falls/), Rands in Repose
 
 ### Learning, retro, postmortem
