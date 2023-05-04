@@ -989,26 +989,67 @@ See also [Data organization](#data-organization)
 
 ### Personal productivity
 
-- [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html), Paul Graham
-- [Why Are Maker Schedules So Rare?](http://calnewport.com/blog/2017/04/05/why-are-maker-schedules-so-rare/)
+About productivity in general:
+
+- [43 Folders Series: Inbox Zero](http://www.43folders.com/izero): how to get and maintain your email inbox at a sane level.
+- [CannotMeasureProductivity](https://martinfowler.com/bliki/CannotMeasureProductivity.html), Martin Fowler (about how you cannot measure developer productivity.
+- 🎧 [How to Change Your Behavior](https://coachingforleaders.com/podcast/change-your-behavior-bj-fogg/), Coaching for Leaders
+  - It’s a myth that it takes 21 or 66 days to create a habit. Repetition doesn't create habits. Emotions create habits.
+  - Create a tiny habit through an ABC process: anchor moment, a tiny behavior, and instant celebration.
+  - Avoid raising the bar on the tiny behavior. Do more if you want to, but don’t change the standard.
+- ['Touch it once' method for tasks can boost productivity](https://www.cnbc.com/2018/06/21/touch-it-once-method-for-tasks-can-boost-productivity.html)
+  - As soon as you touch something, you immediately act on it.
+- [The Ultimate Guide to Personal Productivity Methods](https://todoist.com/inspiration/personal-productivity-methods), Todoist
+- [Evidence-based advice on how to be successful in any jobs](https://80000hours.org/career-guide/how-to-be-successful/): most self-help advices are not research-based. The ones listed in this article are.
+- [The Complete Guide to Deep Work](https://todoist.com/inspiration/deep-work)
+  - The ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable in our economy.
+  - Choose Your Deep Work Strategy
+  - Build a Deep Work Routine
+  - Discipline #1: Focus on the Wildly Important
+  - Discipline #2: Act on the Lead Measures
+  - Discipline #4: Create a Cadence of Accountability
+  - Our Ability for Deep Work is Finite
+  - The Craftsman Approach to Tool Selection
+  - Stop Using Social Media
+  - Get Your Boss on Board With Deep Work
+- [Every productivity thought I've ever had, as concisely as possible](https://guzey.com/productivity/)
+  - Context intentionality as the key difference between home and every other place on planet earth
+  - Rules are about exceptions
+- [100 Tips for a Better Life](https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life)
+    - Deficiencies do not make you special. The older you get, the more your inability to cook will be a red flag for people.
+    - History remembers those who got to market first. Getting your creation out into the world is more important than getting it perfect.
+    - Discipline is superior to motivation. The former can be trained, the latter is fleeting. You won’t be able to accomplish great things if you’re only relying on motivation.
+    - You do not live in a video game. There are no pop-up warnings if you’re about to do something foolish, or if you’ve been going in the wrong direction for too long. You have to create your own warnings.
+    - Cultivate a reputation for being dependable. Good reputations are valuable because they’re rare (easily destroyed and hard to rebuild). You don’t have to brew the most amazing coffee if your customers know the coffee will always be hot.
+    - Compliment people more. Many people have trouble thinking of themselves as smart, or pretty, or kind, unless told by someone else. You can help them out.
+- [The Top 9 Productivity Myths That Just Aren't True](https://todoist.com/inspiration/top-myths-productivity), Todoist
+- [Build tools around workflows, not workflows around tools](https://thesephist.com/posts/tools/)
+- [Rethinking Best Practices](https://willgallego.com/2021/08/14/rethinking-best-practices/)
+- [The Cult of Done Manifesto](https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13)
+
+About GTD:
+
 - 📖 David Allen, [Getting Things Done: The Art of Stress-Free Productivity](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280): while it could be much shorter, this book is probably the best way to learn about the GTD methodology.
 - [Productivity 101: A Primer to the Getting Things Done (GTD) Philosophy](http://lifehacker.com/productivity-101-a-primer-to-the-getting-things-done-1551880955): a great summary of GTD.
 - [Zen Habits](https://zenhabits.net/): a blog you can follow to get productivity tips and tricks.
 - [Zen To Done (ZTD)](https://zenhabits.net/zen-to-done-ztd-the-ultimate-simple-productivity-system/): a simpler productivity system.
-- [43 Folders Series: Inbox Zero](http://www.43folders.com/izero): how to get and maintain your email inbox at a sane level.
+- 🏙 [2011 GTD Getting Things Done](https://speakerdeck.com/krunchtime/2011-getting-things-done)
+
+About calendars:
+
+- [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html), Paul Graham
+- [Why Are Maker Schedules So Rare?](http://calnewport.com/blog/2017/04/05/why-are-maker-schedules-so-rare/)
 - [Busy to Death](https://barryoreilly.com/2017/05/31/busy-to-death/): a good story involving W. Edwards Deming.
-- [CannotMeasureProductivity](https://martinfowler.com/bliki/CannotMeasureProductivity.html), Martin Fowler (about how you cannot measure developer productivity.
 - [Makers, Don't Let Yourself Be Forced Into the 'Manager Schedule'](https://blog.nuclino.com/makers-don-t-let-yourself-be-forced-into-the-manager-schedule)
   - Research shows that it takes as long as 30 minutes for makers to get into the flow
   - Use maker-manager office hours
   - Communication can happen at a quieter asynchronous frequency in the form of thoughtful, written discussions rather than soul-sucking meetings or erratic one-line-at-a-time chat messages
   - Build a team knowledge base to minimize repetitive questions and allow self-onboarding.
-- 🎧 [How to Change Your Behavior](https://coachingforleaders.com/podcast/change-your-behavior-bj-fogg/), Coaching for Leaders
-  - It’s a myth that it takes 21 or 66 days to create a habit. Repetition doesn't create habits. Emotions create habits.
-  - Create a tiny habit through an ABC process: anchor moment, a tiny behavior, and instant celebration.
-  - Avoid raising the bar on the tiny behavior. Do more if you want to, but don’t change the standard.
+- [Your non-linear problem of 90% utilization](https://blog.asmartbear.com/utilization.html), Jason Cohen: why constantly running at 90% utilization is actually counter-productive.
 - [Your Calendar = Your Priorities](https://cutlefish.substack.com/p/tbm-4952-your-calendar-your-priorities)
-- [The Fallacy of Splitting Time](https://www.bennorthrop.com/Essays/2022/fallacy-of-splitting-time.php)
+
+About distractions:
+
 - [How to stop being "terminally online"](https://nights.bearblog.dev/how-to-stop-being-terminally-online/)
   - Determine why you're terminally online
   - Examine your biases
@@ -1024,10 +1065,10 @@ See also [Data organization](#data-organization)
   - Find a hobby
   - Limit to career usage
   - Have faith
-- ['Touch it once' method for tasks can boost productivity](https://www.cnbc.com/2018/06/21/touch-it-once-method-for-tasks-can-boost-productivity.html)
-  - As soon as you touch something, you immediately act on it.
 
-In terms of software, I can't recommend [Things](https://culturedcode.com/things/) enough (Mac and iOS only). It is a delightful piece of software that gets out of the way and lets you focus on your tasks.
+> "Do what you love until you love to Do" I often think about the “Read what you love until you love to read” comment from @naval, and this is a good generalization. My experience has been that it is easier to educate a Do-er than to motivate the educated; you have to believe you can Do before you embark on an effort. – John Carmack
+
+In terms of task management software, I can't recommend [Things](https://culturedcode.com/things/) enough (macOS and iOS only). It is a delightful piece of software that gets out of the way and lets you focus on your tasks.
 
 ### Planning (roadmap, goal setting, KPI, OKR, etc.)
 
