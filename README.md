@@ -309,7 +309,6 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 ### Career growth and job ladder
 
 - [Titles are Toxic](http://randsinrepose.com/archives/titles-are-toxic/), Rands in Repose. A pretty interesting take on titles.
-- [Engineering Growth Framework](https://medium.com/s/engineering-growth-framework), Medium pulls back the curtain on how they do career growth.
 - [Square’s Growth Framework for Engineers and Engineering Managers](https://developer.squareup.com/blog/squares-growth-framework-for-engineers-and-engineering-managers/)
   - Have two tracks
   - Becoming a manager is not a promotion
@@ -322,7 +321,6 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 - [Refactoring Our Engineering Skills Matrix](https://engine.expert360.com/refactoring-our-engineering-skills-matrix-b5314e2b0013)
 - [How to waste your career, one comfortable year at a time](https://apoorvagovind.substack.com/p/how-to-waste-your-career-one-comfortable)
 - 🎤 [Creating a Career Ladder for Engineers](https://speakerdeck.com/polotek/creating-a-career-ladder-for-engineers)
-- [Gitlab Engineering Career Development](https://about.gitlab.com/handbook/engineering/career-development/)
 - [Medium Engineering Growth Framework](https://medium.com/s/engineering-growth-framework)
 - [Engineering levels at Carta](https://medium.com/building-carta/engineering-levels-at-carta-d33db2a55a20)
 - [Things We Learned Creating Technology Career Steps](https://engineering.atspotify.com/2016/02/22/things-we-learned-creating-technology-career-steps/) (Spotify)
@@ -331,8 +329,10 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 Curated examples of job ladder/career development matrix:
 
 - ⭐️ [Songkick](https://www.songkick.com/downloads/growth-framework/sk-growth-framework.pdf): concise, clear and includes examples.
+- [Gitlab Engineering Career Development](https://about.gitlab.com/handbook/engineering/career-development/)
 - [Expert360](http://eng-skills-matrix.expert360.com/): pretty detailed, does not seem to have two tracks
-- [Medium](https://docs.google.com/spreadsheets/d/1EO-Dbsayn8Nz9Ii3MKcwRbt-EIJ2MjQdpoyhh0tBdZk/edit#gid=1098466721): mixes all rubrics regardless of role
+- Medium, [Engineering Growth Framework](https://medium.com/s/engineering-growth-framework), Medium pulls back the curtain on how they do career growth.
+  - [Medium's skills spreadsheet](https://docs.google.com/spreadsheets/d/1EO-Dbsayn8Nz9Ii3MKcwRbt-EIJ2MjQdpoyhh0tBdZk/edit#gid=1098466721): mixes all rubrics regardless of role
 - [Khan Academy](https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls/edit)
   - Skills: maximise impact, be open, empathise and respect, have conviction, seek engineering maturity.
   - Levels: beginning skillful, skillful, more skillful, super skillful, ludicrously skillful
@@ -341,7 +341,7 @@ Curated examples of job ladder/career development matrix:
 - [progression-framework/frameworks/engineering](https://github.com/monzo/progression-framework/tree/master/frameworks/engineering)
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders)
 - [Fog Creek Professional Ladder – Joel on Software](https://www.joelonsoftware.com/2009/02/13/fog-creek-professional-ladder/)
-- [Square](https://developer.squareup.com/blog/squares-growth-framework-for-engineers-and-engineering-managers/) ([competencies](https://assets.ctfassets.net/1wryd5vd9xez/6bDnTwb4H7bfiFvg55ldRR/b1cb8514f0afd0a4050991d35ccbac03/Square_Software_Engineering_Career_Ladder.pdf)
+- [Square](https://developer.squareup.com/blog/squares-growth-framework-for-engineers-and-engineering-managers/) ([competencies](https://assets.ctfassets.net/1wryd5vd9xez/6bDnTwb4H7bfiFvg55ldRR/b1cb8514f0afd0a4050991d35ccbac03/Square_Software_Engineering_Career_Ladder.pdf))
 
 List of lists:
 
