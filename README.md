@@ -308,7 +308,8 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 
 ### Career growth and job ladder
 
-- [Titles are Toxic](http://randsinrepose.com/archives/titles-are-toxic/), Rands in Repose. A pretty interesting take on titles.
+Also check the [charlax/professional-programming's Career Growth section](https://github.com/charlax/professional-programming/#career-growth).
+
 - [Square’s Growth Framework for Engineers and Engineering Managers](https://developer.squareup.com/blog/squares-growth-framework-for-engineers-and-engineering-managers/)
   - Have two tracks
   - Becoming a manager is not a promotion
@@ -316,6 +317,7 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
   - No strict minimum requirements for years of experience at any given level
   - Promotions are descriptive not prescriptive
   - Promotion decisions are structured and rigorous
+- [Titles are Toxic](http://randsinrepose.com/archives/titles-are-toxic/), Rands in Repose. A pretty interesting take on titles.
 - [Thriving on the Technical Leadership Path](https://keavy.com/work/thriving-on-the-technical-leadership-path/)
   - I’ve chosen to cultivate a path for myself that enables me to dig into complex technical and product problem spaces and help lead technical and strategic direction for my organization, as an engineer but not a manager.
 - [Refactoring Our Engineering Skills Matrix](https://engine.expert360.com/refactoring-our-engineering-skills-matrix-b5314e2b0013)
@@ -325,12 +327,17 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 - [Engineering levels at Carta](https://medium.com/building-carta/engineering-levels-at-carta-d33db2a55a20)
 - [Things We Learned Creating Technology Career Steps](https://engineering.atspotify.com/2016/02/22/things-we-learned-creating-technology-career-steps/) (Spotify)
   - Behavior Versus Achievements
+- [Engineering levels and progression](https://location.foursquare.com/resources/blog/developer/engineering-levels-and-progression/), Foursquare
+  - A pretty concise description of what's expected at different levels (L3, L4, etc.)
+- [On Being A Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/), Kitchen Soap
 
 Curated examples of job ladder/career development matrix:
 
-- ⭐️ [Songkick](https://www.songkick.com/downloads/growth-framework/sk-growth-framework.pdf): concise, clear and includes examples.
+- ⭐️ [Software Development/Leadership Ladder](https://docs.google.com/spreadsheets/d/1k4sO6pyCl_YYnf0PAXSBcX776rNcTjSOqDxZ5SDty-4/edit#gid=0)
+- [Songkick](https://www.songkick.com/downloads/growth-framework/sk-growth-framework.pdf): concise, clear and includes examples.
 - [Gitlab Engineering Career Development](https://about.gitlab.com/handbook/engineering/career-development/)
 - [Expert360](http://eng-skills-matrix.expert360.com/): pretty detailed, does not seem to have two tracks
+  - Also includes hard skills such as this [backend roadmap](http://eng-skills-matrix.expert360.com/backend-roadmap.pdf)
 - Medium, [Engineering Growth Framework](https://medium.com/s/engineering-growth-framework), Medium pulls back the curtain on how they do career growth.
   - [Medium's skills spreadsheet](https://docs.google.com/spreadsheets/d/1EO-Dbsayn8Nz9Ii3MKcwRbt-EIJ2MjQdpoyhh0tBdZk/edit#gid=1098466721): mixes all rubrics regardless of role
 - [Khan Academy](https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls/edit)
