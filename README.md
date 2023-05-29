@@ -1034,6 +1034,8 @@ About productivity in general:
 - [Rethinking Best Practices](https://willgallego.com/2021/08/14/rethinking-best-practices/)
 - [The Cult of Done Manifesto](https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13)
 
+> @shreyas: Don’t be fooled by Best Practices. By the time something is labeled and advertised as a Best Practice, it is just average. Following these practices only suggests you won’t be left behind, not that you will lead the pack. Best Practices are actually Average Practices.
+
 About GTD:
 
 - 📖 David Allen, [Getting Things Done: The Art of Stress-Free Productivity](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280): while it could be much shorter, this book is probably the best way to learn about the GTD methodology.
@@ -1115,6 +1117,7 @@ In terms of task management software, I can't recommend [Things](https://culture
   - Self-managed teams schedule their own Sand
   - Pebbles maximize ROI
   - Beware the surprisingly high impact of estimation error on ROI
+- [Key Performance Indicators Infographic](https://news.kpiinstitute.org/key-performance-indicators-infographic/)
 
 > Truth emerges more readily from error than from confusion.
 > Francis Bacon
