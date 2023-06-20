@@ -21,7 +21,7 @@
   - [Code reviews](#code-reviews)
   - [Communication](#communication)
   - [Conflict resolution](#conflict-resolution)
-  - [CTO (Chief Technical Officer)](#cto-chief-technical-officer)
+  - [CTO (Chief Technical Officer), VPoE and other levels](#cto-chief-technical-officer-vpoe-and-other-levels)
   - [Data organization](#data-organization)
   - [Culture](#culture)
   - [Decisions](#decisions)
@@ -34,7 +34,6 @@
   - [Escalations](#escalations)
   - [FinOps (cost)](#finops-cost)
   - [First-time manager](#first-time-manager)
-  - [First days on the job](#first-days-on-the-job)
   - [Feedback and performance](#feedback-and-performance)
   - [Hiring](#hiring)
     - [General](#general)
@@ -54,13 +53,14 @@
   - [Mentoring](#mentoring)
   - [Mindset and attitude](#mindset-and-attitude)
   - [Motivation](#motivation)
-  - [Onboarding new team members](#onboarding-new-team-members)
-  - [Organization structure](#organization-structure)
+  - [Onboarding new team members or yourself](#onboarding-new-team-members-or-yourself)
+  - [Organizational structure](#organizational-structure)
   - [Production and productivity](#production-and-productivity)
   - [Personal productivity](#personal-productivity)
   - [Planning (roadmap, goal setting, KPI, OKR, etc.)](#planning-roadmap-goal-setting-kpi-okr-etc)
     - [Goals](#goals)
     - [OKRs](#okrs)
+  - [Platform teams & DevEx (developer experience)](#platform-teams--devex-developer-experience)
   - [Presentations, design and public speaking](#presentations-design-and-public-speaking)
   - [Prioritization](#prioritization)
   - [Problem solving](#problem-solving)
@@ -229,6 +229,13 @@ Here are some generic resources:
 - [37 Years Ago, Steve Jobs Said the Best Managers Never Actually Want to Be Managers. Science Says He Was Right](https://www.inc.com/jeff-haden/37-years-ago-steve-jobs-said-best-managers-never-want-to-be-a-manager-science-says-he-was-right.html)
   - "If your boss could do your job, you're more likely to be happy at work"
 - [Group Dynamics: The Leader's Toolkit (Ed Batista)](https://www.edbatista.com/2022/09/group-dynamics-the-leaders-toolkit.html)
+- [Some mistakes I made as a new manager](https://www.benkuhn.net/newmgr/)
+  - The trough of zero dopamine
+  - Staying on the critical path
+  - Managing the wrong amount
+  - Procrastinating on hard questions
+  - Indefinitely deferring maintenance
+  - Angsting instead of asking
 
 ### Tools
 
@@ -333,7 +340,7 @@ Also check the [charlax/professional-programming's Career Growth section](https:
 
 Curated examples of job ladder/career development matrix:
 
-- ⭐️ [Software Development/Leadership Ladder](https://docs.google.com/spreadsheets/d/1k4sO6pyCl_YYnf0PAXSBcX776rNcTjSOqDxZ5SDty-4/edit#gid=0)
+- ⭐️ [RentTheRunway's Software Development/Leadership Ladder](https://docs.google.com/spreadsheets/d/1k4sO6pyCl_YYnf0PAXSBcX776rNcTjSOqDxZ5SDty-4/edit#gid=0)
 - [Songkick](https://www.songkick.com/downloads/growth-framework/sk-growth-framework.pdf): concise, clear and includes examples.
 - [Gitlab Engineering Career Development](https://about.gitlab.com/handbook/engineering/career-development/)
 - [Expert360](http://eng-skills-matrix.expert360.com/): pretty detailed, does not seem to have two tracks
@@ -403,13 +410,35 @@ See my [professional-programming section about code reviews](https://github.com/
   - DH6: refuting the central point
   - Analyzing your own level of disagreement can help with unintentional intellectual dishonesty.
   - When you have something real to say, being mean gets in the way
+- [Apple Pie Position](https://twitter.com/shreyas/status/1628567045800591361), Shreyas Doshi
+  - A statement that instantly elevates the person who is saying it and is simultaneously hard for anyone else to push back on, and so everyone avoids the personal risk and just nods “yes”, even though its actual value in this specific situation might be relatively low, zero, or even negative.
+  - E.g., "We need to define the success metrics for X"
+  - E.g., "We need a better go-to-market motion to improve product adoption"
+
 
 ### Conflict resolution
 
 - 🎞 [Disagree and commit](https://www.youtube.com/watch?v=oZw2cg8AXDw)
 
-### CTO (Chief Technical Officer)
+### CTO (Chief Technical Officer), VPoE and other levels
 
+See also the section about [Organizational structure](#organizational-structure)
+
+- Martin Casado, [Hire a VP of Engineering](https://a16z.com/2017/05/26/hiring-vp-engineering-why-what/) on the Andreessen Horowitz blog
+  - The most important function of a VP of engineering is to build out the engineering team and set a startup’s engineering culture.
+  - Competent engineering management should therefore be able to push the team towards more practical, incremental designs that can garner useful external feedback quickly — without compromising the long-term generality of the system. The VP’s role here is not producing the architecture, but ensuring that incremental release is a real requirement in the design process.
+  - Strong engineering management tends to give their teams enough ownership and latitude that they are happy and fulfilled in driving the product forward.
+- AVC, [VP Engineering Vs CTO](https://avc.com/2011/10/vp-engineering-vs-cto/)
+- Mark Suster, [Want to Know the Difference Between a CTO and a VP Engineering?](https://bothsidesofthetable.com/want-to-know-the-difference-between-a-cto-and-a-vp-engineering-4fc3750c596b#.gw)
+- 🎤 [CTO vs VP Engineering Balancing Innovation](https://www.slideshare.net/bcantrill/cto-vs-vp-of-engineering), Bryan Cantrill, Jason Hoffman
+- Will Larson, [Your first 90 days as CTO or VP Engineering.](https://lethain.com/first-ninety-days-cto-vpe/)
+  - Durable improvements depend on creating systems that create changes, not performing tactical actions that create the ephemeral appearance of improvement.
+  - Figure out if something is really wrong and needs immediate attention.
+  - Shadow customer meetings, partner meetings or user testing.
+  - Find your business analytics and how to query them.
+  - Shadow existing interviews, onboarding and closing calls.
+  - Kickoff engineering brand efforts.
+  - Build a trivial change and deploy it.
 - [The 7 roles of a CTO](https://oded.substack.com/p/the-7-roles-of-a-cto)
   - Executive
   - Representative
@@ -418,6 +447,20 @@ See my [professional-programming section about code reviews](https://github.com/
   - Owns security and IT
   - Salesperson
   - Does whatever it takes
+- [Advice for new directors](https://www.rubick.com/advice-for-new-directors/)
+  - A lot of your job is training managers
+  - Biggest skill to learn: sensing your organization
+  - You’ll need a new perspective
+  - You should focus on systems
+  - Beware the distortions of power
+  - You’re judged by the difference you make on your organization.
+- [Your CTO Should Actually Be Technical](https://blog.southparkcommons.com/your-cto-should-actually-be-technical/)
+  - Exceptional technical ability is the only way for CTOs/VPEs to be true judges of quality.
+  - It allows them to make highly educated tradeoffs
+- [5 Things Founders, Investors and Recruiters Should Know about the CTO role](https://medium.com/cto-as-a-service/5-things-founders-investors-and-recruiters-should-know-about-the-cto-role-a65d7bb66264)
+  - “The CTO’s primary job is to make sure the company’s technology strategy serves its business strategy” — Eric Ries.
+  - As a CTO, you don’t work in the box, because your task is to examine the box and make it better.
+  - The CTO might code, but only on POCs and prototypes.
 
 ### Data organization
 
@@ -579,17 +622,6 @@ Example trainings:
   - Management creates an unavoidable power hierarchy.
   - You need to be technical enough to intervene.
   - Companies ultimately succeed or fail by their coordinated execution, culture and leadership.
-
-### First days on the job
-
-- Will Larson, [Your first 90 days as CTO or VP Engineering.](https://lethain.com/first-ninety-days-cto-vpe/)
-  - Durable improvements depend on creating systems that create changes, not performing tactical actions that create the ephemeral appearance of improvement.
-  - Figure out if something is really wrong and needs immediate attention.
-  - Shadow customer meetings, partner meetings or user testing.
-  - Find your business analytics and how to query them.
-  - Shadow existing interviews, onboarding and closing calls.
-  - Kickoff engineering brand efforts.
-  - Build a trivial change and deploy it.
 
 ### Feedback and performance
 
@@ -936,7 +968,7 @@ Quotes:
 - "The best time to plant a tree was twenty years ago. The second best time is now", Chinese proverb.
 - "A ship in harbor is safe, but that is not what ships are made for.", John A Shedd.
 
-### Onboarding new team members
+### Onboarding new team members or yourself
 
 - [How to quickly (and successfully) onboard engineers](https://about.gitlab.com/blog/2022/07/21/quickly-onboarding-engineers-successfully/), GitLab
 - 🎞 [5 Onboarding Fiascos From the Movies](https://business.linkedin.com/talent-solutions/blog/recruiting-humor-and-fun/2016/the-worst-new-hire-first-days-in-movies-that-you-should-never-let-happen-in-your-company)
@@ -944,18 +976,15 @@ Quotes:
 - [Gitlab's engineering onboarding list](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md)
 - [How To Use Your Unfair Advantage To Create an Unforgettable First Day For New Hires](https://lnbogen.com/2013/04/11/how-to-use-your-unfair-advantage-to-create-an-unforgettable-first-day-for-new-hires/), Oren Ellenbogen
 - [Engineering Onboarding Processes at Medium](https://medium.engineering/engineering-onboarding-processes-at-medium-368095116ac3), Medium
+- [A Career Cold Start Algorithm](https://boz.com/articles/career-cold-start), Andrew Bosworth. How to run your first 1-1s on a new team.
+  - For the first 25 minutes: ask them to tell you everything they think you should know.
+  - For the next 3 minutes: ask about the biggest challenges the team has right now.
+  - In the final 2 minutes: ask who else you should talk to. Write down every name they give you.
 
-### Organization structure
+### Organizational structure
 
 See also [Data organization](#data-organization)
 
-- Martin Casado, [Hire a VP of Engineering](https://a16z.com/2017/05/26/hiring-vp-engineering-why-what/) on the Andreessen Horowitz blog
-  - The most important function of a VP of engineering is to build out the engineering team and set a startup’s engineering culture.
-  - Competent engineering management should therefore be able to push the team towards more practical, incremental designs that can garner useful external feedback quickly — without compromising the long-term generality of the system. The VP’s role here is not producing the architecture, but ensuring that incremental release is a real requirement in the design process.
-  - Strong engineering management tends to give their teams enough ownership and latitude that they are happy and fulfilled in driving the product forward.
-- AVC, [VP Engineering Vs CTO](https://avc.com/2011/10/vp-engineering-vs-cto/)
-- Mark Suster, [Want to Know the Difference Between a CTO and a VP Engineering?](https://bothsidesofthetable.com/want-to-know-the-difference-between-a-cto-and-a-vp-engineering-4fc3750c596b#.gw)
-- 🎤 [CTO vs VP Engineering Balancing Innovation](https://www.slideshare.net/bcantrill/cto-vs-vp-of-engineering), Bryan Cantrill, Jason Hoffman
 - [Spotify’s Failed #SquadGoals](https://www.jeremiahlee.com/posts/failed-squad-goals/)
   - Engineering managers in this model had little responsibility beyond the career development of the people they managed.
   - There was no single person accountable for the engineering team’s delivery or who could negotiate prioritization of work at an equivalent level of responsibility.
@@ -1153,6 +1182,14 @@ In terms of task management software, I can't recommend [Things](https://culture
   - Prefer a small number of tightly focused OKRs to a long list
   - Effective OKR usage takes years
 
+### Platform teams & DevEx (developer experience)
+
+- [How To Get Buy-in for DevEx Initiatives: Strategies From GitHub, Notion, and More](https://getdx.com/resources/devex-executive-buy-in)
+  - Categorize projects into themes that resonate with leadership
+  - Play the long game: avoid having a single-minded agenda
+  - Start by identifying “the thorn” in your leadership’s side
+  - Quantify the business value of projects
+
 ### Presentations, design and public speaking
 
 - 🎞 Garr Reynolds, [Presentation Zen Talk](https://www.youtube.com/watch?v=DZ2vtQCESpk) (Talks at Google)
@@ -1343,6 +1380,7 @@ See my [professional-programming section about problem solving](https://github.c
 - 🎞 [Start with why](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en), TED talk by Simon Sinek.
 - 🎤 [Insist on Focus](https://www.youtube.com/watch?index=9&list=PL__mLVkEYIvwv61O6ohmAv2rE2X8ScP7b&v=fcohHIJr6Ns&ab_channel=Nugget), Keith Rabois
   - The reason why this [forcing people to focus and work on only one important problem] was such a successful strategy is that most people tend to substitute from A+ problems that are very difficult to solve to B+ problems for which they already know a solution to.
+- [Six critical questions every organization must answer](https://www.navigatethejourney.com/blog/2016/08/15/six-critical-questions-every-organization-must-answer) (from Patrick Lencioni's The Advantage)
 
 ### Technical strategy
 
