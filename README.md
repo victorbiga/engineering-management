@@ -356,6 +356,7 @@ Curated examples of job ladder/career development matrix:
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders)
 - [Fog Creek Professional Ladder – Joel on Software](https://www.joelonsoftware.com/2009/02/13/fog-creek-professional-ladder/)
 - [Square](https://developer.squareup.com/blog/squares-growth-framework-for-engineers-and-engineering-managers/) ([competencies](https://assets.ctfassets.net/1wryd5vd9xez/6bDnTwb4H7bfiFvg55ldRR/b1cb8514f0afd0a4050991d35ccbac03/Square_Software_Engineering_Career_Ladder.pdf))
+- [career-ladders](https://career-ladders.dev/engineering/)
 
 List of lists:
 
