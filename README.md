@@ -1324,6 +1324,7 @@ See my [professional-programming section about problem solving](https://github.c
   - Assign projects, not tasks
   - Making bets with a capped downside (the circuit breaker) and honoring them with uninterrupted time
   - Downhill versus uphill work and communicating about unknowns
+- [Project Management for Software Engineers](https://sookocheff.com/post/engineering-management/project-management-for-software-engineers/): a 5-step process to running a project.
 
 > The ultimate inspiration is the deadline.
 > — Nolan Bushnell
