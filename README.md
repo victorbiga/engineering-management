@@ -1217,6 +1217,8 @@ In terms of task management software, I can't recommend [Things](https://culture
   - Don’t present a question without an answer
   - Avoid academic-style presentations
   - Don’t fixate on your preferred outcome
+- [1 Trick to Finish Your Next Talk in Style](https://davidnihill.com/1-trick-to-finish-your-next-talk-in-style/)
+  - “Okay I am going to take a few questions before I make my conclusion.”
 
 Some great examples of presentations:
 
