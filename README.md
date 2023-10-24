@@ -168,6 +168,7 @@ There are some other more specific books quoted below.
 Other books I haven't read:
 
 - [Engineering Management for the Rest of Us](https://www.engmanagement.dev/)
+- [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md)
 
 ### Book reading lists
 
