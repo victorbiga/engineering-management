@@ -953,7 +953,10 @@ Quote:
   - Good managers don’t have just one go-to management style nor do they have a notion of “THE ideal employee”.
   - Good managers can discern good intent from bad.
 
-Warren Buffet, "It's only when the tide goes out that you learn who's been swimming naked."
+> It's only when the tide goes out that you learn who's been swimming naked.
+> – Warren Buffet
+
+> @farbood: Doing the right thing, is direction. Doing things right, is speed.
 
 ### Motivation
 
