@@ -521,6 +521,7 @@ See also the section about [Organizational structure](#organizational-structure)
 
 - [The Counterintuitive Art of Leading by Letting Go](http://99u.com/articles/43081/the-counter-intuitive-art-of-leading-by-letting-go)
 - Against micromanagement: "After you plant a seed in the ground, you don’t dig it up every week to see how it is doing", William Coyne, Head of R&D at 3M.
+- [Your Small Imprecise Ask Is a Big Waste of Their Time](https://staysaasy.com/startups/2023/11/10/imprecise-asks.html)
 
 > The 70/10/80 Principle of delegation: “Find someone who can do what you do at 70% the success rate. Teach them the extra 10% and be okay with 80%.”
 
