@@ -1336,6 +1336,9 @@ See my [professional-programming section about problem solving](https://github.c
 > The ultimate inspiration is the deadline.
 > — Nolan Bushnell
 
+> You must create hilariously aggressive deadlines for yourself, otherwise, you’ll get swept away in unnecessary details that aren’t actually mission-critical. If you’re thinking about color schemes and button widths, your timeline is too long.
+> – Tara Viswanathan
+
 #### Estimating work (project management)
 
 - [Yes, You Should Estimate Software Projects](https://blog.pragmaticengineer.com/yes-you-should-estimate/), Gergely Orosz
