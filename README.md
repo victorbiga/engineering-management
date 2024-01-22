@@ -928,6 +928,7 @@ Quote:
 - [The Document Culture of Amazon](https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/)
   - Documents help eliminate many biases, for or against, the person who wrote the document.
   - There’s no “can you see my screen”, background noise, or call audio disconnects while understanding the main content for the meeting.
+- [Cancel your meetings if you can live with the outcome](https://andygrunwald.com/blog/cancel-your-meetings-if-you-can-live-with-the-outcome/)
 
 ### Mentoring
 
@@ -1150,6 +1151,7 @@ In terms of task management software, I can't recommend [Things](https://culture
   - Pebbles maximize ROI
   - Beware the surprisingly high impact of estimation error on ROI
 - [Key Performance Indicators Infographic](https://news.kpiinstitute.org/key-performance-indicators-infographic/)
+- [Measure what matters. Even if you don’t fully control it](https://www.madsjohnsen.com/p/measure-what-matters-even-if-you-dont-fully-control-it)
 
 > Truth emerges more readily from error than from confusion.
 > Francis Bacon
