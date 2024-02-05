@@ -984,6 +984,7 @@ Quotes:
   - For the first 25 minutes: ask them to tell you everything they think you should know.
   - For the next 3 minutes: ask about the biggest challenges the team has right now.
   - In the final 2 minutes: ask who else you should talk to. Write down every name they give you.
+- [Onboarding](https://martinfowler.com/articles/bottlenecks-of-scaleups/06-onboarding.html), MartinFowler.com
 
 ### Organizational structure
 
