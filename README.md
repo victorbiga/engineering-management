@@ -1253,6 +1253,7 @@ See also the [Prioritization section on my entrepreneurship-resources list](http
   - Helpful: Briefly recap top 3-4 products or projects every week
   - Helpful: Use Now/Next/Never to frame upcoming choices
   - Helpful: Define in advance what kinds of work can be realistically outsourced, and actively recruit external partners
+- [TBM 245: The Magic Prioritization Trick](https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization)
 
 ### Problem solving
 
