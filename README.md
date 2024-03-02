@@ -929,6 +929,7 @@ Quote:
   - Documents help eliminate many biases, for or against, the person who wrote the document.
   - There’s no “can you see my screen”, background noise, or call audio disconnects while understanding the main content for the meeting.
 - [Cancel your meetings if you can live with the outcome](https://andygrunwald.com/blog/cancel-your-meetings-if-you-can-live-with-the-outcome/)
+- ["My new favorite team ritual: A weekly meeting called "Fight Club" where you meet with your leadership team with the intention of having a conflict.](https://twitter.com/lennysan/status/1754554023318106596)
 
 ### Mentoring
 
